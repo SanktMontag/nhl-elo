@@ -33,8 +33,9 @@ Every session after that: `.venv\Scripts\Activate.ps1`, and `nhl` is available (
 ## 2. Updating
 
 ### Automatic (nightly)
-A GitHub Action (`.github/workflows/nightly.yml`) runs `nhl update` every day at 12:00 UTC: 4am Pacific in
-winter, 5am in summer. It commits the new results to `main`, and Streamlit Cloud then redeploys the site.
+A GitHub Action (`.github/workflows/nightly.yml`) runs `nhl update` every day at 11:23 UTC (3:23am Pacific in
+winter, 4:23am in summer), with a backup run at 14:53 UTC (6:53am / 7:53am) because GitHub sometimes skips
+scheduled runs. It commits the new results to `main`, and Streamlit Cloud then redeploys the site.
 Nights with no new games make no commit. To run it immediately, use **Actions → Nightly update → Run
 workflow** on GitHub, or run `gh workflow run nightly.yml`. GitHub emails you if a run fails.
 

@@ -4,9 +4,11 @@ name: Nightly update
 # results. Streamlit Community Cloud redeploys the site when main changes.
 on:
   schedule:
-    # GitHub schedules run in UTC: 12:00 UTC is 4am Pacific in winter (PST), 5am in summer (PDT).
-    # Scheduled runs can start a few minutes late.
-    - cron: "0 12 * * *"
+    # GitHub schedules run in UTC. Under load GitHub delays or silently drops scheduled runs, worst at
+    # the top of the hour, so these use odd minutes, and a second run backs up the first. A run with no
+    # new games commits nothing, so the backup is harmless when the first one worked.
+    - cron: "23 11 * * *"   # 3:23am Pacific in winter (PST), 4:23am in summer (PDT)
+    - cron: "53 14 * * *"   # backup: 6:53am PST, 7:53am PDT
   workflow_dispatch: {}   # "Run workflow" button on the Actions tab
 
 permissions:
