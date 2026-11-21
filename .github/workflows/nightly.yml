@@ -1,0 +1,58 @@
+name: Nightly update
+
+# Pulls the previous night's games, recomputes ratings, re-runs the season simulation and commits the
+# results. Streamlit Community Cloud redeploys the site when main changes.
+on:
+  schedule:
+    # GitHub schedules run in UTC: 12:00 UTC is 4am Pacific in winter (PST), 5am in summer (PDT).
+    # Scheduled runs can start a few minutes late.
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}   # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      # Finished seasons never change, so keep the downloaded API responses between runs.
+      # The current season is still re-downloaded each night (its cache entry expires after an hour).
+      - name: Restore NHL API cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: nhl-api-${{ github.run_id }}
+          restore-keys: nhl-api-
+
+      - name: Install
+        run: pip install -e .
+
+      - name: Fetch, rate and simulate
+        run: nhl update --top 5
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data output
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          through=$(python -c "import json; print(json.load(open('output/v1/run_meta.json'))['last_game'])")
+          git commit -m "Nightly update through ${through}"
+          git push

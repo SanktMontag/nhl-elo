@@ -1,0 +1,677 @@
+season,Season,franchise,Franchise,Team,Rank,Start ELO,End ELO,Peak ELO,GP,W,L,OTL,PTS,PO W,PO L
+20052006,2005-06,12,Detroit Red Wings,Detroit Red Wings,1,1500,1591,1608,82,58,16,8,124,2,4
+20052006,2005-06,30,Ottawa Senators,Ottawa Senators,2,1500,1575,1595,82,52,21,9,113,5,5
+20052006,2005-06,19,Buffalo Sabres,Buffalo Sabres,3,1500,1563,1574,82,52,24,6,110,11,7
+20052006,2005-06,26,Carolina Hurricanes,Carolina Hurricanes,4,1500,1554,1562,82,52,22,8,112,16,9
+20052006,2005-06,32,Anaheim Ducks,Anaheim Ducks,5,1500,1545,1555,82,43,27,12,98,9,7
+20052006,2005-06,15,Dallas Stars,Dallas Stars,6,1500,1541,1555,82,53,23,6,112,1,4
+20052006,2005-06,21,Calgary Flames,Calgary Flames,7,1500,1535,1543,82,46,25,11,103,3,4
+20052006,2005-06,29,San Jose Sharks,San Jose Sharks,8,1500,1535,1552,82,44,27,11,99,6,5
+20052006,2005-06,23,New Jersey Devils,New Jersey Devils,9,1500,1534,1544,82,46,27,9,101,5,4
+20052006,2005-06,25,Edmonton Oilers,Edmonton Oilers,10,1500,1529,1535,82,41,28,13,95,15,9
+20052006,2005-06,34,Nashville Predators,Nashville Predators,11,1500,1521,1538,82,49,25,8,106,1,4
+20052006,2005-06,35,Winnipeg Jets,Atlanta Thrashers,12,1500,1509,1515,82,41,33,8,90,0,0
+20052006,2005-06,27,Colorado Avalanche,Colorado Avalanche,13,1500,1509,1535,82,43,30,9,95,4,5
+20052006,2005-06,1,Montréal Canadiens,Montréal Canadiens,14,1500,1508,1520,82,42,31,9,93,2,4
+20052006,2005-06,37,Minnesota Wild,Minnesota Wild,15,1500,1504,1521,82,38,36,8,84,0,0
+20052006,2005-06,10,New York Rangers,New York Rangers,16,1500,1503,1555,82,44,26,12,100,0,4
+20052006,2005-06,16,Philadelphia Flyers,Philadelphia Flyers,17,1500,1502,1539,82,45,26,11,101,2,4
+20052006,2005-06,5,Toronto Maple Leafs,Toronto Maple Leafs,18,1500,1498,1512,82,41,33,8,90,0,0
+20052006,2005-06,20,Vancouver Canucks,Vancouver Canucks,19,1500,1496,1532,82,42,32,8,92,0,0
+20052006,2005-06,33,Florida Panthers,Florida Panthers,20,1500,1481,1508,82,37,34,11,85,0,0
+20052006,2005-06,31,Tampa Bay Lightning,Tampa Bay Lightning,21,1500,1478,1517,82,43,33,6,92,1,4
+20052006,2005-06,40,Utah Mammoth,Phoenix Coyotes,22,1500,1475,1512,82,38,39,5,81,0,0
+20052006,2005-06,14,Los Angeles Kings,Los Angeles Kings,23,1500,1474,1537,82,42,35,5,89,0,0
+20052006,2005-06,6,Boston Bruins,Boston Bruins,24,1500,1456,1504,82,29,37,16,74,0,0
+20052006,2005-06,36,Columbus Blue Jackets,Columbus Blue Jackets,25,1500,1456,1497,82,35,43,4,74,0,0
+20052006,2005-06,22,New York Islanders,New York Islanders,26,1500,1443,1502,82,36,40,6,78,0,0
+20052006,2005-06,24,Washington Capitals,Washington Capitals,27,1500,1443,1503,82,29,41,12,70,0,0
+20052006,2005-06,17,Pittsburgh Penguins,Pittsburgh Penguins,28,1500,1422,1495,82,22,46,14,58,0,0
+20052006,2005-06,11,Chicago Blackhawks,Chicago Blackhawks,29,1500,1420,1501,82,26,43,13,65,0,0
+20052006,2005-06,18,St. Louis Blues,St. Louis Blues,30,1500,1397,1495,82,21,46,15,57,0,0
+20062007,2006-07,30,Ottawa Senators,Ottawa Senators,1,1550,1602,1616,82,48,25,9,105,13,7
+20062007,2006-07,12,Detroit Red Wings,Detroit Red Wings,2,1561,1595,1603,82,50,19,13,113,10,8
+20062007,2006-07,32,Anaheim Ducks,Anaheim Ducks,3,1530,1589,1589,82,48,20,14,110,16,5
+20062007,2006-07,19,Buffalo Sabres,Buffalo Sabres,4,1542,1576,1585,82,53,22,7,113,9,7
+20062007,2006-07,29,San Jose Sharks,San Jose Sharks,5,1524,1572,1582,82,51,26,5,107,6,5
+20062007,2006-07,34,Nashville Predators,Nashville Predators,6,1514,1553,1570,82,51,23,8,110,1,4
+20062007,2006-07,15,Dallas Stars,Dallas Stars,7,1528,1544,1555,82,50,25,7,107,3,4
+20062007,2006-07,37,Minnesota Wild,Minnesota Wild,8,1503,1543,1551,82,48,26,8,104,1,4
+20062007,2006-07,21,Calgary Flames,Calgary Flames,9,1523,1534,1557,82,43,29,10,96,2,4
+20062007,2006-07,27,Colorado Avalanche,Colorado Avalanche,10,1506,1533,1533,82,44,31,7,95,0,0
+20062007,2006-07,20,Vancouver Canucks,Vancouver Canucks,11,1497,1531,1544,82,49,26,7,105,5,7
+20062007,2006-07,23,New Jersey Devils,New Jersey Devils,12,1523,1528,1548,82,49,24,9,107,5,6
+20062007,2006-07,10,New York Rangers,New York Rangers,13,1502,1528,1533,82,42,30,10,94,6,4
+20062007,2006-07,17,Pittsburgh Penguins,Pittsburgh Penguins,14,1448,1504,1513,82,47,24,11,105,1,4
+20062007,2006-07,26,Carolina Hurricanes,Carolina Hurricanes,15,1536,1494,1540,82,40,34,8,88,0,0
+20062007,2006-07,1,Montréal Canadiens,Montréal Canadiens,16,1505,1494,1535,82,42,34,6,90,0,0
+20062007,2006-07,33,Florida Panthers,Florida Panthers,17,1487,1493,1494,82,35,31,16,86,0,0
+20062007,2006-07,5,Toronto Maple Leafs,Toronto Maple Leafs,18,1499,1493,1514,82,40,31,11,91,0,0
+20062007,2006-07,35,Winnipeg Jets,Atlanta Thrashers,19,1506,1484,1531,82,43,28,11,97,0,4
+20062007,2006-07,31,Tampa Bay Lightning,Tampa Bay Lightning,20,1485,1481,1506,82,44,33,5,93,2,4
+20062007,2006-07,22,New York Islanders,New York Islanders,21,1462,1480,1493,82,40,30,12,92,1,4
+20062007,2006-07,36,Columbus Blue Jackets,Columbus Blue Jackets,22,1471,1438,1478,82,33,42,7,73,0,0
+20062007,2006-07,18,St. Louis Blues,St. Louis Blues,23,1431,1438,1446,82,34,35,13,81,0,0
+20062007,2006-07,25,Edmonton Oilers,Edmonton Oilers,24,1520,1437,1534,82,32,43,7,71,0,0
+20062007,2006-07,14,Los Angeles Kings,Los Angeles Kings,25,1483,1434,1488,82,27,41,14,68,0,0
+20062007,2006-07,6,Boston Bruins,Boston Bruins,26,1470,1428,1479,82,35,41,6,76,0,0
+20062007,2006-07,40,Utah Mammoth,Phoenix Coyotes,27,1484,1428,1488,82,31,46,5,67,0,0
+20062007,2006-07,24,Washington Capitals,Washington Capitals,28,1462,1421,1479,82,28,40,14,70,0,0
+20062007,2006-07,11,Chicago Blackhawks,Chicago Blackhawks,29,1447,1417,1457,82,31,42,9,71,0,0
+20062007,2006-07,16,Philadelphia Flyers,Philadelphia Flyers,30,1501,1409,1498,82,22,48,12,56,0,0
+20072008,2007-08,12,Detroit Red Wings,Detroit Red Wings,1,1563,1631,1632,82,54,21,7,115,16,6
+20072008,2007-08,29,San Jose Sharks,San Jose Sharks,2,1548,1562,1576,82,49,23,10,108,6,7
+20072008,2007-08,17,Pittsburgh Penguins,Pittsburgh Penguins,3,1503,1560,1568,82,47,27,8,102,14,6
+20072008,2007-08,15,Dallas Stars,Dallas Stars,4,1529,1555,1566,82,45,30,7,97,10,8
+20072008,2007-08,32,Anaheim Ducks,Anaheim Ducks,5,1559,1549,1560,82,47,27,8,102,2,4
+20072008,2007-08,10,New York Rangers,New York Rangers,6,1519,1529,1535,82,42,27,13,97,5,5
+20072008,2007-08,1,Montréal Canadiens,Montréal Canadiens,7,1496,1528,1549,82,47,25,10,104,5,7
+20072008,2007-08,19,Buffalo Sabres,Buffalo Sabres,8,1551,1520,1552,82,39,31,12,90,0,0
+20072008,2007-08,21,Calgary Flames,Calgary Flames,9,1523,1519,1528,82,42,30,10,94,3,4
+20072008,2007-08,27,Colorado Avalanche,Colorado Avalanche,10,1522,1519,1534,82,44,31,7,95,4,6
+20072008,2007-08,37,Minnesota Wild,Minnesota Wild,11,1529,1517,1546,82,44,28,10,98,2,4
+20072008,2007-08,34,Nashville Predators,Nashville Predators,12,1535,1514,1545,82,41,32,9,91,2,4
+20072008,2007-08,30,Ottawa Senators,Ottawa Senators,13,1569,1508,1597,82,43,31,8,94,0,4
+20072008,2007-08,26,Carolina Hurricanes,Carolina Hurricanes,14,1496,1500,1521,82,43,33,6,92,0,0
+20072008,2007-08,23,New Jersey Devils,New Jersey Devils,15,1519,1500,1538,82,46,29,7,99,1,4
+20072008,2007-08,20,Vancouver Canucks,Vancouver Canucks,16,1521,1498,1540,82,39,33,10,88,0,0
+20072008,2007-08,24,Washington Capitals,Washington Capitals,17,1447,1497,1502,82,43,31,8,94,3,4
+20072008,2007-08,16,Philadelphia Flyers,Philadelphia Flyers,18,1439,1495,1505,82,42,29,11,95,9,8
+20072008,2007-08,11,Chicago Blackhawks,Chicago Blackhawks,19,1445,1483,1486,82,40,34,8,88,0,0
+20072008,2007-08,33,Florida Panthers,Florida Panthers,20,1495,1480,1494,82,38,35,9,85,0,0
+20072008,2007-08,6,Boston Bruins,Boston Bruins,21,1451,1479,1492,82,41,29,12,94,3,4
+20072008,2007-08,5,Toronto Maple Leafs,Toronto Maple Leafs,22,1495,1473,1502,82,36,35,11,83,0,0
+20072008,2007-08,25,Edmonton Oilers,Edmonton Oilers,23,1458,1471,1471,82,41,35,6,88,0,0
+20072008,2007-08,40,Utah Mammoth,Phoenix Coyotes,24,1452,1462,1490,82,38,37,7,83,0,0
+20072008,2007-08,36,Columbus Blue Jackets,Columbus Blue Jackets,25,1458,1450,1487,82,34,36,12,80,0,0
+20072008,2007-08,18,St. Louis Blues,St. Louis Blues,26,1459,1448,1488,82,33,36,13,79,0,0
+20072008,2007-08,14,Los Angeles Kings,Los Angeles Kings,27,1456,1445,1464,82,32,43,7,71,0,0
+20072008,2007-08,22,New York Islanders,New York Islanders,28,1487,1439,1499,82,35,38,9,79,0,0
+20072008,2007-08,31,Tampa Bay Lightning,Tampa Bay Lightning,29,1487,1435,1498,82,31,42,9,71,0,0
+20072008,2007-08,35,Winnipeg Jets,Atlanta Thrashers,30,1490,1434,1486,82,34,40,8,76,0,0
+20082009,2008-09,12,Detroit Red Wings,Detroit Red Wings,1,1588,1610,1621,82,51,21,10,112,15,8
+20082009,2008-09,6,Boston Bruins,Boston Bruins,2,1486,1575,1583,82,53,19,10,116,7,4
+20082009,2008-09,17,Pittsburgh Penguins,Pittsburgh Penguins,3,1540,1572,1572,82,45,28,9,99,16,8
+20082009,2008-09,29,San Jose Sharks,San Jose Sharks,4,1542,1555,1603,82,53,18,11,117,2,4
+20082009,2008-09,11,Chicago Blackhawks,Chicago Blackhawks,5,1489,1542,1553,82,46,24,12,104,9,8
+20082009,2008-09,20,Vancouver Canucks,Vancouver Canucks,6,1499,1535,1546,82,45,27,10,100,6,4
+20082009,2008-09,32,Anaheim Ducks,Anaheim Ducks,7,1533,1533,1541,82,42,33,7,91,7,6
+20082009,2008-09,24,Washington Capitals,Washington Capitals,8,1498,1532,1544,82,50,24,8,108,7,7
+20082009,2008-09,23,New Jersey Devils,New Jersey Devils,9,1500,1524,1553,82,51,27,4,106,3,4
+20082009,2008-09,37,Minnesota Wild,Minnesota Wild,10,1511,1518,1529,82,40,33,9,89,0,0
+20082009,2008-09,16,Philadelphia Flyers,Philadelphia Flyers,11,1496,1517,1528,82,44,27,11,99,2,4
+20082009,2008-09,21,Calgary Flames,Calgary Flames,12,1513,1516,1553,82,46,30,6,98,2,4
+20082009,2008-09,26,Carolina Hurricanes,Carolina Hurricanes,13,1500,1511,1534,82,45,30,7,97,8,10
+20082009,2008-09,19,Buffalo Sabres,Buffalo Sabres,14,1513,1507,1530,82,41,32,9,91,0,0
+20082009,2008-09,33,Florida Panthers,Florida Panthers,15,1487,1505,1505,82,41,30,11,93,0,0
+20082009,2008-09,10,New York Rangers,New York Rangers,16,1520,1496,1537,82,43,30,9,95,3,4
+20082009,2008-09,18,St. Louis Blues,St. Louis Blues,17,1465,1493,1504,82,41,31,10,92,0,4
+20082009,2008-09,34,Nashville Predators,Nashville Predators,18,1509,1490,1509,82,40,34,8,88,0,0
+20082009,2008-09,1,Montréal Canadiens,Montréal Canadiens,19,1519,1485,1542,82,41,30,11,93,0,4
+20082009,2008-09,15,Dallas Stars,Dallas Stars,20,1537,1484,1534,82,36,35,11,83,0,0
+20082009,2008-09,30,Ottawa Senators,Ottawa Senators,21,1505,1484,1510,82,36,35,11,83,0,0
+20082009,2008-09,25,Edmonton Oilers,Edmonton Oilers,22,1481,1480,1494,82,38,35,9,85,0,0
+20082009,2008-09,36,Columbus Blue Jackets,Columbus Blue Jackets,23,1466,1475,1502,82,41,31,10,92,0,4
+20082009,2008-09,35,Winnipeg Jets,Atlanta Thrashers,24,1456,1458,1462,82,35,41,6,76,0,0
+20082009,2008-09,14,Los Angeles Kings,Los Angeles Kings,25,1463,1456,1480,82,34,37,11,79,0,0
+20082009,2008-09,40,Utah Mammoth,Phoenix Coyotes,26,1474,1456,1487,82,36,39,7,79,0,0
+20082009,2008-09,5,Toronto Maple Leafs,Toronto Maple Leafs,27,1482,1453,1486,82,34,35,13,81,0,0
+20082009,2008-09,27,Colorado Avalanche,Colorado Avalanche,28,1513,1429,1520,82,32,45,5,69,0,0
+20082009,2008-09,22,New York Islanders,New York Islanders,29,1459,1403,1462,82,26,47,9,61,0,0
+20082009,2008-09,31,Tampa Bay Lightning,Tampa Bay Lightning,30,1457,1402,1457,82,24,40,18,66,0,0
+20092010,2009-10,11,Chicago Blackhawks,Chicago Blackhawks,1,1528,1597,1598,82,52,22,8,112,16,6
+20092010,2009-10,24,Washington Capitals,Washington Capitals,2,1522,1584,1599,82,54,15,13,121,3,4
+20092010,2009-10,29,San Jose Sharks,San Jose Sharks,3,1537,1567,1591,82,51,20,11,113,8,7
+20092010,2009-10,12,Detroit Red Wings,Detroit Red Wings,4,1574,1561,1574,82,44,24,14,102,5,7
+20092010,2009-10,20,Vancouver Canucks,Vancouver Canucks,5,1524,1559,1573,82,49,28,5,103,6,6
+20092010,2009-10,17,Pittsburgh Penguins,Pittsburgh Penguins,6,1548,1530,1566,82,47,28,7,101,7,6
+20092010,2009-10,16,Philadelphia Flyers,Philadelphia Flyers,7,1511,1529,1534,82,41,35,6,88,14,9
+20092010,2009-10,23,New Jersey Devils,New Jersey Devils,8,1516,1521,1564,82,48,27,7,103,1,4
+20092010,2009-10,19,Buffalo Sabres,Buffalo Sabres,9,1505,1519,1540,82,45,27,10,100,2,4
+20092010,2009-10,6,Boston Bruins,Boston Bruins,10,1551,1515,1549,82,39,30,13,91,7,6
+20092010,2009-10,40,Utah Mammoth,Phoenix Coyotes,11,1471,1513,1523,82,50,25,7,107,3,4
+20092010,2009-10,34,Nashville Predators,Nashville Predators,12,1494,1511,1520,82,47,29,6,100,2,4
+20092010,2009-10,32,Anaheim Ducks,Anaheim Ducks,13,1522,1508,1524,82,39,32,11,89,0,0
+20092010,2009-10,14,Los Angeles Kings,Los Angeles Kings,14,1471,1505,1527,82,46,27,9,101,2,4
+20092010,2009-10,18,St. Louis Blues,St. Louis Blues,15,1495,1505,1506,82,40,32,10,90,0,0
+20092010,2009-10,21,Calgary Flames,Calgary Flames,16,1511,1502,1538,82,40,32,10,90,0,0
+20092010,2009-10,10,New York Rangers,New York Rangers,17,1497,1499,1524,82,38,33,11,87,0,0
+20092010,2009-10,1,Montréal Canadiens,Montréal Canadiens,18,1490,1487,1500,82,39,33,10,88,9,10
+20092010,2009-10,26,Carolina Hurricanes,Carolina Hurricanes,19,1507,1485,1505,82,35,37,10,80,0,0
+20092010,2009-10,15,Dallas Stars,Dallas Stars,20,1489,1483,1499,82,37,31,14,88,0,0
+20092010,2009-10,30,Ottawa Senators,Ottawa Senators,21,1489,1482,1512,82,44,32,6,94,2,4
+20092010,2009-10,27,Colorado Avalanche,Colorado Avalanche,22,1452,1481,1513,82,43,30,9,95,2,4
+20092010,2009-10,37,Minnesota Wild,Minnesota Wild,23,1512,1478,1510,82,38,36,8,84,0,0
+20092010,2009-10,36,Columbus Blue Jackets,Columbus Blue Jackets,24,1483,1460,1498,82,32,35,15,79,0,0
+20092010,2009-10,35,Winnipeg Jets,Atlanta Thrashers,25,1472,1455,1498,82,35,34,13,83,0,0
+20092010,2009-10,33,Florida Panthers,Florida Panthers,26,1503,1455,1505,82,32,37,13,77,0,0
+20092010,2009-10,5,Toronto Maple Leafs,Toronto Maple Leafs,27,1469,1434,1467,82,30,38,14,74,0,0
+20092010,2009-10,22,New York Islanders,New York Islanders,28,1435,1430,1445,82,34,37,11,79,0,0
+20092010,2009-10,31,Tampa Bay Lightning,Tampa Bay Lightning,29,1434,1430,1456,82,34,36,12,80,0,0
+20092010,2009-10,25,Edmonton Oilers,Edmonton Oilers,30,1487,1414,1502,82,27,47,8,62,0,0
+20102011,2010-11,20,Vancouver Canucks,Vancouver Canucks,1,1539,1585,1607,82,54,19,9,117,15,10
+20102011,2010-11,6,Boston Bruins,Boston Bruins,2,1510,1577,1577,82,46,25,11,103,16,9
+20102011,2010-11,11,Chicago Blackhawks,Chicago Blackhawks,3,1565,1565,1574,82,44,29,9,97,3,4
+20102011,2010-11,29,San Jose Sharks,San Jose Sharks,4,1545,1556,1576,82,48,25,9,105,9,9
+20102011,2010-11,12,Detroit Red Wings,Detroit Red Wings,5,1541,1552,1567,82,47,25,10,104,7,4
+20102011,2010-11,24,Washington Capitals,Washington Capitals,6,1556,1547,1573,82,48,23,11,107,4,5
+20102011,2010-11,34,Nashville Predators,Nashville Predators,7,1507,1536,1543,82,44,27,11,99,6,6
+20102011,2010-11,16,Philadelphia Flyers,Philadelphia Flyers,8,1519,1526,1571,82,47,23,12,106,4,7
+20102011,2010-11,14,Los Angeles Kings,Los Angeles Kings,9,1504,1525,1538,82,46,30,6,98,2,4
+20102011,2010-11,31,Tampa Bay Lightning,Tampa Bay Lightning,10,1453,1524,1529,82,46,25,11,103,11,7
+20102011,2010-11,32,Anaheim Ducks,Anaheim Ducks,11,1505,1521,1526,82,47,30,5,99,2,4
+20102011,2010-11,17,Pittsburgh Penguins,Pittsburgh Penguins,12,1520,1521,1561,82,49,25,8,106,3,4
+20102011,2010-11,19,Buffalo Sabres,Buffalo Sabres,13,1513,1516,1524,82,43,29,10,96,3,4
+20102011,2010-11,21,Calgary Flames,Calgary Flames,14,1501,1514,1523,82,41,29,12,94,0,0
+20102011,2010-11,10,New York Rangers,New York Rangers,15,1499,1512,1523,82,44,33,5,93,1,4
+20102011,2010-11,40,Utah Mammoth,Phoenix Coyotes,16,1509,1510,1534,82,43,26,13,99,0,4
+20102011,2010-11,1,Montréal Canadiens,Montréal Canadiens,17,1492,1506,1521,82,44,30,8,96,3,4
+20102011,2010-11,18,St. Louis Blues,St. Louis Blues,18,1503,1506,1527,82,38,33,11,87,0,0
+20102011,2010-11,15,Dallas Stars,Dallas Stars,19,1488,1498,1524,82,42,29,11,95,0,0
+20102011,2010-11,26,Carolina Hurricanes,Carolina Hurricanes,20,1490,1491,1497,82,40,31,11,91,0,0
+20102011,2010-11,23,New Jersey Devils,New Jersey Devils,21,1514,1487,1512,82,38,39,5,81,0,0
+20102011,2010-11,37,Minnesota Wild,Minnesota Wild,22,1485,1468,1506,82,39,35,8,86,0,0
+20102011,2010-11,5,Toronto Maple Leafs,Toronto Maple Leafs,23,1456,1460,1470,82,37,34,11,85,0,0
+20102011,2010-11,30,Ottawa Senators,Ottawa Senators,24,1488,1446,1492,82,32,40,10,74,0,0
+20102011,2010-11,36,Columbus Blue Jackets,Columbus Blue Jackets,25,1473,1442,1500,82,34,35,13,81,0,0
+20102011,2010-11,22,New York Islanders,New York Islanders,26,1453,1441,1462,82,30,39,13,73,0,0
+20102011,2010-11,35,Winnipeg Jets,Atlanta Thrashers,27,1470,1427,1496,82,34,36,12,80,0,0
+20102011,2010-11,33,Florida Panthers,Florida Panthers,28,1470,1424,1483,82,30,40,12,72,0,0
+20102011,2010-11,27,Colorado Avalanche,Colorado Avalanche,29,1487,1408,1515,82,30,44,8,68,0,0
+20102011,2010-11,25,Edmonton Oilers,Edmonton Oilers,30,1442,1406,1451,82,25,45,12,62,0,0
+20112012,2011-12,14,Los Angeles Kings,Los Angeles Kings,1,1517,1570,1573,82,40,27,15,95,16,4
+20112012,2011-12,20,Vancouver Canucks,Vancouver Canucks,2,1557,1562,1586,82,51,22,9,111,1,4
+20112012,2011-12,17,Pittsburgh Penguins,Pittsburgh Penguins,3,1514,1561,1572,82,51,25,6,108,2,4
+20112012,2011-12,6,Boston Bruins,Boston Bruins,4,1552,1553,1599,82,49,29,4,102,3,4
+20112012,2011-12,34,Nashville Predators,Nashville Predators,5,1524,1553,1562,82,48,26,8,104,5,5
+20112012,2011-12,18,St. Louis Blues,St. Louis Blues,6,1504,1551,1572,82,49,22,11,109,4,5
+20112012,2011-12,10,New York Rangers,New York Rangers,7,1508,1537,1567,82,51,24,7,109,10,10
+20112012,2011-12,23,New Jersey Devils,New Jersey Devils,8,1491,1535,1540,82,48,28,6,102,14,10
+20112012,2011-12,12,Detroit Red Wings,Detroit Red Wings,9,1535,1532,1578,82,48,28,6,102,1,4
+20112012,2011-12,16,Philadelphia Flyers,Philadelphia Flyers,10,1517,1532,1551,82,47,26,9,103,5,6
+20112012,2011-12,40,Utah Mammoth,Phoenix Coyotes,11,1507,1530,1539,82,42,27,13,97,9,7
+20112012,2011-12,11,Chicago Blackhawks,Chicago Blackhawks,12,1543,1527,1557,82,45,26,11,101,2,4
+20112012,2011-12,29,San Jose Sharks,San Jose Sharks,13,1538,1513,1557,82,43,29,10,96,1,4
+20112012,2011-12,24,Washington Capitals,Washington Capitals,14,1531,1512,1552,82,42,32,8,92,7,7
+20112012,2011-12,19,Buffalo Sabres,Buffalo Sabres,15,1511,1497,1528,82,39,32,11,89,0,0
+20112012,2011-12,30,Ottawa Senators,Ottawa Senators,16,1464,1494,1507,82,41,31,10,92,3,4
+20112012,2011-12,21,Calgary Flames,Calgary Flames,17,1509,1492,1507,82,37,29,16,90,0,0
+20112012,2011-12,15,Dallas Stars,Dallas Stars,18,1499,1485,1522,82,42,35,5,89,0,0
+20112012,2011-12,32,Anaheim Ducks,Anaheim Ducks,19,1514,1483,1520,82,34,36,12,80,0,0
+20112012,2011-12,26,Carolina Hurricanes,Carolina Hurricanes,20,1494,1475,1497,82,33,33,16,82,0,0
+20112012,2011-12,1,Montréal Canadiens,Montréal Canadiens,21,1504,1471,1506,82,31,35,16,78,0,0
+20112012,2011-12,33,Florida Panthers,Florida Panthers,22,1449,1469,1485,82,38,26,18,94,3,4
+20112012,2011-12,31,Tampa Bay Lightning,Tampa Bay Lightning,23,1516,1465,1522,82,38,36,8,84,0,0
+20112012,2011-12,27,Colorado Avalanche,Colorado Avalanche,24,1438,1459,1474,82,41,35,6,88,0,0
+20112012,2011-12,35,Winnipeg Jets,Winnipeg Jets,25,1451,1453,1472,82,37,35,10,84,0,0
+20112012,2011-12,5,Toronto Maple Leafs,Toronto Maple Leafs,26,1473,1442,1497,82,35,37,10,80,0,0
+20112012,2011-12,36,Columbus Blue Jackets,Columbus Blue Jackets,27,1461,1440,1459,82,29,46,7,65,0,0
+20112012,2011-12,22,New York Islanders,New York Islanders,28,1461,1440,1469,82,34,37,11,79,0,0
+20112012,2011-12,25,Edmonton Oilers,Edmonton Oilers,29,1437,1433,1465,82,32,40,10,74,0,0
+20112012,2011-12,37,Minnesota Wild,Minnesota Wild,30,1479,1433,1512,82,35,36,11,81,0,0
+20122013,2012-13,11,Chicago Blackhawks,Chicago Blackhawks,1,1518,1595,1595,48,36,7,5,77,16,7
+20122013,2012-13,17,Pittsburgh Penguins,Pittsburgh Penguins,2,1541,1581,1599,48,36,12,0,72,8,7
+20122013,2012-13,6,Boston Bruins,Boston Bruins,3,1536,1568,1576,48,28,14,6,62,14,8
+20122013,2012-13,14,Los Angeles Kings,Los Angeles Kings,4,1547,1555,1562,48,27,16,5,59,9,9
+20122013,2012-13,18,St. Louis Blues,St. Louis Blues,5,1534,1536,1551,48,29,17,2,60,2,4
+20122013,2012-13,12,Detroit Red Wings,Detroit Red Wings,6,1522,1530,1538,48,24,16,8,56,7,7
+20122013,2012-13,10,New York Rangers,New York Rangers,7,1525,1529,1539,48,26,18,4,56,5,7
+20122013,2012-13,32,Anaheim Ducks,Anaheim Ducks,8,1488,1528,1542,48,30,12,6,66,3,4
+20122013,2012-13,29,San Jose Sharks,San Jose Sharks,9,1509,1522,1533,48,25,16,7,57,7,4
+20122013,2012-13,20,Vancouver Canucks,Vancouver Canucks,10,1542,1522,1550,48,26,15,7,59,0,4
+20122013,2012-13,24,Washington Capitals,Washington Capitals,11,1508,1516,1529,48,27,18,3,57,3,4
+20122013,2012-13,30,Ottawa Senators,Ottawa Senators,12,1496,1508,1520,48,25,17,6,56,5,5
+20122013,2012-13,1,Montréal Canadiens,Montréal Canadiens,13,1480,1506,1534,48,29,14,5,63,1,4
+20122013,2012-13,40,Utah Mammoth,Phoenix Coyotes,14,1520,1505,1517,48,21,18,9,51,0,0
+20122013,2012-13,16,Philadelphia Flyers,Philadelphia Flyers,15,1522,1503,1518,48,23,22,3,49,0,0
+20122013,2012-13,5,Toronto Maple Leafs,Toronto Maple Leafs,16,1461,1494,1503,48,26,17,5,57,3,4
+20122013,2012-13,23,New Jersey Devils,New Jersey Devils,17,1523,1491,1541,48,19,19,10,48,0,0
+20122013,2012-13,22,New York Islanders,New York Islanders,18,1459,1485,1491,48,24,17,7,55,2,4
+20122013,2012-13,15,Dallas Stars,Dallas Stars,19,1490,1484,1499,48,22,22,4,48,0,0
+20122013,2012-13,36,Columbus Blue Jackets,Columbus Blue Jackets,20,1459,1482,1482,48,24,17,7,55,0,0
+20122013,2012-13,19,Buffalo Sabres,Buffalo Sabres,21,1498,1477,1506,48,21,21,6,48,0,0
+20122013,2012-13,34,Nashville Predators,Nashville Predators,22,1536,1473,1539,48,16,23,9,41,0,0
+20122013,2012-13,35,Winnipeg Jets,Winnipeg Jets,23,1468,1466,1475,48,24,21,3,51,0,0
+20122013,2012-13,21,Calgary Flames,Calgary Flames,24,1494,1464,1489,48,19,25,4,42,0,0
+20122013,2012-13,31,Tampa Bay Lightning,Tampa Bay Lightning,25,1477,1462,1503,48,18,26,4,40,0,0
+20122013,2012-13,37,Minnesota Wild,Minnesota Wild,26,1455,1461,1490,48,26,19,3,55,1,4
+20122013,2012-13,25,Edmonton Oilers,Edmonton Oilers,27,1455,1457,1473,48,19,22,7,45,0,0
+20122013,2012-13,26,Carolina Hurricanes,Carolina Hurricanes,28,1483,1446,1504,48,19,25,4,42,0,0
+20122013,2012-13,27,Colorado Avalanche,Colorado Avalanche,29,1473,1433,1478,48,16,25,7,39,0,0
+20122013,2012-13,33,Florida Panthers,Florida Panthers,30,1480,1422,1485,48,15,27,6,36,0,0
+20132014,2013-14,6,Boston Bruins,Boston Bruins,1,1546,1601,1615,82,54,19,9,117,7,5
+20132014,2013-14,14,Los Angeles Kings,Los Angeles Kings,2,1537,1576,1578,82,46,28,8,100,16,10
+20132014,2013-14,11,Chicago Blackhawks,Chicago Blackhawks,3,1563,1568,1596,82,46,21,15,107,11,8
+20132014,2013-14,32,Anaheim Ducks,Anaheim Ducks,4,1519,1567,1589,82,54,20,8,116,7,6
+20132014,2013-14,17,Pittsburgh Penguins,Pittsburgh Penguins,5,1554,1564,1589,82,51,24,7,109,7,6
+20132014,2013-14,10,New York Rangers,New York Rangers,6,1519,1550,1559,82,45,31,6,96,13,12
+20132014,2013-14,29,San Jose Sharks,San Jose Sharks,7,1515,1541,1564,82,51,22,9,111,3,4
+20132014,2013-14,18,St. Louis Blues,St. Louis Blues,8,1524,1540,1585,82,52,23,7,111,2,4
+20132014,2013-14,1,Montréal Canadiens,Montréal Canadiens,9,1504,1536,1543,82,46,28,8,100,10,7
+20132014,2013-14,27,Colorado Avalanche,Colorado Avalanche,10,1455,1516,1528,82,52,22,8,112,3,4
+20132014,2013-14,16,Philadelphia Flyers,Philadelphia Flyers,11,1502,1515,1527,82,42,30,10,94,3,4
+20132014,2013-14,36,Columbus Blue Jackets,Columbus Blue Jackets,12,1488,1510,1518,82,43,32,7,93,2,4
+20132014,2013-14,15,Dallas Stars,Dallas Stars,13,1489,1509,1515,82,40,31,11,91,2,4
+20132014,2013-14,37,Minnesota Wild,Minnesota Wild,14,1474,1505,1508,82,43,27,12,98,6,7
+20132014,2013-14,24,Washington Capitals,Washington Capitals,15,1511,1498,1514,82,38,30,14,90,0,0
+20132014,2013-14,12,Detroit Red Wings,Detroit Red Wings,16,1520,1497,1529,82,39,28,15,93,1,4
+20132014,2013-14,31,Tampa Bay Lightning,Tampa Bay Lightning,17,1474,1494,1514,82,46,27,9,101,0,4
+20132014,2013-14,34,Nashville Predators,Nashville Predators,18,1482,1488,1488,82,38,32,12,88,0,0
+20132014,2013-14,23,New Jersey Devils,New Jersey Devils,19,1494,1484,1496,82,35,29,18,88,0,0
+20132014,2013-14,40,Utah Mammoth,Phoenix Coyotes,20,1503,1483,1523,82,37,30,15,89,0,0
+20132014,2013-14,30,Ottawa Senators,Ottawa Senators,21,1505,1478,1508,82,37,31,14,88,0,0
+20132014,2013-14,35,Winnipeg Jets,Winnipeg Jets,22,1477,1472,1484,82,37,35,10,84,0,0
+20132014,2013-14,20,Vancouver Canucks,Vancouver Canucks,23,1515,1468,1532,82,36,35,11,83,0,0
+20132014,2013-14,26,Carolina Hurricanes,Carolina Hurricanes,24,1464,1465,1474,82,36,35,11,83,0,0
+20132014,2013-14,5,Toronto Maple Leafs,Toronto Maple Leafs,25,1496,1463,1519,82,38,36,8,84,0,0
+20132014,2013-14,21,Calgary Flames,Calgary Flames,26,1476,1455,1483,82,35,40,7,77,0,0
+20132014,2013-14,22,New York Islanders,New York Islanders,27,1490,1452,1496,82,34,37,11,79,0,0
+20132014,2013-14,25,Edmonton Oilers,Edmonton Oilers,28,1471,1424,1468,82,29,44,9,67,0,0
+20132014,2013-14,33,Florida Panthers,Florida Panthers,29,1448,1401,1453,82,29,45,8,66,0,0
+20132014,2013-14,19,Buffalo Sabres,Buffalo Sabres,30,1485,1381,1482,82,21,51,10,52,0,0
+20142015,2014-15,10,New York Rangers,New York Rangers,1,1533,1581,1587,82,53,22,7,113,11,8
+20142015,2014-15,11,Chicago Blackhawks,Chicago Blackhawks,2,1546,1567,1581,82,48,28,6,102,16,7
+20142015,2014-15,32,Anaheim Ducks,Anaheim Ducks,3,1545,1558,1568,82,51,24,7,109,11,5
+20142015,2014-15,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1496,1553,1562,82,50,24,8,108,14,12
+20142015,2014-15,18,St. Louis Blues,St. Louis Blues,5,1527,1548,1567,82,51,24,7,109,2,4
+20142015,2014-15,1,Montréal Canadiens,Montréal Canadiens,6,1524,1542,1565,82,50,22,10,110,6,6
+20142015,2014-15,24,Washington Capitals,Washington Capitals,7,1498,1541,1546,82,45,26,11,101,7,7
+20142015,2014-15,14,Los Angeles Kings,Los Angeles Kings,8,1551,1539,1560,82,40,27,15,95,0,0
+20142015,2014-15,37,Minnesota Wild,Minnesota Wild,9,1503,1538,1552,82,46,28,8,100,4,6
+20142015,2014-15,6,Boston Bruins,Boston Bruins,10,1567,1533,1570,82,41,27,14,96,0,0
+20142015,2014-15,30,Ottawa Senators,Ottawa Senators,11,1485,1522,1526,82,43,26,13,99,2,4
+20142015,2014-15,15,Dallas Stars,Dallas Stars,12,1506,1516,1516,82,41,31,10,92,0,0
+20142015,2014-15,34,Nashville Predators,Nashville Predators,13,1492,1514,1553,82,47,25,10,104,2,4
+20142015,2014-15,12,Detroit Red Wings,Detroit Red Wings,14,1498,1512,1535,82,43,25,14,100,3,4
+20142015,2014-15,17,Pittsburgh Penguins,Pittsburgh Penguins,15,1543,1508,1574,82,43,27,12,98,1,4
+20142015,2014-15,22,New York Islanders,New York Islanders,16,1468,1507,1525,82,47,28,7,101,3,4
+20142015,2014-15,20,Vancouver Canucks,Vancouver Canucks,17,1478,1507,1516,82,48,29,5,101,2,4
+20142015,2014-15,21,Calgary Flames,Calgary Flames,18,1470,1506,1518,82,45,30,7,97,5,6
+20142015,2014-15,35,Winnipeg Jets,Winnipeg Jets,19,1481,1506,1519,82,43,26,13,99,0,4
+20142015,2014-15,29,San Jose Sharks,San Jose Sharks,20,1528,1505,1542,82,40,33,9,89,0,0
+20142015,2014-15,27,Colorado Avalanche,Colorado Avalanche,21,1511,1503,1506,82,39,31,12,90,0,0
+20142015,2014-15,36,Columbus Blue Jackets,Columbus Blue Jackets,22,1507,1500,1515,82,42,35,5,89,0,0
+20142015,2014-15,16,Philadelphia Flyers,Philadelphia Flyers,23,1510,1481,1512,82,33,31,18,84,0,0
+20142015,2014-15,33,Florida Panthers,Florida Panthers,24,1434,1462,1464,82,38,29,15,91,0,0
+20142015,2014-15,23,New Jersey Devils,New Jersey Devils,25,1489,1460,1502,82,32,36,14,78,0,0
+20142015,2014-15,26,Carolina Hurricanes,Carolina Hurricanes,26,1476,1446,1472,82,30,41,11,71,0,0
+20142015,2014-15,5,Toronto Maple Leafs,Toronto Maple Leafs,27,1475,1413,1517,82,30,44,8,68,0,0
+20142015,2014-15,25,Edmonton Oilers,Edmonton Oilers,28,1449,1395,1449,82,24,44,14,62,0,0
+20142015,2014-15,40,Utah Mammoth,Arizona Coyotes,29,1488,1380,1488,82,24,50,8,56,0,0
+20142015,2014-15,19,Buffalo Sabres,Buffalo Sabres,30,1420,1355,1417,82,23,51,8,54,0,0
+20152016,2015-16,17,Pittsburgh Penguins,Pittsburgh Penguins,1,1506,1586,1586,82,48,26,8,104,16,8
+20152016,2015-16,24,Washington Capitals,Washington Capitals,2,1528,1579,1598,82,56,18,8,120,6,6
+20152016,2015-16,29,San Jose Sharks,San Jose Sharks,3,1503,1559,1565,82,46,30,6,98,14,10
+20152016,2015-16,32,Anaheim Ducks,Anaheim Ducks,4,1539,1556,1564,82,46,25,11,103,3,4
+20152016,2015-16,18,St. Louis Blues,St. Louis Blues,5,1532,1551,1567,82,49,24,9,107,10,10
+20152016,2015-16,11,Chicago Blackhawks,Chicago Blackhawks,6,1545,1547,1573,82,47,26,9,103,3,4
+20152016,2015-16,31,Tampa Bay Lightning,Tampa Bay Lightning,7,1535,1547,1556,82,46,31,5,97,11,6
+20152016,2015-16,15,Dallas Stars,Dallas Stars,8,1511,1545,1561,82,50,23,9,109,7,6
+20152016,2015-16,10,New York Rangers,New York Rangers,9,1554,1532,1585,82,46,27,9,101,1,4
+20152016,2015-16,33,Florida Panthers,Florida Panthers,10,1474,1531,1534,82,47,26,9,103,2,4
+20152016,2015-16,14,Los Angeles Kings,Los Angeles Kings,11,1526,1523,1554,82,48,28,6,102,1,4
+20152016,2015-16,34,Nashville Predators,Nashville Predators,12,1509,1513,1535,82,41,27,14,96,7,7
+20152016,2015-16,6,Boston Bruins,Boston Bruins,13,1522,1512,1543,82,42,31,9,93,0,0
+20152016,2015-16,22,New York Islanders,New York Islanders,14,1505,1512,1536,82,45,27,10,100,5,6
+20152016,2015-16,37,Minnesota Wild,Minnesota Wild,15,1525,1505,1545,82,38,33,11,87,2,4
+20152016,2015-16,16,Philadelphia Flyers,Philadelphia Flyers,16,1487,1499,1506,82,41,27,14,96,2,4
+20152016,2015-16,30,Ottawa Senators,Ottawa Senators,17,1515,1488,1524,82,38,35,9,85,0,0
+20152016,2015-16,12,Detroit Red Wings,Detroit Red Wings,18,1508,1485,1519,82,41,30,11,93,1,4
+20152016,2015-16,1,Montréal Canadiens,Montréal Canadiens,19,1528,1478,1568,82,38,38,6,82,0,0
+20152016,2015-16,35,Winnipeg Jets,Winnipeg Jets,20,1504,1476,1520,82,35,39,8,78,0,0
+20152016,2015-16,27,Colorado Avalanche,Colorado Avalanche,21,1502,1475,1514,82,39,39,4,82,0,0
+20152016,2015-16,36,Columbus Blue Jackets,Columbus Blue Jackets,22,1500,1471,1497,82,34,40,8,76,0,0
+20152016,2015-16,21,Calgary Flames,Calgary Flames,23,1504,1467,1500,82,35,40,7,77,0,0
+20152016,2015-16,23,New Jersey Devils,New Jersey Devils,24,1473,1465,1484,82,38,36,8,84,0,0
+20152016,2015-16,26,Carolina Hurricanes,Carolina Hurricanes,25,1464,1456,1476,82,35,31,16,86,0,0
+20152016,2015-16,19,Buffalo Sabres,Buffalo Sabres,26,1403,1441,1444,82,35,36,11,81,0,0
+20152016,2015-16,20,Vancouver Canucks,Vancouver Canucks,27,1505,1437,1518,82,31,38,13,75,0,0
+20152016,2015-16,40,Utah Mammoth,Arizona Coyotes,28,1420,1433,1446,82,35,39,8,78,0,0
+20152016,2015-16,5,Toronto Maple Leafs,Toronto Maple Leafs,29,1442,1419,1467,82,29,42,11,69,0,0
+20152016,2015-16,25,Edmonton Oilers,Edmonton Oilers,30,1430,1414,1434,82,31,43,8,70,0,0
+20162017,2016-17,24,Washington Capitals,Washington Capitals,1,1553,1596,1609,82,55,19,8,118,7,6
+20162017,2016-17,17,Pittsburgh Penguins,Pittsburgh Penguins,2,1557,1589,1591,82,50,21,11,111,16,9
+20162017,2016-17,32,Anaheim Ducks,Anaheim Ducks,3,1538,1552,1566,82,46,23,13,105,10,7
+20162017,2016-17,34,Nashville Predators,Nashville Predators,4,1508,1550,1559,82,41,29,12,94,14,8
+20162017,2016-17,37,Minnesota Wild,Minnesota Wild,5,1503,1544,1576,82,49,25,8,106,1,4
+20162017,2016-17,10,New York Rangers,New York Rangers,6,1521,1543,1561,82,48,28,6,102,6,6
+20162017,2016-17,18,St. Louis Blues,St. Louis Blues,7,1534,1543,1554,82,46,29,7,99,6,5
+20162017,2016-17,11,Chicago Blackhawks,Chicago Blackhawks,8,1531,1538,1571,82,50,23,9,109,0,4
+20162017,2016-17,6,Boston Bruins,Boston Bruins,9,1508,1529,1538,82,44,31,7,95,2,4
+20162017,2016-17,31,Tampa Bay Lightning,Tampa Bay Lightning,10,1531,1529,1550,82,42,30,10,94,0,0
+20162017,2016-17,36,Columbus Blue Jackets,Columbus Blue Jackets,11,1480,1528,1558,82,50,24,8,108,1,4
+20162017,2016-17,29,San Jose Sharks,San Jose Sharks,12,1539,1528,1564,82,46,29,7,99,2,4
+20162017,2016-17,25,Edmonton Oilers,Edmonton Oilers,13,1442,1527,1530,82,47,26,9,103,7,6
+20162017,2016-17,22,New York Islanders,New York Islanders,14,1508,1516,1519,82,41,29,12,94,0,0
+20162017,2016-17,30,Ottawa Senators,Ottawa Senators,15,1492,1513,1522,82,44,28,10,98,11,8
+20162017,2016-17,1,Montréal Canadiens,Montréal Canadiens,16,1485,1511,1530,82,47,26,9,103,2,4
+20162017,2016-17,21,Calgary Flames,Calgary Flames,17,1478,1494,1509,82,45,33,4,94,0,4
+20162017,2016-17,35,Winnipeg Jets,Winnipeg Jets,18,1484,1493,1493,82,40,35,7,87,0,0
+20162017,2016-17,5,Toronto Maple Leafs,Toronto Maple Leafs,19,1446,1491,1498,82,40,27,15,95,2,4
+20162017,2016-17,14,Los Angeles Kings,Los Angeles Kings,20,1515,1489,1513,82,39,35,8,86,0,0
+20162017,2016-17,16,Philadelphia Flyers,Philadelphia Flyers,21,1499,1485,1512,82,39,33,10,88,0,0
+20162017,2016-17,15,Dallas Stars,Dallas Stars,22,1530,1476,1534,82,34,37,11,79,0,0
+20162017,2016-17,33,Florida Panthers,Florida Panthers,23,1521,1472,1526,82,35,36,11,81,0,0
+20162017,2016-17,26,Carolina Hurricanes,Carolina Hurricanes,24,1471,1471,1490,82,36,31,15,87,0,0
+20162017,2016-17,12,Detroit Red Wings,Detroit Red Wings,25,1490,1446,1506,82,33,36,13,79,0,0
+20162017,2016-17,19,Buffalo Sabres,Buffalo Sabres,26,1461,1442,1465,82,33,37,12,78,0,0
+20162017,2016-17,40,Utah Mammoth,Arizona Coyotes,27,1455,1417,1457,82,30,42,10,70,0,0
+20162017,2016-17,23,New Jersey Devils,New Jersey Devils,28,1477,1413,1490,82,28,40,14,70,0,0
+20162017,2016-17,20,Vancouver Canucks,Vancouver Canucks,29,1458,1406,1465,82,30,43,9,69,0,0
+20162017,2016-17,27,Colorado Avalanche,Colorado Avalanche,30,1483,1370,1492,82,22,56,4,48,0,0
+20172018,2017-18,24,Washington Capitals,Washington Capitals,1,1564,1595,1595,82,49,26,7,105,16,8
+20172018,2017-18,35,Winnipeg Jets,Winnipeg Jets,2,1495,1578,1593,82,52,20,10,114,9,8
+20172018,2017-18,34,Nashville Predators,Nashville Predators,3,1533,1575,1592,82,53,18,11,117,7,6
+20172018,2017-18,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1519,1564,1581,82,54,23,5,113,11,6
+20172018,2017-18,6,Boston Bruins,Boston Bruins,5,1519,1563,1578,82,50,20,12,112,5,7
+20172018,2017-18,38,Vegas Golden Knights,Vegas Golden Knights,6,1500,1560,1575,82,51,24,7,109,13,7
+20172018,2017-18,17,Pittsburgh Penguins,Pittsburgh Penguins,7,1560,1555,1568,82,47,29,6,100,6,6
+20172018,2017-18,29,San Jose Sharks,San Jose Sharks,8,1519,1540,1550,82,45,27,10,100,6,4
+20172018,2017-18,5,Toronto Maple Leafs,Toronto Maple Leafs,9,1494,1538,1547,82,49,26,7,105,3,4
+20172018,2017-18,37,Minnesota Wild,Minnesota Wild,10,1530,1536,1550,82,45,26,11,101,1,4
+20172018,2017-18,32,Anaheim Ducks,Anaheim Ducks,11,1535,1528,1545,82,44,25,13,101,0,4
+20172018,2017-18,33,Florida Panthers,Florida Panthers,12,1482,1520,1520,82,44,30,8,96,0,0
+20172018,2017-18,36,Columbus Blue Jackets,Columbus Blue Jackets,13,1519,1514,1531,82,45,30,7,97,2,4
+20172018,2017-18,14,Los Angeles Kings,Los Angeles Kings,14,1492,1514,1531,82,45,29,8,98,0,4
+20172018,2017-18,18,St. Louis Blues,St. Louis Blues,15,1529,1506,1553,82,44,32,6,94,0,0
+20172018,2017-18,16,Philadelphia Flyers,Philadelphia Flyers,16,1490,1498,1513,82,42,26,14,98,2,4
+20172018,2017-18,15,Dallas Stars,Dallas Stars,17,1484,1494,1520,82,42,32,8,92,0,0
+20172018,2017-18,27,Colorado Avalanche,Colorado Avalanche,18,1413,1485,1498,82,43,30,9,95,2,4
+20172018,2017-18,23,New Jersey Devils,New Jersey Devils,19,1442,1484,1494,82,44,29,9,97,1,4
+20172018,2017-18,25,Edmonton Oilers,Edmonton Oilers,20,1518,1474,1522,82,36,40,6,78,0,0
+20172018,2017-18,26,Carolina Hurricanes,Carolina Hurricanes,21,1481,1468,1491,82,36,35,11,83,0,0
+20172018,2017-18,11,Chicago Blackhawks,Chicago Blackhawks,22,1525,1462,1540,82,33,39,10,76,0,0
+20172018,2017-18,21,Calgary Flames,Calgary Flames,23,1496,1461,1512,82,37,35,10,84,0,0
+20172018,2017-18,22,New York Islanders,New York Islanders,24,1510,1460,1533,82,35,37,10,80,0,0
+20172018,2017-18,10,New York Rangers,New York Rangers,25,1529,1457,1536,82,34,39,9,77,0,0
+20172018,2017-18,1,Montréal Canadiens,Montréal Canadiens,26,1507,1445,1509,82,29,40,13,71,0,0
+20172018,2017-18,40,Utah Mammoth,Arizona Coyotes,27,1444,1436,1442,82,29,41,12,70,0,0
+20172018,2017-18,12,Detroit Red Wings,Detroit Red Wings,28,1464,1436,1477,82,30,39,13,73,0,0
+20172018,2017-18,20,Vancouver Canucks,Vancouver Canucks,29,1437,1429,1465,82,31,40,11,73,0,0
+20172018,2017-18,30,Ottawa Senators,Ottawa Senators,30,1509,1423,1520,82,28,43,11,67,0,0
+20172018,2017-18,19,Buffalo Sabres,Buffalo Sabres,31,1461,1399,1460,82,25,45,12,62,0,0
+20182019,2018-19,31,Tampa Bay Lightning,Tampa Bay Lightning,1,1543,1608,1631,82,62,16,4,128,0,4
+20182019,2018-19,6,Boston Bruins,Boston Bruins,2,1542,1596,1605,82,49,24,9,107,15,9
+20182019,2018-19,18,St. Louis Blues,St. Louis Blues,3,1504,1559,1559,82,45,28,9,99,16,10
+20182019,2018-19,24,Washington Capitals,Washington Capitals,4,1564,1556,1579,82,48,26,8,104,3,4
+20182019,2018-19,36,Columbus Blue Jackets,Columbus Blue Jackets,5,1509,1547,1561,82,47,31,4,98,6,4
+20182019,2018-19,26,Carolina Hurricanes,Carolina Hurricanes,6,1478,1536,1553,82,46,29,7,99,8,7
+20182019,2018-19,34,Nashville Predators,Nashville Predators,7,1550,1536,1579,82,47,29,6,100,2,4
+20182019,2018-19,21,Calgary Flames,Calgary Flames,8,1474,1535,1557,82,50,25,7,107,1,4
+20182019,2018-19,35,Winnipeg Jets,Winnipeg Jets,9,1552,1535,1573,82,47,30,5,99,2,4
+20182019,2018-19,38,Vegas Golden Knights,Vegas Golden Knights,10,1540,1529,1553,82,43,32,7,93,3,4
+20182019,2018-19,17,Pittsburgh Penguins,Pittsburgh Penguins,11,1537,1528,1558,82,44,26,12,100,0,4
+20182019,2018-19,29,San Jose Sharks,San Jose Sharks,12,1527,1528,1570,82,46,27,9,101,10,10
+20182019,2018-19,22,New York Islanders,New York Islanders,13,1473,1526,1541,82,48,27,7,103,4,4
+20182019,2018-19,5,Toronto Maple Leafs,Toronto Maple Leafs,14,1526,1526,1564,82,46,28,8,100,3,4
+20182019,2018-19,15,Dallas Stars,Dallas Stars,15,1496,1525,1532,82,43,32,7,93,7,6
+20182019,2018-19,27,Colorado Avalanche,Colorado Avalanche,16,1490,1509,1531,82,38,30,14,90,7,5
+20182019,2018-19,1,Montréal Canadiens,Montréal Canadiens,17,1463,1503,1504,82,44,30,8,96,0,0
+20182019,2018-19,33,Florida Panthers,Florida Panthers,18,1513,1494,1514,82,36,32,14,86,0,0
+20182019,2018-19,37,Minnesota Wild,Minnesota Wild,19,1524,1479,1540,82,37,36,9,83,0,0
+20182019,2018-19,40,Utah Mammoth,Arizona Coyotes,20,1457,1477,1484,82,39,35,8,86,0,0
+20182019,2018-19,11,Chicago Blackhawks,Chicago Blackhawks,21,1474,1471,1481,82,36,34,12,84,0,0
+20182019,2018-19,16,Philadelphia Flyers,Philadelphia Flyers,22,1499,1469,1505,82,37,37,8,82,0,0
+20182019,2018-19,32,Anaheim Ducks,Anaheim Ducks,23,1518,1468,1529,82,35,37,10,80,0,0
+20182019,2018-19,14,Los Angeles Kings,Los Angeles Kings,24,1510,1448,1514,82,31,42,9,71,0,0
+20182019,2018-19,25,Edmonton Oilers,Edmonton Oilers,25,1483,1444,1493,82,35,38,9,79,0,0
+20182019,2018-19,20,Vancouver Canucks,Vancouver Canucks,26,1452,1443,1466,82,35,36,11,81,0,0
+20182019,2018-19,23,New Jersey Devils,New Jersey Devils,27,1490,1437,1509,82,31,41,10,72,0,0
+20182019,2018-19,10,New York Rangers,New York Rangers,28,1471,1436,1478,82,32,36,14,78,0,0
+20182019,2018-19,12,Detroit Red Wings,Detroit Red Wings,29,1457,1432,1456,82,32,40,10,74,0,0
+20182019,2018-19,30,Ottawa Senators,Ottawa Senators,30,1449,1411,1457,82,29,47,6,64,0,0
+20182019,2018-19,19,Buffalo Sabres,Buffalo Sabres,31,1432,1407,1468,82,33,39,10,76,0,0
+20192020,2019-20,31,Tampa Bay Lightning,Tampa Bay Lightning,1,1572,1602,1605,70,43,21,6,92,18,7
+20192020,2019-20,6,Boston Bruins,Boston Bruins,2,1564,1577,1598,70,44,14,12,100,5,8
+20192020,2019-20,27,Colorado Avalanche,Colorado Avalanche,3,1506,1567,1570,70,42,20,8,92,9,6
+20192020,2019-20,38,Vegas Golden Knights,Vegas Golden Knights,4,1519,1543,1553,71,39,24,8,86,12,8
+20192020,2019-20,16,Philadelphia Flyers,Philadelphia Flyers,5,1479,1540,1559,69,41,21,7,89,10,6
+20192020,2019-20,26,Carolina Hurricanes,Carolina Hurricanes,6,1524,1538,1547,68,38,25,5,81,4,4
+20192020,2019-20,18,St. Louis Blues,St. Louis Blues,7,1540,1536,1565,71,42,19,10,94,2,7
+20192020,2019-20,22,New York Islanders,New York Islanders,8,1518,1530,1545,68,35,23,10,80,13,9
+20192020,2019-20,24,Washington Capitals,Washington Capitals,9,1537,1526,1571,69,41,20,8,90,2,6
+20192020,2019-20,15,Dallas Stars,Dallas Stars,10,1517,1521,1534,69,37,24,8,82,15,12
+20192020,2019-20,17,Pittsburgh Penguins,Pittsburgh Penguins,11,1519,1519,1556,69,40,23,6,86,1,3
+20192020,2019-20,21,Calgary Flames,Calgary Flames,12,1524,1517,1527,70,36,27,7,79,5,5
+20192020,2019-20,5,Toronto Maple Leafs,Toronto Maple Leafs,13,1518,1516,1544,70,36,25,9,81,2,3
+20192020,2019-20,36,Columbus Blue Jackets,Columbus Blue Jackets,14,1532,1515,1545,70,33,22,15,81,4,6
+20192020,2019-20,35,Winnipeg Jets,Winnipeg Jets,15,1524,1511,1534,71,37,28,6,80,1,3
+20192020,2019-20,20,Vancouver Canucks,Vancouver Canucks,16,1462,1506,1511,69,36,27,6,78,10,7
+20192020,2019-20,34,Nashville Predators,Nashville Predators,17,1524,1503,1538,69,35,26,8,78,1,3
+20192020,2019-20,37,Minnesota Wild,Minnesota Wild,18,1486,1496,1506,69,35,27,7,77,1,3
+20192020,2019-20,33,Florida Panthers,Florida Panthers,19,1496,1494,1528,69,35,26,8,78,1,3
+20192020,2019-20,25,Edmonton Oilers,Edmonton Oilers,20,1463,1490,1500,71,37,25,9,83,1,3
+20192020,2019-20,40,Utah Mammoth,Arizona Coyotes,21,1485,1486,1507,70,33,29,8,74,4,5
+20192020,2019-20,1,Montréal Canadiens,Montréal Canadiens,22,1502,1486,1522,71,31,31,9,71,5,5
+20192020,2019-20,10,New York Rangers,New York Rangers,23,1457,1486,1509,70,37,28,5,79,0,3
+20192020,2019-20,11,Chicago Blackhawks,Chicago Blackhawks,24,1481,1484,1491,70,32,30,8,72,4,5
+20192020,2019-20,29,San Jose Sharks,San Jose Sharks,25,1519,1460,1514,70,29,36,5,63,0,0
+20192020,2019-20,23,New Jersey Devils,New Jersey Devils,26,1458,1452,1456,69,28,29,12,68,0,0
+20192020,2019-20,14,Los Angeles Kings,Los Angeles Kings,27,1465,1451,1464,70,29,35,6,64,0,0
+20192020,2019-20,32,Anaheim Ducks,Anaheim Ducks,28,1478,1446,1495,71,29,33,9,67,0,0
+20192020,2019-20,19,Buffalo Sabres,Buffalo Sabres,29,1438,1439,1464,69,30,31,8,68,0,0
+20192020,2019-20,30,Ottawa Senators,Ottawa Senators,30,1441,1415,1450,71,25,34,12,62,0,0
+20192020,2019-20,12,Detroit Red Wings,Detroit Red Wings,31,1455,1351,1463,71,17,49,5,39,0,0
+20202021,2020-21,31,Tampa Bay Lightning,Tampa Bay Lightning,1,1568,1601,1602,56,36,17,3,75,16,7
+20202021,2020-21,27,Colorado Avalanche,Colorado Avalanche,2,1545,1599,1614,56,39,13,4,82,6,4
+20202021,2020-21,38,Vegas Golden Knights,Vegas Golden Knights,3,1529,1588,1602,56,40,14,2,82,10,9
+20202021,2020-21,6,Boston Bruins,Boston Bruins,4,1551,1564,1579,56,33,16,7,73,6,5
+20202021,2020-21,26,Carolina Hurricanes,Carolina Hurricanes,5,1525,1561,1580,56,36,12,8,80,5,6
+20202021,2020-21,17,Pittsburgh Penguins,Pittsburgh Penguins,6,1513,1555,1566,56,37,16,3,77,2,4
+20202021,2020-21,22,New York Islanders,New York Islanders,7,1520,1549,1558,56,32,17,7,71,11,8
+20202021,2020-21,5,Toronto Maple Leafs,Toronto Maple Leafs,8,1511,1546,1555,56,35,14,7,77,3,4
+20202021,2020-21,24,Washington Capitals,Washington Capitals,9,1517,1542,1553,56,36,15,5,77,1,4
+20202021,2020-21,33,Florida Panthers,Florida Panthers,10,1496,1536,1544,56,37,14,5,79,2,4
+20202021,2020-21,37,Minnesota Wild,Minnesota Wild,11,1497,1529,1547,56,35,16,5,75,3,4
+20202021,2020-21,25,Edmonton Oilers,Edmonton Oilers,12,1493,1520,1540,56,35,19,2,72,0,4
+20202021,2020-21,10,New York Rangers,New York Rangers,13,1491,1510,1530,56,27,23,6,60,0,0
+20202021,2020-21,35,Winnipeg Jets,Winnipeg Jets,14,1507,1506,1539,56,30,23,3,63,4,4
+20202021,2020-21,15,Dallas Stars,Dallas Stars,15,1514,1504,1526,56,23,19,14,60,0,0
+20202021,2020-21,34,Nashville Predators,Nashville Predators,16,1502,1504,1511,56,31,23,2,64,2,4
+20202021,2020-21,18,St. Louis Blues,St. Louis Blues,17,1524,1500,1535,56,27,20,9,63,0,4
+20202021,2020-21,21,Calgary Flames,Calgary Flames,18,1511,1494,1519,56,26,27,3,55,0,0
+20202021,2020-21,1,Montréal Canadiens,Montréal Canadiens,19,1491,1489,1518,56,24,21,11,59,13,9
+20202021,2020-21,16,Philadelphia Flyers,Philadelphia Flyers,20,1527,1481,1540,56,25,23,8,58,0,0
+20202021,2020-21,40,Utah Mammoth,Arizona Coyotes,21,1491,1471,1495,56,24,26,6,54,0,0
+20202021,2020-21,11,Chicago Blackhawks,Chicago Blackhawks,22,1489,1460,1494,56,24,25,7,55,0,0
+20202021,2020-21,20,Vancouver Canucks,Vancouver Canucks,23,1504,1459,1508,56,23,29,4,50,0,0
+20202021,2020-21,30,Ottawa Senators,Ottawa Senators,24,1443,1447,1450,56,23,28,5,51,0,0
+20202021,2020-21,14,Los Angeles Kings,Los Angeles Kings,25,1467,1445,1485,56,21,28,7,49,0,0
+20202021,2020-21,36,Columbus Blue Jackets,Columbus Blue Jackets,26,1510,1444,1509,56,18,26,12,48,0,0
+20202021,2020-21,29,San Jose Sharks,San Jose Sharks,27,1473,1430,1475,56,21,28,7,49,0,0
+20202021,2020-21,23,New Jersey Devils,New Jersey Devils,28,1468,1429,1478,56,19,30,7,45,0,0
+20202021,2020-21,32,Anaheim Ducks,Anaheim Ducks,29,1464,1417,1466,56,17,30,9,43,0,0
+20202021,2020-21,12,Detroit Red Wings,Detroit Red Wings,30,1400,1411,1412,56,19,27,10,48,0,0
+20202021,2020-21,19,Buffalo Sabres,Buffalo Sabres,31,1459,1410,1461,56,15,34,7,37,0,0
+20212022,2021-22,27,Colorado Avalanche,Colorado Avalanche,1,1566,1634,1639,82,56,19,7,119,16,4
+20212022,2021-22,31,Tampa Bay Lightning,Tampa Bay Lightning,2,1568,1600,1603,82,51,23,8,110,14,9
+20212022,2021-22,5,Toronto Maple Leafs,Toronto Maple Leafs,3,1531,1580,1588,82,54,21,7,115,3,4
+20212022,2021-22,26,Carolina Hurricanes,Carolina Hurricanes,4,1541,1579,1600,82,54,20,8,116,7,7
+20212022,2021-22,10,New York Rangers,New York Rangers,5,1507,1571,1584,82,52,24,6,110,10,10
+20212022,2021-22,33,Florida Panthers,Florida Panthers,6,1524,1570,1605,82,58,18,6,122,4,6
+20212022,2021-22,18,St. Louis Blues,St. Louis Blues,7,1500,1570,1581,82,49,22,11,109,6,6
+20212022,2021-22,6,Boston Bruins,Boston Bruins,8,1543,1560,1569,82,51,26,5,107,3,4
+20212022,2021-22,21,Calgary Flames,Calgary Flames,9,1496,1560,1579,82,50,21,11,111,5,7
+20212022,2021-22,37,Minnesota Wild,Minnesota Wild,10,1519,1557,1573,82,53,22,7,113,2,4
+20212022,2021-22,25,Edmonton Oilers,Edmonton Oilers,11,1514,1555,1566,82,49,27,6,104,8,8
+20212022,2021-22,17,Pittsburgh Penguins,Pittsburgh Penguins,12,1537,1546,1569,82,46,25,11,103,3,4
+20212022,2021-22,38,Vegas Golden Knights,Vegas Golden Knights,13,1559,1536,1571,82,43,31,8,94,0,0
+20212022,2021-22,24,Washington Capitals,Washington Capitals,14,1528,1532,1559,82,44,26,12,100,2,4
+20212022,2021-22,22,New York Islanders,New York Islanders,15,1533,1511,1542,82,37,35,10,84,0,0
+20212022,2021-22,20,Vancouver Canucks,Vancouver Canucks,16,1473,1507,1513,82,40,30,12,92,0,0
+20212022,2021-22,15,Dallas Stars,Dallas Stars,17,1503,1505,1519,82,46,30,6,98,3,4
+20212022,2021-22,35,Winnipeg Jets,Winnipeg Jets,18,1504,1502,1516,82,39,32,11,89,0,0
+20212022,2021-22,34,Nashville Predators,Nashville Predators,19,1503,1501,1537,82,45,30,7,97,0,4
+20212022,2021-22,14,Los Angeles Kings,Los Angeles Kings,20,1463,1496,1506,82,44,27,11,99,3,4
+20212022,2021-22,36,Columbus Blue Jackets,Columbus Blue Jackets,21,1463,1452,1482,82,37,38,7,81,0,0
+20212022,2021-22,30,Ottawa Senators,Ottawa Senators,22,1465,1448,1468,82,33,42,7,73,0,0
+20212022,2021-22,19,Buffalo Sabres,Buffalo Sabres,23,1440,1438,1455,82,32,39,11,75,0,0
+20212022,2021-22,39,Seattle Kraken,Seattle Kraken,24,1500,1426,1501,82,27,49,6,60,0,0
+20212022,2021-22,29,San Jose Sharks,San Jose Sharks,25,1453,1422,1471,82,32,37,13,77,0,0
+20212022,2021-22,32,Anaheim Ducks,Anaheim Ducks,26,1445,1420,1477,82,31,37,14,76,0,0
+20212022,2021-22,11,Chicago Blackhawks,Chicago Blackhawks,27,1473,1409,1471,82,28,42,12,68,0,0
+20212022,2021-22,12,Detroit Red Wings,Detroit Red Wings,28,1440,1408,1448,82,32,40,10,74,0,0
+20212022,2021-22,23,New Jersey Devils,New Jersey Devils,29,1452,1405,1463,82,27,46,9,63,0,0
+20212022,2021-22,40,Utah Mammoth,Arizona Coyotes,30,1480,1401,1474,82,25,50,7,57,0,0
+20212022,2021-22,16,Philadelphia Flyers,Philadelphia Flyers,31,1487,1400,1502,82,25,46,11,61,0,0
+20212022,2021-22,1,Montréal Canadiens,Montréal Canadiens,32,1493,1398,1490,82,22,49,11,55,0,0
+20222023,2022-23,6,Boston Bruins,Boston Bruins,1,1540,1640,1650,82,65,12,5,135,3,4
+20222023,2022-23,38,Vegas Golden Knights,Vegas Golden Knights,2,1524,1601,1601,82,51,22,9,111,16,6
+20222023,2022-23,27,Colorado Avalanche,Colorado Avalanche,3,1590,1587,1600,82,51,24,7,109,3,4
+20222023,2022-23,25,Edmonton Oilers,Edmonton Oilers,4,1537,1587,1598,82,50,23,9,109,6,6
+20222023,2022-23,26,Carolina Hurricanes,Carolina Hurricanes,5,1553,1575,1600,82,52,21,9,113,8,7
+20222023,2022-23,5,Toronto Maple Leafs,Toronto Maple Leafs,6,1554,1571,1582,82,50,21,11,111,5,6
+20222023,2022-23,10,New York Rangers,New York Rangers,7,1547,1569,1584,82,47,22,13,107,3,4
+20222023,2022-23,15,Dallas Stars,Dallas Stars,8,1504,1562,1575,82,47,21,14,108,10,9
+20222023,2022-23,31,Tampa Bay Lightning,Tampa Bay Lightning,9,1567,1550,1588,82,46,30,6,98,2,4
+20222023,2022-23,33,Florida Panthers,Florida Panthers,10,1547,1547,1563,82,42,32,8,92,13,8
+20222023,2022-23,14,Los Angeles Kings,Los Angeles Kings,11,1498,1532,1544,82,47,25,10,104,2,4
+20222023,2022-23,37,Minnesota Wild,Minnesota Wild,12,1538,1531,1555,82,46,25,11,103,2,4
+20222023,2022-23,23,New Jersey Devils,New Jersey Devils,13,1436,1526,1536,82,52,22,8,112,5,7
+20222023,2022-23,21,Calgary Flames,Calgary Flames,14,1540,1521,1550,82,38,27,17,93,0,0
+20222023,2022-23,22,New York Islanders,New York Islanders,15,1507,1520,1528,82,42,31,9,93,2,4
+20222023,2022-23,39,Seattle Kraken,Seattle Kraken,16,1451,1514,1520,82,46,28,8,100,7,7
+20222023,2022-23,17,Pittsburgh Penguins,Pittsburgh Penguins,17,1531,1504,1552,82,40,31,11,91,0,0
+20222023,2022-23,35,Winnipeg Jets,Winnipeg Jets,18,1501,1504,1541,82,46,33,3,95,1,4
+20222023,2022-23,34,Nashville Predators,Nashville Predators,19,1500,1497,1507,82,42,32,8,92,0,0
+20222023,2022-23,18,St. Louis Blues,St. Louis Blues,20,1547,1483,1555,82,37,38,7,81,0,0
+20222023,2022-23,19,Buffalo Sabres,Buffalo Sabres,21,1458,1482,1492,82,42,33,7,91,0,0
+20222023,2022-23,30,Ottawa Senators,Ottawa Senators,22,1465,1479,1490,82,39,35,8,86,0,0
+20222023,2022-23,20,Vancouver Canucks,Vancouver Canucks,23,1504,1477,1501,82,38,37,7,83,0,0
+20222023,2022-23,24,Washington Capitals,Washington Capitals,24,1522,1475,1543,82,35,37,10,80,0,0
+20222023,2022-23,12,Detroit Red Wings,Detroit Red Wings,25,1438,1438,1472,82,35,37,10,80,0,0
+20222023,2022-23,16,Philadelphia Flyers,Philadelphia Flyers,26,1433,1419,1451,82,31,38,13,75,0,0
+20222023,2022-23,40,Utah Mammoth,Arizona Coyotes,27,1434,1402,1441,82,28,40,14,70,0,0
+20222023,2022-23,1,Montréal Canadiens,Montréal Canadiens,28,1432,1402,1442,82,31,45,6,68,0,0
+20222023,2022-23,29,San Jose Sharks,San Jose Sharks,29,1447,1385,1443,82,22,44,16,60,0,0
+20222023,2022-23,11,Chicago Blackhawks,Chicago Blackhawks,30,1439,1382,1449,82,26,49,7,59,0,0
+20222023,2022-23,36,Columbus Blue Jackets,Columbus Blue Jackets,31,1468,1379,1465,82,25,48,9,59,0,0
+20222023,2022-23,32,Anaheim Ducks,Anaheim Ducks,32,1447,1360,1448,82,23,47,12,58,0,0
+20232024,2023-24,33,Florida Panthers,Florida Panthers,1,1531,1602,1616,82,52,24,6,110,16,8
+20232024,2023-24,26,Carolina Hurricanes,Carolina Hurricanes,2,1550,1600,1604,82,52,23,7,111,6,5
+20232024,2023-24,25,Edmonton Oilers,Edmonton Oilers,3,1558,1590,1593,82,49,27,6,104,15,10
+20232024,2023-24,15,Dallas Stars,Dallas Stars,4,1541,1584,1596,82,52,21,9,113,10,9
+20232024,2023-24,10,New York Rangers,New York Rangers,5,1547,1581,1594,82,55,23,4,114,10,6
+20232024,2023-24,27,Colorado Avalanche,Colorado Avalanche,6,1558,1578,1590,82,50,25,7,107,6,5
+20232024,2023-24,6,Boston Bruins,Boston Bruins,7,1594,1574,1616,82,47,20,15,109,6,7
+20232024,2023-24,5,Toronto Maple Leafs,Toronto Maple Leafs,8,1548,1549,1569,82,46,26,10,102,3,4
+20232024,2023-24,35,Winnipeg Jets,Winnipeg Jets,9,1502,1547,1568,82,52,24,6,110,1,4
+20232024,2023-24,20,Vancouver Canucks,Vancouver Canucks,10,1484,1542,1559,82,50,23,9,109,7,6
+20232024,2023-24,31,Tampa Bay Lightning,Tampa Bay Lightning,11,1533,1540,1555,82,45,29,8,98,1,4
+20232024,2023-24,38,Vegas Golden Knights,Vegas Golden Knights,12,1567,1536,1594,82,45,29,8,98,3,4
+20232024,2023-24,34,Nashville Predators,Nashville Predators,13,1498,1528,1544,82,47,30,5,99,2,4
+20232024,2023-24,14,Los Angeles Kings,Los Angeles Kings,14,1521,1523,1565,82,44,27,11,99,1,4
+20232024,2023-24,17,Pittsburgh Penguins,Pittsburgh Penguins,15,1503,1505,1517,82,38,32,12,88,0,0
+20232024,2023-24,37,Minnesota Wild,Minnesota Wild,16,1521,1504,1524,82,39,33,10,88,0,0
+20232024,2023-24,19,Buffalo Sabres,Buffalo Sabres,17,1488,1498,1498,82,39,37,6,84,0,0
+20232024,2023-24,22,New York Islanders,New York Islanders,18,1513,1493,1518,82,39,27,16,94,1,4
+20232024,2023-24,18,St. Louis Blues,St. Louis Blues,19,1489,1489,1500,82,43,33,6,92,0,0
+20232024,2023-24,21,Calgary Flames,Calgary Flames,20,1514,1485,1521,82,38,39,5,81,0,0
+20232024,2023-24,23,New Jersey Devils,New Jersey Devils,21,1518,1481,1525,82,38,39,5,81,0,0
+20232024,2023-24,12,Detroit Red Wings,Detroit Red Wings,22,1459,1477,1506,82,41,32,9,91,0,0
+20232024,2023-24,24,Washington Capitals,Washington Capitals,23,1484,1471,1493,82,40,31,11,91,0,4
+20232024,2023-24,39,Seattle Kraken,Seattle Kraken,24,1510,1470,1510,82,34,35,13,81,0,0
+20232024,2023-24,30,Ottawa Senators,Ottawa Senators,25,1486,1464,1498,82,37,41,4,78,0,0
+20232024,2023-24,16,Philadelphia Flyers,Philadelphia Flyers,26,1446,1449,1486,82,38,33,11,87,0,0
+20232024,2023-24,40,Utah Mammoth,Arizona Coyotes,27,1434,1446,1461,82,36,41,5,77,0,0
+20232024,2023-24,1,Montréal Canadiens,Montréal Canadiens,28,1434,1420,1438,82,30,36,16,76,0,0
+20232024,2023-24,36,Columbus Blue Jackets,Columbus Blue Jackets,29,1419,1405,1421,82,27,43,12,66,0,0
+20232024,2023-24,32,Anaheim Ducks,Anaheim Ducks,30,1407,1373,1426,82,27,50,5,59,0,0
+20232024,2023-24,11,Chicago Blackhawks,Chicago Blackhawks,31,1421,1360,1429,82,23,53,6,52,0,0
+20232024,2023-24,29,San Jose Sharks,San Jose Sharks,32,1423,1334,1419,82,19,54,9,47,0,0
+20242025,2024-25,33,Florida Panthers,Florida Panthers,1,1568,1598,1598,82,47,31,4,98,16,7
+20242025,2024-25,35,Winnipeg Jets,Winnipeg Jets,2,1532,1576,1596,82,56,22,4,116,6,7
+20242025,2024-25,27,Colorado Avalanche,Colorado Avalanche,3,1552,1572,1579,82,49,29,4,102,3,4
+20242025,2024-25,25,Edmonton Oilers,Edmonton Oilers,4,1560,1567,1583,82,48,29,5,101,14,8
+20242025,2024-25,26,Carolina Hurricanes,Carolina Hurricanes,5,1567,1558,1594,82,47,30,5,99,9,6
+20242025,2024-25,31,Tampa Bay Lightning,Tampa Bay Lightning,6,1527,1555,1576,82,47,27,8,102,1,4
+20242025,2024-25,38,Vegas Golden Knights,Vegas Golden Knights,7,1524,1554,1571,82,50,22,10,110,5,6
+20242025,2024-25,14,Los Angeles Kings,Los Angeles Kings,8,1515,1552,1567,82,48,25,9,105,2,4
+20242025,2024-25,5,Toronto Maple Leafs,Toronto Maple Leafs,9,1533,1552,1566,82,52,26,4,108,7,6
+20242025,2024-25,15,Dallas Stars,Dallas Stars,10,1556,1550,1600,82,50,26,6,106,9,9
+20242025,2024-25,18,St. Louis Blues,St. Louis Blues,11,1493,1539,1540,82,44,30,8,96,3,4
+20242025,2024-25,24,Washington Capitals,Washington Capitals,12,1481,1533,1574,82,51,22,9,111,5,5
+20242025,2024-25,10,New York Rangers,New York Rangers,13,1554,1515,1576,82,39,36,7,85,0,0
+20242025,2024-25,30,Ottawa Senators,Ottawa Senators,14,1476,1506,1510,82,45,30,7,97,2,4
+20242025,2024-25,21,Calgary Flames,Calgary Flames,15,1490,1499,1506,82,41,27,14,96,0,0
+20242025,2024-25,20,Vancouver Canucks,Vancouver Canucks,16,1528,1498,1534,82,38,30,14,90,0,0
+20242025,2024-25,37,Minnesota Wild,Minnesota Wild,17,1503,1497,1538,82,45,30,7,97,2,4
+20242025,2024-25,23,New Jersey Devils,New Jersey Devils,18,1487,1487,1539,82,42,33,7,91,1,4
+20242025,2024-25,40,Utah Mammoth,Utah Hockey Club,19,1464,1486,1491,82,38,31,13,89,0,0
+20242025,2024-25,36,Columbus Blue Jackets,Columbus Blue Jackets,20,1437,1485,1485,82,40,33,9,89,0,0
+20242025,2024-25,12,Detroit Red Wings,Detroit Red Wings,21,1485,1482,1491,82,39,35,8,86,0,0
+20242025,2024-25,19,Buffalo Sabres,Buffalo Sabres,22,1499,1477,1501,82,36,39,7,79,0,0
+20242025,2024-25,1,Montréal Canadiens,Montréal Canadiens,23,1446,1471,1481,82,40,31,11,91,1,4
+20242025,2024-25,6,Boston Bruins,Boston Bruins,24,1550,1470,1551,82,33,39,10,76,0,0
+20242025,2024-25,22,New York Islanders,New York Islanders,25,1495,1466,1498,82,35,35,12,82,0,0
+20242025,2024-25,39,Seattle Kraken,Seattle Kraken,26,1480,1466,1488,82,35,41,6,76,0,0
+20242025,2024-25,17,Pittsburgh Penguins,Pittsburgh Penguins,27,1504,1463,1506,82,34,36,12,80,0,0
+20242025,2024-25,34,Nashville Predators,Nashville Predators,28,1519,1444,1516,82,30,44,8,68,0,0
+20242025,2024-25,16,Philadelphia Flyers,Philadelphia Flyers,29,1466,1431,1468,82,33,39,10,76,0,0
+20242025,2024-25,32,Anaheim Ducks,Anaheim Ducks,30,1415,1426,1438,82,35,37,10,80,0,0
+20242025,2024-25,11,Chicago Blackhawks,Chicago Blackhawks,31,1406,1385,1410,82,25,46,11,61,0,0
+20242025,2024-25,29,San Jose Sharks,San Jose Sharks,32,1389,1338,1392,82,20,50,12,52,0,0
+20252026,2025-26,26,Carolina Hurricanes,Carolina Hurricanes,1,1539,1610,1610,82,53,22,7,113,16,3
+20252026,2025-26,27,Colorado Avalanche,Colorado Avalanche,2,1548,1600,1622,82,55,16,11,121,8,5
+20252026,2025-26,31,Tampa Bay Lightning,Tampa Bay Lightning,3,1537,1564,1594,82,50,26,6,106,3,4
+20252026,2025-26,19,Buffalo Sabres,Buffalo Sabres,4,1485,1562,1572,82,50,23,9,109,7,6
+20252026,2025-26,15,Dallas Stars,Dallas Stars,5,1534,1552,1576,82,50,20,12,112,2,4
+20252026,2025-26,38,Vegas Golden Knights,Vegas Golden Knights,6,1536,1545,1556,82,39,26,17,95,14,8
+20252026,2025-26,1,Montréal Canadiens,Montréal Canadiens,7,1481,1543,1556,82,48,24,10,106,9,10
+20252026,2025-26,37,Minnesota Wild,Minnesota Wild,8,1498,1539,1546,82,46,24,12,104,5,6
+20252026,2025-26,30,Ottawa Senators,Ottawa Senators,9,1504,1538,1548,82,44,27,11,99,0,4
+20252026,2025-26,24,Washington Capitals,Washington Capitals,10,1522,1532,1552,82,43,30,9,95,0,0
+20252026,2025-26,25,Edmonton Oilers,Edmonton Oilers,11,1545,1513,1549,82,41,30,11,93,2,4
+20252026,2025-26,6,Boston Bruins,Boston Bruins,12,1480,1510,1523,82,45,27,10,100,2,4
+20252026,2025-26,18,St. Louis Blues,St. Louis Blues,13,1526,1508,1529,82,37,33,12,86,0,0
+20252026,2025-26,17,Pittsburgh Penguins,Pittsburgh Penguins,14,1475,1507,1530,82,41,25,16,98,2,4
+20252026,2025-26,40,Utah Mammoth,Utah Mammoth,15,1491,1507,1524,82,43,33,6,92,2,4
+20252026,2025-26,33,Florida Panthers,Florida Panthers,16,1566,1504,1573,82,40,38,4,84,0,0
+20252026,2025-26,36,Columbus Blue Jackets,Columbus Blue Jackets,17,1490,1500,1524,82,40,30,12,92,0,0
+20252026,2025-26,16,Philadelphia Flyers,Philadelphia Flyers,18,1454,1495,1510,82,43,27,12,98,4,6
+20252026,2025-26,35,Winnipeg Jets,Winnipeg Jets,19,1551,1486,1565,82,35,35,12,82,0,0
+20252026,2025-26,12,Detroit Red Wings,Detroit Red Wings,20,1488,1482,1512,82,41,31,10,92,0,0
+20252026,2025-26,14,Los Angeles Kings,Los Angeles Kings,21,1535,1479,1534,82,35,27,20,90,0,4
+20252026,2025-26,10,New York Rangers,New York Rangers,22,1510,1477,1516,82,34,39,9,77,0,0
+20252026,2025-26,23,New Jersey Devils,New Jersey Devils,23,1492,1475,1518,82,42,37,3,87,0,0
+20252026,2025-26,22,New York Islanders,New York Islanders,24,1477,1471,1500,82,43,34,5,91,0,0
+20252026,2025-26,34,Nashville Predators,Nashville Predators,25,1462,1469,1477,82,38,34,10,86,0,0
+20252026,2025-26,32,Anaheim Ducks,Anaheim Ducks,26,1451,1466,1487,82,43,33,6,92,6,6
+20252026,2025-26,21,Calgary Flames,Calgary Flames,27,1499,1458,1502,82,34,39,9,77,0,0
+20252026,2025-26,5,Toronto Maple Leafs,Toronto Maple Leafs,28,1535,1455,1539,82,32,36,14,78,0,0
+20252026,2025-26,39,Seattle Kraken,Seattle Kraken,29,1477,1444,1488,82,34,37,11,79,0,0
+20252026,2025-26,29,San Jose Sharks,San Jose Sharks,30,1392,1426,1438,82,39,35,8,86,0,0
+20252026,2025-26,11,Chicago Blackhawks,Chicago Blackhawks,31,1423,1402,1458,82,29,39,14,72,0,0
+20252026,2025-26,20,Vancouver Canucks,Vancouver Canucks,32,1498,1386,1504,82,25,49,8,58,0,0
+20262027,2026-27,26,Carolina Hurricanes,Carolina Hurricanes,1,1574,1601,1603,22,16,3,3,35,0,0
+20262027,2026-27,27,Colorado Avalanche,Colorado Avalanche,2,1567,1575,1577,23,13,7,3,29,0,0
+20262027,2026-27,37,Minnesota Wild,Minnesota Wild,3,1526,1573,1573,24,17,3,4,38,0,0
+20262027,2026-27,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1543,1564,1564,22,15,5,2,32,0,0
+20262027,2026-27,25,Edmonton Oilers,Edmonton Oilers,5,1509,1546,1549,24,17,4,3,37,0,0
+20262027,2026-27,1,Montréal Canadiens,Montréal Canadiens,6,1529,1540,1544,23,14,5,4,32,0,0
+20262027,2026-27,15,Dallas Stars,Dallas Stars,7,1535,1538,1543,22,14,6,2,30,0,0
+20262027,2026-27,30,Ottawa Senators,Ottawa Senators,8,1525,1534,1537,23,14,6,3,31,0,0
+20262027,2026-27,38,Vegas Golden Knights,Vegas Golden Knights,9,1530,1532,1548,24,13,6,5,31,0,0
+20262027,2026-27,6,Boston Bruins,Boston Bruins,10,1507,1524,1537,22,14,7,1,29,0,0
+20262027,2026-27,19,Buffalo Sabres,Buffalo Sabres,11,1541,1518,1539,22,9,9,4,22,0,0
+20262027,2026-27,23,New Jersey Devils,New Jersey Devils,12,1483,1514,1517,22,15,7,0,30,0,0
+20262027,2026-27,18,St. Louis Blues,St. Louis Blues,13,1505,1510,1512,22,11,9,2,24,0,0
+20262027,2026-27,33,Florida Panthers,Florida Panthers,14,1503,1509,1515,23,12,8,3,27,0,0
+20262027,2026-27,24,Washington Capitals,Washington Capitals,15,1521,1505,1531,20,10,10,0,20,0,0
+20262027,2026-27,10,New York Rangers,New York Rangers,16,1485,1502,1505,22,13,8,1,27,0,0
+20262027,2026-27,40,Utah Mammoth,Utah Mammoth,17,1505,1502,1522,23,11,9,3,25,0,0
+20262027,2026-27,34,Nashville Predators,Nashville Predators,18,1479,1495,1503,22,11,6,5,27,0,0
+20262027,2026-27,22,New York Islanders,New York Islanders,19,1481,1491,1493,21,10,6,5,25,0,0
+20262027,2026-27,35,Winnipeg Jets,Winnipeg Jets,20,1490,1490,1499,23,11,9,3,25,0,0
+20262027,2026-27,17,Pittsburgh Penguins,Pittsburgh Penguins,21,1505,1477,1513,21,7,12,2,16,0,0
+20262027,2026-27,32,Anaheim Ducks,Anaheim Ducks,22,1477,1475,1487,23,11,11,1,23,0,0
+20262027,2026-27,16,Philadelphia Flyers,Philadelphia Flyers,23,1497,1475,1489,25,8,11,6,22,0,0
+20262027,2026-27,36,Columbus Blue Jackets,Columbus Blue Jackets,24,1500,1473,1505,20,8,12,0,16,0,0
+20262027,2026-27,12,Detroit Red Wings,Detroit Red Wings,25,1488,1471,1485,22,8,11,3,19,0,0
+20262027,2026-27,14,Los Angeles Kings,Los Angeles Kings,26,1486,1467,1482,20,7,11,2,16,0,0
+20262027,2026-27,39,Seattle Kraken,Seattle Kraken,27,1462,1466,1479,19,10,8,1,21,0,0
+20262027,2026-27,21,Calgary Flames,Calgary Flames,28,1472,1458,1466,23,10,12,1,21,0,0
+20262027,2026-27,5,Toronto Maple Leafs,Toronto Maple Leafs,29,1470,1451,1486,24,8,13,3,19,0,0
+20262027,2026-27,29,San Jose Sharks,San Jose Sharks,30,1450,1431,1453,24,10,12,2,22,0,0
+20262027,2026-27,11,Chicago Blackhawks,Chicago Blackhawks,31,1434,1407,1431,22,6,14,2,14,0,0
+20262027,2026-27,20,Vancouver Canucks,Vancouver Canucks,32,1424,1388,1428,24,5,18,1,11,0,0

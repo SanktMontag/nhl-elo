@@ -1,0 +1,24 @@
+name = "v2-dev"
+description = "Sandbox: v1 with a log goal-difference multiplier and autocorrelation correction"
+
+# v2-dev replaces the step GD multiplier with
+#   G = ln(|gd| + 1) × 2.2 / (0.001 × Δ + 2.2)
+# where Δ is the winner's pre-game rating edge (incl. home ice). This shrinks favourites' blowout gains,
+# which otherwise inflate strong teams' ratings. Everything else is read like v1.
+
+scale = 400
+k = 8   # best for v2-dev: k=8 0.67370 vs k=6 0.67388 (v1 tuned: 0.67365)
+home_ice = 30
+playoff_k = 1.0
+
+[result]
+ot_win = 0.75
+so_win = 0.75
+
+[gd]
+autocorrelation = 2.2
+
+[season]
+mean = 1500
+offseason_regression = 0.33
+new_team_offset = 0

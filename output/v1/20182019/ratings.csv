@@ -1,0 +1,32 @@
+Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO L,Start ELO,Peak ELO,Season +/-
+1,31,Tampa Bay Lightning,TBL,Eastern,Atlantic,1608,82,62,16,4,128,325,222,0,4,1543,1631,65
+2,6,Boston Bruins,BOS,Eastern,Atlantic,1596,82,49,24,9,107,259,215,15,9,1542,1605,54
+3,18,St. Louis Blues,STL,Western,Central,1559,82,45,28,9,99,247,223,16,10,1504,1559,55
+4,24,Washington Capitals,WSH,Eastern,Metropolitan,1556,82,48,26,8,104,278,249,3,4,1564,1579,-8
+5,36,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,1547,82,47,31,4,98,258,232,6,4,1509,1561,38
+6,26,Carolina Hurricanes,CAR,Eastern,Metropolitan,1536,82,46,29,7,99,245,223,8,7,1478,1553,57
+7,34,Nashville Predators,NSH,Western,Central,1536,82,47,29,6,100,240,214,2,4,1550,1579,-14
+8,21,Calgary Flames,CGY,Western,Pacific,1535,82,50,25,7,107,289,227,1,4,1474,1557,61
+9,35,Winnipeg Jets,WPG,Western,Central,1535,82,47,30,5,99,272,244,2,4,1552,1573,-17
+10,38,Vegas Golden Knights,VGK,Western,Pacific,1529,82,43,32,7,93,249,230,3,4,1540,1553,-12
+11,17,Pittsburgh Penguins,PIT,Eastern,Metropolitan,1528,82,44,26,12,100,273,241,0,4,1537,1558,-9
+12,29,San Jose Sharks,SJS,Western,Pacific,1528,82,46,27,9,101,289,261,10,10,1527,1570,1
+13,22,New York Islanders,NYI,Eastern,Metropolitan,1526,82,48,27,7,103,228,196,4,4,1473,1541,53
+14,5,Toronto Maple Leafs,TOR,Eastern,Atlantic,1526,82,46,28,8,100,286,251,3,4,1526,1564,1
+15,15,Dallas Stars,DAL,Western,Central,1525,82,43,32,7,93,210,202,7,6,1496,1532,29
+16,27,Colorado Avalanche,COL,Western,Central,1509,82,38,30,14,90,260,246,7,5,1490,1531,19
+17,1,Montréal Canadiens,MTL,Eastern,Atlantic,1503,82,44,30,8,96,249,236,0,0,1463,1504,40
+18,33,Florida Panthers,FLA,Eastern,Atlantic,1494,82,36,32,14,86,267,280,0,0,1513,1514,-19
+19,37,Minnesota Wild,MIN,Western,Central,1479,82,37,36,9,83,211,237,0,0,1524,1540,-45
+20,40,Arizona Coyotes,ARI,Western,Pacific,1477,82,39,35,8,86,213,223,0,0,1457,1484,20
+21,11,Chicago Blackhawks,CHI,Western,Central,1471,82,36,34,12,84,270,292,0,0,1474,1481,-3
+22,16,Philadelphia Flyers,PHI,Eastern,Metropolitan,1469,82,37,37,8,82,244,281,0,0,1499,1505,-30
+23,32,Anaheim Ducks,ANA,Western,Pacific,1468,82,35,37,10,80,199,251,0,0,1518,1529,-51
+24,14,Los Angeles Kings,LAK,Western,Pacific,1448,82,31,42,9,71,202,263,0,0,1510,1514,-62
+25,25,Edmonton Oilers,EDM,Western,Pacific,1444,82,35,38,9,79,232,274,0,0,1483,1493,-38
+26,20,Vancouver Canucks,VAN,Western,Pacific,1443,82,35,36,11,81,225,254,0,0,1452,1466,-9
+27,23,New Jersey Devils,NJD,Eastern,Metropolitan,1437,82,31,41,10,72,222,275,0,0,1490,1509,-53
+28,10,New York Rangers,NYR,Eastern,Metropolitan,1436,82,32,36,14,78,227,272,0,0,1471,1478,-35
+29,12,Detroit Red Wings,DET,Eastern,Atlantic,1432,82,32,40,10,74,227,277,0,0,1457,1456,-25
+30,30,Ottawa Senators,OTT,Eastern,Atlantic,1411,82,29,47,6,64,242,302,0,0,1449,1457,-37
+31,19,Buffalo Sabres,BUF,Eastern,Atlantic,1407,82,33,39,10,76,226,271,0,0,1432,1468,-25

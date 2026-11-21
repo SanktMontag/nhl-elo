@@ -1,0 +1,32 @@
+Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO L,Start ELO,Peak ELO,Season +/-
+1,24,Washington Capitals,WSH,Eastern,Metropolitan,1595,82,49,26,7,105,259,239,16,8,1564,1595,31
+2,35,Winnipeg Jets,WPG,Western,Central,1578,82,52,20,10,114,277,218,9,8,1495,1593,83
+3,34,Nashville Predators,NSH,Western,Central,1575,82,53,18,11,117,267,211,7,6,1533,1592,42
+4,31,Tampa Bay Lightning,TBL,Eastern,Atlantic,1564,82,54,23,5,113,296,236,11,6,1519,1581,44
+5,6,Boston Bruins,BOS,Eastern,Atlantic,1563,82,50,20,12,112,270,214,5,7,1519,1578,44
+6,38,Vegas Golden Knights,VGK,Western,Pacific,1560,82,51,24,7,109,272,228,13,7,1500,1575,60
+7,17,Pittsburgh Penguins,PIT,Eastern,Metropolitan,1555,82,47,29,6,100,272,250,6,6,1560,1568,-5
+8,29,San Jose Sharks,SJS,Western,Pacific,1540,82,45,27,10,100,252,229,6,4,1519,1550,22
+9,5,Toronto Maple Leafs,TOR,Eastern,Atlantic,1538,82,49,26,7,105,277,232,3,4,1494,1547,44
+10,37,Minnesota Wild,MIN,Western,Central,1536,82,45,26,11,101,253,232,1,4,1530,1550,7
+11,32,Anaheim Ducks,ANA,Western,Pacific,1528,82,44,25,13,101,235,216,0,4,1535,1545,-7
+12,33,Florida Panthers,FLA,Eastern,Atlantic,1520,82,44,30,8,96,248,246,0,0,1482,1520,38
+13,36,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,1514,82,45,30,7,97,242,230,2,4,1519,1531,-5
+14,14,Los Angeles Kings,LAK,Western,Pacific,1514,82,45,29,8,98,239,203,0,4,1492,1531,22
+15,18,St. Louis Blues,STL,Western,Central,1506,82,44,32,6,94,226,222,0,0,1529,1553,-23
+16,16,Philadelphia Flyers,PHI,Eastern,Metropolitan,1498,82,42,26,14,98,251,243,2,4,1490,1513,9
+17,15,Dallas Stars,DAL,Western,Central,1494,82,42,32,8,92,235,225,0,0,1484,1520,10
+18,27,Colorado Avalanche,COL,Western,Central,1485,82,43,30,9,95,257,237,2,4,1413,1498,72
+19,23,New Jersey Devils,NJD,Eastern,Metropolitan,1484,82,44,29,9,97,248,244,1,4,1442,1494,42
+20,25,Edmonton Oilers,EDM,Western,Pacific,1474,82,36,40,6,78,234,263,0,0,1518,1522,-44
+21,26,Carolina Hurricanes,CAR,Eastern,Metropolitan,1468,82,36,35,11,83,228,256,0,0,1481,1491,-13
+22,11,Chicago Blackhawks,CHI,Western,Central,1462,82,33,39,10,76,229,256,0,0,1525,1540,-64
+23,21,Calgary Flames,CGY,Western,Pacific,1461,82,37,35,10,84,218,248,0,0,1496,1512,-35
+24,22,New York Islanders,NYI,Eastern,Metropolitan,1460,82,35,37,10,80,264,296,0,0,1510,1533,-50
+25,10,New York Rangers,NYR,Eastern,Metropolitan,1457,82,34,39,9,77,231,268,0,0,1529,1536,-71
+26,1,Montréal Canadiens,MTL,Eastern,Atlantic,1445,82,29,40,13,71,209,264,0,0,1507,1509,-63
+27,40,Arizona Coyotes,ARI,Western,Pacific,1436,82,29,41,12,70,208,256,0,0,1444,1442,-8
+28,12,Detroit Red Wings,DET,Eastern,Atlantic,1436,82,30,39,13,73,217,255,0,0,1464,1477,-28
+29,20,Vancouver Canucks,VAN,Western,Pacific,1429,82,31,40,11,73,218,264,0,0,1437,1465,-8
+30,30,Ottawa Senators,OTT,Eastern,Atlantic,1423,82,28,43,11,67,221,291,0,0,1509,1520,-85
+31,19,Buffalo Sabres,BUF,Eastern,Atlantic,1399,82,25,45,12,62,199,280,0,0,1461,1460,-62

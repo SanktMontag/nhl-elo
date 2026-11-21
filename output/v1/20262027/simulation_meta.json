@@ -1,0 +1,32 @@
+{
+  "season": 20262027,
+  "through": "2026-11-19",
+  "sims": 10000,
+  "seed": 2026,
+  "hot": true,
+  "method": "v1",
+  "params_hash": "bd4d6fb49b4c",
+  "rates": {
+    "ot_or_so": 0.2246,
+    "so_share": 0.3368,
+    "playoff_ot": 0.2269,
+    "margins": {
+      "1": 0.249,
+      "2": 0.2589,
+      "3": 0.2969,
+      "4": 0.1261,
+      "5": 0.0447,
+      "6": 0.0166,
+      "7": 0.006,
+      "8": 0.001,
+      "9": 0.0007,
+      "10": 0.0001
+    }
+  },
+  "remaining_games": 986,
+  "bracket_from_real_series": false,
+  "playoff_cut": {
+    "Eastern": 96.0,
+    "Western": 96.0
+  }
+}

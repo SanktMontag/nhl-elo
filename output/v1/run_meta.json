@@ -1,0 +1,71 @@
+{
+  "method": "v1",
+  "method_description": "KHL v1 model plus home ice, OT/SO scoring and season regression",
+  "params": {
+    "name": "v1",
+    "description": "KHL v1 model plus home ice, OT/SO scoring and season regression",
+    "scale": 400,
+    "k": 6,
+    "home_ice": 30,
+    "playoff_k": 1.0,
+    "result": {
+      "ot_win": 0.75,
+      "so_win": 0.75
+    },
+    "gd": {
+      "one_goal": 1.0,
+      "two_goals": 1.25,
+      "three_goals": 1.75,
+      "step": 0.125,
+      "cap": 3.25
+    },
+    "season": {
+      "mean": 1500,
+      "offseason_regression": 0.33,
+      "new_team_offset": 0
+    }
+  },
+  "params_hash": "bd4d6fb49b4c",
+  "first_season": 20052006,
+  "current_season": 20262027,
+  "current_season_label": "2026-27",
+  "seasons": [
+    20052006,
+    20062007,
+    20072008,
+    20082009,
+    20092010,
+    20102011,
+    20112012,
+    20122013,
+    20132014,
+    20142015,
+    20152016,
+    20162017,
+    20172018,
+    20182019,
+    20192020,
+    20202021,
+    20212022,
+    20222023,
+    20232024,
+    20242025,
+    20252026,
+    20262027
+  ],
+  "games_played": 27524,
+  "games_played_current": 358,
+  "games_upcoming": 986,
+  "last_game": "2026-11-19",
+  "score": {
+    "games": 26211,
+    "logloss": 0.6736650495777162,
+    "brier": 0.2404523145668004,
+    "pick_pct": 0.5763992217008126,
+    "home_win_pred": 0.5416357658254541,
+    "home_win_actual": 0.5425203158979055
+  },
+  "score_from": 20062007,
+  "games_sha256": "b44212525982ff37",
+  "generated_at": "2026-11-20T17:44:24"
+}

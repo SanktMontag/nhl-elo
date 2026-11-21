@@ -1,0 +1,50 @@
+name = "v1"
+description = "KHL v1 model plus home ice, OT/SO scoring and season regression"
+
+# Tuned 2026-11-20 with `nhl backtest --grid`, scoring 26,211 games from 2006-07 to 2026-11-19
+# (2005-06 is burn-in). Target: did the home team win. Lower log-loss is better.
+#   always pick the home team at 54.3% (no model):   log-loss 0.6898
+#   untuned (k=8, home_ice=30, OT/SO=1, reg=0.3):   0.6747
+#   tuned (these values):                           0.6737, brier 0.2405, picks 57.7% of winners
+# The optimum is very flat: OT/SO scoring, the GD steps and regression 0.3-0.35 each move log-loss
+# by < 0.0002. K (4-6 >> 10+) and home_ice (25-35 >> 0 or 50+) matter most.
+# Re-run the backtest each season and adjust if calibration drifts.
+
+# Logistic scale: a `scale`-point gap means 10:1 expected-score odds. K was tuned with scale fixed at 400.
+scale = 400
+# Base K-factor (rating points per unit of S−E, before the GD multiplier).
+#   k=4: 0.6741  k=6: 0.6740  k=8: 0.6748  k=10: 0.6761  k=14: 0.6795  (home_ice 35, before other tuning)
+k = 6
+# Rating points added to the home team when computing E (≈ 54% home win chance between equal teams).
+# Not applied at neutral sites (see settings.toml).
+#   0: 0.6779  20: 0.6744  30: 0.6737  35: 0.6738  50: 0.6754
+home_ice = 30
+# K multiplier for playoff games. 0.75: 0.67363, 1.0: 0.67367, 1.5: worse. Not worth the complexity.
+playoff_k = 1.0
+
+[result]
+# Score S for the winner of a game decided in overtime or a shootout. The loser gets 1 − S.
+# 1.0 = a win is a win; 0.5 = treat as a tie. 0.75 / 0.75 was best, but every combination of
+# 0.5 / 0.75 / 1.0 was within 0.0001 log-loss.
+ot_win = 0.75
+so_win = 0.75
+
+[gd]
+# Goal-difference multiplier G: 1 goal, 2 goals, 3 goals, +step per extra goal, capped.
+# Shootout games count as one-goal games: the NHL's final score includes one goal for the shootout winner.
+# NHL two-goal games are often one-goal games with an empty-net goal, so two_goals is lower than the KHL's 1.5.
+# two_goals 1.0 / 1.25 / 1.5 and cap 2.5 / 3.25 were all within 0.0001.
+one_goal = 1.0
+two_goals = 1.25
+three_goals = 1.75
+step = 0.125
+cap = 3.25
+
+[season]
+# At the start of every season: R = R + offseason_regression × (mean − R).
+#   0.2: 0.6738  0.3: 0.67363  0.35: 0.67365  0.4: 0.67375  0.5: 0.6740
+mean = 1500
+offseason_regression = 0.33
+# Expansion franchises (Vegas 2017, Seattle 2021) start at mean + new_team_offset.
+# Two teams is too few to tune this; Vegas was good immediately, Seattle wasn't.
+new_team_offset = 0

@@ -1,0 +1,53 @@
+# Data settings for `nhl fetch` and `nhl run`.
+
+# First season of the rating chain (YYYYYYYY). 2005-06 is the first season with shootouts and no ties.
+first_season = 20052006
+# Seasons scored by `nhl backtest` start here; earlier seasons are burn-in (everyone starts at 1500).
+score_from = 20062007
+# NHL game types kept: 2 = regular season, 3 = playoffs. (1 = preseason, 19/20 = 4 Nations / All-Star.)
+game_types = [2, 3]
+# Method whose output the website shows.
+default_method = "v1"
+
+[api]
+user_agent = "nhl-elo-tracker"
+# Pause between network requests, in seconds.
+delay = 0.5
+# The current season is re-downloaded when its cache is older than this. Finished seasons never expire.
+current_ttl_hours = 1
+
+[site]
+# What the website's team and division pickers start on. Team = NHL three-letter code.
+favorite_team = "SEA"
+favorite_division = "Pacific"
+
+[simulation]
+# Monte Carlo runs of the rest of the season (`nhl simulate`, also run by `nhl update`).
+sims = 10000
+seed = 2026
+# Update ratings after every simulated game ("hot"), so a team's rating can drift as it would in reality.
+hot = true
+# OT / shootout rates and regulation goal margins are measured from games since this season.
+rates_from = 20152016
+# `nhl simulate --backtest` uses fewer runs per season to stay quick.
+backtest_sims = 2000
+
+[playoffs]
+# 2013-14 on: top 3 per division + 2 wild cards per conference; the division winner with more points
+# plays the lower wild card. Series are best-of-7 with 2-2-1-1-1 home ice for the team with more points.
+format = "wildcard"
+division_spots = 3
+wildcards = 2
+
+# A franchise that continues another one for rating purposes. The NHL lists Utah as a new
+# franchise (40), but it took over Arizona's (28) players and staff in 2024, so its rating carries on.
+[[continuation]]
+from = 28
+to = 40
+note = "Arizona Coyotes hockey operations moved to Utah for 2024-25"
+
+# Games with no home team. Home-ice advantage is not applied to them.
+[[neutral]]
+season = 20192020
+game_type = 3
+note = "2020 playoffs were played in the Edmonton and Toronto bubbles without fans"

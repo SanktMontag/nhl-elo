@@ -1,0 +1,32 @@
+Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO L,Start ELO,Peak ELO,Season +/-
+1,31,Tampa Bay Lightning,TBL,,Discover Central,1601,56,36,17,3,75,181,147,16,7,1568,1602,33
+2,27,Colorado Avalanche,COL,,Honda West,1599,56,39,13,4,82,197,133,6,4,1545,1614,54
+3,38,Vegas Golden Knights,VGK,,Honda West,1588,56,40,14,2,82,191,124,10,9,1529,1602,59
+4,6,Boston Bruins,BOS,,MassMutual East,1564,56,33,16,7,73,168,136,6,5,1551,1579,13
+5,26,Carolina Hurricanes,CAR,,Discover Central,1561,56,36,12,8,80,179,136,5,6,1525,1580,35
+6,17,Pittsburgh Penguins,PIT,,MassMutual East,1555,56,37,16,3,77,196,156,2,4,1513,1566,42
+7,22,New York Islanders,NYI,,MassMutual East,1549,56,32,17,7,71,156,128,11,8,1520,1558,28
+8,5,Toronto Maple Leafs,TOR,,Scotia North,1546,56,35,14,7,77,187,148,3,4,1511,1555,35
+9,24,Washington Capitals,WSH,,MassMutual East,1542,56,36,15,5,77,191,163,1,4,1517,1553,25
+10,33,Florida Panthers,FLA,,Discover Central,1536,56,37,14,5,79,189,153,2,4,1496,1544,40
+11,37,Minnesota Wild,MIN,,Honda West,1529,56,35,16,5,75,181,160,3,4,1497,1547,32
+12,25,Edmonton Oilers,EDM,,Scotia North,1520,56,35,19,2,72,183,154,0,4,1493,1540,27
+13,10,New York Rangers,NYR,,MassMutual East,1510,56,27,23,6,60,177,157,0,0,1491,1530,20
+14,35,Winnipeg Jets,WPG,,Scotia North,1506,56,30,23,3,63,170,154,4,4,1507,1539,-1
+15,15,Dallas Stars,DAL,,Discover Central,1504,56,23,19,14,60,158,154,0,0,1514,1526,-10
+16,34,Nashville Predators,NSH,,Discover Central,1504,56,31,23,2,64,156,154,2,4,1502,1511,2
+17,18,St. Louis Blues,STL,,Honda West,1500,56,27,20,9,63,169,170,0,4,1524,1535,-25
+18,21,Calgary Flames,CGY,,Scotia North,1494,56,26,27,3,55,156,161,0,0,1511,1519,-17
+19,1,Montréal Canadiens,MTL,,Scotia North,1489,56,24,21,11,59,159,168,13,9,1491,1518,-1
+20,16,Philadelphia Flyers,PHI,,MassMutual East,1481,56,25,23,8,58,163,201,0,0,1527,1540,-46
+21,40,Arizona Coyotes,ARI,,Honda West,1471,56,24,26,6,54,153,176,0,0,1491,1495,-20
+22,11,Chicago Blackhawks,CHI,,Discover Central,1460,56,24,25,7,55,161,186,0,0,1489,1494,-29
+23,20,Vancouver Canucks,VAN,,Scotia North,1459,56,23,29,4,50,151,188,0,0,1504,1508,-45
+24,30,Ottawa Senators,OTT,,Scotia North,1447,56,23,28,5,51,157,190,0,0,1443,1450,4
+25,14,Los Angeles Kings,LAK,,Honda West,1445,56,21,28,7,49,143,170,0,0,1467,1485,-22
+26,36,Columbus Blue Jackets,CBJ,,Discover Central,1444,56,18,26,12,48,137,187,0,0,1510,1509,-66
+27,29,San Jose Sharks,SJS,,Honda West,1430,56,21,28,7,49,151,199,0,0,1473,1475,-44
+28,23,New Jersey Devils,NJD,,MassMutual East,1429,56,19,30,7,45,145,194,0,0,1468,1478,-39
+29,32,Anaheim Ducks,ANA,,Honda West,1417,56,17,30,9,43,126,179,0,0,1464,1466,-46
+30,12,Detroit Red Wings,DET,,Discover Central,1411,56,19,27,10,48,127,171,0,0,1400,1412,11
+31,19,Buffalo Sabres,BUF,,MassMutual East,1410,56,15,34,7,37,138,199,0,0,1459,1461,-49

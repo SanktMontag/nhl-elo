@@ -1,0 +1,4 @@
+# Store and check out text files with LF endings, so files written on Windows (CRLF) and by the
+# nightly GitHub Action (Linux, LF) are identical and diffs only show real changes.
+* text=auto eol=lf
+*.png binary

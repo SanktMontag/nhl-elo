@@ -1,0 +1,31 @@
+Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO L,Start ELO,Peak ELO,Season +/-
+1,14,Los Angeles Kings,LAK,Western,Pacific,1570,82,40,27,15,95,194,179,16,4,1517,1573,53
+2,20,Vancouver Canucks,VAN,Western,Northwest,1562,82,51,22,9,111,249,198,1,4,1557,1586,5
+3,17,Pittsburgh Penguins,PIT,Eastern,Atlantic,1561,82,51,25,6,108,282,221,2,4,1514,1572,47
+4,6,Boston Bruins,BOS,Eastern,Northeast,1553,82,49,29,4,102,269,202,3,4,1552,1599,1
+5,34,Nashville Predators,NSH,Western,Central,1553,82,48,26,8,104,237,210,5,5,1524,1562,29
+6,18,St. Louis Blues,STL,Western,Central,1551,82,49,22,11,109,210,165,4,5,1504,1572,47
+7,10,New York Rangers,NYR,Eastern,Atlantic,1537,82,51,24,7,109,226,187,10,10,1508,1567,29
+8,23,New Jersey Devils,NJD,Eastern,Atlantic,1535,82,48,28,6,102,228,209,14,10,1491,1540,43
+9,12,Detroit Red Wings,DET,Western,Central,1532,82,48,28,6,102,248,203,1,4,1535,1578,-2
+10,16,Philadelphia Flyers,PHI,Eastern,Atlantic,1532,82,47,26,9,103,264,232,5,6,1517,1551,15
+11,40,Phoenix Coyotes,PHX,Western,Pacific,1530,82,42,27,13,97,216,204,9,7,1507,1539,23
+12,11,Chicago Blackhawks,CHI,Western,Central,1527,82,45,26,11,101,248,238,2,4,1543,1557,-16
+13,29,San Jose Sharks,SJS,Western,Pacific,1513,82,43,29,10,96,228,210,1,4,1538,1557,-25
+14,24,Washington Capitals,WSH,Eastern,Southeast,1512,82,42,32,8,92,222,230,7,7,1531,1552,-20
+15,19,Buffalo Sabres,BUF,Eastern,Northeast,1497,82,39,32,11,89,218,230,0,0,1511,1528,-14
+16,30,Ottawa Senators,OTT,Eastern,Northeast,1494,82,41,31,10,92,249,240,3,4,1464,1507,30
+17,21,Calgary Flames,CGY,Western,Northwest,1492,82,37,29,16,90,202,226,0,0,1509,1507,-18
+18,15,Dallas Stars,DAL,Western,Pacific,1485,82,42,35,5,89,211,222,0,0,1499,1522,-13
+19,32,Anaheim Ducks,ANA,Western,Pacific,1483,82,34,36,12,80,204,231,0,0,1514,1520,-31
+20,26,Carolina Hurricanes,CAR,Eastern,Southeast,1475,82,33,33,16,82,213,243,0,0,1494,1497,-19
+21,1,Montréal Canadiens,MTL,Eastern,Northeast,1471,82,31,35,16,78,212,226,0,0,1504,1506,-33
+22,33,Florida Panthers,FLA,Eastern,Southeast,1469,82,38,26,18,94,203,227,3,4,1449,1485,20
+23,31,Tampa Bay Lightning,TBL,Eastern,Southeast,1465,82,38,36,8,84,235,281,0,0,1516,1522,-51
+24,27,Colorado Avalanche,COL,Western,Northwest,1459,82,41,35,6,88,208,220,0,0,1438,1474,21
+25,35,Winnipeg Jets,WPG,Eastern,Southeast,1453,82,37,35,10,84,225,246,0,0,1451,1472,2
+26,5,Toronto Maple Leafs,TOR,Eastern,Northeast,1442,82,35,37,10,80,231,264,0,0,1473,1497,-31
+27,36,Columbus Blue Jackets,CBJ,Western,Central,1440,82,29,46,7,65,202,262,0,0,1461,1459,-22
+28,22,New York Islanders,NYI,Eastern,Atlantic,1440,82,34,37,11,79,203,255,0,0,1461,1469,-21
+29,25,Edmonton Oilers,EDM,Western,Northwest,1433,82,32,40,10,74,212,239,0,0,1437,1465,-4
+30,37,Minnesota Wild,MIN,Western,Northwest,1433,82,35,36,11,81,177,226,0,0,1479,1512,-46

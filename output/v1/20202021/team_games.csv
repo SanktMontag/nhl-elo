@@ -1,0 +1,1905 @@
+Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Post Game,game_id,franchise,opp_franchise
+2021-01-13,REG,Philadelphia Flyers,1527,Pittsburgh Penguins,1513,Home,56.3,6,3,W,4.6,1531,2020020001,16,17
+2021-01-13,REG,Pittsburgh Penguins,1513,Philadelphia Flyers,1527,Away,43.7,3,6,L,-4.6,1508,2020020001,17,16
+2021-01-13,REG,Toronto Maple Leafs,1511,Montréal Canadiens,1491,Home,57.1,5,4,OTW,1.1,1512,2020020003,5,1
+2021-01-13,REG,Montréal Canadiens,1491,Toronto Maple Leafs,1511,Away,42.9,4,5,OTL,-1.1,1490,2020020003,1,5
+2021-01-13,REG,Tampa Bay Lightning,1568,Chicago Blackhawks,1489,Home,65.2,5,1,W,3.9,1572,2020020002,31,11
+2021-01-13,REG,Chicago Blackhawks,1489,Tampa Bay Lightning,1568,Away,34.8,1,5,L,-3.9,1485,2020020002,11,31
+2021-01-13,REG,Edmonton Oilers,1493,Vancouver Canucks,1504,Home,52.7,3,5,L,-4.0,1489,2020020004,25,20
+2021-01-13,REG,Vancouver Canucks,1504,Edmonton Oilers,1493,Away,47.3,5,3,W,4.0,1508,2020020004,20,25
+2021-01-13,REG,Colorado Avalanche,1545,St. Louis Blues,1524,Home,57.2,1,4,L,-6.0,1539,2020020005,27,18
+2021-01-13,REG,St. Louis Blues,1524,Colorado Avalanche,1545,Away,42.8,4,1,W,6.0,1530,2020020005,18,27
+2021-01-14,REG,Buffalo Sabres,1459,Washington Capitals,1517,Home,45.9,4,6,L,-3.4,1456,2020020006,19,24
+2021-01-14,REG,Washington Capitals,1517,Buffalo Sabres,1459,Away,54.1,6,4,W,3.4,1521,2020020006,24,19
+2021-01-14,REG,New Jersey Devils,1468,Boston Bruins,1551,Home,42.3,2,3,SOL,-1.0,1467,2020020007,23,6
+2021-01-14,REG,Boston Bruins,1551,New Jersey Devils,1468,Away,57.7,3,2,SOW,1.0,1552,2020020007,6,23
+2021-01-14,REG,New York Rangers,1491,New York Islanders,1520,Home,50.0,0,4,L,-5.6,1485,2020020008,10,22
+2021-01-14,REG,New York Islanders,1520,New York Rangers,1491,Away,50.0,4,0,W,5.6,1526,2020020008,22,10
+2021-01-14,REG,Detroit Red Wings,1400,Carolina Hurricanes,1525,Home,36.6,0,3,L,-3.8,1396,2020020010,12,26
+2021-01-14,REG,Carolina Hurricanes,1525,Detroit Red Wings,1400,Away,63.4,3,0,W,3.8,1529,2020020010,26,12
+2021-01-14,REG,Nashville Predators,1502,Columbus Blue Jackets,1510,Home,53.2,3,1,W,3.5,1506,2020020011,34,36
+2021-01-14,REG,Columbus Blue Jackets,1510,Nashville Predators,1502,Away,46.8,1,3,L,-3.5,1506,2020020011,36,34
+2021-01-14,REG,Winnipeg Jets,1507,Calgary Flames,1511,Home,53.7,4,3,OTW,1.3,1508,2020020012,35,21
+2021-01-14,REG,Calgary Flames,1511,Winnipeg Jets,1507,Away,46.3,3,4,OTL,-1.3,1510,2020020012,21,35
+2021-01-14,REG,Edmonton Oilers,1489,Vancouver Canucks,1508,Home,51.6,5,2,W,5.1,1494,2020020013,25,20
+2021-01-14,REG,Vancouver Canucks,1508,Edmonton Oilers,1489,Away,48.4,2,5,L,-5.1,1503,2020020013,20,25
+2021-01-14,REG,Arizona Coyotes,1491,San Jose Sharks,1473,Home,56.8,3,4,SOL,-1.9,1489,2020020014,40,29
+2021-01-14,REG,San Jose Sharks,1473,Arizona Coyotes,1491,Away,43.2,4,3,SOW,1.9,1475,2020020014,29,40
+2021-01-14,REG,Vegas Golden Knights,1529,Anaheim Ducks,1464,Home,63.3,5,2,W,3.9,1532,2020020015,38,32
+2021-01-14,REG,Anaheim Ducks,1464,Vegas Golden Knights,1529,Away,36.7,2,5,L,-3.9,1460,2020020015,32,38
+2021-01-14,REG,Los Angeles Kings,1467,Minnesota Wild,1497,Home,50.0,3,4,OTL,-1.5,1466,2020020016,14,37
+2021-01-14,REG,Minnesota Wild,1497,Los Angeles Kings,1467,Away,50.0,4,3,OTW,1.5,1499,2020020016,37,14
+2021-01-15,REG,Buffalo Sabres,1456,Washington Capitals,1521,Home,44.9,1,2,L,-2.7,1453,2020020017,19,24
+2021-01-15,REG,Washington Capitals,1521,Buffalo Sabres,1456,Away,55.1,2,1,W,2.7,1523,2020020017,24,19
+2021-01-15,REG,Philadelphia Flyers,1531,Pittsburgh Penguins,1508,Home,57.6,5,2,W,4.5,1536,2020020018,16,17
+2021-01-15,REG,Pittsburgh Penguins,1508,Philadelphia Flyers,1531,Away,42.4,2,5,L,-4.5,1504,2020020018,17,16
+2021-01-15,REG,Tampa Bay Lightning,1572,Chicago Blackhawks,1485,Home,66.2,5,2,W,3.5,1576,2020020019,31,11
+2021-01-15,REG,Chicago Blackhawks,1485,Tampa Bay Lightning,1572,Away,33.8,2,5,L,-3.5,1482,2020020019,11,31
+2021-01-15,REG,Ottawa Senators,1443,Toronto Maple Leafs,1512,Home,44.4,5,3,W,4.2,1447,2020020021,30,5
+2021-01-15,REG,Toronto Maple Leafs,1512,Ottawa Senators,1443,Away,55.6,3,5,L,-4.2,1508,2020020021,5,30
+2021-01-15,REG,Colorado Avalanche,1539,St. Louis Blues,1530,Home,55.5,8,0,W,6.3,1545,2020020022,27,18
+2021-01-15,REG,St. Louis Blues,1530,Colorado Avalanche,1539,Away,44.5,0,8,L,-6.3,1524,2020020022,18,27
+2021-01-16,REG,New Jersey Devils,1467,Boston Bruins,1552,Home,42.0,2,1,OTW,2.0,1469,2020020023,23,6
+2021-01-16,REG,Boston Bruins,1552,New Jersey Devils,1467,Away,58.0,1,2,OTL,-2.0,1550,2020020023,6,23
+2021-01-16,REG,Arizona Coyotes,1489,San Jose Sharks,1475,Home,56.2,5,3,W,3.3,1492,2020020030,40,29
+2021-01-16,REG,San Jose Sharks,1475,Arizona Coyotes,1489,Away,43.8,3,5,L,-3.3,1472,2020020030,29,40
+2021-01-16,REG,New York Rangers,1485,New York Islanders,1526,Home,48.4,5,0,W,6.2,1491,2020020024,10,22
+2021-01-16,REG,New York Islanders,1526,New York Rangers,1485,Away,51.6,0,5,L,-6.2,1520,2020020024,22,10
+2021-01-16,REG,Detroit Red Wings,1396,Carolina Hurricanes,1529,Home,35.6,4,2,W,4.8,1401,2020020025,12,26
+2021-01-16,REG,Carolina Hurricanes,1529,Detroit Red Wings,1396,Away,64.4,2,4,L,-4.8,1524,2020020025,26,12
+2021-01-16,REG,Ottawa Senators,1447,Toronto Maple Leafs,1508,Home,45.6,2,3,L,-2.7,1445,2020020027,30,5
+2021-01-16,REG,Toronto Maple Leafs,1508,Ottawa Senators,1447,Away,54.4,3,2,W,2.7,1510,2020020027,5,30
+2021-01-16,REG,Edmonton Oilers,1494,Montréal Canadiens,1490,Home,54.9,1,5,L,-6.2,1488,2020020029,25,1
+2021-01-16,REG,Montréal Canadiens,1490,Edmonton Oilers,1494,Away,45.1,5,1,W,6.2,1496,2020020029,1,25
+2021-01-16,REG,Nashville Predators,1506,Columbus Blue Jackets,1506,Home,54.2,5,2,W,4.8,1510,2020020026,34,36
+2021-01-16,REG,Columbus Blue Jackets,1506,Nashville Predators,1506,Away,45.8,2,5,L,-4.8,1502,2020020026,36,34
+2021-01-16,REG,Los Angeles Kings,1466,Minnesota Wild,1499,Home,49.6,3,4,OTL,-1.5,1464,2020020032,14,37
+2021-01-16,REG,Minnesota Wild,1499,Los Angeles Kings,1466,Away,50.4,4,3,OTW,1.5,1500,2020020032,37,14
+2021-01-16,REG,Calgary Flames,1510,Vancouver Canucks,1503,Home,55.3,3,0,W,4.7,1515,2020020028,21,20
+2021-01-16,REG,Vancouver Canucks,1503,Calgary Flames,1510,Away,44.7,0,3,L,-4.7,1498,2020020028,20,21
+2021-01-16,REG,Vegas Golden Knights,1532,Anaheim Ducks,1460,Home,64.3,2,1,OTW,0.6,1533,2020020031,38,32
+2021-01-16,REG,Anaheim Ducks,1460,Vegas Golden Knights,1532,Away,35.7,1,2,OTL,-0.6,1459,2020020031,32,38
+2021-01-17,REG,Pittsburgh Penguins,1504,Washington Capitals,1523,Home,51.5,4,3,SOW,1.4,1505,2020020035,17,24
+2021-01-17,REG,Washington Capitals,1523,Pittsburgh Penguins,1504,Away,48.5,3,4,SOL,-1.4,1522,2020020035,24,17
+2021-01-17,REG,Florida Panthers,1496,Chicago Blackhawks,1482,Home,56.3,5,2,W,4.6,1500,2020020034,33,11
+2021-01-17,REG,Chicago Blackhawks,1482,Florida Panthers,1496,Away,43.7,2,5,L,-4.6,1477,2020020034,11,33
+2021-01-18,REG,Detroit Red Wings,1401,Columbus Blue Jackets,1502,Home,40.0,2,3,L,-2.4,1399,2020020038,12,36
+2021-01-18,REG,Columbus Blue Jackets,1502,Detroit Red Wings,1401,Away,60.0,3,2,W,2.4,1504,2020020038,36,12
+2021-01-18,REG,New York Islanders,1520,Boston Bruins,1550,Home,49.9,1,0,W,3.0,1523,2020020036,22,6
+2021-01-18,REG,Boston Bruins,1550,New York Islanders,1520,Away,50.1,0,1,L,-3.0,1547,2020020036,6,22
+2021-01-18,REG,Toronto Maple Leafs,1510,Winnipeg Jets,1508,Home,54.6,3,1,W,3.4,1514,2020020041,5,35
+2021-01-18,REG,Winnipeg Jets,1508,Toronto Maple Leafs,1510,Away,45.4,1,3,L,-3.4,1505,2020020041,35,5
+2021-01-18,REG,Philadelphia Flyers,1536,Buffalo Sabres,1453,Home,65.7,1,6,L,-7.9,1528,2020020037,16,19
+2021-01-18,REG,Buffalo Sabres,1453,Philadelphia Flyers,1536,Away,34.3,6,1,W,7.9,1461,2020020037,19,16
+2021-01-18,REG,St. Louis Blues,1524,San Jose Sharks,1472,Home,61.6,5,4,W,2.3,1526,2020020039,18,29
+2021-01-18,REG,San Jose Sharks,1472,St. Louis Blues,1524,Away,38.4,4,5,L,-2.3,1470,2020020039,29,18
+2021-01-18,REG,Nashville Predators,1510,Carolina Hurricanes,1524,Home,52.3,2,4,L,-3.9,1506,2020020040,34,26
+2021-01-18,REG,Carolina Hurricanes,1524,Nashville Predators,1510,Away,47.7,4,2,W,3.9,1528,2020020040,26,34
+2021-01-18,REG,Calgary Flames,1515,Vancouver Canucks,1498,Home,56.6,5,2,W,4.6,1519,2020020042,21,20
+2021-01-18,REG,Vancouver Canucks,1498,Calgary Flames,1515,Away,43.4,2,5,L,-4.6,1494,2020020042,20,21
+2021-01-18,REG,Edmonton Oilers,1488,Montréal Canadiens,1496,Home,53.2,1,3,L,-4.0,1484,2020020043,25,1
+2021-01-18,REG,Montréal Canadiens,1496,Edmonton Oilers,1488,Away,46.8,3,1,W,4.0,1500,2020020043,1,25
+2021-01-18,REG,Anaheim Ducks,1459,Minnesota Wild,1500,Home,48.4,1,0,W,3.1,1462,2020020045,32,37
+2021-01-18,REG,Minnesota Wild,1500,Anaheim Ducks,1459,Away,51.6,0,1,L,-3.1,1497,2020020045,37,32
+2021-01-18,REG,Vegas Golden Knights,1533,Arizona Coyotes,1492,Home,60.1,4,2,W,3.0,1536,2020020044,38,40
+2021-01-18,REG,Arizona Coyotes,1492,Vegas Golden Knights,1533,Away,39.9,2,4,L,-3.0,1489,2020020044,40,38
+2021-01-19,REG,New York Rangers,1491,New Jersey Devils,1469,Home,57.5,3,4,L,-3.5,1488,2020020046,10,23
+2021-01-19,REG,New Jersey Devils,1469,New York Rangers,1491,Away,42.5,4,3,W,3.5,1472,2020020046,23,10
+2021-01-19,REG,Philadelphia Flyers,1528,Buffalo Sabres,1461,Home,63.6,3,0,W,3.8,1532,2020020047,16,19
+2021-01-19,REG,Buffalo Sabres,1461,Philadelphia Flyers,1528,Away,36.4,0,3,L,-3.8,1457,2020020047,19,16
+2021-01-19,REG,Florida Panthers,1500,Chicago Blackhawks,1477,Home,57.6,5,4,OTW,1.0,1501,2020020049,33,11
+2021-01-19,REG,Chicago Blackhawks,1477,Florida Panthers,1500,Away,42.4,4,5,OTL,-1.0,1476,2020020049,11,33
+2021-01-19,REG,Pittsburgh Penguins,1505,Washington Capitals,1522,Home,51.9,5,4,OTW,1.4,1507,2020020050,17,24
+2021-01-19,REG,Washington Capitals,1522,Pittsburgh Penguins,1505,Away,48.1,4,5,OTL,-1.4,1521,2020020050,24,17
+2021-01-19,REG,Ottawa Senators,1445,Winnipeg Jets,1505,Home,45.6,3,4,OTL,-1.2,1443,2020020053,30,35
+2021-01-19,REG,Winnipeg Jets,1505,Ottawa Senators,1445,Away,54.4,4,3,OTW,1.2,1506,2020020053,35,30
+2021-01-19,REG,Detroit Red Wings,1399,Columbus Blue Jackets,1504,Home,39.3,3,2,OTW,2.1,1401,2020020051,12,36
+2021-01-19,REG,Columbus Blue Jackets,1504,Detroit Red Wings,1399,Away,60.7,2,3,OTL,-2.1,1502,2020020051,36,12
+2021-01-19,REG,Los Angeles Kings,1464,Colorado Avalanche,1545,Home,42.7,2,3,L,-2.6,1462,2020020054,14,27
+2021-01-19,REG,Colorado Avalanche,1545,Los Angeles Kings,1464,Away,57.3,3,2,W,2.6,1548,2020020054,27,14
+2021-01-20,REG,Toronto Maple Leafs,1514,Edmonton Oilers,1484,Home,58.5,1,3,L,-4.4,1509,2020020056,5,25
+2021-01-20,REG,Edmonton Oilers,1484,Toronto Maple Leafs,1514,Away,41.5,3,1,W,4.4,1488,2020020056,25,5
+2021-01-20,REG,St. Louis Blues,1526,San Jose Sharks,1470,Home,62.2,1,2,SOL,-2.2,1524,2020020055,18,29
+2021-01-20,REG,San Jose Sharks,1470,St. Louis Blues,1526,Away,37.8,2,1,SOW,2.2,1472,2020020055,29,18
+2021-01-20,REG,Anaheim Ducks,1462,Minnesota Wild,1497,Home,49.3,2,3,L,-3.0,1459,2020020059,32,37
+2021-01-20,REG,Minnesota Wild,1497,Anaheim Ducks,1462,Away,50.7,3,2,W,3.0,1500,2020020059,37,32
+2021-01-20,REG,Vancouver Canucks,1494,Montréal Canadiens,1500,Home,53.4,6,5,SOW,1.3,1495,2020020057,20,1
+2021-01-20,REG,Montréal Canadiens,1500,Vancouver Canucks,1494,Away,46.6,5,6,SOL,-1.3,1499,2020020057,1,20
+2021-01-20,REG,Vegas Golden Knights,1536,Arizona Coyotes,1489,Home,60.9,5,2,W,4.1,1540,2020020058,38,40
+2021-01-20,REG,Arizona Coyotes,1489,Vegas Golden Knights,1536,Away,39.1,2,5,L,-4.1,1485,2020020058,40,38
+2021-01-21,REG,Boston Bruins,1547,Philadelphia Flyers,1532,Home,56.5,5,4,SOW,1.1,1549,2020020060,6,16
+2021-01-21,REG,Philadelphia Flyers,1532,Boston Bruins,1547,Away,43.5,4,5,SOL,-1.1,1531,2020020060,16,6
+2021-01-21,REG,New York Islanders,1523,New Jersey Devils,1472,Home,61.4,4,1,W,4.0,1527,2020020061,22,23
+2021-01-21,REG,New Jersey Devils,1472,New York Islanders,1523,Away,38.6,1,4,L,-4.0,1468,2020020061,23,22
+2021-01-21,REG,Columbus Blue Jackets,1502,Tampa Bay Lightning,1576,Home,43.7,2,3,OTL,-1.1,1501,2020020063,36,31
+2021-01-21,REG,Tampa Bay Lightning,1576,Columbus Blue Jackets,1502,Away,56.3,3,2,OTW,1.1,1577,2020020063,31,36
+2021-01-21,REG,Ottawa Senators,1443,Winnipeg Jets,1506,Home,45.3,1,4,L,-4.8,1439,2020020064,30,35
+2021-01-21,REG,Winnipeg Jets,1506,Ottawa Senators,1443,Away,54.7,4,1,W,4.8,1511,2020020064,35,30
+2021-01-21,REG,Vancouver Canucks,1495,Montréal Canadiens,1499,Home,53.8,3,7,L,-6.0,1489,2020020065,20,1
+2021-01-21,REG,Montréal Canadiens,1499,Vancouver Canucks,1495,Away,46.2,7,3,W,6.0,1505,2020020065,1,20
+2021-01-21,REG,Los Angeles Kings,1462,Colorado Avalanche,1548,Home,42.0,4,2,W,4.3,1466,2020020066,14,27
+2021-01-21,REG,Colorado Avalanche,1548,Los Angeles Kings,1462,Away,58.0,2,4,L,-4.3,1543,2020020066,27,14
+2021-01-22,REG,Washington Capitals,1521,Buffalo Sabres,1457,Home,63.2,4,3,SOW,0.7,1521,2020020067,24,19
+2021-01-22,REG,Buffalo Sabres,1457,Washington Capitals,1521,Away,36.8,3,4,SOL,-0.7,1456,2020020067,19,24
+2021-01-22,REG,Pittsburgh Penguins,1507,New York Rangers,1488,Home,57.0,4,3,SOW,1.1,1508,2020020068,17,10
+2021-01-22,REG,New York Rangers,1488,Pittsburgh Penguins,1507,Away,43.0,3,4,SOL,-1.1,1487,2020020068,10,17
+2021-01-22,REG,Toronto Maple Leafs,1509,Edmonton Oilers,1488,Home,57.3,4,2,W,3.2,1513,2020020070,5,25
+2021-01-22,REG,Edmonton Oilers,1488,Toronto Maple Leafs,1509,Away,42.7,2,4,L,-3.2,1485,2020020070,25,5
+2021-01-22,REG,Chicago Blackhawks,1476,Detroit Red Wings,1401,Home,64.7,4,1,W,3.7,1480,2020020069,11,12
+2021-01-22,REG,Detroit Red Wings,1401,Chicago Blackhawks,1476,Away,35.3,1,4,L,-3.7,1397,2020020069,12,11
+2021-01-22,REG,Minnesota Wild,1500,San Jose Sharks,1472,Home,58.3,4,1,W,4.4,1504,2020020071,37,29
+2021-01-22,REG,San Jose Sharks,1472,Minnesota Wild,1500,Away,41.7,1,4,L,-4.4,1467,2020020071,29,37
+2021-01-22,REG,Dallas Stars,1514,Nashville Predators,1506,Home,55.4,7,0,W,6.0,1520,2020020072,15,34
+2021-01-22,REG,Nashville Predators,1506,Dallas Stars,1514,Away,44.6,0,7,L,-6.0,1500,2020020072,34,15
+2021-01-22,REG,Arizona Coyotes,1485,Vegas Golden Knights,1540,Home,46.4,5,2,W,5.6,1490,2020020073,40,38
+2021-01-22,REG,Vegas Golden Knights,1540,Arizona Coyotes,1485,Away,53.6,2,5,L,-5.6,1535,2020020073,38,40
+2021-01-22,REG,Anaheim Ducks,1459,Colorado Avalanche,1543,Home,42.3,2,3,OTL,-1.0,1458,2020020074,32,27
+2021-01-22,REG,Colorado Avalanche,1543,Anaheim Ducks,1459,Away,57.7,3,2,OTW,1.0,1544,2020020074,27,32
+2021-01-23,REG,Columbus Blue Jackets,1501,Tampa Bay Lightning,1577,Home,43.4,5,2,W,5.9,1507,2020020077,36,31
+2021-01-23,REG,Tampa Bay Lightning,1577,Columbus Blue Jackets,1501,Away,56.6,2,5,L,-5.9,1571,2020020077,31,36
+2021-01-23,REG,Boston Bruins,1549,Philadelphia Flyers,1531,Home,56.8,6,1,W,5.2,1554,2020020075,6,16
+2021-01-23,REG,Philadelphia Flyers,1531,Boston Bruins,1549,Away,43.2,1,6,L,-5.2,1526,2020020075,16,6
+2021-01-23,REG,Vancouver Canucks,1489,Montréal Canadiens,1505,Home,52.0,2,5,L,-5.5,1483,2020020080,20,1
+2021-01-23,REG,Montréal Canadiens,1505,Vancouver Canucks,1489,Away,48.0,5,2,W,5.5,1510,2020020080,1,20
+2021-01-23,REG,St. Louis Blues,1524,Los Angeles Kings,1466,Home,62.4,4,2,W,2.8,1527,2020020078,18,14
+2021-01-23,REG,Los Angeles Kings,1466,St. Louis Blues,1524,Away,37.6,2,4,L,-2.8,1463,2020020078,14,18
+2021-01-23,REG,Winnipeg Jets,1511,Ottawa Senators,1439,Home,64.3,6,3,W,3.7,1515,2020020079,35,30
+2021-01-23,REG,Ottawa Senators,1439,Winnipeg Jets,1511,Away,35.7,3,6,L,-3.7,1435,2020020079,30,35
+2021-01-24,REG,Chicago Blackhawks,1480,Detroit Red Wings,1397,Home,65.7,6,2,W,3.9,1484,2020020084,11,12
+2021-01-24,REG,Detroit Red Wings,1397,Chicago Blackhawks,1480,Away,34.3,2,6,L,-3.9,1393,2020020084,12,11
+2021-01-24,REG,Washington Capitals,1521,Buffalo Sabres,1456,Home,63.4,3,4,SOL,-2.3,1519,2020020082,24,19
+2021-01-24,REG,Buffalo Sabres,1456,Washington Capitals,1521,Away,36.6,4,3,SOW,2.3,1458,2020020082,19,24
+2021-01-24,REG,Calgary Flames,1519,Toronto Maple Leafs,1513,Home,55.2,2,3,L,-3.3,1516,2020020087,21,5
+2021-01-24,REG,Toronto Maple Leafs,1513,Calgary Flames,1519,Away,44.8,3,2,W,3.3,1516,2020020087,5,21
+2021-01-24,REG,Arizona Coyotes,1490,Vegas Golden Knights,1535,Home,48.0,0,1,L,-2.9,1488,2020020090,40,38
+2021-01-24,REG,Vegas Golden Knights,1535,Arizona Coyotes,1490,Away,52.0,1,0,W,2.9,1537,2020020090,38,40
+2021-01-24,REG,New Jersey Devils,1468,New York Islanders,1527,Home,45.8,2,0,W,4.1,1472,2020020081,23,22
+2021-01-24,REG,New York Islanders,1527,New Jersey Devils,1468,Away,54.2,0,2,L,-4.1,1523,2020020081,22,23
+2021-01-24,REG,Pittsburgh Penguins,1508,New York Rangers,1487,Home,57.3,3,2,W,2.6,1510,2020020083,17,10
+2021-01-24,REG,New York Rangers,1487,Pittsburgh Penguins,1508,Away,42.7,2,3,L,-2.6,1484,2020020083,10,17
+2021-01-24,REG,St. Louis Blues,1527,Los Angeles Kings,1463,Home,63.2,3,6,L,-6.6,1520,2020020085,18,14
+2021-01-24,REG,Los Angeles Kings,1463,St. Louis Blues,1527,Away,36.8,6,3,W,6.6,1470,2020020085,14,18
+2021-01-24,REG,Minnesota Wild,1504,San Jose Sharks,1467,Home,59.5,3,5,L,-4.5,1500,2020020088,37,29
+2021-01-24,REG,San Jose Sharks,1467,Minnesota Wild,1504,Away,40.5,5,3,W,4.5,1472,2020020088,29,37
+2021-01-24,REG,Dallas Stars,1520,Nashville Predators,1500,Home,57.1,3,2,W,2.6,1523,2020020089,15,34
+2021-01-24,REG,Nashville Predators,1500,Dallas Stars,1520,Away,42.9,2,3,L,-2.6,1498,2020020089,34,15
+2021-01-24,REG,Anaheim Ducks,1458,Colorado Avalanche,1544,Home,42.0,3,1,W,4.3,1463,2020020091,32,27
+2021-01-24,REG,Colorado Avalanche,1544,Anaheim Ducks,1458,Away,58.0,1,3,L,-4.3,1540,2020020091,27,32
+2021-01-24,REG,Winnipeg Jets,1515,Edmonton Oilers,1485,Home,58.5,3,4,L,-3.5,1511,2020020086,35,25
+2021-01-24,REG,Edmonton Oilers,1485,Winnipeg Jets,1515,Away,41.5,4,3,W,3.5,1489,2020020086,25,35
+2021-01-25,REG,Vancouver Canucks,1483,Ottawa Senators,1435,Home,61.1,7,1,W,5.0,1488,2020020092,20,30
+2021-01-25,REG,Ottawa Senators,1435,Vancouver Canucks,1483,Away,38.9,1,7,L,-5.0,1430,2020020092,30,20
+2021-01-26,REG,Boston Bruins,1554,Pittsburgh Penguins,1510,Home,60.4,3,2,OTW,0.9,1555,2020020093,6,17
+2021-01-26,REG,Pittsburgh Penguins,1510,Boston Bruins,1554,Away,39.6,2,3,OTL,-0.9,1509,2020020093,17,6
+2021-01-26,REG,Buffalo Sabres,1458,New York Rangers,1484,Home,50.6,3,2,W,3.0,1461,2020020094,19,10
+2021-01-26,REG,New York Rangers,1484,Buffalo Sabres,1458,Away,49.4,2,3,L,-3.0,1481,2020020094,10,19
+2021-01-26,REG,New Jersey Devils,1472,Philadelphia Flyers,1526,Home,46.6,3,5,L,-3.5,1468,2020020095,23,16
+2021-01-26,REG,Philadelphia Flyers,1526,New Jersey Devils,1472,Away,53.4,5,3,W,3.5,1529,2020020095,16,23
+2021-01-26,REG,Washington Capitals,1519,New York Islanders,1523,Home,53.8,3,2,W,2.8,1522,2020020096,24,22
+2021-01-26,REG,New York Islanders,1523,Washington Capitals,1519,Away,46.2,2,3,L,-2.8,1520,2020020096,22,24
+2021-01-26,REG,Columbus Blue Jackets,1507,Florida Panthers,1501,Home,55.1,3,4,SOL,-1.8,1505,2020020098,36,33
+2021-01-26,REG,Florida Panthers,1501,Columbus Blue Jackets,1507,Away,44.9,4,3,SOW,1.8,1503,2020020098,33,36
+2021-01-26,REG,Nashville Predators,1498,Chicago Blackhawks,1484,Home,56.3,3,2,OTW,1.1,1499,2020020099,34,11
+2021-01-26,REG,Chicago Blackhawks,1484,Nashville Predators,1498,Away,43.7,2,3,OTL,-1.1,1482,2020020099,11,34
+2021-01-26,REG,Winnipeg Jets,1511,Edmonton Oilers,1489,Home,57.5,6,4,W,3.2,1514,2020020100,35,25
+2021-01-26,REG,Edmonton Oilers,1489,Winnipeg Jets,1511,Away,42.5,4,6,L,-3.2,1485,2020020100,25,35
+2021-01-26,REG,Minnesota Wild,1500,Los Angeles Kings,1470,Home,58.6,1,2,L,-3.5,1496,2020020102,37,14
+2021-01-26,REG,Los Angeles Kings,1470,Minnesota Wild,1500,Away,41.4,2,1,W,3.5,1473,2020020102,14,37
+2021-01-26,REG,Dallas Stars,1523,Detroit Red Wings,1393,Home,71.5,2,1,OTW,0.2,1523,2020020103,15,12
+2021-01-26,REG,Detroit Red Wings,1393,Dallas Stars,1523,Away,28.5,1,2,OTL,-0.2,1393,2020020103,12,15
+2021-01-26,REG,Calgary Flames,1516,Toronto Maple Leafs,1516,Home,54.3,3,4,L,-3.3,1513,2020020101,21,5
+2021-01-26,REG,Toronto Maple Leafs,1516,Calgary Flames,1516,Away,45.7,4,3,W,3.3,1519,2020020101,5,21
+2021-01-26,REG,Colorado Avalanche,1540,San Jose Sharks,1472,Home,63.8,7,3,W,4.1,1544,2020020104,27,29
+2021-01-26,REG,San Jose Sharks,1472,Colorado Avalanche,1540,Away,36.2,3,7,L,-4.1,1468,2020020104,29,27
+2021-01-26,REG,Arizona Coyotes,1488,Anaheim Ducks,1463,Home,57.8,0,1,L,-3.5,1484,2020020105,40,32
+2021-01-26,REG,Anaheim Ducks,1463,Arizona Coyotes,1488,Away,42.2,1,0,W,3.5,1466,2020020105,32,40
+2021-01-26,REG,Vegas Golden Knights,1537,St. Louis Blues,1520,Home,56.8,4,5,SOL,-1.9,1536,2020020106,38,18
+2021-01-26,REG,St. Louis Blues,1520,Vegas Golden Knights,1537,Away,43.2,5,4,SOW,1.9,1522,2020020106,18,38
+2021-01-27,REG,Nashville Predators,1499,Chicago Blackhawks,1482,Home,56.7,2,1,SOW,1.1,1500,2020020107,34,11
+2021-01-27,REG,Chicago Blackhawks,1482,Nashville Predators,1499,Away,43.3,1,2,SOL,-1.1,1481,2020020107,11,34
+2021-01-27,REG,Vancouver Canucks,1488,Ottawa Senators,1430,Home,62.5,5,1,W,4.2,1493,2020020108,20,30
+2021-01-27,REG,Ottawa Senators,1430,Vancouver Canucks,1488,Away,37.5,1,5,L,-4.2,1426,2020020108,30,20
+2021-01-28,REG,Boston Bruins,1555,Pittsburgh Penguins,1509,Home,60.6,4,1,W,4.1,1559,2020020109,6,17
+2021-01-28,REG,Pittsburgh Penguins,1509,Boston Bruins,1555,Away,39.4,1,4,L,-4.1,1505,2020020109,17,6
+2021-01-28,REG,Buffalo Sabres,1461,New York Rangers,1481,Home,51.5,2,3,OTL,-1.6,1460,2020020110,19,10
+2021-01-28,REG,New York Rangers,1481,Buffalo Sabres,1461,Away,48.5,3,2,OTW,1.6,1483,2020020110,10,19
+2021-01-28,REG,New Jersey Devils,1468,Philadelphia Flyers,1529,Home,45.6,1,3,L,-3.4,1465,2020020111,23,16
+2021-01-28,REG,Philadelphia Flyers,1529,New Jersey Devils,1468,Away,54.4,3,1,W,3.4,1532,2020020111,16,23
+2021-01-28,REG,Washington Capitals,1522,New York Islanders,1520,Home,54.6,6,3,W,4.8,1527,2020020112,24,22
+2021-01-28,REG,New York Islanders,1520,Washington Capitals,1522,Away,45.4,3,6,L,-4.8,1515,2020020112,22,24
+2021-01-28,REG,Carolina Hurricanes,1528,Tampa Bay Lightning,1571,Home,48.2,1,0,OTW,1.6,1530,2020020113,26,31
+2021-01-28,REG,Tampa Bay Lightning,1571,Carolina Hurricanes,1528,Away,51.8,0,1,OTL,-1.6,1569,2020020113,31,26
+2021-01-28,REG,Columbus Blue Jackets,1505,Florida Panthers,1503,Home,54.6,3,2,SOW,1.2,1506,2020020114,36,33
+2021-01-28,REG,Florida Panthers,1503,Columbus Blue Jackets,1505,Away,45.4,2,3,SOL,-1.2,1502,2020020114,33,36
+2021-01-28,REG,Montréal Canadiens,1510,Calgary Flames,1513,Home,54.0,4,2,W,3.5,1514,2020020115,1,21
+2021-01-28,REG,Calgary Flames,1513,Montréal Canadiens,1510,Away,46.0,2,4,L,-3.5,1509,2020020115,21,1
+2021-01-28,REG,Minnesota Wild,1496,Los Angeles Kings,1473,Home,57.6,5,3,W,3.2,1500,2020020118,37,14
+2021-01-28,REG,Los Angeles Kings,1473,Minnesota Wild,1496,Away,42.4,3,5,L,-3.2,1470,2020020118,14,37
+2021-01-28,REG,Dallas Stars,1523,Detroit Red Wings,1393,Home,71.5,7,3,W,3.2,1526,2020020119,15,12
+2021-01-28,REG,Detroit Red Wings,1393,Dallas Stars,1523,Away,28.5,3,7,L,-3.2,1390,2020020119,12,15
+2021-01-28,REG,Colorado Avalanche,1544,San Jose Sharks,1468,Home,64.8,3,0,W,3.7,1548,2020020120,27,29
+2021-01-28,REG,San Jose Sharks,1468,Colorado Avalanche,1544,Away,35.2,0,3,L,-3.7,1464,2020020120,29,27
+2021-01-28,REG,Arizona Coyotes,1484,Anaheim Ducks,1466,Home,56.9,3,2,W,2.6,1487,2020020121,40,32
+2021-01-28,REG,Anaheim Ducks,1466,Arizona Coyotes,1484,Away,43.1,2,3,L,-2.6,1464,2020020121,32,40
+2021-01-28,REG,Edmonton Oilers,1485,Toronto Maple Leafs,1519,Home,49.5,3,4,L,-3.0,1482,2020020116,25,5
+2021-01-28,REG,Toronto Maple Leafs,1519,Edmonton Oilers,1485,Away,50.5,4,3,W,3.0,1522,2020020116,5,25
+2021-01-28,REG,Vancouver Canucks,1493,Ottawa Senators,1426,Home,63.6,4,1,W,3.8,1496,2020020117,20,30
+2021-01-28,REG,Ottawa Senators,1426,Vancouver Canucks,1493,Away,36.4,1,4,L,-3.8,1422,2020020117,30,20
+2021-01-29,REG,Chicago Blackhawks,1481,Columbus Blue Jackets,1506,Home,50.8,1,2,L,-3.0,1478,2020020123,11,36
+2021-01-29,REG,Columbus Blue Jackets,1506,Chicago Blackhawks,1481,Away,49.2,2,1,W,3.0,1509,2020020123,36,11
+2021-01-30,REG,Buffalo Sabres,1460,New Jersey Devils,1465,Home,53.6,4,3,SOW,1.3,1461,2020020124,19,23
+2021-01-30,REG,New Jersey Devils,1465,Buffalo Sabres,1460,Away,46.4,3,4,SOL,-1.3,1464,2020020124,23,19
+2021-01-30,REG,New York Rangers,1483,Pittsburgh Penguins,1505,Home,51.1,4,5,OTL,-1.6,1481,2020020125,10,17
+2021-01-30,REG,Pittsburgh Penguins,1505,New York Rangers,1483,Away,48.9,5,4,OTW,1.6,1507,2020020125,17,10
+2021-01-30,REG,Philadelphia Flyers,1532,New York Islanders,1515,Home,56.7,3,2,OTW,1.1,1534,2020020126,16,22
+2021-01-30,REG,New York Islanders,1515,Philadelphia Flyers,1532,Away,43.3,2,3,OTL,-1.1,1514,2020020126,22,16
+2021-01-30,REG,Washington Capitals,1527,Boston Bruins,1559,Home,49.7,4,3,OTW,1.5,1528,2020020127,24,6
+2021-01-30,REG,Boston Bruins,1559,Washington Capitals,1527,Away,50.3,3,4,OTL,-1.5,1557,2020020127,6,24
+2021-01-30,REG,Carolina Hurricanes,1530,Dallas Stars,1526,Home,54.8,4,1,W,4.7,1535,2020020128,26,15
+2021-01-30,REG,Dallas Stars,1526,Carolina Hurricanes,1530,Away,45.2,1,4,L,-4.7,1521,2020020128,15,26
+2021-01-30,REG,Tampa Bay Lightning,1569,Nashville Predators,1500,Home,63.9,4,3,W,2.2,1571,2020020129,31,34
+2021-01-30,REG,Nashville Predators,1500,Tampa Bay Lightning,1569,Away,36.1,3,4,L,-2.2,1498,2020020129,34,31
+2021-01-30,REG,Detroit Red Wings,1390,Florida Panthers,1502,Home,38.4,2,3,OTL,-0.8,1389,2020020130,12,33
+2021-01-30,REG,Florida Panthers,1502,Detroit Red Wings,1390,Away,61.6,3,2,OTW,0.8,1503,2020020130,33,12
+2021-01-30,REG,Montréal Canadiens,1514,Calgary Flames,1509,Home,54.9,0,2,L,-4.1,1509,2020020131,1,21
+2021-01-30,REG,Calgary Flames,1509,Montréal Canadiens,1514,Away,45.1,2,0,W,4.1,1513,2020020131,21,1
+2021-01-30,REG,Edmonton Oilers,1482,Toronto Maple Leafs,1522,Home,48.6,4,3,OTW,1.6,1484,2020020133,25,5
+2021-01-30,REG,Toronto Maple Leafs,1522,Edmonton Oilers,1482,Away,51.4,3,4,OTL,-1.6,1521,2020020133,5,25
+2021-01-30,REG,Minnesota Wild,1500,Colorado Avalanche,1548,Home,47.4,1,5,L,-5.3,1494,2020020134,37,27
+2021-01-30,REG,Colorado Avalanche,1548,Minnesota Wild,1500,Away,52.6,5,1,W,5.3,1553,2020020134,27,37
+2021-01-30,REG,Anaheim Ducks,1464,St. Louis Blues,1522,Home,45.9,1,6,L,-5.5,1458,2020020135,32,18
+2021-01-30,REG,St. Louis Blues,1522,Anaheim Ducks,1464,Away,54.1,6,1,W,5.5,1528,2020020135,18,32
+2021-01-30,REG,Winnipeg Jets,1514,Vancouver Canucks,1496,Home,56.9,1,4,L,-6.0,1508,2020020132,35,20
+2021-01-30,REG,Vancouver Canucks,1496,Winnipeg Jets,1514,Away,43.1,4,1,W,6.0,1502,2020020132,20,35
+2021-01-31,REG,Buffalo Sabres,1461,New Jersey Devils,1464,Home,53.9,3,5,L,-4.0,1457,2020020136,19,23
+2021-01-31,REG,New Jersey Devils,1464,Buffalo Sabres,1461,Away,46.1,5,3,W,4.0,1468,2020020136,23,19
+2021-01-31,REG,Carolina Hurricanes,1535,Dallas Stars,1521,Home,56.2,4,3,SOW,1.1,1536,2020020138,26,15
+2021-01-31,REG,Dallas Stars,1521,Carolina Hurricanes,1535,Away,43.8,3,4,SOL,-1.1,1520,2020020138,15,26
+2021-01-31,REG,Detroit Red Wings,1389,Florida Panthers,1503,Home,38.2,2,3,L,-2.3,1387,2020020139,12,33
+2021-01-31,REG,Florida Panthers,1503,Detroit Red Wings,1389,Away,61.8,3,2,W,2.3,1505,2020020139,33,12
+2021-01-31,REG,Philadelphia Flyers,1534,New York Islanders,1514,Home,57.1,4,3,OTW,1.1,1535,2020020137,16,22
+2021-01-31,REG,New York Islanders,1514,Philadelphia Flyers,1534,Away,42.9,3,4,OTL,-1.1,1513,2020020137,22,16
+2021-01-31,REG,Chicago Blackhawks,1478,Columbus Blue Jackets,1509,Home,49.9,3,1,W,3.8,1482,2020020140,11,36
+2021-01-31,REG,Columbus Blue Jackets,1509,Chicago Blackhawks,1478,Away,50.1,1,3,L,-3.8,1505,2020020140,36,11
+2021-01-31,REG,Minnesota Wild,1494,Colorado Avalanche,1553,Home,45.8,4,3,OTW,1.7,1496,2020020142,37,27
+2021-01-31,REG,Colorado Avalanche,1553,Minnesota Wild,1494,Away,54.2,3,4,OTL,-1.7,1551,2020020142,27,37
+2021-01-31,REG,Anaheim Ducks,1458,St. Louis Blues,1528,Home,44.3,1,4,L,-4.7,1453,2020020143,32,18
+2021-01-31,REG,St. Louis Blues,1528,Anaheim Ducks,1458,Away,55.7,4,1,W,4.7,1532,2020020143,18,32
+2021-01-31,REG,Edmonton Oilers,1484,Ottawa Senators,1422,Home,63.0,8,5,W,3.9,1488,2020020141,25,30
+2021-01-31,REG,Ottawa Senators,1422,Edmonton Oilers,1484,Away,37.0,5,8,L,-3.9,1418,2020020141,30,25
+2021-02-01,REG,New York Rangers,1481,Pittsburgh Penguins,1507,Home,50.6,3,1,W,3.7,1485,2020020144,10,17
+2021-02-01,REG,Pittsburgh Penguins,1507,New York Rangers,1481,Away,49.4,1,3,L,-3.7,1503,2020020144,17,10
+2021-02-01,REG,Washington Capitals,1528,Boston Bruins,1557,Home,50.1,3,5,L,-3.8,1524,2020020145,24,6
+2021-02-01,REG,Boston Bruins,1557,Washington Capitals,1528,Away,49.9,5,3,W,3.8,1561,2020020145,6,24
+2021-02-01,REG,Tampa Bay Lightning,1571,Nashville Predators,1498,Home,64.5,5,2,W,3.7,1575,2020020146,31,34
+2021-02-01,REG,Nashville Predators,1498,Tampa Bay Lightning,1571,Away,35.5,2,5,L,-3.7,1494,2020020146,34,31
+2021-02-01,REG,Montréal Canadiens,1509,Vancouver Canucks,1502,Home,55.3,6,2,W,5.0,1515,2020020147,1,20
+2021-02-01,REG,Vancouver Canucks,1502,Montréal Canadiens,1509,Away,44.7,2,6,L,-5.0,1497,2020020147,20,1
+2021-02-01,REG,Winnipeg Jets,1508,Calgary Flames,1513,Home,53.6,3,4,SOL,-1.7,1507,2020020148,35,21
+2021-02-01,REG,Calgary Flames,1513,Winnipeg Jets,1508,Away,46.4,4,3,SOW,1.7,1515,2020020148,21,35
+2021-02-02,REG,Columbus Blue Jackets,1505,Dallas Stars,1520,Home,52.2,3,6,L,-5.5,1500,2020020152,36,15
+2021-02-02,REG,Dallas Stars,1520,Columbus Blue Jackets,1505,Away,47.8,6,3,W,5.5,1526,2020020152,15,36
+2021-02-02,REG,Montréal Canadiens,1515,Vancouver Canucks,1497,Home,56.7,5,3,W,3.2,1518,2020020155,1,20
+2021-02-02,REG,Vancouver Canucks,1497,Montréal Canadiens,1515,Away,43.3,3,5,L,-3.2,1494,2020020155,20,1
+2021-02-02,REG,Chicago Blackhawks,1482,Carolina Hurricanes,1536,Home,46.6,3,4,SOL,-1.3,1481,2020020153,11,26
+2021-02-02,REG,Carolina Hurricanes,1536,Chicago Blackhawks,1482,Away,53.4,4,3,SOW,1.3,1537,2020020153,26,11
+2021-02-02,REG,St. Louis Blues,1532,Arizona Coyotes,1487,Home,60.7,4,3,W,2.4,1535,2020020154,18,40
+2021-02-02,REG,Arizona Coyotes,1487,St. Louis Blues,1532,Away,39.3,3,4,L,-2.4,1484,2020020154,40,18
+2021-02-02,REG,Winnipeg Jets,1507,Calgary Flames,1515,Home,53.1,3,2,W,2.8,1510,2020020156,35,21
+2021-02-02,REG,Calgary Flames,1515,Winnipeg Jets,1507,Away,46.9,2,3,L,-2.8,1512,2020020156,21,35
+2021-02-02,REG,Colorado Avalanche,1551,Minnesota Wild,1496,Home,62.1,2,1,W,2.3,1554,2020020158,27,37
+2021-02-02,REG,Minnesota Wild,1496,Colorado Avalanche,1551,Away,37.9,1,2,L,-2.3,1494,2020020158,37,27
+2021-02-02,REG,Edmonton Oilers,1488,Ottawa Senators,1418,Home,64.0,4,2,W,2.7,1491,2020020157,25,30
+2021-02-02,REG,Ottawa Senators,1418,Edmonton Oilers,1488,Away,36.0,2,4,L,-2.7,1415,2020020157,30,25
+2021-02-02,REG,Los Angeles Kings,1470,Anaheim Ducks,1453,Home,56.7,1,3,L,-4.3,1466,2020020161,14,32
+2021-02-02,REG,Anaheim Ducks,1453,Los Angeles Kings,1470,Away,43.3,3,1,W,4.3,1458,2020020161,32,14
+2021-02-03,REG,Tampa Bay Lightning,1575,Detroit Red Wings,1387,Home,77.9,5,1,W,2.5,1578,2020020160,31,12
+2021-02-03,REG,Detroit Red Wings,1387,Tampa Bay Lightning,1575,Away,22.1,1,5,L,-2.5,1384,2020020160,12,31
+2021-02-03,REG,Philadelphia Flyers,1535,Boston Bruins,1561,Home,50.5,3,4,OTL,-1.5,1533,2020020159,16,6
+2021-02-03,REG,Boston Bruins,1561,Philadelphia Flyers,1535,Away,49.5,4,3,OTW,1.5,1562,2020020159,6,16
+2021-02-04,REG,New York Rangers,1485,Washington Capitals,1524,Home,48.6,4,2,W,3.9,1489,2020020164,10,24
+2021-02-04,REG,Washington Capitals,1524,New York Rangers,1485,Away,51.4,2,4,L,-3.9,1521,2020020164,24,10
+2021-02-04,REG,Florida Panthers,1505,Nashville Predators,1494,Home,55.9,5,6,OTL,-1.9,1503,2020020165,33,34
+2021-02-04,REG,Nashville Predators,1494,Florida Panthers,1505,Away,44.1,6,5,OTW,1.9,1496,2020020165,34,33
+2021-02-04,REG,Columbus Blue Jackets,1500,Dallas Stars,1526,Home,50.6,4,3,W,3.0,1503,2020020167,36,15
+2021-02-04,REG,Dallas Stars,1526,Columbus Blue Jackets,1500,Away,49.4,3,4,L,-3.0,1523,2020020167,15,36
+2021-02-04,REG,Montréal Canadiens,1518,Ottawa Senators,1415,Home,68.2,2,3,L,-4.1,1514,2020020170,1,30
+2021-02-04,REG,Ottawa Senators,1415,Montréal Canadiens,1518,Away,31.8,3,2,W,4.1,1419,2020020170,30,1
+2021-02-04,REG,Toronto Maple Leafs,1521,Vancouver Canucks,1494,Home,58.1,7,3,W,4.7,1525,2020020171,5,20
+2021-02-04,REG,Vancouver Canucks,1494,Toronto Maple Leafs,1521,Away,41.9,3,7,L,-4.7,1489,2020020171,20,5
+2021-02-04,REG,Chicago Blackhawks,1481,Carolina Hurricanes,1537,Home,46.2,6,4,W,4.0,1485,2020020168,11,26
+2021-02-04,REG,Carolina Hurricanes,1537,Chicago Blackhawks,1481,Away,53.8,4,6,L,-4.0,1533,2020020168,26,11
+2021-02-04,REG,St. Louis Blues,1535,Arizona Coyotes,1484,Home,61.3,3,4,L,-3.7,1531,2020020169,18,40
+2021-02-04,REG,Arizona Coyotes,1484,St. Louis Blues,1535,Away,38.7,4,3,W,3.7,1488,2020020169,40,18
+2021-02-04,REG,Winnipeg Jets,1510,Calgary Flames,1512,Home,53.9,4,1,W,4.8,1514,2020020172,35,21
+2021-02-04,REG,Calgary Flames,1512,Winnipeg Jets,1510,Away,46.1,1,4,L,-4.8,1507,2020020172,21,35
+2021-02-05,REG,Philadelphia Flyers,1533,Boston Bruins,1562,Home,50.1,1,2,L,-3.0,1530,2020020174,16,6
+2021-02-05,REG,Boston Bruins,1562,Philadelphia Flyers,1533,Away,49.9,2,1,W,3.0,1566,2020020174,6,16
+2021-02-05,REG,Tampa Bay Lightning,1578,Detroit Red Wings,1384,Home,78.4,3,1,W,1.6,1579,2020020175,31,12
+2021-02-05,REG,Detroit Red Wings,1384,Tampa Bay Lightning,1578,Away,21.6,1,3,L,-1.6,1383,2020020175,12,31
+2021-02-05,REG,Florida Panthers,1503,Nashville Predators,1496,Home,55.3,2,1,W,2.7,1506,2020020176,33,34
+2021-02-05,REG,Nashville Predators,1496,Florida Panthers,1503,Away,44.7,1,2,L,-2.7,1493,2020020176,34,33
+2021-02-05,REG,Vegas Golden Knights,1536,Los Angeles Kings,1466,Home,64.0,5,2,W,3.8,1539,2020020177,38,14
+2021-02-05,REG,Los Angeles Kings,1466,Vegas Golden Knights,1536,Away,36.0,2,5,L,-3.8,1462,2020020177,14,38
+2021-02-05,REG,Anaheim Ducks,1458,San Jose Sharks,1464,Home,53.4,4,5,SOL,-1.7,1456,2020020178,32,29
+2021-02-05,REG,San Jose Sharks,1464,Anaheim Ducks,1458,Away,46.6,5,4,SOW,1.7,1466,2020020178,29,32
+2021-02-06,REG,Ottawa Senators,1419,Montréal Canadiens,1514,Home,40.8,1,2,L,-2.5,1417,2020020183,30,1
+2021-02-06,REG,Montréal Canadiens,1514,Ottawa Senators,1419,Away,59.2,2,1,W,2.5,1516,2020020183,1,30
+2021-02-06,REG,St. Louis Blues,1531,Arizona Coyotes,1488,Home,60.3,1,3,L,-4.5,1526,2020020550,18,40
+2021-02-06,REG,Arizona Coyotes,1488,St. Louis Blues,1531,Away,39.7,3,1,W,4.5,1493,2020020550,40,18
+2021-02-06,REG,New York Islanders,1513,Pittsburgh Penguins,1503,Home,55.7,4,3,W,2.7,1516,2020020181,22,17
+2021-02-06,REG,Pittsburgh Penguins,1503,New York Islanders,1513,Away,44.3,3,4,L,-2.7,1501,2020020181,17,22
+2021-02-06,REG,Toronto Maple Leafs,1525,Vancouver Canucks,1489,Home,59.4,5,1,W,4.6,1530,2020020184,5,20
+2021-02-06,REG,Vancouver Canucks,1489,Toronto Maple Leafs,1525,Away,40.6,1,5,L,-4.6,1485,2020020184,20,5
+2021-02-06,REG,Calgary Flames,1507,Edmonton Oilers,1491,Home,56.7,6,4,W,3.2,1511,2020020185,21,25
+2021-02-06,REG,Edmonton Oilers,1491,Calgary Flames,1507,Away,43.3,4,6,L,-3.2,1487,2020020185,25,21
+2021-02-06,REG,Anaheim Ducks,1456,San Jose Sharks,1466,Home,52.9,2,1,SOW,1.3,1457,2020020187,32,29
+2021-02-06,REG,San Jose Sharks,1466,Anaheim Ducks,1456,Away,47.1,1,2,SOL,-1.3,1464,2020020187,29,32
+2021-02-07,REG,Washington Capitals,1521,Philadelphia Flyers,1530,Home,52.9,4,7,L,-5.6,1515,2020020188,24,16
+2021-02-07,REG,Philadelphia Flyers,1530,Washington Capitals,1521,Away,47.1,7,4,W,5.6,1536,2020020188,16,24
+2021-02-07,REG,Florida Panthers,1506,Detroit Red Wings,1383,Home,70.7,1,4,L,-7.4,1498,2020020189,33,12
+2021-02-07,REG,Detroit Red Wings,1383,Florida Panthers,1506,Away,29.3,4,1,W,7.4,1390,2020020189,12,33
+2021-02-07,REG,Columbus Blue Jackets,1503,Carolina Hurricanes,1533,Home,50.0,5,6,L,-3.0,1500,2020020190,36,26
+2021-02-07,REG,Carolina Hurricanes,1533,Columbus Blue Jackets,1503,Away,50.0,6,5,W,3.0,1536,2020020190,26,36
+2021-02-07,REG,Dallas Stars,1523,Chicago Blackhawks,1485,Home,59.7,1,2,OTL,-2.1,1521,2020020193,15,11
+2021-02-07,REG,Chicago Blackhawks,1485,Dallas Stars,1523,Away,40.3,2,1,OTW,2.1,1487,2020020193,11,15
+2021-02-07,REG,Vegas Golden Knights,1539,Los Angeles Kings,1462,Home,65.0,4,3,W,2.1,1541,2020020194,38,14
+2021-02-07,REG,Los Angeles Kings,1462,Vegas Golden Knights,1539,Away,35.0,3,4,L,-2.1,1460,2020020194,14,38
+2021-02-08,REG,New York Rangers,1489,New York Islanders,1516,Home,50.4,0,2,L,-3.8,1485,2020020196,10,22
+2021-02-08,REG,New York Islanders,1516,New York Rangers,1489,Away,49.6,2,0,W,3.8,1520,2020020196,22,10
+2021-02-08,REG,Columbus Blue Jackets,1500,Carolina Hurricanes,1536,Home,49.1,3,2,W,3.1,1503,2020020197,36,26
+2021-02-08,REG,Carolina Hurricanes,1536,Columbus Blue Jackets,1500,Away,50.9,2,3,L,-3.1,1533,2020020197,26,36
+2021-02-08,REG,Ottawa Senators,1417,Edmonton Oilers,1487,Home,44.2,1,3,L,-3.3,1414,2020020199,30,25
+2021-02-08,REG,Edmonton Oilers,1487,Ottawa Senators,1417,Away,55.8,3,1,W,3.3,1491,2020020199,25,30
+2021-02-08,REG,Toronto Maple Leafs,1530,Vancouver Canucks,1485,Home,60.6,3,1,W,3.0,1533,2020020200,5,20
+2021-02-08,REG,Vancouver Canucks,1485,Toronto Maple Leafs,1530,Away,39.4,1,3,L,-3.0,1482,2020020200,20,5
+2021-02-08,REG,Nashville Predators,1493,Tampa Bay Lightning,1579,Home,42.0,1,4,L,-4.4,1489,2020020198,34,31
+2021-02-08,REG,Tampa Bay Lightning,1579,Nashville Predators,1493,Away,58.0,4,1,W,4.4,1584,2020020198,31,34
+2021-02-08,REG,St. Louis Blues,1526,Arizona Coyotes,1493,Home,59.1,3,4,SOL,-2.0,1524,2020020565,18,40
+2021-02-08,REG,Arizona Coyotes,1493,St. Louis Blues,1526,Away,40.9,4,3,SOW,2.0,1495,2020020565,40,18
+2021-02-09,REG,Florida Panthers,1498,Detroit Red Wings,1390,Home,68.9,2,1,W,1.9,1500,2020020203,33,12
+2021-02-09,REG,Detroit Red Wings,1390,Florida Panthers,1498,Away,31.1,1,2,L,-1.9,1388,2020020203,12,33
+2021-02-09,REG,Ottawa Senators,1414,Edmonton Oilers,1491,Home,43.3,2,3,L,-2.6,1411,2020020205,30,25
+2021-02-09,REG,Edmonton Oilers,1491,Ottawa Senators,1414,Away,56.7,3,2,W,2.6,1493,2020020205,25,30
+2021-02-09,REG,Nashville Predators,1489,Tampa Bay Lightning,1584,Home,40.8,1,6,L,-4.9,1484,2020020204,34,31
+2021-02-09,REG,Tampa Bay Lightning,1584,Nashville Predators,1489,Away,59.2,6,1,W,4.9,1589,2020020204,31,34
+2021-02-09,REG,Dallas Stars,1521,Chicago Blackhawks,1487,Home,59.1,1,2,OTL,-2.0,1519,2020020208,15,11
+2021-02-09,REG,Chicago Blackhawks,1487,Dallas Stars,1521,Away,40.9,2,1,OTW,2.0,1489,2020020208,11,15
+2021-02-09,REG,Calgary Flames,1511,Winnipeg Jets,1514,Home,53.8,3,2,W,2.8,1513,2020020206,21,35
+2021-02-09,REG,Winnipeg Jets,1514,Calgary Flames,1511,Away,46.2,2,3,L,-2.8,1512,2020020206,35,21
+2021-02-09,REG,Vegas Golden Knights,1541,Anaheim Ducks,1457,Home,65.9,5,4,W,2.0,1543,2020020210,38,32
+2021-02-09,REG,Anaheim Ducks,1457,Vegas Golden Knights,1541,Away,34.1,4,5,L,-2.0,1455,2020020210,32,38
+2021-02-09,REG,Los Angeles Kings,1460,San Jose Sharks,1464,Home,53.7,3,4,SOL,-1.7,1458,2020020211,14,29
+2021-02-09,REG,San Jose Sharks,1464,Los Angeles Kings,1460,Away,46.3,4,3,SOW,1.7,1466,2020020211,29,14
+2021-02-10,REG,New York Rangers,1485,Boston Bruins,1566,Home,42.8,2,3,OTL,-1.1,1484,2020020212,10,6
+2021-02-10,REG,Boston Bruins,1566,New York Rangers,1485,Away,57.2,3,2,OTW,1.1,1567,2020020212,6,10
+2021-02-10,REG,Montréal Canadiens,1516,Toronto Maple Leafs,1533,Home,51.9,2,4,L,-3.9,1512,2020020213,1,5
+2021-02-10,REG,Toronto Maple Leafs,1533,Montréal Canadiens,1516,Away,48.1,4,2,W,3.9,1537,2020020213,5,1
+2021-02-11,REG,New York Islanders,1520,Pittsburgh Penguins,1501,Home,57.0,3,4,SOL,-1.9,1518,2020020215,22,17
+2021-02-11,REG,Pittsburgh Penguins,1501,New York Islanders,1520,Away,43.0,4,3,SOW,1.9,1502,2020020215,17,22
+2021-02-11,REG,Florida Panthers,1500,Tampa Bay Lightning,1589,Home,41.7,5,2,W,6.1,1506,2020020217,33,31
+2021-02-11,REG,Tampa Bay Lightning,1589,Florida Panthers,1500,Away,58.3,2,5,L,-6.1,1583,2020020217,31,33
+2021-02-11,REG,Chicago Blackhawks,1489,Columbus Blue Jackets,1503,Home,52.3,5,6,L,-3.1,1486,2020020218,11,36
+2021-02-11,REG,Columbus Blue Jackets,1503,Chicago Blackhawks,1489,Away,47.7,6,5,W,3.1,1506,2020020218,36,11
+2021-02-11,REG,Nashville Predators,1484,Detroit Red Wings,1388,Home,67.4,3,2,W,2.0,1486,2020020219,34,12
+2021-02-11,REG,Detroit Red Wings,1388,Nashville Predators,1484,Away,32.6,2,3,L,-2.0,1386,2020020219,12,34
+2021-02-11,REG,Montréal Canadiens,1512,Edmonton Oilers,1493,Home,57.0,0,3,L,-6.0,1506,2020020220,1,25
+2021-02-11,REG,Edmonton Oilers,1493,Montréal Canadiens,1512,Away,43.0,3,0,W,6.0,1499,2020020220,25,1
+2021-02-11,REG,Winnipeg Jets,1512,Ottawa Senators,1411,Home,68.0,5,1,W,3.6,1515,2020020221,35,30
+2021-02-11,REG,Ottawa Senators,1411,Winnipeg Jets,1512,Away,32.0,1,5,L,-3.6,1407,2020020221,30,35
+2021-02-11,REG,Dallas Stars,1519,Carolina Hurricanes,1533,Home,52.3,3,5,L,-3.9,1515,2020020224,15,26
+2021-02-11,REG,Carolina Hurricanes,1533,Dallas Stars,1519,Away,47.7,5,3,W,3.9,1537,2020020224,26,15
+2021-02-11,REG,Vancouver Canucks,1482,Calgary Flames,1513,Home,49.8,1,3,L,-3.7,1478,2020020222,20,21
+2021-02-11,REG,Calgary Flames,1513,Vancouver Canucks,1482,Away,50.2,3,1,W,3.7,1517,2020020222,21,20
+2021-02-11,REG,Vegas Golden Knights,1543,Anaheim Ducks,1455,Home,66.4,0,1,L,-4.0,1540,2020020226,38,32
+2021-02-11,REG,Anaheim Ducks,1455,Vegas Golden Knights,1543,Away,33.6,1,0,W,4.0,1459,2020020226,32,38
+2021-02-11,REG,Los Angeles Kings,1458,San Jose Sharks,1466,Home,53.2,6,2,W,5.3,1464,2020020227,14,29
+2021-02-11,REG,San Jose Sharks,1466,Los Angeles Kings,1458,Away,46.8,2,6,L,-5.3,1461,2020020227,29,14
+2021-02-12,REG,New York Rangers,1484,Boston Bruins,1567,Home,42.5,0,1,L,-2.5,1481,2020020228,10,6
+2021-02-12,REG,Boston Bruins,1567,New York Rangers,1484,Away,57.5,1,0,W,2.5,1569,2020020228,6,10
+2021-02-12,REG,Arizona Coyotes,1495,St. Louis Blues,1524,Home,50.0,1,4,L,-5.3,1489,2020020684,40,18
+2021-02-12,REG,St. Louis Blues,1524,Arizona Coyotes,1495,Away,50.0,4,1,W,5.3,1530,2020020684,18,40
+2021-02-13,REG,Winnipeg Jets,1515,Ottawa Senators,1407,Home,68.9,1,2,L,-4.1,1511,2020020236,35,30
+2021-02-13,REG,Ottawa Senators,1407,Winnipeg Jets,1515,Away,31.1,2,1,W,4.1,1411,2020020236,30,35
+2021-02-13,REG,San Jose Sharks,1461,Vegas Golden Knights,1540,Home,43.1,1,3,L,-3.2,1458,2020020149,29,38
+2021-02-13,REG,Vegas Golden Knights,1540,San Jose Sharks,1461,Away,56.9,3,1,W,3.2,1543,2020020149,38,29
+2021-02-13,REG,New York Islanders,1518,Boston Bruins,1569,Home,46.9,4,2,W,4.0,1522,2020020230,22,6
+2021-02-13,REG,Boston Bruins,1569,New York Islanders,1518,Away,53.1,2,4,L,-4.0,1565,2020020230,6,22
+2021-02-13,REG,Florida Panthers,1506,Tampa Bay Lightning,1583,Home,43.4,1,6,L,-5.2,1501,2020020232,33,31
+2021-02-13,REG,Tampa Bay Lightning,1583,Florida Panthers,1506,Away,56.6,6,1,W,5.2,1588,2020020232,31,33
+2021-02-13,REG,Toronto Maple Leafs,1537,Montréal Canadiens,1506,Home,58.6,1,2,L,-3.5,1533,2020020235,5,1
+2021-02-13,REG,Montréal Canadiens,1506,Toronto Maple Leafs,1537,Away,41.4,2,1,W,3.5,1510,2020020235,1,5
+2021-02-13,REG,Chicago Blackhawks,1486,Columbus Blue Jackets,1506,Home,51.4,3,2,OTW,1.4,1487,2020020233,11,36
+2021-02-13,REG,Columbus Blue Jackets,1506,Chicago Blackhawks,1486,Away,48.6,2,3,OTL,-1.4,1505,2020020233,36,11
+2021-02-13,REG,Nashville Predators,1486,Detroit Red Wings,1386,Home,67.9,2,4,L,-5.1,1481,2020020234,34,12
+2021-02-13,REG,Detroit Red Wings,1386,Nashville Predators,1486,Away,32.1,4,2,W,5.1,1391,2020020234,12,34
+2021-02-13,REG,Dallas Stars,1515,Carolina Hurricanes,1537,Home,51.1,3,4,SOL,-1.6,1513,2020020238,15,26
+2021-02-13,REG,Carolina Hurricanes,1537,Dallas Stars,1515,Away,48.9,4,3,SOW,1.6,1538,2020020238,26,15
+2021-02-13,REG,Arizona Coyotes,1489,St. Louis Blues,1530,Home,48.5,4,5,OTL,-1.4,1488,2020020239,40,18
+2021-02-13,REG,St. Louis Blues,1530,Arizona Coyotes,1489,Away,51.5,5,4,OTW,1.4,1531,2020020239,18,40
+2021-02-13,REG,Vancouver Canucks,1478,Calgary Flames,1517,Home,48.7,3,1,W,3.8,1482,2020020237,20,21
+2021-02-13,REG,Calgary Flames,1517,Vancouver Canucks,1478,Away,51.3,1,3,L,-3.8,1513,2020020237,21,20
+2021-02-14,REG,Pittsburgh Penguins,1502,Washington Capitals,1515,Home,52.5,6,3,W,5.0,1507,2020020242,17,24
+2021-02-14,REG,Washington Capitals,1515,Pittsburgh Penguins,1502,Away,47.5,3,6,L,-5.0,1510,2020020242,24,17
+2021-02-14,REG,Vegas Golden Knights,1543,Colorado Avalanche,1554,Home,52.7,1,0,W,2.8,1546,2020020243,38,27
+2021-02-14,REG,Colorado Avalanche,1554,Vegas Golden Knights,1543,Away,47.3,0,1,L,-2.8,1551,2020020243,27,38
+2021-02-15,REG,Arizona Coyotes,1488,St. Louis Blues,1531,Home,48.1,1,0,W,3.1,1491,2020020251,40,18
+2021-02-15,REG,St. Louis Blues,1531,Arizona Coyotes,1488,Away,51.9,0,1,L,-3.1,1528,2020020251,18,40
+2021-02-15,REG,Buffalo Sabres,1457,New York Islanders,1522,Home,45.1,1,3,L,-3.4,1454,2020020245,19,22
+2021-02-15,REG,New York Islanders,1522,Buffalo Sabres,1457,Away,54.9,3,1,W,3.4,1525,2020020245,22,19
+2021-02-15,REG,Toronto Maple Leafs,1533,Ottawa Senators,1411,Home,70.5,5,6,OTL,-2.7,1530,2020020247,5,30
+2021-02-15,REG,Ottawa Senators,1411,Toronto Maple Leafs,1533,Away,29.5,6,5,OTW,2.7,1414,2020020247,30,5
+2021-02-15,REG,Carolina Hurricanes,1538,Columbus Blue Jackets,1505,Home,59.1,7,3,W,4.6,1543,2020020255,26,36
+2021-02-15,REG,Columbus Blue Jackets,1505,Carolina Hurricanes,1538,Away,40.9,3,7,L,-4.6,1500,2020020255,36,26
+2021-02-15,REG,Tampa Bay Lightning,1588,Florida Panthers,1501,Home,66.2,4,6,L,-5.0,1583,2020020256,31,33
+2021-02-15,REG,Florida Panthers,1501,Tampa Bay Lightning,1588,Away,33.8,6,4,W,5.0,1506,2020020256,33,31
+2021-02-15,REG,Detroit Red Wings,1391,Chicago Blackhawks,1487,Home,40.6,2,3,OTL,-0.9,1390,2020020246,12,11
+2021-02-15,REG,Chicago Blackhawks,1487,Detroit Red Wings,1391,Away,59.4,3,2,OTW,0.9,1488,2020020246,11,12
+2021-02-15,REG,Edmonton Oilers,1499,Winnipeg Jets,1511,Home,52.6,5,6,L,-3.2,1496,2020020248,25,35
+2021-02-15,REG,Winnipeg Jets,1511,Edmonton Oilers,1499,Away,47.4,6,5,W,3.2,1514,2020020248,35,25
+2021-02-15,REG,Vancouver Canucks,1482,Calgary Flames,1513,Home,49.8,3,4,OTL,-1.5,1480,2020020249,20,21
+2021-02-15,REG,Calgary Flames,1513,Vancouver Canucks,1482,Away,50.2,4,3,OTW,1.5,1515,2020020249,21,20
+2021-02-15,REG,San Jose Sharks,1458,Anaheim Ducks,1459,Home,54.1,3,2,W,2.8,1460,2020020252,29,32
+2021-02-15,REG,Anaheim Ducks,1459,San Jose Sharks,1458,Away,45.9,2,3,L,-2.8,1456,2020020252,32,29
+2021-02-16,REG,Buffalo Sabres,1454,New York Islanders,1525,Home,44.1,0,3,L,-4.6,1449,2020020253,19,22
+2021-02-16,REG,New York Islanders,1525,Buffalo Sabres,1454,Away,55.9,3,0,W,4.6,1530,2020020253,22,19
+2021-02-16,REG,Pittsburgh Penguins,1507,Washington Capitals,1510,Home,53.9,1,3,L,-4.0,1503,2020020257,17,24
+2021-02-16,REG,Washington Capitals,1510,Pittsburgh Penguins,1507,Away,46.1,3,1,W,4.0,1514,2020020257,24,17
+2021-02-16,REG,New York Rangers,1481,New Jersey Devils,1468,Home,56.2,2,5,L,-5.9,1475,2020020364,10,23
+2021-02-16,REG,New Jersey Devils,1468,New York Rangers,1481,Away,43.8,5,2,W,5.9,1474,2020020364,23,10
+2021-02-16,REG,Vegas Golden Knights,1546,Colorado Avalanche,1551,Home,53.6,2,3,L,-3.2,1542,2020020259,38,27
+2021-02-16,REG,Colorado Avalanche,1551,Vegas Golden Knights,1546,Away,46.4,3,2,W,3.2,1554,2020020259,27,38
+2021-02-16,REG,Los Angeles Kings,1464,Minnesota Wild,1494,Home,50.0,4,0,W,5.6,1469,2020020260,14,37
+2021-02-16,REG,Minnesota Wild,1494,Los Angeles Kings,1464,Away,50.0,0,4,L,-5.6,1488,2020020260,37,14
+2021-02-17,REG,Carolina Hurricanes,1543,Florida Panthers,1506,Home,59.5,3,4,OTL,-2.1,1541,2020020062,26,33
+2021-02-17,REG,Florida Panthers,1506,Carolina Hurricanes,1543,Away,40.5,4,3,OTW,2.1,1508,2020020062,33,26
+2021-02-17,REG,Toronto Maple Leafs,1530,Ottawa Senators,1414,Home,69.9,2,1,W,1.8,1532,2020020262,5,30
+2021-02-17,REG,Ottawa Senators,1414,Toronto Maple Leafs,1530,Away,30.1,1,2,L,-1.8,1412,2020020262,30,5
+2021-02-17,REG,Detroit Red Wings,1390,Chicago Blackhawks,1488,Home,40.4,0,2,L,-3.0,1387,2020020261,12,11
+2021-02-17,REG,Chicago Blackhawks,1488,Detroit Red Wings,1390,Away,59.6,2,0,W,3.0,1491,2020020261,11,12
+2021-02-17,REG,Calgary Flames,1515,Vancouver Canucks,1480,Home,59.1,1,5,L,-6.7,1508,2020020263,21,20
+2021-02-17,REG,Vancouver Canucks,1480,Calgary Flames,1515,Away,40.9,5,1,W,6.7,1487,2020020263,20,21
+2021-02-17,REG,Edmonton Oilers,1496,Winnipeg Jets,1514,Home,51.7,3,2,W,2.9,1499,2020020264,25,35
+2021-02-17,REG,Winnipeg Jets,1514,Edmonton Oilers,1496,Away,48.3,2,3,L,-2.9,1511,2020020264,35,25
+2021-02-18,REG,Boston Bruins,1565,New Jersey Devils,1474,Home,66.8,2,3,L,-4.0,1561,2020020265,6,23
+2021-02-18,REG,New Jersey Devils,1474,Boston Bruins,1565,Away,33.2,3,2,W,4.0,1478,2020020265,23,6
+2021-02-18,REG,Philadelphia Flyers,1536,New York Rangers,1475,Home,62.7,2,3,SOL,-2.3,1533,2020020266,16,10
+2021-02-18,REG,New York Rangers,1475,Philadelphia Flyers,1536,Away,37.3,3,2,SOW,2.3,1478,2020020266,10,16
+2021-02-18,REG,Pittsburgh Penguins,1503,New York Islanders,1530,Home,50.5,4,1,W,5.2,1509,2020020267,17,22
+2021-02-18,REG,New York Islanders,1530,Pittsburgh Penguins,1503,Away,49.5,1,4,L,-5.2,1524,2020020267,22,17
+2021-02-18,REG,Columbus Blue Jackets,1500,Nashville Predators,1481,Home,57.0,3,0,W,4.5,1505,2020020268,36,34
+2021-02-18,REG,Nashville Predators,1481,Columbus Blue Jackets,1500,Away,43.0,0,3,L,-4.5,1476,2020020268,34,36
+2021-02-18,REG,Toronto Maple Leafs,1532,Ottawa Senators,1412,Home,70.3,7,3,W,3.3,1536,2020020270,5,30
+2021-02-18,REG,Ottawa Senators,1412,Toronto Maple Leafs,1532,Away,29.7,3,7,L,-3.3,1409,2020020270,30,5
+2021-02-18,REG,Washington Capitals,1514,Buffalo Sabres,1449,Home,63.3,3,1,W,2.8,1517,2020020667,24,19
+2021-02-18,REG,Buffalo Sabres,1449,Washington Capitals,1514,Away,36.7,1,3,L,-2.8,1446,2020020667,19,24
+2021-02-18,REG,St. Louis Blues,1528,San Jose Sharks,1460,Home,63.7,3,2,OTW,0.7,1529,2020020269,18,29
+2021-02-18,REG,San Jose Sharks,1460,St. Louis Blues,1528,Away,36.3,2,3,OTL,-0.7,1460,2020020269,29,18
+2021-02-18,REG,Arizona Coyotes,1491,Los Angeles Kings,1469,Home,57.4,2,3,SOL,-1.9,1489,2020020272,40,14
+2021-02-18,REG,Los Angeles Kings,1469,Arizona Coyotes,1491,Away,42.6,3,2,SOW,1.9,1471,2020020272,14,40
+2021-02-18,REG,Anaheim Ducks,1456,Minnesota Wild,1488,Home,49.8,1,3,L,-3.7,1453,2020020273,32,37
+2021-02-18,REG,Minnesota Wild,1488,Anaheim Ducks,1456,Away,50.2,3,1,W,3.7,1492,2020020273,37,32
+2021-02-19,REG,Carolina Hurricanes,1541,Chicago Blackhawks,1491,Home,61.3,5,3,W,2.9,1544,2020020274,26,11
+2021-02-19,REG,Chicago Blackhawks,1491,Carolina Hurricanes,1541,Away,38.7,3,5,L,-2.9,1488,2020020274,11,26
+2021-02-19,REG,Detroit Red Wings,1387,Florida Panthers,1508,Home,37.2,2,7,L,-4.5,1383,2020020275,12,33
+2021-02-19,REG,Florida Panthers,1508,Detroit Red Wings,1387,Away,62.8,7,2,W,4.5,1513,2020020275,33,12
+2021-02-19,REG,Calgary Flames,1508,Edmonton Oilers,1499,Home,55.6,1,2,L,-3.3,1505,2020020276,21,25
+2021-02-19,REG,Edmonton Oilers,1499,Calgary Flames,1508,Away,44.4,2,1,W,3.3,1502,2020020276,25,21
+2021-02-19,REG,Vancouver Canucks,1487,Winnipeg Jets,1511,Home,50.8,0,2,L,-3.8,1483,2020020277,20,35
+2021-02-19,REG,Winnipeg Jets,1511,Vancouver Canucks,1487,Away,49.2,2,0,W,3.8,1515,2020020277,35,20
+2021-02-20,REG,New Jersey Devils,1478,Buffalo Sabres,1446,Home,58.7,2,3,L,-3.5,1474,2020020278,23,19
+2021-02-20,REG,Buffalo Sabres,1446,New Jersey Devils,1478,Away,41.3,3,2,W,3.5,1450,2020020278,19,23
+2021-02-20,REG,Washington Capitals,1517,New York Rangers,1478,Home,59.8,1,4,L,-6.3,1511,2020020279,24,10
+2021-02-20,REG,New York Rangers,1478,Washington Capitals,1517,Away,40.2,4,1,W,6.3,1484,2020020279,10,24
+2021-02-20,REG,Colorado Avalanche,1554,Vegas Golden Knights,1542,Home,56.0,3,2,W,2.6,1557,2020020287,27,38
+2021-02-20,REG,Vegas Golden Knights,1542,Colorado Avalanche,1554,Away,44.0,2,3,L,-2.6,1540,2020020287,38,27
+2021-02-20,REG,Detroit Red Wings,1383,Florida Panthers,1513,Home,36.0,2,1,W,3.8,1387,2020020292,12,33
+2021-02-20,REG,Florida Panthers,1513,Detroit Red Wings,1383,Away,64.0,1,2,L,-3.8,1509,2020020292,33,12
+2021-02-20,REG,Pittsburgh Penguins,1509,New York Islanders,1524,Home,52.0,3,2,W,2.9,1511,2020020281,17,22
+2021-02-20,REG,New York Islanders,1524,Pittsburgh Penguins,1509,Away,48.0,2,3,L,-2.9,1522,2020020281,22,17
+2021-02-20,REG,Columbus Blue Jackets,1505,Nashville Predators,1476,Home,58.3,2,4,L,-4.4,1500,2020020282,36,34
+2021-02-20,REG,Nashville Predators,1476,Columbus Blue Jackets,1505,Away,41.7,4,2,W,4.4,1481,2020020282,34,36
+2021-02-20,REG,St. Louis Blues,1529,San Jose Sharks,1460,Home,63.9,4,5,L,-3.8,1525,2020020283,18,29
+2021-02-20,REG,San Jose Sharks,1460,St. Louis Blues,1529,Away,36.1,5,4,W,3.8,1464,2020020283,29,18
+2021-02-20,REG,Montréal Canadiens,1510,Toronto Maple Leafs,1536,Home,50.6,3,5,L,-3.8,1506,2020020284,1,5
+2021-02-20,REG,Toronto Maple Leafs,1536,Montréal Canadiens,1510,Away,49.4,5,3,W,3.8,1539,2020020284,5,1
+2021-02-20,REG,Arizona Coyotes,1489,Los Angeles Kings,1471,Home,56.9,2,4,L,-4.3,1485,2020020288,40,14
+2021-02-20,REG,Los Angeles Kings,1471,Arizona Coyotes,1489,Away,43.1,4,2,W,4.3,1475,2020020288,14,40
+2021-02-20,REG,Carolina Hurricanes,1544,Tampa Bay Lightning,1583,Home,48.7,4,0,W,5.8,1550,2020020543,26,31
+2021-02-20,REG,Tampa Bay Lightning,1583,Carolina Hurricanes,1544,Away,51.3,0,4,L,-5.8,1577,2020020543,31,26
+2021-02-20,REG,Anaheim Ducks,1453,Minnesota Wild,1492,Home,48.7,1,5,L,-5.5,1447,2020020289,32,37
+2021-02-20,REG,Minnesota Wild,1492,Anaheim Ducks,1453,Away,51.3,5,1,W,5.5,1497,2020020289,37,32
+2021-02-20,REG,Edmonton Oilers,1502,Calgary Flames,1505,Home,54.0,7,1,W,5.9,1508,2020020285,25,21
+2021-02-20,REG,Calgary Flames,1505,Edmonton Oilers,1502,Away,46.0,1,7,L,-5.9,1499,2020020285,21,25
+2021-02-21,REG,Washington Capitals,1511,New Jersey Devils,1474,Home,59.4,4,3,W,2.4,1513,2020020392,24,23
+2021-02-21,REG,New Jersey Devils,1474,Washington Capitals,1511,Away,40.6,3,4,L,-2.4,1472,2020020392,23,24
+2021-02-21,REG,Ottawa Senators,1409,Montréal Canadiens,1506,Home,40.5,3,2,OTW,2.1,1411,2020020293,30,1
+2021-02-21,REG,Montréal Canadiens,1506,Ottawa Senators,1409,Away,59.5,2,3,OTL,-2.1,1504,2020020293,1,30
+2021-02-21,REG,Boston Bruins,1561,Philadelphia Flyers,1533,Home,58.2,7,3,W,4.7,1566,2020020290,6,16
+2021-02-21,REG,Philadelphia Flyers,1533,Boston Bruins,1561,Away,41.8,3,7,L,-4.7,1529,2020020290,16,6
+2021-02-21,REG,Vancouver Canucks,1483,Winnipeg Jets,1515,Home,49.7,3,4,OTL,-1.5,1482,2020020294,20,35
+2021-02-21,REG,Winnipeg Jets,1515,Vancouver Canucks,1483,Away,50.3,4,3,OTW,1.5,1517,2020020294,35,20
+2021-02-22,REG,Florida Panthers,1509,Dallas Stars,1513,Home,53.7,3,1,W,3.5,1512,2020020009,33,15
+2021-02-22,REG,Dallas Stars,1513,Florida Panthers,1509,Away,46.3,1,3,L,-3.5,1510,2020020009,15,33
+2021-02-22,REG,Carolina Hurricanes,1550,Tampa Bay Lightning,1577,Home,50.4,2,4,L,-3.8,1546,2020020097,26,31
+2021-02-22,REG,Tampa Bay Lightning,1577,Carolina Hurricanes,1550,Away,49.6,4,2,W,3.8,1581,2020020097,31,26
+2021-02-22,REG,New York Islanders,1522,Buffalo Sabres,1450,Home,64.2,3,2,W,2.1,1524,2020020150,22,19
+2021-02-22,REG,Buffalo Sabres,1450,New York Islanders,1522,Away,35.8,2,3,L,-2.1,1448,2020020150,19,22
+2021-02-22,REG,Toronto Maple Leafs,1539,Calgary Flames,1499,Home,60.0,0,3,L,-6.3,1533,2020020298,5,21
+2021-02-22,REG,Calgary Flames,1499,Toronto Maple Leafs,1539,Away,40.0,3,0,W,6.3,1505,2020020298,21,5
+2021-02-22,REG,St. Louis Blues,1525,Los Angeles Kings,1475,Home,61.2,0,3,L,-6.4,1518,2020020297,18,14
+2021-02-22,REG,Los Angeles Kings,1475,St. Louis Blues,1525,Away,38.8,3,0,W,6.4,1482,2020020297,14,18
+2021-02-22,REG,Colorado Avalanche,1557,Vegas Golden Knights,1540,Home,56.7,0,3,L,-6.0,1551,2020020299,27,38
+2021-02-22,REG,Vegas Golden Knights,1540,Colorado Avalanche,1557,Away,43.3,3,0,W,6.0,1546,2020020299,38,27
+2021-02-22,REG,Arizona Coyotes,1485,Anaheim Ducks,1447,Home,59.6,4,3,W,2.4,1487,2020020300,40,32
+2021-02-22,REG,Anaheim Ducks,1447,Arizona Coyotes,1485,Away,40.4,3,4,L,-2.4,1445,2020020300,32,40
+2021-02-22,REG,San Jose Sharks,1464,Minnesota Wild,1497,Home,49.5,2,6,L,-5.6,1458,2020020743,29,37
+2021-02-22,REG,Minnesota Wild,1497,San Jose Sharks,1464,Away,50.5,6,2,W,5.6,1503,2020020743,37,29
+2021-02-23,REG,New Jersey Devils,1472,Buffalo Sabres,1448,Home,57.7,1,4,L,-6.1,1466,2020020295,23,19
+2021-02-23,REG,Buffalo Sabres,1448,New Jersey Devils,1472,Away,42.3,4,1,W,6.1,1454,2020020295,19,23
+2021-02-23,REG,Washington Capitals,1513,Pittsburgh Penguins,1511,Home,54.5,2,3,OTL,-1.8,1511,2020020302,24,17
+2021-02-23,REG,Pittsburgh Penguins,1511,Washington Capitals,1513,Away,45.5,3,2,OTW,1.8,1513,2020020302,17,24
+2021-02-23,REG,Columbus Blue Jackets,1500,Chicago Blackhawks,1488,Home,56.0,5,6,SOL,-1.9,1498,2020020304,36,11
+2021-02-23,REG,Chicago Blackhawks,1488,Columbus Blue Jackets,1500,Away,44.0,6,5,SOW,1.9,1490,2020020304,11,36
+2021-02-23,REG,Ottawa Senators,1411,Montréal Canadiens,1504,Home,41.1,5,4,SOW,2.0,1413,2020020306,30,1
+2021-02-23,REG,Montréal Canadiens,1504,Ottawa Senators,1411,Away,58.9,4,5,SOL,-2.0,1502,2020020306,1,30
+2021-02-23,REG,Detroit Red Wings,1387,Nashville Predators,1481,Home,40.9,0,2,L,-3.1,1384,2020020305,12,34
+2021-02-23,REG,Nashville Predators,1481,Detroit Red Wings,1387,Away,59.1,2,0,W,3.1,1484,2020020305,34,12
+2021-02-23,REG,Vancouver Canucks,1482,Edmonton Oilers,1508,Home,50.5,3,4,L,-3.0,1479,2020020307,20,25
+2021-02-23,REG,Edmonton Oilers,1508,Vancouver Canucks,1482,Away,49.5,4,3,W,3.0,1511,2020020307,25,20
+2021-02-24,REG,Tampa Bay Lightning,1581,Carolina Hurricanes,1546,Home,59.2,3,0,W,4.3,1585,2020020296,31,26
+2021-02-24,REG,Carolina Hurricanes,1546,Tampa Bay Lightning,1581,Away,40.8,0,3,L,-4.3,1542,2020020296,26,31
+2021-02-24,REG,Florida Panthers,1512,Dallas Stars,1510,Home,54.7,0,3,L,-5.7,1507,2020020303,33,15
+2021-02-24,REG,Dallas Stars,1510,Florida Panthers,1512,Away,45.3,3,0,W,5.7,1515,2020020303,15,33
+2021-02-24,REG,Philadelphia Flyers,1529,New York Rangers,1484,Home,60.6,4,3,W,2.4,1531,2020020308,16,10
+2021-02-24,REG,New York Rangers,1484,Philadelphia Flyers,1529,Away,39.4,3,4,L,-2.4,1482,2020020308,10,16
+2021-02-24,REG,Toronto Maple Leafs,1533,Calgary Flames,1505,Home,58.3,2,1,OTW,1.0,1534,2020020310,5,21
+2021-02-24,REG,Calgary Flames,1505,Toronto Maple Leafs,1533,Away,41.7,1,2,OTL,-1.0,1504,2020020310,21,5
+2021-02-24,REG,Colorado Avalanche,1551,Minnesota Wild,1503,Home,61.0,2,6,L,-6.9,1544,2020020173,27,37
+2021-02-24,REG,Minnesota Wild,1503,Colorado Avalanche,1551,Away,39.0,6,2,W,6.9,1510,2020020173,37,27
+2021-02-24,REG,Arizona Coyotes,1487,Anaheim Ducks,1445,Home,60.3,4,3,SOW,0.9,1488,2020020311,40,32
+2021-02-24,REG,Anaheim Ducks,1445,Arizona Coyotes,1487,Away,39.7,3,4,SOL,-0.9,1444,2020020311,32,40
+2021-02-24,REG,St. Louis Blues,1518,Los Angeles Kings,1482,Home,59.5,1,2,L,-3.6,1515,2020020309,18,14
+2021-02-24,REG,Los Angeles Kings,1482,St. Louis Blues,1518,Away,40.5,2,1,W,3.6,1485,2020020309,14,18
+2021-02-25,REG,New York Islanders,1524,Boston Bruins,1566,Home,48.3,7,2,W,6.2,1530,2020020312,22,6
+2021-02-25,REG,Boston Bruins,1566,New York Islanders,1524,Away,51.7,2,7,L,-6.2,1560,2020020312,6,22
+2021-02-25,REG,Washington Capitals,1511,Pittsburgh Penguins,1513,Home,54.0,5,2,W,4.8,1516,2020020313,24,17
+2021-02-25,REG,Pittsburgh Penguins,1513,Washington Capitals,1511,Away,46.0,2,5,L,-4.8,1508,2020020313,17,24
+2021-02-25,REG,Tampa Bay Lightning,1585,Carolina Hurricanes,1542,Home,60.4,3,1,W,3.0,1588,2020020314,31,26
+2021-02-25,REG,Carolina Hurricanes,1542,Tampa Bay Lightning,1585,Away,39.6,1,3,L,-3.0,1539,2020020314,26,31
+2021-02-25,REG,Florida Panthers,1507,Dallas Stars,1515,Home,53.0,3,2,W,2.8,1509,2020020315,33,15
+2021-02-25,REG,Dallas Stars,1515,Florida Panthers,1507,Away,47.0,2,3,L,-2.8,1513,2020020315,15,33
+2021-02-25,REG,Columbus Blue Jackets,1498,Chicago Blackhawks,1490,Home,55.5,0,2,L,-4.2,1494,2020020316,36,11
+2021-02-25,REG,Chicago Blackhawks,1490,Columbus Blue Jackets,1498,Away,44.5,2,0,W,4.2,1494,2020020316,11,36
+2021-02-25,REG,Ottawa Senators,1413,Calgary Flames,1504,Home,41.3,6,1,W,7.0,1420,2020020318,30,21
+2021-02-25,REG,Calgary Flames,1504,Ottawa Senators,1413,Away,58.7,1,6,L,-7.0,1497,2020020318,21,30
+2021-02-25,REG,Buffalo Sabres,1454,New Jersey Devils,1466,Home,52.6,3,4,OTL,-1.7,1452,2020020635,19,23
+2021-02-25,REG,New Jersey Devils,1466,Buffalo Sabres,1454,Away,47.4,4,3,OTW,1.7,1467,2020020635,23,19
+2021-02-25,REG,Detroit Red Wings,1384,Nashville Predators,1484,Home,40.0,5,2,W,6.3,1390,2020020317,12,34
+2021-02-25,REG,Nashville Predators,1484,Detroit Red Wings,1384,Away,60.0,2,5,L,-6.3,1478,2020020317,34,12
+2021-02-25,REG,Winnipeg Jets,1517,Montréal Canadiens,1502,Home,56.4,6,3,W,4.6,1521,2020020319,35,1
+2021-02-25,REG,Montréal Canadiens,1502,Winnipeg Jets,1517,Away,43.6,3,6,L,-4.6,1497,2020020319,1,35
+2021-02-25,REG,Vancouver Canucks,1479,Edmonton Oilers,1511,Home,49.6,0,3,L,-5.2,1474,2020020320,20,25
+2021-02-25,REG,Edmonton Oilers,1511,Vancouver Canucks,1479,Away,50.4,3,0,W,5.2,1516,2020020320,25,20
+2021-02-26,REG,New York Rangers,1482,Boston Bruins,1560,Home,43.1,6,2,W,6.4,1488,2020020323,10,6
+2021-02-26,REG,Boston Bruins,1560,New York Rangers,1482,Away,56.9,2,6,L,-6.4,1553,2020020323,6,10
+2021-02-26,REG,Minnesota Wild,1510,Los Angeles Kings,1485,Home,57.8,3,1,W,3.2,1513,2020020324,37,14
+2021-02-26,REG,Los Angeles Kings,1485,Minnesota Wild,1510,Away,42.2,1,3,L,-3.2,1482,2020020324,14,37
+2021-02-26,REG,Arizona Coyotes,1488,Colorado Avalanche,1544,Home,46.3,2,3,L,-2.8,1485,2020020321,40,27
+2021-02-26,REG,Colorado Avalanche,1544,Arizona Coyotes,1488,Away,53.7,3,2,W,2.8,1547,2020020321,27,40
+2021-02-27,REG,Buffalo Sabres,1452,Philadelphia Flyers,1531,Home,43.0,0,3,L,-4.5,1448,2020020322,19,16
+2021-02-27,REG,Philadelphia Flyers,1531,Buffalo Sabres,1452,Away,57.0,3,0,W,4.5,1536,2020020322,16,19
+2021-02-27,REG,New Jersey Devils,1467,Washington Capitals,1516,Home,47.3,2,5,L,-5.0,1462,2020020327,23,24
+2021-02-27,REG,Washington Capitals,1516,New Jersey Devils,1467,Away,52.7,5,2,W,5.0,1521,2020020327,24,23
+2021-02-27,REG,Ottawa Senators,1420,Calgary Flames,1497,Home,43.3,3,6,L,-4.5,1416,2020020333,30,21
+2021-02-27,REG,Calgary Flames,1497,Ottawa Senators,1420,Away,56.7,6,3,W,4.5,1502,2020020333,21,30
+2021-02-27,REG,Nashville Predators,1478,Columbus Blue Jackets,1494,Home,51.9,2,1,W,2.9,1480,2020020332,34,36
+2021-02-27,REG,Columbus Blue Jackets,1494,Nashville Predators,1478,Away,48.1,1,2,L,-2.9,1491,2020020332,36,34
+2021-02-27,REG,New York Islanders,1530,Pittsburgh Penguins,1508,Home,57.4,3,4,OTL,-1.9,1528,2020020328,22,17
+2021-02-27,REG,Pittsburgh Penguins,1508,New York Islanders,1530,Away,42.6,4,3,OTW,1.9,1510,2020020328,17,22
+2021-02-27,REG,Tampa Bay Lightning,1588,Dallas Stars,1513,Home,64.7,5,0,W,4.2,1592,2020020329,31,15
+2021-02-27,REG,Dallas Stars,1513,Tampa Bay Lightning,1588,Away,35.3,0,5,L,-4.2,1508,2020020329,15,31
+2021-02-27,REG,Florida Panthers,1509,Carolina Hurricanes,1539,Home,50.1,3,4,SOL,-1.5,1508,2020020330,33,26
+2021-02-27,REG,Carolina Hurricanes,1539,Florida Panthers,1509,Away,49.9,4,3,SOW,1.5,1540,2020020330,26,33
+2021-02-27,REG,Edmonton Oilers,1516,Toronto Maple Leafs,1534,Home,51.8,0,4,L,-5.8,1511,2020020335,25,5
+2021-02-27,REG,Toronto Maple Leafs,1534,Edmonton Oilers,1516,Away,48.2,4,0,W,5.8,1540,2020020335,5,25
+2021-02-27,REG,Chicago Blackhawks,1494,Detroit Red Wings,1390,Home,68.4,3,5,L,-5.1,1489,2020020331,11,12
+2021-02-27,REG,Detroit Red Wings,1390,Chicago Blackhawks,1494,Away,31.6,5,3,W,5.1,1395,2020020331,12,11
+2021-02-27,REG,Minnesota Wild,1513,Los Angeles Kings,1482,Home,58.6,4,3,OTW,1.0,1514,2020020336,37,14
+2021-02-27,REG,Los Angeles Kings,1482,Minnesota Wild,1513,Away,41.4,3,4,OTL,-1.0,1481,2020020336,14,37
+2021-02-27,REG,Arizona Coyotes,1485,Colorado Avalanche,1547,Home,45.5,2,6,L,-5.1,1480,2020020337,40,27
+2021-02-27,REG,Colorado Avalanche,1547,Arizona Coyotes,1485,Away,54.5,6,2,W,5.1,1552,2020020337,27,40
+2021-02-27,REG,Winnipeg Jets,1521,Montréal Canadiens,1497,Home,57.7,2,1,OTW,1.0,1522,2020020334,35,1
+2021-02-27,REG,Montréal Canadiens,1497,Winnipeg Jets,1521,Away,42.3,1,2,OTL,-1.0,1496,2020020334,1,35
+2021-02-27,REG,Anaheim Ducks,1444,Vegas Golden Knights,1546,Home,39.8,2,3,OTL,-0.9,1443,2020020338,32,38
+2021-02-27,REG,Vegas Golden Knights,1546,Anaheim Ducks,1444,Away,60.2,3,2,OTW,0.9,1547,2020020338,38,32
+2021-02-27,REG,San Jose Sharks,1458,St. Louis Blues,1515,Home,46.2,6,7,L,-2.8,1455,2020020339,29,18
+2021-02-27,REG,St. Louis Blues,1515,San Jose Sharks,1458,Away,53.8,7,6,W,2.8,1518,2020020339,18,29
+2021-02-28,REG,New York Rangers,1488,Boston Bruins,1553,Home,44.9,1,4,L,-4.7,1483,2020020342,10,6
+2021-02-28,REG,Boston Bruins,1553,New York Rangers,1488,Away,55.1,4,1,W,4.7,1558,2020020342,6,10
+2021-02-28,REG,Buffalo Sabres,1448,Philadelphia Flyers,1536,Home,41.7,0,3,L,-4.4,1443,2020020340,19,16
+2021-02-28,REG,Philadelphia Flyers,1536,Buffalo Sabres,1448,Away,58.3,3,0,W,4.4,1540,2020020340,16,19
+2021-02-28,REG,Nashville Predators,1480,Columbus Blue Jackets,1491,Home,52.8,3,1,W,3.5,1484,2020020344,34,36
+2021-02-28,REG,Columbus Blue Jackets,1491,Nashville Predators,1480,Away,47.2,1,3,L,-3.5,1488,2020020344,36,34
+2021-02-28,REG,New Jersey Devils,1462,Washington Capitals,1521,Home,45.9,2,3,L,-2.8,1460,2020020346,23,24
+2021-02-28,REG,Washington Capitals,1521,New Jersey Devils,1462,Away,54.1,3,2,W,2.8,1524,2020020346,24,23
+2021-02-28,REG,New York Islanders,1528,Pittsburgh Penguins,1510,Home,56.8,2,0,W,3.2,1531,2020020341,22,17
+2021-02-28,REG,Pittsburgh Penguins,1510,New York Islanders,1528,Away,43.2,0,2,L,-3.2,1507,2020020341,17,22
+2021-02-28,REG,Chicago Blackhawks,1489,Detroit Red Wings,1395,Home,67.1,7,2,W,3.9,1493,2020020343,11,12
+2021-02-28,REG,Detroit Red Wings,1395,Chicago Blackhawks,1489,Away,32.9,2,7,L,-3.9,1391,2020020343,12,11
+2021-03-01,REG,Florida Panthers,1508,Carolina Hurricanes,1540,Home,49.7,2,3,OTL,-1.5,1506,2020020348,33,26
+2021-03-01,REG,Carolina Hurricanes,1540,Florida Panthers,1508,Away,50.3,3,2,OTW,1.5,1542,2020020348,26,33
+2021-03-01,REG,Ottawa Senators,1416,Calgary Flames,1502,Home,42.0,5,1,W,6.5,1422,2020020349,30,21
+2021-03-01,REG,Calgary Flames,1502,Ottawa Senators,1416,Away,58.0,1,5,L,-6.5,1495,2020020349,21,30
+2021-03-01,REG,Winnipeg Jets,1522,Vancouver Canucks,1474,Home,61.1,0,4,L,-6.9,1515,2020020345,35,20
+2021-03-01,REG,Vancouver Canucks,1474,Winnipeg Jets,1522,Away,38.9,4,0,W,6.9,1480,2020020345,20,35
+2021-03-01,REG,Edmonton Oilers,1511,Toronto Maple Leafs,1540,Home,50.1,0,3,L,-5.3,1505,2020020350,25,5
+2021-03-01,REG,Toronto Maple Leafs,1540,Edmonton Oilers,1511,Away,49.9,3,0,W,5.3,1545,2020020350,5,25
+2021-03-01,REG,Vegas Golden Knights,1547,Minnesota Wild,1514,Home,58.9,5,4,OTW,1.0,1548,2020020351,38,37
+2021-03-01,REG,Minnesota Wild,1514,Vegas Golden Knights,1547,Away,41.1,4,5,OTL,-1.0,1513,2020020351,37,38
+2021-03-01,REG,Anaheim Ducks,1443,St. Louis Blues,1518,Home,43.6,4,5,L,-2.6,1440,2020020352,32,18
+2021-03-01,REG,St. Louis Blues,1518,Anaheim Ducks,1443,Away,56.4,5,4,W,2.6,1520,2020020352,18,32
+2021-03-01,REG,San Jose Sharks,1455,Colorado Avalanche,1552,Home,40.5,6,2,W,6.7,1462,2020020353,29,27
+2021-03-01,REG,Colorado Avalanche,1552,San Jose Sharks,1455,Away,59.5,2,6,L,-6.7,1545,2020020353,27,29
+2021-03-02,REG,New Jersey Devils,1460,New York Islanders,1531,Home,44.1,1,2,L,-2.6,1457,2020020301,23,22
+2021-03-02,REG,New York Islanders,1531,New Jersey Devils,1460,Away,55.9,2,1,W,2.6,1534,2020020301,22,23
+2021-03-02,REG,New York Rangers,1483,Buffalo Sabres,1443,Home,59.9,3,2,W,2.4,1486,2020020354,10,19
+2021-03-02,REG,Buffalo Sabres,1443,New York Rangers,1483,Away,40.1,2,3,L,-2.4,1441,2020020354,19,10
+2021-03-02,REG,Pittsburgh Penguins,1507,Philadelphia Flyers,1540,Home,49.6,5,2,W,5.3,1512,2020020355,17,16
+2021-03-02,REG,Philadelphia Flyers,1540,Pittsburgh Penguins,1507,Away,50.4,2,5,L,-5.3,1535,2020020355,16,17
+2021-03-02,REG,Columbus Blue Jackets,1488,Detroit Red Wings,1391,Home,67.4,4,1,W,3.4,1491,2020020356,36,12
+2021-03-02,REG,Detroit Red Wings,1391,Columbus Blue Jackets,1488,Away,32.6,1,4,L,-3.4,1388,2020020356,12,36
+2021-03-02,REG,Montréal Canadiens,1496,Ottawa Senators,1422,Home,64.5,3,1,W,2.7,1499,2020020357,1,30
+2021-03-02,REG,Ottawa Senators,1422,Montréal Canadiens,1496,Away,35.5,1,3,L,-2.7,1420,2020020357,30,1
+2021-03-02,REG,Nashville Predators,1484,Carolina Hurricanes,1542,Home,46.0,2,4,L,-3.5,1480,2020020052,34,26
+2021-03-02,REG,Carolina Hurricanes,1542,Nashville Predators,1484,Away,54.0,4,2,W,3.5,1545,2020020052,26,34
+2021-03-02,REG,Winnipeg Jets,1515,Vancouver Canucks,1480,Home,59.2,5,2,W,4.3,1520,2020020358,35,20
+2021-03-02,REG,Vancouver Canucks,1480,Winnipeg Jets,1515,Away,40.8,2,5,L,-4.3,1476,2020020358,20,35
+2021-03-02,REG,Dallas Stars,1508,Tampa Bay Lightning,1592,Home,42.3,0,2,L,-3.2,1505,2020020271,15,31
+2021-03-02,REG,Tampa Bay Lightning,1592,Dallas Stars,1508,Away,57.7,2,0,W,3.2,1595,2020020271,31,15
+2021-03-03,REG,Boston Bruins,1558,Washington Capitals,1524,Home,59.1,1,2,SOL,-2.0,1556,2020020359,6,24
+2021-03-03,REG,Washington Capitals,1524,Boston Bruins,1558,Away,40.9,2,1,SOW,2.0,1526,2020020359,24,6
+2021-03-03,REG,Edmonton Oilers,1505,Toronto Maple Leafs,1545,Home,48.6,1,6,L,-5.8,1500,2020020360,25,5
+2021-03-03,REG,Toronto Maple Leafs,1545,Edmonton Oilers,1505,Away,51.4,6,1,W,5.8,1551,2020020360,5,25
+2021-03-03,REG,Anaheim Ducks,1440,St. Louis Blues,1520,Home,42.9,2,3,L,-2.6,1438,2020020362,32,18
+2021-03-03,REG,St. Louis Blues,1520,Anaheim Ducks,1440,Away,57.1,3,2,W,2.6,1523,2020020362,18,32
+2021-03-03,REG,Vegas Golden Knights,1548,Minnesota Wild,1513,Home,59.2,5,1,W,4.6,1552,2020020361,38,37
+2021-03-03,REG,Minnesota Wild,1513,Vegas Golden Knights,1548,Away,40.8,1,5,L,-4.6,1508,2020020361,37,38
+2021-03-03,REG,Los Angeles Kings,1481,Arizona Coyotes,1480,Home,54.4,2,3,L,-3.3,1478,2020020742,14,40
+2021-03-03,REG,Arizona Coyotes,1480,Los Angeles Kings,1481,Away,45.6,3,2,W,3.3,1484,2020020742,40,14
+2021-03-03,REG,San Jose Sharks,1462,Colorado Avalanche,1545,Home,42.4,0,4,L,-4.8,1457,2020020363,29,27
+2021-03-03,REG,Colorado Avalanche,1545,San Jose Sharks,1462,Away,57.6,4,0,W,4.8,1550,2020020363,27,29
+2021-03-04,REG,New York Islanders,1534,Buffalo Sabres,1441,Home,67.0,5,2,W,3.5,1537,2020020163,22,19
+2021-03-04,REG,Buffalo Sabres,1441,New York Islanders,1534,Away,33.0,2,5,L,-3.5,1437,2020020163,19,22
+2021-03-04,REG,New Jersey Devils,1457,New York Rangers,1486,Home,50.2,1,6,L,-6.0,1451,2020020180,23,10
+2021-03-04,REG,New York Rangers,1486,New Jersey Devils,1457,Away,49.8,6,1,W,6.0,1492,2020020180,10,23
+2021-03-04,REG,Carolina Hurricanes,1545,Detroit Red Wings,1388,Home,74.6,5,2,W,2.7,1548,2020020365,26,12
+2021-03-04,REG,Detroit Red Wings,1388,Carolina Hurricanes,1545,Away,25.4,2,5,L,-2.7,1385,2020020365,12,26
+2021-03-04,REG,Pittsburgh Penguins,1512,Philadelphia Flyers,1535,Home,51.1,3,4,L,-3.1,1509,2020020366,17,16
+2021-03-04,REG,Philadelphia Flyers,1535,Pittsburgh Penguins,1512,Away,48.9,4,3,W,3.1,1538,2020020366,16,17
+2021-03-04,REG,Montréal Canadiens,1499,Winnipeg Jets,1520,Home,51.3,3,4,OTL,-1.6,1497,2020020369,1,35
+2021-03-04,REG,Winnipeg Jets,1520,Montréal Canadiens,1499,Away,48.7,4,3,OTW,1.6,1521,2020020369,35,1
+2021-03-04,REG,Chicago Blackhawks,1493,Tampa Bay Lightning,1595,Home,39.7,2,3,OTL,-0.9,1492,2020020367,11,31
+2021-03-04,REG,Tampa Bay Lightning,1595,Chicago Blackhawks,1493,Away,60.3,3,2,OTW,0.9,1596,2020020367,31,11
+2021-03-04,REG,Nashville Predators,1480,Florida Panthers,1506,Home,50.6,4,5,L,-3.0,1477,2020020368,34,33
+2021-03-04,REG,Florida Panthers,1506,Nashville Predators,1480,Away,49.4,5,4,W,3.0,1509,2020020368,33,34
+2021-03-04,REG,Dallas Stars,1505,Columbus Blue Jackets,1491,Home,56.3,2,3,L,-3.4,1502,2020020372,15,36
+2021-03-04,REG,Columbus Blue Jackets,1491,Dallas Stars,1505,Away,43.7,3,2,W,3.4,1495,2020020372,36,15
+2021-03-04,REG,Calgary Flames,1495,Ottawa Senators,1420,Home,64.7,7,3,W,4.0,1499,2020020370,21,30
+2021-03-04,REG,Ottawa Senators,1420,Calgary Flames,1495,Away,35.3,3,7,L,-4.0,1416,2020020370,30,21
+2021-03-04,REG,Vancouver Canucks,1476,Toronto Maple Leafs,1551,Home,43.6,3,1,W,4.2,1480,2020020371,20,5
+2021-03-04,REG,Toronto Maple Leafs,1551,Vancouver Canucks,1476,Away,56.4,1,3,L,-4.2,1547,2020020371,5,20
+2021-03-05,REG,Boston Bruins,1556,Washington Capitals,1526,Home,58.6,5,1,W,4.7,1561,2020020373,6,24
+2021-03-05,REG,Washington Capitals,1526,Boston Bruins,1556,Away,41.4,1,5,L,-4.7,1521,2020020373,24,6
+2021-03-05,REG,Chicago Blackhawks,1492,Tampa Bay Lightning,1596,Home,39.5,4,3,SOW,2.1,1494,2020020376,11,31
+2021-03-05,REG,Tampa Bay Lightning,1596,Chicago Blackhawks,1492,Away,60.5,3,4,SOL,-2.1,1594,2020020376,31,11
+2021-03-05,REG,Colorado Avalanche,1550,Anaheim Ducks,1438,Home,69.4,3,2,OTW,0.3,1550,2020020377,27,32
+2021-03-05,REG,Anaheim Ducks,1438,Colorado Avalanche,1550,Away,30.6,2,3,OTL,-0.3,1438,2020020377,32,27
+2021-03-05,REG,Arizona Coyotes,1484,Minnesota Wild,1508,Home,50.8,1,5,L,-5.7,1478,2020020378,40,37
+2021-03-05,REG,Minnesota Wild,1508,Arizona Coyotes,1484,Away,49.2,5,1,W,5.7,1514,2020020378,37,40
+2021-03-05,REG,Los Angeles Kings,1478,St. Louis Blues,1523,Home,47.9,2,3,OTL,-1.4,1477,2020020379,14,18
+2021-03-05,REG,St. Louis Blues,1523,Los Angeles Kings,1478,Away,52.1,3,2,OTW,1.4,1524,2020020379,18,14
+2021-03-05,REG,San Jose Sharks,1457,Vegas Golden Knights,1552,Home,40.8,4,5,OTL,-0.9,1456,2020020380,29,38
+2021-03-05,REG,Vegas Golden Knights,1552,San Jose Sharks,1457,Away,59.2,5,4,OTW,0.9,1553,2020020380,38,29
+2021-03-06,REG,New Jersey Devils,1451,New York Rangers,1492,Home,48.5,3,6,L,-5.1,1446,2020020374,23,10
+2021-03-06,REG,New York Rangers,1492,New Jersey Devils,1451,Away,51.5,6,3,W,5.1,1497,2020020374,10,23
+2021-03-06,REG,New York Islanders,1537,Buffalo Sabres,1437,Home,67.9,5,2,W,3.4,1541,2020020375,22,19
+2021-03-06,REG,Buffalo Sabres,1437,New York Islanders,1537,Away,32.1,2,5,L,-3.4,1434,2020020375,19,22
+2021-03-06,REG,Pittsburgh Penguins,1509,Philadelphia Flyers,1538,Home,50.2,4,3,W,3.0,1512,2020020668,17,16
+2021-03-06,REG,Philadelphia Flyers,1538,Pittsburgh Penguins,1509,Away,49.8,3,4,L,-3.0,1535,2020020668,16,17
+2021-03-06,REG,Nashville Predators,1477,Florida Panthers,1509,Home,49.7,2,6,L,-5.6,1472,2020020381,34,33
+2021-03-06,REG,Florida Panthers,1509,Nashville Predators,1477,Away,50.3,6,2,W,5.6,1515,2020020381,33,34
+2021-03-06,REG,Montréal Canadiens,1497,Winnipeg Jets,1521,Home,50.9,7,1,W,6.3,1504,2020020382,1,35
+2021-03-06,REG,Winnipeg Jets,1521,Montréal Canadiens,1497,Away,49.1,1,7,L,-6.3,1515,2020020382,35,1
+2021-03-06,REG,Vancouver Canucks,1480,Toronto Maple Leafs,1547,Home,44.8,4,2,W,4.1,1485,2020020384,20,5
+2021-03-06,REG,Toronto Maple Leafs,1547,Vancouver Canucks,1480,Away,55.2,2,4,L,-4.1,1543,2020020384,5,20
+2021-03-06,REG,Arizona Coyotes,1478,Minnesota Wild,1514,Home,49.1,5,2,W,5.3,1483,2020020387,40,37
+2021-03-06,REG,Minnesota Wild,1514,Arizona Coyotes,1478,Away,50.9,2,5,L,-5.3,1509,2020020387,37,40
+2021-03-06,REG,Dallas Stars,1502,Columbus Blue Jackets,1495,Home,55.4,5,0,W,5.4,1507,2020020385,15,36
+2021-03-06,REG,Columbus Blue Jackets,1495,Dallas Stars,1502,Away,44.6,0,5,L,-5.4,1489,2020020385,36,15
+2021-03-06,REG,Colorado Avalanche,1550,Anaheim Ducks,1438,Home,69.4,4,5,OTL,-2.7,1548,2020020386,27,32
+2021-03-06,REG,Anaheim Ducks,1438,Colorado Avalanche,1550,Away,30.6,5,4,OTW,2.7,1440,2020020386,32,27
+2021-03-06,REG,Los Angeles Kings,1477,St. Louis Blues,1524,Home,47.5,4,3,OTW,1.7,1478,2020020388,14,18
+2021-03-06,REG,St. Louis Blues,1524,Los Angeles Kings,1477,Away,52.5,3,4,OTL,-1.7,1522,2020020388,18,14
+2021-03-06,REG,Edmonton Oilers,1500,Calgary Flames,1499,Home,54.4,3,2,W,2.7,1502,2020020383,25,21
+2021-03-06,REG,Calgary Flames,1499,Edmonton Oilers,1500,Away,45.6,2,3,L,-2.7,1496,2020020383,21,25
+2021-03-06,REG,San Jose Sharks,1456,Vegas Golden Knights,1553,Home,40.5,0,4,L,-4.6,1452,2020020389,29,38
+2021-03-06,REG,Vegas Golden Knights,1553,San Jose Sharks,1456,Away,59.5,4,0,W,4.6,1558,2020020389,38,29
+2021-03-07,REG,New York Islanders,1541,Buffalo Sabres,1434,Home,68.7,5,2,W,3.3,1544,2020020391,22,19
+2021-03-07,REG,Buffalo Sabres,1434,New York Islanders,1541,Away,31.3,2,5,L,-3.3,1431,2020020391,19,22
+2021-03-07,REG,Chicago Blackhawks,1494,Tampa Bay Lightning,1594,Home,40.1,3,6,L,-4.2,1490,2020020394,11,31
+2021-03-07,REG,Tampa Bay Lightning,1594,Chicago Blackhawks,1494,Away,59.9,6,3,W,4.2,1598,2020020394,31,11
+2021-03-07,REG,Carolina Hurricanes,1548,Florida Panthers,1515,Home,58.9,4,2,W,3.1,1551,2020020076,26,33
+2021-03-07,REG,Florida Panthers,1515,Carolina Hurricanes,1548,Away,41.1,2,4,L,-3.1,1512,2020020076,33,26
+2021-03-07,REG,Boston Bruins,1561,New Jersey Devils,1446,Home,69.7,0,1,L,-4.2,1556,2020020244,6,23
+2021-03-07,REG,New Jersey Devils,1446,Boston Bruins,1561,Away,30.3,1,0,W,4.2,1450,2020020244,23,6
+2021-03-07,REG,Philadelphia Flyers,1535,Washington Capitals,1521,Home,56.2,1,3,L,-4.2,1530,2020020769,16,24
+2021-03-07,REG,Washington Capitals,1521,Philadelphia Flyers,1535,Away,43.8,3,1,W,4.2,1525,2020020769,24,16
+2021-03-07,REG,Pittsburgh Penguins,1512,New York Rangers,1497,Home,56.5,5,1,W,4.9,1517,2020020393,17,10
+2021-03-07,REG,New York Rangers,1497,Pittsburgh Penguins,1512,Away,43.5,1,5,L,-4.9,1492,2020020393,10,17
+2021-03-07,REG,Dallas Stars,1507,Nashville Predators,1472,Home,59.3,3,4,SOL,-2.1,1505,2020020250,15,34
+2021-03-07,REG,Nashville Predators,1472,Dallas Stars,1507,Away,40.7,4,3,SOW,2.1,1474,2020020250,34,15
+2021-03-07,REG,Calgary Flames,1496,Ottawa Senators,1416,Home,65.4,3,4,SOL,-2.4,1494,2020020395,21,30
+2021-03-07,REG,Ottawa Senators,1416,Calgary Flames,1496,Away,34.6,4,3,SOW,2.4,1418,2020020395,30,21
+2021-03-08,REG,Minnesota Wild,1509,Vegas Golden Knights,1558,Home,47.3,2,0,W,4.0,1513,2020020398,37,38
+2021-03-08,REG,Vegas Golden Knights,1558,Minnesota Wild,1509,Away,52.7,0,2,L,-4.0,1554,2020020398,38,37
+2021-03-08,REG,San Jose Sharks,1452,St. Louis Blues,1522,Home,44.2,3,2,OTW,1.9,1454,2020020326,29,18
+2021-03-08,REG,St. Louis Blues,1522,San Jose Sharks,1452,Away,55.8,2,3,OTL,-1.9,1521,2020020326,18,29
+2021-03-08,REG,Edmonton Oilers,1502,Ottawa Senators,1418,Home,65.9,3,2,W,2.0,1504,2020020396,25,30
+2021-03-08,REG,Ottawa Senators,1418,Edmonton Oilers,1502,Away,34.1,2,3,L,-2.0,1416,2020020396,30,25
+2021-03-08,REG,Colorado Avalanche,1548,Arizona Coyotes,1483,Home,63.3,2,3,L,-3.8,1544,2020020399,27,40
+2021-03-08,REG,Arizona Coyotes,1483,Colorado Avalanche,1548,Away,36.7,3,2,W,3.8,1487,2020020399,40,27
+2021-03-08,REG,Vancouver Canucks,1485,Montréal Canadiens,1504,Home,51.6,2,1,SOW,1.4,1486,2020020397,20,1
+2021-03-08,REG,Montréal Canadiens,1504,Vancouver Canucks,1485,Away,48.4,1,2,SOL,-1.4,1502,2020020397,1,20
+2021-03-08,REG,Anaheim Ducks,1440,Los Angeles Kings,1478,Home,48.8,6,5,OTW,1.6,1442,2020020400,32,14
+2021-03-08,REG,Los Angeles Kings,1478,Anaheim Ducks,1440,Away,51.2,5,6,OTL,-1.6,1477,2020020400,14,32
+2021-03-09,REG,Pittsburgh Penguins,1517,New York Rangers,1492,Home,57.9,4,2,W,3.2,1520,2020020405,17,10
+2021-03-09,REG,New York Rangers,1492,Pittsburgh Penguins,1517,Away,42.1,2,4,L,-3.2,1489,2020020405,10,17
+2021-03-09,REG,New York Islanders,1544,Boston Bruins,1556,Home,52.5,2,1,SOW,1.3,1545,2020020401,22,6
+2021-03-09,REG,Boston Bruins,1556,New York Islanders,1544,Away,47.5,1,2,SOL,-1.3,1555,2020020401,6,22
+2021-03-09,REG,Philadelphia Flyers,1530,Buffalo Sabres,1431,Home,67.9,5,4,SOW,0.4,1531,2020020402,16,19
+2021-03-09,REG,Buffalo Sabres,1431,Philadelphia Flyers,1530,Away,32.1,4,5,SOL,-0.4,1430,2020020402,19,16
+2021-03-09,REG,Washington Capitals,1525,New Jersey Devils,1450,Home,64.7,5,4,OTW,0.6,1526,2020020403,24,23
+2021-03-09,REG,New Jersey Devils,1450,Washington Capitals,1525,Away,35.3,4,5,OTL,-0.6,1449,2020020403,23,24
+2021-03-09,REG,Carolina Hurricanes,1551,Nashville Predators,1474,Home,64.9,3,2,OTW,0.6,1551,2020020404,26,34
+2021-03-09,REG,Nashville Predators,1474,Carolina Hurricanes,1551,Away,35.1,2,3,OTL,-0.6,1473,2020020404,34,26
+2021-03-09,REG,Columbus Blue Jackets,1489,Florida Panthers,1512,Home,51.0,2,4,L,-3.8,1485,2020020406,36,33
+2021-03-09,REG,Florida Panthers,1512,Columbus Blue Jackets,1489,Away,49.0,4,2,W,3.8,1516,2020020406,33,36
+2021-03-09,REG,Toronto Maple Leafs,1543,Winnipeg Jets,1515,Home,58.2,3,4,L,-3.5,1539,2020020408,5,35
+2021-03-09,REG,Winnipeg Jets,1515,Toronto Maple Leafs,1543,Away,41.8,4,3,W,3.5,1518,2020020408,35,5
+2021-03-09,REG,Detroit Red Wings,1385,Tampa Bay Lightning,1598,Home,25.8,3,4,OTL,-0.0,1385,2020020407,12,31
+2021-03-09,REG,Tampa Bay Lightning,1598,Detroit Red Wings,1385,Away,74.2,4,3,OTW,0.0,1598,2020020407,31,12
+2021-03-09,REG,Dallas Stars,1505,Chicago Blackhawks,1490,Home,56.4,6,1,W,5.2,1510,2020020409,15,11
+2021-03-09,REG,Chicago Blackhawks,1490,Dallas Stars,1505,Away,43.6,1,6,L,-5.2,1485,2020020409,11,15
+2021-03-10,REG,Minnesota Wild,1513,Vegas Golden Knights,1554,Home,48.4,4,3,W,3.1,1516,2020020412,37,38
+2021-03-10,REG,Vegas Golden Knights,1554,Minnesota Wild,1513,Away,51.6,3,4,L,-3.1,1551,2020020412,38,37
+2021-03-10,REG,Edmonton Oilers,1504,Ottawa Senators,1416,Home,66.4,7,1,W,4.3,1509,2020020410,25,30
+2021-03-10,REG,Ottawa Senators,1416,Edmonton Oilers,1504,Away,33.6,1,7,L,-4.3,1412,2020020410,30,25
+2021-03-10,REG,Colorado Avalanche,1544,Arizona Coyotes,1487,Home,62.2,2,1,OTW,0.8,1544,2020020413,27,40
+2021-03-10,REG,Arizona Coyotes,1487,Colorado Avalanche,1544,Away,37.8,1,2,OTL,-0.8,1486,2020020413,40,27
+2021-03-10,REG,Anaheim Ducks,1442,Los Angeles Kings,1477,Home,49.3,1,5,L,-5.5,1436,2020020414,32,14
+2021-03-10,REG,Los Angeles Kings,1477,Anaheim Ducks,1442,Away,50.7,5,1,W,5.5,1482,2020020414,14,32
+2021-03-10,REG,Vancouver Canucks,1486,Montréal Canadiens,1502,Home,52.0,1,5,L,-5.8,1480,2020020411,20,1
+2021-03-10,REG,Montréal Canadiens,1502,Vancouver Canucks,1486,Away,48.0,5,1,W,5.8,1508,2020020411,1,20
+2021-03-11,REG,Boston Bruins,1555,New York Rangers,1489,Home,63.5,4,0,W,4.1,1559,2020020415,6,10
+2021-03-11,REG,New York Rangers,1489,Boston Bruins,1555,Away,36.5,0,4,L,-4.1,1485,2020020415,10,6
+2021-03-11,REG,Buffalo Sabres,1430,Pittsburgh Penguins,1520,Home,41.4,2,5,L,-4.4,1426,2020020416,19,17
+2021-03-11,REG,Pittsburgh Penguins,1520,Buffalo Sabres,1430,Away,58.6,5,2,W,4.4,1525,2020020416,17,19
+2021-03-11,REG,New York Islanders,1545,New Jersey Devils,1449,Home,67.4,5,3,W,2.4,1548,2020020417,22,23
+2021-03-11,REG,New Jersey Devils,1449,New York Islanders,1545,Away,32.6,3,5,L,-2.4,1447,2020020417,23,22
+2021-03-11,REG,Philadelphia Flyers,1531,Washington Capitals,1526,Home,55.0,3,5,L,-4.1,1527,2020020418,16,24
+2021-03-11,REG,Washington Capitals,1526,Philadelphia Flyers,1531,Away,45.0,5,3,W,4.1,1530,2020020418,24,16
+2021-03-11,REG,Carolina Hurricanes,1551,Nashville Predators,1473,Home,65.1,5,1,W,3.9,1555,2020020419,26,34
+2021-03-11,REG,Nashville Predators,1473,Carolina Hurricanes,1551,Away,34.9,1,5,L,-3.9,1469,2020020419,34,26
+2021-03-11,REG,Columbus Blue Jackets,1485,Florida Panthers,1516,Home,49.9,4,5,OTL,-1.5,1484,2020020420,36,33
+2021-03-11,REG,Florida Panthers,1516,Columbus Blue Jackets,1485,Away,50.1,5,4,OTW,1.5,1517,2020020420,33,36
+2021-03-11,REG,Toronto Maple Leafs,1539,Winnipeg Jets,1518,Home,57.2,4,3,OTW,1.1,1540,2020020422,5,35
+2021-03-11,REG,Winnipeg Jets,1518,Toronto Maple Leafs,1539,Away,42.8,3,4,OTL,-1.1,1517,2020020422,35,5
+2021-03-11,REG,Detroit Red Wings,1385,Tampa Bay Lightning,1598,Home,25.8,6,4,W,5.6,1391,2020020421,12,31
+2021-03-11,REG,Tampa Bay Lightning,1598,Detroit Red Wings,1385,Away,74.2,4,6,L,-5.6,1593,2020020421,31,12
+2021-03-11,REG,Dallas Stars,1510,Chicago Blackhawks,1485,Home,57.9,2,4,L,-4.3,1506,2020020424,15,11
+2021-03-11,REG,Chicago Blackhawks,1485,Dallas Stars,1510,Away,42.1,4,2,W,4.3,1489,2020020424,11,15
+2021-03-11,REG,Calgary Flames,1494,Montréal Canadiens,1508,Home,52.3,2,1,W,2.9,1497,2020020423,21,1
+2021-03-11,REG,Montréal Canadiens,1508,Calgary Flames,1494,Away,47.7,1,2,L,-2.9,1505,2020020423,1,21
+2021-03-12,REG,St. Louis Blues,1521,Vegas Golden Knights,1551,Home,50.0,4,5,OTL,-1.5,1519,2020020425,18,38
+2021-03-12,REG,Vegas Golden Knights,1551,St. Louis Blues,1521,Away,50.0,5,4,OTW,1.5,1552,2020020425,38,18
+2021-03-12,REG,Minnesota Wild,1516,Arizona Coyotes,1486,Home,58.5,4,0,W,4.7,1520,2020020427,37,40
+2021-03-12,REG,Arizona Coyotes,1486,Minnesota Wild,1516,Away,41.5,0,4,L,-4.7,1482,2020020427,40,37
+2021-03-12,REG,Edmonton Oilers,1509,Ottawa Senators,1412,Home,67.5,6,2,W,3.7,1512,2020020426,25,30
+2021-03-12,REG,Ottawa Senators,1412,Edmonton Oilers,1509,Away,32.5,2,6,L,-3.7,1408,2020020426,30,25
+2021-03-12,REG,Colorado Avalanche,1544,Los Angeles Kings,1482,Home,63.0,2,0,W,2.8,1547,2020020428,27,14
+2021-03-12,REG,Los Angeles Kings,1482,Colorado Avalanche,1544,Away,37.0,0,2,L,-2.8,1479,2020020428,14,27
+2021-03-12,REG,Anaheim Ducks,1436,San Jose Sharks,1454,Home,51.8,0,6,L,-6.6,1430,2020020429,32,29
+2021-03-12,REG,San Jose Sharks,1454,Anaheim Ducks,1436,Away,48.2,6,0,W,6.6,1460,2020020429,29,32
+2021-03-13,REG,Boston Bruins,1559,New York Rangers,1485,Home,64.6,0,4,L,-7.3,1552,2020020430,6,10
+2021-03-13,REG,New York Rangers,1485,Boston Bruins,1559,Away,35.4,4,0,W,7.3,1492,2020020430,10,6
+2021-03-13,REG,Columbus Blue Jackets,1484,Dallas Stars,1506,Home,51.1,4,3,OTW,1.4,1485,2020020436,36,15
+2021-03-13,REG,Dallas Stars,1506,Columbus Blue Jackets,1484,Away,48.9,3,4,OTL,-1.4,1505,2020020436,15,36
+2021-03-13,REG,Buffalo Sabres,1426,Pittsburgh Penguins,1525,Home,40.2,0,3,L,-4.2,1422,2020020431,19,17
+2021-03-13,REG,Pittsburgh Penguins,1525,Buffalo Sabres,1426,Away,59.8,3,0,W,4.2,1529,2020020431,17,19
+2021-03-13,REG,New Jersey Devils,1447,New York Islanders,1548,Home,40.0,2,3,L,-2.4,1445,2020020432,23,22
+2021-03-13,REG,New York Islanders,1548,New Jersey Devils,1447,Away,60.0,3,2,W,2.4,1550,2020020432,22,23
+2021-03-13,REG,Philadelphia Flyers,1527,Washington Capitals,1530,Home,53.8,4,5,L,-3.2,1524,2020020433,16,24
+2021-03-13,REG,Washington Capitals,1530,Philadelphia Flyers,1527,Away,46.2,5,4,W,3.2,1533,2020020433,24,16
+2021-03-13,REG,Tampa Bay Lightning,1593,Nashville Predators,1469,Home,70.8,6,3,W,3.1,1596,2020020434,31,34
+2021-03-13,REG,Nashville Predators,1469,Tampa Bay Lightning,1593,Away,29.2,3,6,L,-3.1,1466,2020020434,34,31
+2021-03-13,REG,Florida Panthers,1517,Chicago Blackhawks,1489,Home,58.3,4,2,W,3.1,1520,2020020435,33,11
+2021-03-13,REG,Chicago Blackhawks,1489,Florida Panthers,1517,Away,41.7,2,4,L,-3.1,1486,2020020435,11,33
+2021-03-13,REG,Toronto Maple Leafs,1540,Winnipeg Jets,1517,Home,57.5,2,5,L,-6.0,1534,2020020438,5,35
+2021-03-13,REG,Winnipeg Jets,1517,Toronto Maple Leafs,1540,Away,42.5,5,2,W,6.0,1523,2020020438,35,5
+2021-03-13,REG,Calgary Flames,1497,Montréal Canadiens,1505,Home,53.1,3,1,W,3.5,1500,2020020439,21,1
+2021-03-13,REG,Montréal Canadiens,1505,Calgary Flames,1497,Away,46.9,1,3,L,-3.5,1502,2020020439,1,21
+2021-03-13,REG,St. Louis Blues,1519,Vegas Golden Knights,1552,Home,49.6,1,5,L,-5.6,1514,2020020437,18,38
+2021-03-13,REG,Vegas Golden Knights,1552,St. Louis Blues,1519,Away,50.4,5,1,W,5.6,1558,2020020437,38,18
+2021-03-13,REG,Vancouver Canucks,1480,Edmonton Oilers,1512,Home,49.7,2,1,W,3.0,1483,2020020440,20,25
+2021-03-13,REG,Edmonton Oilers,1512,Vancouver Canucks,1480,Away,50.3,1,2,L,-3.0,1509,2020020440,25,20
+2021-03-13,REG,Anaheim Ducks,1430,San Jose Sharks,1460,Home,49.9,1,3,L,-3.7,1426,2020020441,32,29
+2021-03-13,REG,San Jose Sharks,1460,Anaheim Ducks,1430,Away,50.1,3,1,W,3.7,1464,2020020441,29,32
+2021-03-14,REG,Minnesota Wild,1520,Arizona Coyotes,1482,Home,59.8,4,1,W,4.2,1525,2020020444,37,40
+2021-03-14,REG,Arizona Coyotes,1482,Minnesota Wild,1520,Away,40.2,1,4,L,-4.2,1477,2020020444,40,37
+2021-03-14,REG,Detroit Red Wings,1391,Carolina Hurricanes,1555,Home,31.5,1,2,L,-1.9,1389,2020020442,12,26
+2021-03-14,REG,Carolina Hurricanes,1555,Detroit Red Wings,1391,Away,68.5,2,1,W,1.9,1557,2020020442,26,12
+2021-03-14,REG,Columbus Blue Jackets,1485,Dallas Stars,1505,Home,51.5,1,2,SOL,-1.6,1484,2020020451,36,15
+2021-03-14,REG,Dallas Stars,1505,Columbus Blue Jackets,1485,Away,48.5,2,1,SOW,1.6,1506,2020020451,15,36
+2021-03-14,REG,New Jersey Devils,1445,New York Islanders,1550,Home,39.3,2,3,SOL,-0.9,1444,2020020767,23,22
+2021-03-14,REG,New York Islanders,1550,New Jersey Devils,1445,Away,60.7,3,2,SOW,0.9,1551,2020020767,22,23
+2021-03-14,REG,Colorado Avalanche,1547,Los Angeles Kings,1479,Home,63.7,4,1,W,3.8,1551,2020020445,27,14
+2021-03-14,REG,Los Angeles Kings,1479,Colorado Avalanche,1547,Away,36.3,1,4,L,-3.8,1476,2020020445,14,27
+2021-03-14,REG,Ottawa Senators,1408,Toronto Maple Leafs,1534,Home,36.5,4,3,W,3.8,1412,2020020443,30,5
+2021-03-14,REG,Toronto Maple Leafs,1534,Ottawa Senators,1408,Away,63.5,3,4,L,-3.8,1530,2020020443,5,30
+2021-03-15,REG,Tampa Bay Lightning,1596,Nashville Predators,1466,Home,71.5,1,4,L,-7.5,1588,2020020448,31,34
+2021-03-15,REG,Nashville Predators,1466,Tampa Bay Lightning,1596,Away,28.5,4,1,W,7.5,1474,2020020448,34,31
+2021-03-15,REG,Buffalo Sabres,1422,Washington Capitals,1533,Home,38.5,0,6,L,-4.9,1417,2020020214,19,24
+2021-03-15,REG,Washington Capitals,1533,Buffalo Sabres,1422,Away,61.5,6,0,W,4.9,1538,2020020214,24,19
+2021-03-15,REG,New York Rangers,1492,Philadelphia Flyers,1524,Home,49.8,4,5,OTL,-1.5,1490,2020020446,10,16
+2021-03-15,REG,Philadelphia Flyers,1524,New York Rangers,1492,Away,50.2,5,4,OTW,1.5,1525,2020020446,16,10
+2021-03-15,REG,Florida Panthers,1520,Chicago Blackhawks,1486,Home,59.1,6,3,W,4.3,1525,2020020449,33,11
+2021-03-15,REG,Chicago Blackhawks,1486,Florida Panthers,1520,Away,40.9,3,6,L,-4.3,1482,2020020449,11,33
+2021-03-15,REG,Pittsburgh Penguins,1529,Boston Bruins,1552,Home,51.0,4,1,W,5.1,1534,2020020450,17,6
+2021-03-15,REG,Boston Bruins,1552,Pittsburgh Penguins,1529,Away,49.0,1,4,L,-5.1,1547,2020020450,6,17
+2021-03-15,REG,Ottawa Senators,1412,Vancouver Canucks,1483,Home,44.1,2,3,OTL,-1.1,1411,2020020452,30,20
+2021-03-15,REG,Vancouver Canucks,1483,Ottawa Senators,1412,Away,55.9,3,2,OTW,1.1,1484,2020020452,20,30
+2021-03-15,REG,Winnipeg Jets,1523,Montréal Canadiens,1502,Home,57.4,2,4,L,-4.3,1519,2020020453,35,1
+2021-03-15,REG,Montréal Canadiens,1502,Winnipeg Jets,1523,Away,42.6,4,2,W,4.3,1506,2020020453,1,35
+2021-03-15,REG,Calgary Flames,1500,Edmonton Oilers,1509,Home,53.0,4,3,W,2.8,1503,2020020454,21,25
+2021-03-15,REG,Edmonton Oilers,1509,Calgary Flames,1500,Away,47.0,3,4,L,-2.8,1506,2020020454,25,21
+2021-03-15,REG,Vegas Golden Knights,1558,San Jose Sharks,1464,Home,67.1,2,1,W,2.0,1560,2020020455,38,29
+2021-03-15,REG,San Jose Sharks,1464,Vegas Golden Knights,1558,Away,32.9,1,2,L,-2.0,1462,2020020455,29,38
+2021-03-16,REG,New Jersey Devils,1444,Buffalo Sabres,1417,Home,58.1,3,2,W,2.5,1446,2020020457,23,19
+2021-03-16,REG,Buffalo Sabres,1417,New Jersey Devils,1444,Away,41.9,2,3,L,-2.5,1414,2020020457,19,23
+2021-03-16,REG,Washington Capitals,1538,New York Islanders,1551,Home,52.5,3,1,W,3.6,1542,2020020458,24,22
+2021-03-16,REG,New York Islanders,1551,Washington Capitals,1538,Away,47.5,1,3,L,-3.6,1547,2020020458,22,24
+2021-03-16,REG,Pittsburgh Penguins,1534,Boston Bruins,1547,Home,52.5,1,2,L,-3.1,1531,2020020459,17,6
+2021-03-16,REG,Boston Bruins,1547,Pittsburgh Penguins,1534,Away,47.5,2,1,W,3.1,1550,2020020459,6,17
+2021-03-16,REG,Detroit Red Wings,1389,Carolina Hurricanes,1557,Home,31.1,4,2,W,5.2,1394,2020020460,12,26
+2021-03-16,REG,Carolina Hurricanes,1557,Detroit Red Wings,1389,Away,68.9,2,4,L,-5.2,1552,2020020460,26,12
+2021-03-16,REG,Minnesota Wild,1525,Arizona Coyotes,1477,Home,60.9,3,0,W,4.1,1529,2020020186,37,40
+2021-03-16,REG,Arizona Coyotes,1477,Minnesota Wild,1525,Away,39.1,0,3,L,-4.1,1473,2020020186,40,37
+2021-03-16,REG,Dallas Stars,1506,Tampa Bay Lightning,1588,Home,42.5,3,4,SOL,-1.1,1505,2020020286,15,31
+2021-03-16,REG,Tampa Bay Lightning,1588,Dallas Stars,1506,Away,57.5,4,3,SOW,1.1,1589,2020020286,31,15
+2021-03-16,REG,Colorado Avalanche,1551,Anaheim Ducks,1426,Home,71.0,8,4,W,3.3,1554,2020020568,27,32
+2021-03-16,REG,Anaheim Ducks,1426,Colorado Avalanche,1551,Away,29.0,4,8,L,-3.3,1423,2020020568,32,27
+2021-03-17,REG,Ottawa Senators,1411,Vancouver Canucks,1484,Home,43.8,2,3,SOL,-1.1,1410,2020020463,30,20
+2021-03-17,REG,Vancouver Canucks,1484,Ottawa Senators,1411,Away,56.2,3,2,SOW,1.1,1485,2020020463,20,30
+2021-03-17,REG,New York Rangers,1490,Philadelphia Flyers,1525,Home,49.3,9,0,W,7.6,1498,2020020462,10,16
+2021-03-17,REG,Philadelphia Flyers,1525,New York Rangers,1490,Away,50.7,0,9,L,-7.6,1517,2020020462,16,10
+2021-03-17,REG,Winnipeg Jets,1519,Montréal Canadiens,1506,Home,56.2,4,3,OTW,1.1,1520,2020020464,35,1
+2021-03-17,REG,Montréal Canadiens,1506,Winnipeg Jets,1519,Away,43.8,3,4,OTL,-1.1,1505,2020020464,1,35
+2021-03-17,REG,Calgary Flames,1503,Edmonton Oilers,1506,Home,53.8,3,7,L,-6.1,1497,2020020465,21,25
+2021-03-17,REG,Edmonton Oilers,1506,Calgary Flames,1503,Away,46.2,7,3,W,6.1,1513,2020020465,25,21
+2021-03-17,REG,Vegas Golden Knights,1560,San Jose Sharks,1462,Home,67.6,5,4,W,1.9,1562,2020020466,38,29
+2021-03-17,REG,San Jose Sharks,1462,Vegas Golden Knights,1560,Away,32.4,4,5,L,-1.9,1460,2020020466,29,38
+2021-03-17,REG,Los Angeles Kings,1476,St. Louis Blues,1514,Home,48.9,4,1,W,5.4,1481,2020020467,14,18
+2021-03-17,REG,St. Louis Blues,1514,Los Angeles Kings,1476,Away,51.1,1,4,L,-5.4,1508,2020020467,18,14
+2021-03-18,REG,New Jersey Devils,1446,Pittsburgh Penguins,1531,Home,42.2,3,2,W,3.5,1450,2020020201,23,17
+2021-03-18,REG,Pittsburgh Penguins,1531,New Jersey Devils,1446,Away,57.8,2,3,L,-3.5,1527,2020020201,17,23
+2021-03-18,REG,Buffalo Sabres,1414,Boston Bruins,1550,Home,35.3,1,4,L,-3.7,1411,2020020468,19,6
+2021-03-18,REG,Boston Bruins,1550,Buffalo Sabres,1414,Away,64.7,4,1,W,3.7,1554,2020020468,6,19
+2021-03-18,REG,New York Islanders,1547,Philadelphia Flyers,1517,Home,58.5,3,4,L,-3.5,1544,2020020469,22,16
+2021-03-18,REG,Philadelphia Flyers,1517,New York Islanders,1547,Away,41.5,4,3,W,3.5,1521,2020020469,16,22
+2021-03-18,REG,Carolina Hurricanes,1552,Columbus Blue Jackets,1484,Home,63.8,2,3,OTL,-2.3,1550,2020020470,26,36
+2021-03-18,REG,Columbus Blue Jackets,1484,Carolina Hurricanes,1552,Away,36.2,3,2,OTW,2.3,1486,2020020470,36,26
+2021-03-18,REG,Tampa Bay Lightning,1589,Chicago Blackhawks,1482,Home,68.8,4,2,W,2.3,1592,2020020471,31,11
+2021-03-18,REG,Chicago Blackhawks,1482,Tampa Bay Lightning,1589,Away,31.2,2,4,L,-2.3,1479,2020020471,11,31
+2021-03-18,REG,Florida Panthers,1525,Nashville Predators,1474,Home,61.4,1,2,L,-3.7,1521,2020020472,33,34
+2021-03-18,REG,Nashville Predators,1474,Florida Panthers,1525,Away,38.6,2,1,W,3.7,1478,2020020472,34,33
+2021-03-18,REG,Detroit Red Wings,1394,Dallas Stars,1505,Home,38.5,3,2,W,3.7,1398,2020020473,12,15
+2021-03-18,REG,Dallas Stars,1505,Detroit Red Wings,1394,Away,61.5,2,3,L,-3.7,1501,2020020473,15,12
+2021-03-18,REG,Edmonton Oilers,1513,Winnipeg Jets,1520,Home,53.2,2,1,W,2.8,1515,2020020474,25,35
+2021-03-18,REG,Winnipeg Jets,1520,Edmonton Oilers,1513,Away,46.8,1,2,L,-2.8,1517,2020020474,35,25
+2021-03-18,REG,Colorado Avalanche,1554,Minnesota Wild,1529,Home,57.9,5,1,W,4.7,1559,2020020475,27,37
+2021-03-18,REG,Minnesota Wild,1529,Colorado Avalanche,1554,Away,42.1,1,5,L,-4.7,1524,2020020475,37,27
+2021-03-18,REG,Anaheim Ducks,1423,Arizona Coyotes,1473,Home,47.0,3,2,OTW,1.7,1424,2020020476,32,40
+2021-03-18,REG,Arizona Coyotes,1473,Anaheim Ducks,1423,Away,53.0,2,3,OTL,-1.7,1472,2020020476,40,32
+2021-03-19,REG,Washington Capitals,1542,New York Rangers,1498,Home,60.5,2,1,W,2.4,1544,2020020478,24,10
+2021-03-19,REG,New York Rangers,1498,Washington Capitals,1542,Away,39.5,1,2,L,-2.4,1496,2020020478,10,24
+2021-03-19,REG,Montréal Canadiens,1505,Vancouver Canucks,1485,Home,57.1,2,3,OTL,-1.9,1503,2020020479,1,20
+2021-03-19,REG,Vancouver Canucks,1485,Montréal Canadiens,1505,Away,42.9,3,2,OTW,1.9,1487,2020020479,20,1
+2021-03-19,REG,Toronto Maple Leafs,1530,Calgary Flames,1497,Home,59.0,3,4,L,-3.5,1527,2020020480,5,21
+2021-03-19,REG,Calgary Flames,1497,Toronto Maple Leafs,1530,Away,41.0,4,3,W,3.5,1501,2020020480,21,5
+2021-03-19,REG,San Jose Sharks,1460,St. Louis Blues,1508,Home,47.4,1,2,SOL,-1.3,1459,2020020482,29,18
+2021-03-19,REG,St. Louis Blues,1508,San Jose Sharks,1460,Away,52.6,2,1,SOW,1.3,1509,2020020482,18,29
+2021-03-19,REG,Los Angeles Kings,1481,Vegas Golden Knights,1562,Home,42.8,2,4,L,-3.2,1478,2020020481,14,38
+2021-03-19,REG,Vegas Golden Knights,1562,Los Angeles Kings,1481,Away,57.2,4,2,W,3.2,1565,2020020481,38,14
+2021-03-20,REG,New Jersey Devils,1450,Pittsburgh Penguins,1527,Home,43.2,1,3,L,-3.2,1446,2020020477,23,17
+2021-03-20,REG,Pittsburgh Penguins,1527,New Jersey Devils,1450,Away,56.8,3,1,W,3.2,1531,2020020477,17,23
+2021-03-20,REG,Florida Panthers,1521,Nashville Predators,1478,Home,60.4,2,0,W,3.0,1524,2020020487,33,34
+2021-03-20,REG,Nashville Predators,1478,Florida Panthers,1521,Away,39.6,0,2,L,-3.0,1475,2020020487,34,33
+2021-03-20,REG,Colorado Avalanche,1559,Minnesota Wild,1524,Home,59.3,6,0,W,5.2,1564,2020020492,27,37
+2021-03-20,REG,Minnesota Wild,1524,Colorado Avalanche,1559,Away,40.7,0,6,L,-5.2,1519,2020020492,37,27
+2021-03-20,REG,Tampa Bay Lightning,1592,Chicago Blackhawks,1479,Home,69.4,4,1,W,3.2,1595,2020020486,31,11
+2021-03-20,REG,Chicago Blackhawks,1479,Tampa Bay Lightning,1592,Away,30.6,1,4,L,-3.2,1476,2020020486,11,31
+2021-03-20,REG,Washington Capitals,1544,New York Rangers,1496,Home,61.1,1,3,L,-4.6,1540,2020020291,24,10
+2021-03-20,REG,New York Rangers,1496,Washington Capitals,1544,Away,38.9,3,1,W,4.6,1500,2020020291,10,24
+2021-03-20,REG,New York Islanders,1544,Philadelphia Flyers,1521,Home,57.6,6,1,W,5.1,1549,2020020484,22,16
+2021-03-20,REG,Philadelphia Flyers,1521,New York Islanders,1544,Away,42.4,1,6,L,-5.1,1516,2020020484,16,22
+2021-03-20,REG,Carolina Hurricanes,1550,Columbus Blue Jackets,1486,Home,63.2,2,3,SOL,-2.3,1547,2020020485,26,36
+2021-03-20,REG,Columbus Blue Jackets,1486,Carolina Hurricanes,1550,Away,36.8,3,2,SOW,2.3,1488,2020020485,36,26
+2021-03-20,REG,Detroit Red Wings,1398,Dallas Stars,1501,Home,39.5,0,3,L,-4.2,1393,2020020488,12,15
+2021-03-20,REG,Dallas Stars,1501,Detroit Red Wings,1398,Away,60.5,3,0,W,4.2,1506,2020020488,15,12
+2021-03-20,REG,Montréal Canadiens,1503,Vancouver Canucks,1487,Home,56.5,5,4,SOW,1.1,1504,2020020489,1,20
+2021-03-20,REG,Vancouver Canucks,1487,Montréal Canadiens,1503,Away,43.5,4,5,SOL,-1.1,1486,2020020489,20,1
+2021-03-20,REG,Toronto Maple Leafs,1527,Calgary Flames,1501,Home,58.0,2,0,W,3.1,1530,2020020490,5,21
+2021-03-20,REG,Calgary Flames,1501,Toronto Maple Leafs,1527,Away,42.0,0,2,L,-3.1,1497,2020020490,21,5
+2021-03-20,REG,Anaheim Ducks,1424,Arizona Coyotes,1472,Home,47.5,1,5,L,-5.3,1419,2020020461,32,40
+2021-03-20,REG,Arizona Coyotes,1472,Anaheim Ducks,1424,Away,52.5,5,1,W,5.3,1477,2020020461,40,32
+2021-03-20,REG,San Jose Sharks,1459,St. Louis Blues,1509,Home,47.0,2,5,L,-4.9,1454,2020020493,29,18
+2021-03-20,REG,St. Louis Blues,1509,San Jose Sharks,1459,Away,53.0,5,2,W,4.9,1514,2020020493,18,29
+2021-03-20,REG,Edmonton Oilers,1515,Winnipeg Jets,1517,Home,54.0,4,2,W,3.5,1519,2020020491,25,35
+2021-03-20,REG,Winnipeg Jets,1517,Edmonton Oilers,1515,Away,46.0,2,4,L,-3.5,1514,2020020491,35,25
+2021-03-21,REG,Pittsburgh Penguins,1531,New Jersey Devils,1446,Home,65.9,1,2,OTL,-2.5,1528,2020020151,17,23
+2021-03-21,REG,New Jersey Devils,1446,Pittsburgh Penguins,1531,Away,34.1,2,1,OTW,2.5,1449,2020020151,23,17
+2021-03-21,REG,Tampa Bay Lightning,1595,Florida Panthers,1524,Home,64.1,5,3,W,2.7,1598,2020020828,31,33
+2021-03-21,REG,Florida Panthers,1524,Tampa Bay Lightning,1595,Away,35.9,3,5,L,-2.7,1521,2020020828,33,31
+2021-03-21,REG,Los Angeles Kings,1478,Vegas Golden Knights,1565,Home,41.9,3,1,W,4.4,1482,2020020495,14,38
+2021-03-21,REG,Vegas Golden Knights,1565,Los Angeles Kings,1478,Away,58.1,1,3,L,-4.4,1560,2020020495,38,14
+2021-03-21,REG,Dallas Stars,1506,Nashville Predators,1475,Home,58.7,3,4,SOL,-2.0,1504,2020020258,15,34
+2021-03-21,REG,Nashville Predators,1475,Dallas Stars,1506,Away,41.3,4,3,SOW,2.0,1477,2020020258,34,15
+2021-03-22,REG,New York Rangers,1500,Buffalo Sabres,1411,Home,66.6,5,3,W,2.5,1503,2020020496,10,19
+2021-03-22,REG,Buffalo Sabres,1411,New York Rangers,1500,Away,33.4,3,5,L,-2.5,1408,2020020496,19,10
+2021-03-22,REG,Columbus Blue Jackets,1488,Carolina Hurricanes,1547,Home,45.8,0,3,L,-4.8,1483,2020020497,36,26
+2021-03-22,REG,Carolina Hurricanes,1547,Columbus Blue Jackets,1488,Away,54.2,3,0,W,4.8,1552,2020020497,26,36
+2021-03-22,REG,Ottawa Senators,1410,Calgary Flames,1497,Home,41.7,2,1,W,3.5,1413,2020020499,30,21
+2021-03-22,REG,Calgary Flames,1497,Ottawa Senators,1410,Away,58.3,1,2,L,-3.5,1494,2020020499,21,30
+2021-03-22,REG,Philadelphia Flyers,1516,New York Islanders,1549,Home,49.5,1,2,OTL,-1.5,1514,2020020755,16,22
+2021-03-22,REG,New York Islanders,1549,Philadelphia Flyers,1516,Away,50.5,2,1,OTW,1.5,1550,2020020755,22,16
+2021-03-22,REG,Minnesota Wild,1519,Anaheim Ducks,1419,Home,67.9,2,1,W,1.9,1521,2020020501,37,32
+2021-03-22,REG,Anaheim Ducks,1419,Minnesota Wild,1519,Away,32.1,1,2,L,-1.9,1417,2020020501,32,37
+2021-03-22,REG,Vegas Golden Knights,1560,St. Louis Blues,1514,Home,60.8,5,1,W,4.4,1565,2020020122,38,18
+2021-03-22,REG,St. Louis Blues,1514,Vegas Golden Knights,1560,Away,39.2,1,5,L,-4.4,1510,2020020122,18,38
+2021-03-22,REG,Vancouver Canucks,1486,Winnipeg Jets,1514,Home,50.3,0,4,L,-5.7,1481,2020020500,20,35
+2021-03-22,REG,Winnipeg Jets,1514,Vancouver Canucks,1486,Away,49.7,4,0,W,5.7,1520,2020020500,35,20
+2021-03-22,REG,Arizona Coyotes,1477,Colorado Avalanche,1564,Home,41.8,1,5,L,-4.7,1472,2020020502,40,27
+2021-03-22,REG,Colorado Avalanche,1564,Arizona Coyotes,1477,Away,58.2,5,1,W,4.7,1569,2020020502,27,40
+2021-03-22,REG,San Jose Sharks,1454,Los Angeles Kings,1482,Home,50.2,2,1,W,3.0,1457,2020020503,29,14
+2021-03-22,REG,Los Angeles Kings,1482,San Jose Sharks,1454,Away,49.8,1,2,L,-3.0,1479,2020020503,14,29
+2021-03-23,REG,Philadelphia Flyers,1514,New Jersey Devils,1449,Home,63.4,3,4,L,-3.8,1511,2020020504,16,23
+2021-03-23,REG,New Jersey Devils,1449,Philadelphia Flyers,1514,Away,36.6,4,3,W,3.8,1453,2020020504,23,16
+2021-03-23,REG,Chicago Blackhawks,1476,Florida Panthers,1521,Home,47.8,3,2,W,3.1,1479,2020020505,11,33
+2021-03-23,REG,Florida Panthers,1521,Chicago Blackhawks,1476,Away,52.2,2,3,L,-3.1,1518,2020020505,33,11
+2021-03-23,REG,Nashville Predators,1477,Detroit Red Wings,1393,Home,65.7,2,0,W,2.6,1479,2020020506,34,12
+2021-03-23,REG,Detroit Red Wings,1393,Nashville Predators,1477,Away,34.3,0,2,L,-2.6,1391,2020020506,12,34
+2021-03-23,REG,Dallas Stars,1504,Tampa Bay Lightning,1598,Home,40.9,1,2,L,-2.5,1501,2020020507,15,31
+2021-03-23,REG,Tampa Bay Lightning,1598,Dallas Stars,1504,Away,59.1,2,1,W,2.5,1600,2020020507,31,15
+2021-03-23,REG,Arizona Coyotes,1472,Colorado Avalanche,1569,Home,40.5,5,4,SOW,2.1,1474,2020020508,40,27
+2021-03-23,REG,Colorado Avalanche,1569,Arizona Coyotes,1472,Away,59.5,4,5,SOL,-2.1,1567,2020020508,27,40
+2021-03-24,REG,Ottawa Senators,1413,Calgary Flames,1494,Home,42.7,3,1,W,4.3,1417,2020020511,30,21
+2021-03-24,REG,Calgary Flames,1494,Ottawa Senators,1413,Away,57.3,1,3,L,-4.3,1490,2020020511,21,30
+2021-03-24,REG,Minnesota Wild,1521,Anaheim Ducks,1417,Home,68.3,3,2,W,1.9,1523,2020020513,37,32
+2021-03-24,REG,Anaheim Ducks,1417,Minnesota Wild,1521,Away,31.7,2,3,L,-1.9,1415,2020020513,32,37
+2021-03-24,REG,Pittsburgh Penguins,1528,Buffalo Sabres,1408,Home,70.4,5,2,W,3.1,1531,2020020509,17,19
+2021-03-24,REG,Buffalo Sabres,1408,Pittsburgh Penguins,1528,Away,29.6,2,5,L,-3.1,1405,2020020509,19,17
+2021-03-24,REG,Vancouver Canucks,1481,Winnipeg Jets,1520,Home,48.7,1,5,L,-5.5,1475,2020020512,20,35
+2021-03-24,REG,Winnipeg Jets,1520,Vancouver Canucks,1481,Away,51.3,5,1,W,5.5,1525,2020020512,35,20
+2021-03-24,REG,San Jose Sharks,1457,Los Angeles Kings,1479,Home,51.1,4,2,W,3.7,1460,2020020514,29,14
+2021-03-24,REG,Los Angeles Kings,1479,San Jose Sharks,1457,Away,48.9,2,4,L,-3.7,1475,2020020514,14,29
+2021-03-25,REG,Boston Bruins,1554,New York Islanders,1550,Home,54.7,3,4,OTL,-1.8,1552,2020020515,6,22
+2021-03-25,REG,New York Islanders,1550,Boston Bruins,1554,Away,45.3,4,3,OTW,1.8,1552,2020020515,22,6
+2021-03-25,REG,Philadelphia Flyers,1511,New York Rangers,1503,Home,55.4,3,8,L,-6.7,1504,2020020516,16,10
+2021-03-25,REG,New York Rangers,1503,Philadelphia Flyers,1511,Away,44.6,8,3,W,6.7,1509,2020020516,10,16
+2021-03-25,REG,Washington Capitals,1540,New Jersey Devils,1453,Home,66.2,4,3,W,2.0,1542,2020020517,24,23
+2021-03-25,REG,New Jersey Devils,1453,Washington Capitals,1540,Away,33.8,3,4,L,-2.0,1451,2020020517,23,24
+2021-03-25,REG,Columbus Blue Jackets,1483,Carolina Hurricanes,1552,Home,44.4,3,4,OTL,-1.2,1482,2020020518,36,26
+2021-03-25,REG,Carolina Hurricanes,1552,Columbus Blue Jackets,1483,Away,55.6,4,3,OTW,1.2,1553,2020020518,26,36
+2021-03-25,REG,Ottawa Senators,1417,Toronto Maple Leafs,1530,Home,38.3,2,3,OTL,-0.8,1417,2020020521,30,5
+2021-03-25,REG,Toronto Maple Leafs,1530,Ottawa Senators,1417,Away,61.7,3,2,OTW,0.8,1531,2020020521,5,30
+2021-03-25,REG,Pittsburgh Penguins,1531,Buffalo Sabres,1405,Home,71.1,4,0,W,3.3,1535,2020020532,17,19
+2021-03-25,REG,Buffalo Sabres,1405,Pittsburgh Penguins,1531,Away,28.9,0,4,L,-3.3,1402,2020020532,19,17
+2021-03-25,REG,Minnesota Wild,1523,St. Louis Blues,1510,Home,56.1,2,0,W,3.3,1526,2020020223,37,18
+2021-03-25,REG,St. Louis Blues,1510,Minnesota Wild,1523,Away,43.9,0,2,L,-3.3,1507,2020020223,18,37
+2021-03-25,REG,Chicago Blackhawks,1479,Florida Panthers,1518,Home,48.7,3,0,W,5.4,1485,2020020519,11,33
+2021-03-25,REG,Florida Panthers,1518,Chicago Blackhawks,1479,Away,51.3,0,3,L,-5.4,1513,2020020519,33,11
+2021-03-25,REG,Nashville Predators,1479,Detroit Red Wings,1391,Home,66.4,7,1,W,4.3,1483,2020020520,34,12
+2021-03-25,REG,Detroit Red Wings,1391,Nashville Predators,1479,Away,33.6,1,7,L,-4.3,1387,2020020520,12,34
+2021-03-25,REG,Dallas Stars,1501,Tampa Bay Lightning,1600,Home,40.2,4,3,W,3.6,1505,2020020522,15,31
+2021-03-25,REG,Tampa Bay Lightning,1600,Dallas Stars,1501,Away,59.8,3,4,L,-3.6,1597,2020020522,31,15
+2021-03-25,REG,Colorado Avalanche,1567,Vegas Golden Knights,1565,Home,54.6,5,1,W,5.1,1572,2020020523,27,38
+2021-03-25,REG,Vegas Golden Knights,1565,Colorado Avalanche,1567,Away,45.4,1,5,L,-5.1,1560,2020020523,38,27
+2021-03-26,REG,Washington Capitals,1542,New Jersey Devils,1451,Home,66.7,4,0,W,3.7,1545,2020020524,24,23
+2021-03-26,REG,New Jersey Devils,1451,Washington Capitals,1542,Away,33.3,0,4,L,-3.7,1447,2020020524,23,24
+2021-03-26,REG,St. Louis Blues,1507,Anaheim Ducks,1415,Home,66.8,1,4,L,-7.0,1500,2020020525,18,32
+2021-03-26,REG,Anaheim Ducks,1415,St. Louis Blues,1507,Away,33.2,4,1,W,7.0,1422,2020020525,32,18
+2021-03-26,REG,Calgary Flames,1490,Winnipeg Jets,1525,Home,49.2,2,3,L,-3.0,1487,2020020527,21,35
+2021-03-26,REG,Winnipeg Jets,1525,Calgary Flames,1490,Away,50.8,3,2,W,3.0,1528,2020020527,35,21
+2021-03-26,REG,Arizona Coyotes,1474,San Jose Sharks,1460,Home,56.3,5,2,W,4.6,1479,2020020528,40,29
+2021-03-26,REG,San Jose Sharks,1460,Arizona Coyotes,1474,Away,43.7,2,5,L,-4.6,1456,2020020528,29,40
+2021-03-27,REG,Boston Bruins,1552,Buffalo Sabres,1402,Home,73.8,3,2,W,1.6,1553,2020020179,6,19
+2021-03-27,REG,Buffalo Sabres,1402,Boston Bruins,1552,Away,26.2,2,3,L,-1.6,1400,2020020179,19,6
+2021-03-27,REG,Philadelphia Flyers,1504,New York Rangers,1509,Home,53.5,2,1,W,2.8,1507,2020020530,16,10
+2021-03-27,REG,New York Rangers,1509,Philadelphia Flyers,1504,Away,46.5,1,2,L,-2.8,1507,2020020530,10,16
+2021-03-27,REG,Detroit Red Wings,1387,Columbus Blue Jackets,1482,Home,40.6,3,1,W,4.5,1391,2020020533,12,36
+2021-03-27,REG,Columbus Blue Jackets,1482,Detroit Red Wings,1387,Away,59.4,1,3,L,-4.5,1478,2020020533,36,12
+2021-03-27,REG,Colorado Avalanche,1572,Vegas Golden Knights,1560,Home,56.1,2,3,OTL,-1.9,1570,2020020539,27,38
+2021-03-27,REG,Vegas Golden Knights,1560,Colorado Avalanche,1572,Away,43.9,3,2,OTW,1.9,1562,2020020539,38,27
+2021-03-27,REG,Carolina Hurricanes,1553,Tampa Bay Lightning,1597,Home,48.1,4,3,W,3.1,1557,2020020531,26,31
+2021-03-27,REG,Tampa Bay Lightning,1597,Carolina Hurricanes,1553,Away,51.9,3,4,L,-3.1,1593,2020020531,31,26
+2021-03-27,REG,Toronto Maple Leafs,1531,Edmonton Oilers,1519,Home,56.0,4,3,OTW,1.1,1532,2020020536,5,25
+2021-03-27,REG,Edmonton Oilers,1519,Toronto Maple Leafs,1531,Away,44.0,3,4,OTL,-1.1,1518,2020020536,25,5
+2021-03-27,REG,Pittsburgh Penguins,1535,New York Islanders,1552,Home,51.8,6,3,W,5.1,1540,2020020561,17,22
+2021-03-27,REG,New York Islanders,1552,Pittsburgh Penguins,1535,Away,48.2,3,6,L,-5.1,1547,2020020561,22,17
+2021-03-27,REG,Chicago Blackhawks,1485,Nashville Predators,1483,Home,54.5,1,3,L,-4.1,1481,2020020534,11,34
+2021-03-27,REG,Nashville Predators,1483,Chicago Blackhawks,1485,Away,45.5,3,1,W,4.1,1488,2020020534,34,11
+2021-03-27,REG,Dallas Stars,1505,Florida Panthers,1513,Home,53.1,3,4,OTL,-1.7,1503,2020020538,15,33
+2021-03-27,REG,Florida Panthers,1513,Dallas Stars,1505,Away,46.9,4,3,OTW,1.7,1514,2020020538,33,15
+2021-03-27,REG,Calgary Flames,1487,Winnipeg Jets,1528,Home,48.4,4,2,W,3.9,1491,2020020537,21,35
+2021-03-27,REG,Winnipeg Jets,1528,Calgary Flames,1487,Away,51.6,2,4,L,-3.9,1524,2020020537,35,21
+2021-03-27,REG,Arizona Coyotes,1479,San Jose Sharks,1456,Home,57.6,4,0,W,4.8,1484,2020020540,40,29
+2021-03-27,REG,San Jose Sharks,1456,Arizona Coyotes,1479,Away,42.4,0,4,L,-4.8,1451,2020020540,29,40
+2021-03-28,REG,Washington Capitals,1545,New York Rangers,1507,Home,59.8,5,4,W,2.4,1548,2020020542,24,10
+2021-03-28,REG,New York Rangers,1507,Washington Capitals,1545,Away,40.2,4,5,L,-2.4,1504,2020020542,10,24
+2021-03-28,REG,Detroit Red Wings,1391,Columbus Blue Jackets,1478,Home,41.9,4,1,W,6.1,1397,2020020544,12,36
+2021-03-28,REG,Columbus Blue Jackets,1478,Detroit Red Wings,1391,Away,58.1,1,4,L,-6.1,1472,2020020544,36,12
+2021-03-28,REG,St. Louis Blues,1500,Anaheim Ducks,1422,Home,65.0,2,3,OTL,-2.4,1497,2020020535,18,32
+2021-03-28,REG,Anaheim Ducks,1422,St. Louis Blues,1500,Away,35.0,3,2,OTW,2.4,1425,2020020535,32,18
+2021-03-28,REG,Boston Bruins,1553,New Jersey Devils,1447,Home,68.7,0,1,L,-4.1,1549,2020020541,6,23
+2021-03-28,REG,New Jersey Devils,1447,Boston Bruins,1553,Away,31.3,1,0,W,4.1,1451,2020020541,23,6
+2021-03-28,REG,Dallas Stars,1503,Florida Panthers,1514,Home,52.7,1,4,L,-5.5,1497,2020020547,15,33
+2021-03-28,REG,Florida Panthers,1514,Dallas Stars,1503,Away,47.3,4,1,W,5.5,1520,2020020547,33,15
+2021-03-28,REG,Chicago Blackhawks,1481,Nashville Predators,1488,Home,53.3,2,3,L,-3.2,1477,2020020545,11,34
+2021-03-28,REG,Nashville Predators,1488,Chicago Blackhawks,1481,Away,46.7,3,2,W,3.2,1491,2020020545,34,11
+2021-03-29,REG,Buffalo Sabres,1400,Philadelphia Flyers,1507,Home,39.2,3,4,OTL,-0.8,1399,2020020548,19,16
+2021-03-29,REG,Philadelphia Flyers,1507,Buffalo Sabres,1400,Away,60.8,4,3,OTW,0.8,1508,2020020548,16,19
+2021-03-29,REG,Pittsburgh Penguins,1540,New York Islanders,1547,Home,53.2,2,1,W,2.8,1542,2020020549,17,22
+2021-03-29,REG,New York Islanders,1547,Pittsburgh Penguins,1540,Away,46.8,1,2,L,-2.8,1544,2020020549,22,17
+2021-03-29,REG,Toronto Maple Leafs,1532,Edmonton Oilers,1518,Home,56.3,2,3,OTL,-1.9,1530,2020020551,5,25
+2021-03-29,REG,Edmonton Oilers,1518,Toronto Maple Leafs,1532,Away,43.7,3,2,OTW,1.9,1520,2020020551,25,5
+2021-03-29,REG,Colorado Avalanche,1570,Anaheim Ducks,1425,Home,73.3,5,2,W,2.8,1573,2020020553,27,32
+2021-03-29,REG,Anaheim Ducks,1425,Colorado Avalanche,1570,Away,26.7,2,5,L,-2.8,1422,2020020553,32,27
+2021-03-29,REG,Calgary Flames,1491,Winnipeg Jets,1524,Home,49.5,1,5,L,-5.6,1485,2020020552,21,35
+2021-03-29,REG,Winnipeg Jets,1524,Calgary Flames,1491,Away,50.5,5,1,W,5.6,1530,2020020552,35,21
+2021-03-29,REG,Vegas Golden Knights,1562,Los Angeles Kings,1475,Home,66.1,4,1,W,3.6,1565,2020020554,38,14
+2021-03-29,REG,Los Angeles Kings,1475,Vegas Golden Knights,1562,Away,33.9,1,4,L,-3.6,1472,2020020554,14,38
+2021-03-29,REG,San Jose Sharks,1451,Minnesota Wild,1526,Home,43.6,4,3,SOW,1.9,1453,2020020555,29,37
+2021-03-29,REG,Minnesota Wild,1526,San Jose Sharks,1451,Away,56.4,3,4,SOL,-1.9,1524,2020020555,37,29
+2021-03-30,REG,Montréal Canadiens,1504,Edmonton Oilers,1520,Home,52.1,4,0,W,5.4,1509,2020020498,1,25
+2021-03-30,REG,Edmonton Oilers,1520,Montréal Canadiens,1504,Away,47.9,0,4,L,-5.4,1514,2020020498,25,1
+2021-03-30,REG,Boston Bruins,1549,New Jersey Devils,1451,Home,67.6,5,4,SOW,0.4,1550,2020020556,6,23
+2021-03-30,REG,New Jersey Devils,1451,Boston Bruins,1549,Away,32.4,4,5,SOL,-0.4,1451,2020020556,23,6
+2021-03-30,REG,New York Rangers,1504,Washington Capitals,1548,Home,48.0,5,2,W,5.5,1510,2020020558,10,24
+2021-03-30,REG,Washington Capitals,1548,New York Rangers,1504,Away,52.0,2,5,L,-5.5,1542,2020020558,24,10
+2021-03-30,REG,Tampa Bay Lightning,1593,Columbus Blue Jackets,1472,Home,70.5,1,3,L,-5.3,1588,2020020559,31,36
+2021-03-30,REG,Columbus Blue Jackets,1472,Tampa Bay Lightning,1593,Away,29.5,3,1,W,5.3,1477,2020020559,36,31
+2021-03-30,REG,Florida Panthers,1520,Detroit Red Wings,1397,Home,70.7,4,1,W,3.1,1523,2020020560,33,12
+2021-03-30,REG,Detroit Red Wings,1397,Florida Panthers,1520,Away,29.3,1,4,L,-3.1,1394,2020020560,12,33
+2021-03-30,REG,Chicago Blackhawks,1477,Carolina Hurricanes,1557,Home,43.0,2,1,W,3.4,1481,2020020562,11,26
+2021-03-30,REG,Carolina Hurricanes,1557,Chicago Blackhawks,1477,Away,57.0,1,2,L,-3.4,1553,2020020562,26,11
+2021-03-30,REG,Nashville Predators,1491,Dallas Stars,1497,Home,53.3,3,2,OTW,1.3,1492,2020020563,34,15
+2021-03-30,REG,Dallas Stars,1497,Nashville Predators,1491,Away,46.7,2,3,OTL,-1.3,1496,2020020563,15,34
+2021-03-31,REG,Buffalo Sabres,1399,Philadelphia Flyers,1508,Home,38.9,6,1,W,7.3,1407,2020020557,19,16
+2021-03-31,REG,Philadelphia Flyers,1508,Buffalo Sabres,1399,Away,61.1,1,6,L,-7.3,1500,2020020557,16,19
+2021-03-31,REG,Winnipeg Jets,1530,Toronto Maple Leafs,1530,Home,54.3,1,3,L,-4.1,1526,2020020566,35,5
+2021-03-31,REG,Toronto Maple Leafs,1530,Winnipeg Jets,1530,Away,45.7,3,1,W,4.1,1534,2020020566,5,35
+2021-03-31,REG,Colorado Avalanche,1573,Arizona Coyotes,1484,Home,66.5,9,3,W,4.3,1577,2020020209,27,40
+2021-03-31,REG,Arizona Coyotes,1484,Colorado Avalanche,1573,Away,33.5,3,9,L,-4.3,1479,2020020209,40,27
+2021-03-31,REG,Vegas Golden Knights,1565,Los Angeles Kings,1472,Home,67.0,2,4,L,-5.0,1560,2020020569,38,14
+2021-03-31,REG,Los Angeles Kings,1472,Vegas Golden Knights,1565,Away,33.0,4,2,W,5.0,1477,2020020569,14,38
+2021-03-31,REG,San Jose Sharks,1453,Minnesota Wild,1524,Home,44.1,4,2,W,4.2,1457,2020020570,29,37
+2021-03-31,REG,Minnesota Wild,1524,San Jose Sharks,1453,Away,55.9,2,4,L,-4.2,1520,2020020570,37,29
+2021-04-01,REG,Boston Bruins,1550,Pittsburgh Penguins,1542,Home,55.3,1,4,L,-5.8,1544,2020020571,6,17
+2021-04-01,REG,Pittsburgh Penguins,1542,Boston Bruins,1550,Away,44.7,4,1,W,5.8,1548,2020020571,17,6
+2021-04-01,REG,Buffalo Sabres,1407,New York Rangers,1510,Home,39.7,2,3,OTL,-0.9,1406,2020020572,19,10
+2021-04-01,REG,New York Rangers,1510,Buffalo Sabres,1407,Away,60.3,3,2,OTW,0.9,1510,2020020572,10,19
+2021-04-01,REG,New York Islanders,1544,Washington Capitals,1542,Home,54.6,8,4,W,5.1,1550,2020020573,22,24
+2021-04-01,REG,Washington Capitals,1542,New York Islanders,1544,Away,45.4,4,8,L,-5.1,1537,2020020573,24,22
+2021-04-01,REG,Tampa Bay Lightning,1588,Columbus Blue Jackets,1477,Home,69.3,3,2,W,1.8,1590,2020020574,31,36
+2021-04-01,REG,Columbus Blue Jackets,1477,Tampa Bay Lightning,1588,Away,30.7,2,3,L,-1.8,1475,2020020574,36,31
+2021-04-01,REG,Florida Panthers,1523,Detroit Red Wings,1394,Home,71.4,3,2,OTW,0.2,1523,2020020575,33,12
+2021-04-01,REG,Detroit Red Wings,1394,Florida Panthers,1523,Away,28.6,2,3,OTL,-0.2,1394,2020020575,12,33
+2021-04-01,REG,Ottawa Senators,1417,Montréal Canadiens,1509,Home,41.1,1,4,L,-4.3,1412,2020020578,30,1
+2021-04-01,REG,Montréal Canadiens,1509,Ottawa Senators,1417,Away,58.9,4,1,W,4.3,1514,2020020578,1,30
+2021-04-01,REG,Chicago Blackhawks,1481,Carolina Hurricanes,1553,Home,44.0,3,4,L,-2.6,1478,2020020576,11,26
+2021-04-01,REG,Carolina Hurricanes,1553,Chicago Blackhawks,1481,Away,56.0,4,3,W,2.6,1556,2020020576,26,11
+2021-04-01,REG,Nashville Predators,1492,Dallas Stars,1496,Home,53.7,1,4,L,-5.6,1486,2020020577,34,15
+2021-04-01,REG,Dallas Stars,1496,Nashville Predators,1492,Away,46.3,4,1,W,5.6,1502,2020020577,15,34
+2021-04-01,REG,Vegas Golden Knights,1560,Minnesota Wild,1520,Home,60.0,2,3,SOL,-2.1,1558,2020020579,38,37
+2021-04-01,REG,Minnesota Wild,1520,Vegas Golden Knights,1560,Away,40.0,3,2,SOW,2.1,1522,2020020579,37,38
+2021-04-02,REG,New Jersey Devils,1451,Washington Capitals,1537,Home,41.9,1,2,OTL,-1.0,1450,2020020580,23,24
+2021-04-02,REG,Washington Capitals,1537,New Jersey Devils,1451,Away,58.1,2,1,OTW,1.0,1538,2020020580,24,23
+2021-04-02,REG,Winnipeg Jets,1526,Toronto Maple Leafs,1534,Home,53.1,1,2,SOL,-1.7,1524,2020020581,35,5
+2021-04-02,REG,Toronto Maple Leafs,1534,Winnipeg Jets,1526,Away,46.9,2,1,SOW,1.7,1536,2020020581,5,35
+2021-04-02,REG,Edmonton Oilers,1514,Calgary Flames,1485,Home,58.4,3,2,W,2.5,1517,2020020582,25,21
+2021-04-02,REG,Calgary Flames,1485,Edmonton Oilers,1514,Away,41.6,2,3,L,-2.5,1483,2020020582,21,25
+2021-04-02,REG,Colorado Avalanche,1577,St. Louis Blues,1497,Home,65.3,3,2,W,2.1,1579,2020020723,27,18
+2021-04-02,REG,St. Louis Blues,1497,Colorado Avalanche,1577,Away,34.7,2,3,L,-2.1,1495,2020020723,18,27
+2021-04-02,REG,Anaheim Ducks,1422,Arizona Coyotes,1479,Home,46.0,2,4,L,-3.5,1418,2020020583,32,40
+2021-04-02,REG,Arizona Coyotes,1479,Anaheim Ducks,1422,Away,54.0,4,2,W,3.5,1483,2020020583,40,32
+2021-04-02,REG,Los Angeles Kings,1477,San Jose Sharks,1457,Home,57.1,0,3,L,-6.0,1471,2020020584,14,29
+2021-04-02,REG,San Jose Sharks,1457,Los Angeles Kings,1477,Away,42.9,3,0,W,6.0,1463,2020020584,29,14
+2021-04-03,REG,Boston Bruins,1544,Pittsburgh Penguins,1548,Home,53.7,7,5,W,3.5,1547,2020020585,6,17
+2021-04-03,REG,Pittsburgh Penguins,1548,Boston Bruins,1544,Away,46.3,5,7,L,-3.5,1545,2020020585,17,6
+2021-04-03,REG,Tampa Bay Lightning,1590,Detroit Red Wings,1394,Home,78.6,2,1,W,1.3,1591,2020020589,31,12
+2021-04-03,REG,Detroit Red Wings,1394,Tampa Bay Lightning,1590,Away,21.4,1,2,L,-1.3,1393,2020020589,12,31
+2021-04-03,REG,Nashville Predators,1486,Chicago Blackhawks,1478,Home,55.5,3,0,W,4.7,1491,2020020591,34,11
+2021-04-03,REG,Chicago Blackhawks,1478,Nashville Predators,1486,Away,44.5,0,3,L,-4.7,1474,2020020591,11,34
+2021-04-03,REG,Buffalo Sabres,1406,New York Rangers,1510,Home,39.4,3,2,SOW,2.1,1408,2020020586,19,10
+2021-04-03,REG,New York Rangers,1510,Buffalo Sabres,1406,Away,60.6,2,3,SOL,-2.1,1508,2020020586,10,19
+2021-04-03,REG,New York Islanders,1550,Philadelphia Flyers,1500,Home,61.2,3,2,SOW,0.8,1550,2020020587,22,16
+2021-04-03,REG,Philadelphia Flyers,1500,New York Islanders,1550,Away,38.8,2,3,SOL,-0.8,1499,2020020587,16,22
+2021-04-03,REG,Carolina Hurricanes,1556,Dallas Stars,1502,Home,61.8,2,3,L,-3.7,1552,2020020588,26,15
+2021-04-03,REG,Dallas Stars,1502,Carolina Hurricanes,1556,Away,38.2,3,2,W,3.7,1506,2020020588,15,26
+2021-04-03,REG,Florida Panthers,1523,Columbus Blue Jackets,1475,Home,61.1,5,2,W,4.1,1527,2020020590,33,36
+2021-04-03,REG,Columbus Blue Jackets,1475,Florida Panthers,1523,Away,38.9,2,5,L,-4.1,1471,2020020590,36,33
+2021-04-03,REG,Montréal Canadiens,1514,Ottawa Senators,1412,Home,68.1,3,6,L,-7.1,1507,2020020592,1,30
+2021-04-03,REG,Ottawa Senators,1412,Montréal Canadiens,1514,Away,31.9,6,3,W,7.1,1419,2020020592,30,1
+2021-04-03,REG,Colorado Avalanche,1579,St. Louis Blues,1495,Home,65.9,2,1,W,2.0,1581,2020020594,27,18
+2021-04-03,REG,St. Louis Blues,1495,Colorado Avalanche,1579,Away,34.1,1,2,L,-2.0,1493,2020020594,18,27
+2021-04-03,REG,Vegas Golden Knights,1558,Minnesota Wild,1522,Home,59.4,1,2,L,-3.6,1554,2020020595,38,37
+2021-04-03,REG,Minnesota Wild,1522,Vegas Golden Knights,1558,Away,40.6,2,1,W,3.6,1525,2020020595,37,38
+2021-04-03,REG,Los Angeles Kings,1471,San Jose Sharks,1463,Home,55.4,2,3,L,-3.3,1468,2020020596,14,29
+2021-04-03,REG,San Jose Sharks,1463,Los Angeles Kings,1471,Away,44.6,3,2,W,3.3,1466,2020020596,29,14
+2021-04-04,REG,Tampa Bay Lightning,1591,Detroit Red Wings,1393,Home,78.9,1,5,L,-8.9,1582,2020020599,31,12
+2021-04-04,REG,Detroit Red Wings,1393,Tampa Bay Lightning,1591,Away,21.1,5,1,W,8.9,1401,2020020599,12,31
+2021-04-04,REG,New Jersey Devils,1450,Washington Capitals,1538,Home,41.7,4,5,L,-2.5,1447,2020020597,23,24
+2021-04-04,REG,Washington Capitals,1538,New Jersey Devils,1450,Away,58.3,5,4,W,2.5,1541,2020020597,24,23
+2021-04-04,REG,Florida Panthers,1527,Columbus Blue Jackets,1471,Home,62.2,3,0,W,4.0,1531,2020020600,33,36
+2021-04-04,REG,Columbus Blue Jackets,1471,Florida Panthers,1527,Away,37.8,0,3,L,-4.0,1467,2020020600,36,33
+2021-04-04,REG,Carolina Hurricanes,1552,Dallas Stars,1506,Home,60.8,1,0,W,2.3,1554,2020020598,26,15
+2021-04-04,REG,Dallas Stars,1506,Carolina Hurricanes,1552,Away,39.2,0,1,L,-2.3,1503,2020020598,15,26
+2021-04-04,REG,Calgary Flames,1483,Toronto Maple Leafs,1536,Home,46.7,2,4,L,-3.5,1479,2020020603,21,5
+2021-04-04,REG,Toronto Maple Leafs,1536,Calgary Flames,1483,Away,53.3,4,2,W,3.5,1539,2020020603,5,21
+2021-04-04,REG,Anaheim Ducks,1418,Arizona Coyotes,1483,Home,45.1,2,3,OTL,-1.2,1417,2020020604,32,40
+2021-04-04,REG,Arizona Coyotes,1483,Anaheim Ducks,1418,Away,54.9,3,2,OTW,1.2,1484,2020020604,40,32
+2021-04-05,REG,Boston Bruins,1547,Philadelphia Flyers,1499,Home,61.0,2,3,OTL,-2.2,1545,2020020390,6,16
+2021-04-05,REG,Philadelphia Flyers,1499,Boston Bruins,1547,Away,39.0,3,2,OTW,2.2,1502,2020020390,16,6
+2021-04-05,REG,Montréal Canadiens,1507,Edmonton Oilers,1517,Home,52.9,3,2,OTW,1.3,1508,2020020607,1,25
+2021-04-05,REG,Edmonton Oilers,1517,Montréal Canadiens,1507,Away,47.1,2,3,OTL,-1.3,1515,2020020607,25,1
+2021-04-05,REG,Winnipeg Jets,1524,Ottawa Senators,1419,Home,68.5,4,3,W,1.9,1526,2020020848,35,30
+2021-04-05,REG,Ottawa Senators,1419,Winnipeg Jets,1524,Away,31.5,3,4,L,-1.9,1417,2020020848,30,35
+2021-04-05,REG,St. Louis Blues,1493,Vegas Golden Knights,1554,Home,45.5,1,6,L,-5.5,1488,2020020606,18,38
+2021-04-05,REG,Vegas Golden Knights,1554,St. Louis Blues,1493,Away,54.5,6,1,W,5.5,1560,2020020606,38,18
+2021-04-05,REG,Minnesota Wild,1525,Colorado Avalanche,1581,Home,46.3,4,5,L,-2.8,1523,2020020609,37,27
+2021-04-05,REG,Colorado Avalanche,1581,Minnesota Wild,1525,Away,53.7,5,4,W,2.8,1584,2020020609,27,37
+2021-04-05,REG,Calgary Flames,1479,Toronto Maple Leafs,1539,Home,45.7,3,5,L,-3.4,1476,2020020608,21,5
+2021-04-05,REG,Toronto Maple Leafs,1539,Calgary Flames,1479,Away,54.3,5,3,W,3.4,1543,2020020608,5,21
+2021-04-05,REG,Los Angeles Kings,1468,Arizona Coyotes,1484,Home,52.0,2,5,L,-5.5,1462,2020020610,14,40
+2021-04-05,REG,Arizona Coyotes,1484,Los Angeles Kings,1468,Away,48.0,5,2,W,5.5,1489,2020020610,40,14
+2021-04-06,REG,New Jersey Devils,1447,Buffalo Sabres,1408,Home,59.8,3,5,L,-4.5,1443,2020020611,23,19
+2021-04-06,REG,Buffalo Sabres,1408,New Jersey Devils,1447,Away,40.2,5,3,W,4.5,1412,2020020611,19,23
+2021-04-06,REG,New York Islanders,1550,Washington Capitals,1541,Home,55.7,1,0,W,2.7,1553,2020020612,22,24
+2021-04-06,REG,Washington Capitals,1541,New York Islanders,1550,Away,44.3,0,1,L,-2.7,1538,2020020612,24,22
+2021-04-06,REG,New York Rangers,1508,Pittsburgh Penguins,1545,Home,49.1,8,4,W,5.7,1514,2020020613,10,17
+2021-04-06,REG,Pittsburgh Penguins,1545,New York Rangers,1508,Away,50.9,4,8,L,-5.7,1539,2020020613,17,10
+2021-04-06,REG,Philadelphia Flyers,1502,Boston Bruins,1545,Home,48.0,2,4,L,-3.6,1498,2020020614,16,6
+2021-04-06,REG,Boston Bruins,1545,Philadelphia Flyers,1502,Away,52.0,4,2,W,3.6,1549,2020020614,6,16
+2021-04-06,REG,Carolina Hurricanes,1554,Florida Panthers,1531,Home,57.6,5,2,W,4.5,1559,2020020615,26,33
+2021-04-06,REG,Florida Panthers,1531,Carolina Hurricanes,1554,Away,42.4,2,5,L,-4.5,1527,2020020615,33,26
+2021-04-06,REG,Columbus Blue Jackets,1467,Tampa Bay Lightning,1582,Home,38.0,4,2,W,4.7,1472,2020020616,36,31
+2021-04-06,REG,Tampa Bay Lightning,1582,Columbus Blue Jackets,1467,Away,62.0,2,4,L,-4.7,1578,2020020616,31,36
+2021-04-06,REG,Detroit Red Wings,1401,Nashville Predators,1491,Home,41.5,2,3,SOL,-1.0,1400,2020020617,12,34
+2021-04-06,REG,Nashville Predators,1491,Detroit Red Wings,1401,Away,58.5,3,2,SOW,1.0,1492,2020020617,34,12
+2021-04-06,REG,Chicago Blackhawks,1474,Dallas Stars,1503,Home,50.1,4,2,W,3.7,1477,2020020618,11,15
+2021-04-06,REG,Dallas Stars,1503,Chicago Blackhawks,1474,Away,49.9,2,4,L,-3.7,1499,2020020618,15,11
+2021-04-06,REG,San Jose Sharks,1466,Anaheim Ducks,1417,Home,61.2,1,5,L,-6.9,1459,2020020241,29,32
+2021-04-06,REG,Anaheim Ducks,1417,San Jose Sharks,1466,Away,38.8,5,1,W,6.9,1424,2020020241,32,29
+2021-04-07,REG,Ottawa Senators,1417,Edmonton Oilers,1515,Home,40.4,2,4,L,-3.0,1414,2020020621,30,25
+2021-04-07,REG,Edmonton Oilers,1515,Ottawa Senators,1417,Away,59.6,4,2,W,3.0,1518,2020020621,25,30
+2021-04-07,REG,Toronto Maple Leafs,1543,Montréal Canadiens,1508,Home,59.2,3,2,W,2.4,1545,2020020622,5,1
+2021-04-07,REG,Montréal Canadiens,1508,Toronto Maple Leafs,1543,Away,40.8,2,3,L,-2.4,1505,2020020622,1,5
+2021-04-07,REG,St. Louis Blues,1488,Vegas Golden Knights,1560,Home,44.0,3,1,W,4.2,1492,2020020620,18,38
+2021-04-07,REG,Vegas Golden Knights,1560,St. Louis Blues,1488,Away,56.0,1,3,L,-4.2,1556,2020020620,38,18
+2021-04-07,REG,Minnesota Wild,1523,Colorado Avalanche,1584,Home,45.5,8,3,W,6.5,1529,2020020623,37,27
+2021-04-07,REG,Colorado Avalanche,1584,Minnesota Wild,1523,Away,54.5,3,8,L,-6.5,1578,2020020623,27,37
+2021-04-07,REG,Los Angeles Kings,1462,Arizona Coyotes,1489,Home,50.4,4,3,W,3.0,1465,2020020624,14,40
+2021-04-07,REG,Arizona Coyotes,1489,Los Angeles Kings,1462,Away,49.6,3,4,L,-3.0,1486,2020020624,40,14
+2021-04-08,REG,Buffalo Sabres,1412,New Jersey Devils,1443,Home,50.0,3,6,L,-5.2,1407,2020020625,19,23
+2021-04-08,REG,New Jersey Devils,1443,Buffalo Sabres,1412,Away,50.0,6,3,W,5.2,1448,2020020625,23,19
+2021-04-08,REG,New York Islanders,1553,Philadelphia Flyers,1498,Home,62.0,3,2,SOW,0.8,1554,2020020626,22,16
+2021-04-08,REG,Philadelphia Flyers,1498,New York Islanders,1553,Away,38.0,2,3,SOL,-0.8,1497,2020020626,16,22
+2021-04-08,REG,New York Rangers,1514,Pittsburgh Penguins,1539,Home,50.7,2,5,L,-5.3,1509,2020020627,10,17
+2021-04-08,REG,Pittsburgh Penguins,1539,New York Rangers,1514,Away,49.3,5,2,W,5.3,1544,2020020627,17,10
+2021-04-08,REG,Washington Capitals,1538,Boston Bruins,1549,Home,52.8,2,4,L,-4.0,1534,2020020628,24,6
+2021-04-08,REG,Boston Bruins,1549,Washington Capitals,1538,Away,47.2,4,2,W,4.0,1553,2020020628,6,24
+2021-04-08,REG,Carolina Hurricanes,1559,Florida Panthers,1527,Home,58.8,3,0,W,4.3,1563,2020020629,26,33
+2021-04-08,REG,Florida Panthers,1527,Carolina Hurricanes,1559,Away,41.2,0,3,L,-4.3,1523,2020020629,33,26
+2021-04-08,REG,Columbus Blue Jackets,1472,Tampa Bay Lightning,1578,Home,39.2,4,6,L,-2.9,1469,2020020630,36,31
+2021-04-08,REG,Tampa Bay Lightning,1578,Columbus Blue Jackets,1472,Away,60.8,6,4,W,2.9,1581,2020020630,31,36
+2021-04-08,REG,Montréal Canadiens,1505,Winnipeg Jets,1526,Home,51.4,2,4,L,-3.9,1502,2020020633,1,35
+2021-04-08,REG,Winnipeg Jets,1526,Montréal Canadiens,1505,Away,48.6,4,2,W,3.9,1530,2020020633,35,1
+2021-04-08,REG,Ottawa Senators,1414,Edmonton Oilers,1518,Home,39.5,1,3,L,-3.0,1412,2020020638,30,25
+2021-04-08,REG,Edmonton Oilers,1518,Ottawa Senators,1414,Away,60.5,3,1,W,3.0,1521,2020020638,25,30
+2021-04-08,REG,Detroit Red Wings,1400,Nashville Predators,1492,Home,41.2,1,7,L,-5.3,1395,2020020631,12,34
+2021-04-08,REG,Nashville Predators,1492,Detroit Red Wings,1400,Away,58.8,7,1,W,5.3,1497,2020020631,34,12
+2021-04-08,REG,Chicago Blackhawks,1477,Dallas Stars,1499,Home,51.1,1,5,L,-5.8,1472,2020020632,11,15
+2021-04-08,REG,Dallas Stars,1499,Chicago Blackhawks,1477,Away,48.9,5,1,W,5.8,1505,2020020632,15,11
+2021-04-09,REG,Buffalo Sabres,1407,Washington Capitals,1534,Home,36.4,3,4,L,-2.2,1405,2020020229,19,24
+2021-04-09,REG,Washington Capitals,1534,Buffalo Sabres,1407,Away,63.6,4,3,W,2.2,1536,2020020229,24,19
+2021-04-09,REG,New Jersey Devils,1448,Pittsburgh Penguins,1544,Home,40.5,4,6,L,-3.0,1445,2020020494,23,17
+2021-04-09,REG,Pittsburgh Penguins,1544,New Jersey Devils,1448,Away,59.5,6,4,W,3.0,1547,2020020494,17,23
+2021-04-09,REG,New York Islanders,1554,New York Rangers,1509,Home,60.6,1,4,L,-6.4,1547,2020020636,22,10
+2021-04-09,REG,New York Rangers,1509,New York Islanders,1554,Away,39.4,4,1,W,6.4,1515,2020020636,10,22
+2021-04-09,REG,St. Louis Blues,1492,Minnesota Wild,1529,Home,48.9,9,1,W,7.3,1499,2020020637,18,37
+2021-04-09,REG,Minnesota Wild,1529,St. Louis Blues,1492,Away,51.1,1,9,L,-7.3,1522,2020020637,37,18
+2021-04-09,REG,Vegas Golden Knights,1556,Arizona Coyotes,1486,Home,63.9,7,4,W,3.8,1559,2020020639,38,40
+2021-04-09,REG,Arizona Coyotes,1486,Vegas Golden Knights,1556,Away,36.1,4,7,L,-3.8,1483,2020020639,40,38
+2021-04-09,REG,Anaheim Ducks,1424,Colorado Avalanche,1578,Home,32.9,0,2,L,-2.5,1421,2020020640,32,27
+2021-04-09,REG,Colorado Avalanche,1578,Anaheim Ducks,1424,Away,67.1,2,0,W,2.5,1580,2020020640,27,32
+2021-04-09,REG,San Jose Sharks,1459,Los Angeles Kings,1465,Home,53.5,5,2,W,4.9,1464,2020020641,29,14
+2021-04-09,REG,Los Angeles Kings,1465,San Jose Sharks,1459,Away,46.5,2,5,L,-4.9,1460,2020020641,14,29
+2021-04-10,REG,Philadelphia Flyers,1497,Boston Bruins,1553,Home,46.3,3,2,W,3.2,1500,2020020605,16,6
+2021-04-10,REG,Boston Bruins,1553,Philadelphia Flyers,1497,Away,53.7,2,3,L,-3.2,1550,2020020605,6,16
+2021-04-10,REG,Dallas Stars,1505,Florida Panthers,1523,Home,51.8,4,1,W,5.1,1510,2020020648,15,33
+2021-04-10,REG,Florida Panthers,1523,Dallas Stars,1505,Away,48.2,1,4,L,-5.1,1518,2020020648,33,15
+2021-04-10,REG,Carolina Hurricanes,1563,Detroit Red Wings,1395,Home,75.8,4,5,SOL,-3.0,1560,2020020642,26,12
+2021-04-10,REG,Detroit Red Wings,1395,Carolina Hurricanes,1563,Away,24.2,5,4,SOW,3.0,1398,2020020642,12,26
+2021-04-10,REG,Columbus Blue Jackets,1469,Chicago Blackhawks,1472,Home,53.9,3,4,L,-3.2,1466,2020020643,36,11
+2021-04-10,REG,Chicago Blackhawks,1472,Columbus Blue Jackets,1469,Away,46.1,4,3,W,3.2,1475,2020020643,11,36
+2021-04-10,REG,Montréal Canadiens,1502,Winnipeg Jets,1530,Home,50.3,0,5,L,-6.0,1496,2020020645,1,35
+2021-04-10,REG,Winnipeg Jets,1530,Montréal Canadiens,1502,Away,49.7,5,0,W,6.0,1536,2020020645,35,1
+2021-04-10,REG,Toronto Maple Leafs,1545,Ottawa Senators,1412,Home,72.0,6,5,W,1.7,1547,2020020646,5,30
+2021-04-10,REG,Ottawa Senators,1412,Toronto Maple Leafs,1545,Away,28.0,5,6,L,-1.7,1410,2020020646,30,5
+2021-04-10,REG,Nashville Predators,1497,Tampa Bay Lightning,1581,Home,42.4,0,3,L,-4.4,1493,2020020644,34,31
+2021-04-10,REG,Tampa Bay Lightning,1581,Nashville Predators,1497,Away,57.6,3,0,W,4.4,1585,2020020644,31,34
+2021-04-10,REG,St. Louis Blues,1499,Minnesota Wild,1522,Home,51.0,3,2,OTW,1.4,1501,2020020654,18,37
+2021-04-10,REG,Minnesota Wild,1522,St. Louis Blues,1499,Away,49.0,2,3,OTL,-1.4,1521,2020020654,37,18
+2021-04-10,REG,Calgary Flames,1476,Edmonton Oilers,1521,Home,47.7,5,0,W,6.3,1482,2020020849,21,25
+2021-04-10,REG,Edmonton Oilers,1521,Calgary Flames,1476,Away,52.3,0,5,L,-6.3,1515,2020020849,25,21
+2021-04-10,REG,San Jose Sharks,1464,Los Angeles Kings,1460,Home,54.9,2,4,L,-4.1,1460,2020020649,29,14
+2021-04-10,REG,Los Angeles Kings,1460,San Jose Sharks,1464,Away,45.1,4,2,W,4.1,1464,2020020649,14,29
+2021-04-11,REG,Philadelphia Flyers,1500,Buffalo Sabres,1405,Home,67.3,3,5,L,-5.0,1495,2020020652,16,19
+2021-04-11,REG,Buffalo Sabres,1405,Philadelphia Flyers,1500,Away,32.7,5,3,W,5.0,1410,2020020652,19,16
+2021-04-11,REG,Vegas Golden Knights,1559,Arizona Coyotes,1483,Home,64.9,1,0,W,2.1,1562,2020020655,38,40
+2021-04-11,REG,Arizona Coyotes,1483,Vegas Golden Knights,1559,Away,35.1,0,1,L,-2.1,1481,2020020655,40,38
+2021-04-11,REG,Anaheim Ducks,1421,Colorado Avalanche,1580,Home,32.3,1,4,L,-3.4,1418,2020020656,32,27
+2021-04-11,REG,Colorado Avalanche,1580,Anaheim Ducks,1421,Away,67.7,4,1,W,3.4,1583,2020020656,27,32
+2021-04-11,REG,New Jersey Devils,1445,Pittsburgh Penguins,1547,Home,39.7,2,5,L,-4.2,1441,2020020650,23,17
+2021-04-11,REG,Pittsburgh Penguins,1547,New Jersey Devils,1445,Away,60.3,5,2,W,4.2,1552,2020020650,17,23
+2021-04-11,REG,New York Islanders,1547,New York Rangers,1515,Home,58.9,3,2,OTW,1.0,1548,2020020651,22,10
+2021-04-11,REG,New York Rangers,1515,New York Islanders,1547,Away,41.1,2,3,OTL,-1.0,1514,2020020651,10,22
+2021-04-11,REG,Boston Bruins,1550,Washington Capitals,1536,Home,56.2,1,8,L,-7.6,1542,2020020714,6,24
+2021-04-11,REG,Washington Capitals,1536,Boston Bruins,1550,Away,43.8,8,1,W,7.6,1544,2020020714,24,6
+2021-04-11,REG,Nashville Predators,1493,Dallas Stars,1510,Home,51.8,3,2,SOW,1.4,1494,2020020788,34,15
+2021-04-11,REG,Dallas Stars,1510,Nashville Predators,1493,Away,48.2,2,3,SOL,-1.4,1509,2020020788,15,34
+2021-04-12,REG,Carolina Hurricanes,1560,Detroit Red Wings,1398,Home,75.1,1,3,L,-5.6,1554,2020020657,26,12
+2021-04-12,REG,Detroit Red Wings,1398,Carolina Hurricanes,1560,Away,24.9,3,1,W,5.6,1404,2020020657,12,26
+2021-04-12,REG,Columbus Blue Jackets,1466,Chicago Blackhawks,1475,Home,53.0,3,4,OTL,-1.7,1464,2020020658,36,11
+2021-04-12,REG,Chicago Blackhawks,1475,Columbus Blue Jackets,1466,Away,47.0,4,3,OTW,1.7,1477,2020020658,11,36
+2021-04-12,REG,Montréal Canadiens,1496,Toronto Maple Leafs,1547,Home,46.9,4,2,W,4.0,1500,2020020660,1,5
+2021-04-12,REG,Toronto Maple Leafs,1547,Montréal Canadiens,1496,Away,53.1,2,4,L,-4.0,1543,2020020660,5,1
+2021-04-12,REG,Ottawa Senators,1410,Winnipeg Jets,1536,Home,36.5,4,2,W,4.8,1415,2020020661,30,35
+2021-04-12,REG,Winnipeg Jets,1536,Ottawa Senators,1410,Away,63.5,2,4,L,-4.8,1531,2020020661,35,30
+2021-04-12,REG,Colorado Avalanche,1583,Arizona Coyotes,1481,Home,68.2,4,2,W,2.4,1586,2020020225,27,40
+2021-04-12,REG,Arizona Coyotes,1481,Colorado Avalanche,1583,Away,31.8,2,4,L,-2.4,1478,2020020225,40,27
+2021-04-12,REG,Los Angeles Kings,1464,Vegas Golden Knights,1562,Home,40.4,2,4,L,-3.0,1461,2020020663,14,38
+2021-04-12,REG,Vegas Golden Knights,1562,Los Angeles Kings,1464,Away,59.6,4,2,W,3.0,1565,2020020663,38,14
+2021-04-12,REG,San Jose Sharks,1460,Anaheim Ducks,1418,Home,60.2,0,4,L,-6.8,1453,2020020664,29,32
+2021-04-12,REG,Anaheim Ducks,1418,San Jose Sharks,1460,Away,39.8,4,0,W,6.8,1425,2020020664,32,29
+2021-04-13,REG,Boston Bruins,1542,Buffalo Sabres,1410,Home,71.8,3,2,SOW,0.2,1542,2020020195,6,19
+2021-04-13,REG,Buffalo Sabres,1410,Boston Bruins,1542,Away,28.2,2,3,SOL,-0.2,1410,2020020195,19,6
+2021-04-13,REG,Washington Capitals,1544,Philadelphia Flyers,1495,Home,61.1,6,1,W,4.7,1549,2020020202,24,16
+2021-04-13,REG,Philadelphia Flyers,1495,Washington Capitals,1544,Away,38.9,1,6,L,-4.7,1491,2020020202,16,24
+2021-04-13,REG,New Jersey Devils,1441,New York Rangers,1514,Home,43.8,0,3,L,-4.6,1436,2020020666,23,10
+2021-04-13,REG,New York Rangers,1514,New Jersey Devils,1441,Away,56.2,3,0,W,4.6,1519,2020020666,10,23
+2021-04-13,REG,Toronto Maple Leafs,1543,Calgary Flames,1482,Home,62.8,2,3,OTL,-2.3,1541,2020020669,5,21
+2021-04-13,REG,Calgary Flames,1482,Toronto Maple Leafs,1543,Away,37.2,3,2,OTW,2.3,1484,2020020669,21,5
+2021-04-13,REG,Nashville Predators,1494,Tampa Bay Lightning,1585,Home,41.3,7,2,W,7.0,1501,2020020659,34,31
+2021-04-13,REG,Tampa Bay Lightning,1585,Nashville Predators,1494,Away,58.7,2,7,L,-7.0,1578,2020020659,31,34
+2021-04-13,REG,Dallas Stars,1509,Florida Panthers,1518,Home,53.1,2,3,OTL,-1.7,1507,2020020670,15,33
+2021-04-13,REG,Florida Panthers,1518,Dallas Stars,1509,Away,46.9,3,2,OTW,1.7,1519,2020020670,33,15
+2021-04-14,REG,Minnesota Wild,1521,Arizona Coyotes,1478,Home,60.3,5,2,W,4.2,1525,2020020192,37,40
+2021-04-14,REG,Arizona Coyotes,1478,Minnesota Wild,1521,Away,39.7,2,5,L,-4.2,1474,2020020192,40,37
+2021-04-14,REG,Montréal Canadiens,1500,Calgary Flames,1484,Home,56.5,1,4,L,-5.9,1494,2020020671,1,21
+2021-04-14,REG,Calgary Flames,1484,Montréal Canadiens,1500,Away,43.5,4,1,W,5.9,1490,2020020671,21,1
+2021-04-14,REG,Ottawa Senators,1415,Winnipeg Jets,1531,Home,37.8,2,3,L,-2.3,1412,2020020672,30,35
+2021-04-14,REG,Winnipeg Jets,1531,Ottawa Senators,1415,Away,62.2,3,2,W,2.3,1533,2020020672,35,30
+2021-04-14,REG,St. Louis Blues,1501,Colorado Avalanche,1586,Home,42.1,3,4,L,-2.5,1498,2020020182,18,27
+2021-04-14,REG,Colorado Avalanche,1586,St. Louis Blues,1501,Away,57.9,4,3,W,2.5,1588,2020020182,27,18
+2021-04-14,REG,Los Angeles Kings,1461,Vegas Golden Knights,1565,Home,39.6,2,6,L,-4.5,1457,2020020674,14,38
+2021-04-14,REG,Vegas Golden Knights,1565,Los Angeles Kings,1461,Away,60.4,6,2,W,4.5,1569,2020020674,38,14
+2021-04-14,REG,San Jose Sharks,1453,Anaheim Ducks,1425,Home,58.4,1,4,L,-6.1,1447,2020020675,29,32
+2021-04-14,REG,Anaheim Ducks,1425,San Jose Sharks,1453,Away,41.6,4,1,W,6.1,1431,2020020675,32,29
+2021-04-15,REG,Boston Bruins,1542,New York Islanders,1548,Home,53.4,4,1,W,4.9,1547,2020020665,6,22
+2021-04-15,REG,New York Islanders,1548,Boston Bruins,1542,Away,46.6,1,4,L,-4.9,1543,2020020665,22,6
+2021-04-15,REG,New York Rangers,1519,New Jersey Devils,1436,Home,65.7,4,0,W,3.9,1523,2020020676,10,23
+2021-04-15,REG,New Jersey Devils,1436,New York Rangers,1519,Away,34.3,0,4,L,-3.9,1432,2020020676,23,10
+2021-04-15,REG,Washington Capitals,1549,Buffalo Sabres,1410,Home,72.5,2,5,L,-7.6,1541,2020020677,24,19
+2021-04-15,REG,Buffalo Sabres,1410,Washington Capitals,1549,Away,27.5,5,2,W,7.6,1417,2020020677,19,24
+2021-04-15,REG,Carolina Hurricanes,1554,Nashville Predators,1501,Home,61.8,4,1,W,4.0,1559,2020020678,26,34
+2021-04-15,REG,Nashville Predators,1501,Carolina Hurricanes,1554,Away,38.2,1,4,L,-4.0,1497,2020020678,34,26
+2021-04-15,REG,Tampa Bay Lightning,1578,Florida Panthers,1519,Home,62.5,3,2,OTW,0.7,1579,2020020679,31,33
+2021-04-15,REG,Florida Panthers,1519,Tampa Bay Lightning,1578,Away,37.5,2,3,OTL,-0.7,1518,2020020679,33,31
+2021-04-15,REG,Pittsburgh Penguins,1552,Philadelphia Flyers,1491,Home,62.8,1,2,SOL,-2.3,1549,2020020680,17,16
+2021-04-15,REG,Philadelphia Flyers,1491,Pittsburgh Penguins,1552,Away,37.2,2,1,SOW,2.3,1493,2020020680,16,17
+2021-04-15,REG,Toronto Maple Leafs,1541,Winnipeg Jets,1533,Home,55.3,2,5,L,-5.8,1535,2020020682,5,35
+2021-04-15,REG,Winnipeg Jets,1533,Toronto Maple Leafs,1541,Away,44.7,5,2,W,5.8,1539,2020020682,35,5
+2021-04-15,REG,Detroit Red Wings,1404,Chicago Blackhawks,1477,Home,43.9,4,1,W,5.9,1410,2020020681,12,11
+2021-04-15,REG,Chicago Blackhawks,1477,Detroit Red Wings,1404,Away,56.1,1,4,L,-5.9,1471,2020020681,11,12
+2021-04-15,REG,Dallas Stars,1507,Columbus Blue Jackets,1464,Home,60.4,4,1,W,4.2,1511,2020020683,15,36
+2021-04-15,REG,Columbus Blue Jackets,1464,Dallas Stars,1507,Away,39.6,1,4,L,-4.2,1460,2020020683,36,15
+2021-04-16,REG,Montréal Canadiens,1494,Calgary Flames,1490,Home,54.8,2,1,W,2.7,1496,2020020686,1,21
+2021-04-16,REG,Calgary Flames,1490,Montréal Canadiens,1494,Away,45.2,1,2,L,-2.7,1487,2020020686,21,1
+2021-04-16,REG,Boston Bruins,1547,New York Islanders,1543,Home,54.8,3,0,W,4.7,1552,2020020685,6,22
+2021-04-16,REG,New York Islanders,1543,Boston Bruins,1547,Away,45.2,0,3,L,-4.7,1539,2020020685,22,6
+2021-04-16,REG,Minnesota Wild,1525,San Jose Sharks,1447,Home,65.0,3,2,W,2.1,1527,2020020687,37,29
+2021-04-16,REG,San Jose Sharks,1447,Minnesota Wild,1525,Away,35.0,2,3,L,-2.1,1445,2020020687,29,37
+2021-04-16,REG,Anaheim Ducks,1431,Vegas Golden Knights,1569,Home,34.9,0,4,L,-3.9,1427,2020020689,32,38
+2021-04-16,REG,Vegas Golden Knights,1569,Anaheim Ducks,1431,Away,65.1,4,0,W,3.9,1573,2020020689,38,32
+2021-04-17,REG,New York Rangers,1523,New Jersey Devils,1432,Home,66.7,6,3,W,3.5,1526,2020020691,10,23
+2021-04-17,REG,New Jersey Devils,1432,New York Rangers,1523,Away,33.3,3,6,L,-3.5,1429,2020020691,23,10
+2021-04-17,REG,Philadelphia Flyers,1493,Washington Capitals,1541,Home,47.4,3,6,L,-5.0,1488,2020020692,16,24
+2021-04-17,REG,Washington Capitals,1541,Philadelphia Flyers,1493,Away,52.6,6,3,W,5.0,1546,2020020692,24,16
+2021-04-17,REG,Buffalo Sabres,1417,Pittsburgh Penguins,1549,Home,35.7,2,3,L,-2.1,1415,2020020690,19,17
+2021-04-17,REG,Pittsburgh Penguins,1549,Buffalo Sabres,1417,Away,64.3,3,2,W,2.1,1552,2020020690,17,19
+2021-04-17,REG,Montréal Canadiens,1496,Ottawa Senators,1412,Home,65.8,0,4,L,-7.4,1489,2020020546,1,30
+2021-04-17,REG,Ottawa Senators,1412,Montréal Canadiens,1496,Away,34.2,4,0,W,7.4,1420,2020020546,30,1
+2021-04-17,REG,Arizona Coyotes,1474,St. Louis Blues,1498,Home,50.9,3,2,W,2.9,1477,2020020700,40,18
+2021-04-17,REG,St. Louis Blues,1498,Arizona Coyotes,1474,Away,49.1,2,3,L,-2.9,1495,2020020700,18,40
+2021-04-17,REG,Carolina Hurricanes,1559,Nashville Predators,1497,Home,62.8,3,1,W,2.8,1561,2020020693,26,34
+2021-04-17,REG,Nashville Predators,1497,Carolina Hurricanes,1559,Away,37.2,1,3,L,-2.8,1494,2020020693,34,26
+2021-04-17,REG,Tampa Bay Lightning,1579,Florida Panthers,1518,Home,62.7,3,5,L,-4.7,1574,2020020694,31,33
+2021-04-17,REG,Florida Panthers,1518,Tampa Bay Lightning,1579,Away,37.3,5,3,W,4.7,1523,2020020694,33,31
+2021-04-17,REG,Detroit Red Wings,1410,Chicago Blackhawks,1471,Home,45.6,0,4,L,-5.1,1405,2020020695,12,11
+2021-04-17,REG,Chicago Blackhawks,1471,Detroit Red Wings,1410,Away,54.4,4,0,W,5.1,1476,2020020695,11,12
+2021-04-17,REG,Winnipeg Jets,1539,Edmonton Oilers,1515,Home,57.7,0,3,L,-6.1,1533,2020020696,35,25
+2021-04-17,REG,Edmonton Oilers,1515,Winnipeg Jets,1539,Away,42.3,3,0,W,6.1,1521,2020020696,25,35
+2021-04-17,REG,Minnesota Wild,1527,San Jose Sharks,1445,Home,65.5,5,2,W,3.6,1530,2020020698,37,29
+2021-04-17,REG,San Jose Sharks,1445,Minnesota Wild,1527,Away,34.5,2,5,L,-3.6,1442,2020020698,29,37
+2021-04-17,REG,Dallas Stars,1511,Columbus Blue Jackets,1460,Home,61.5,5,1,W,4.3,1516,2020020699,15,36
+2021-04-17,REG,Columbus Blue Jackets,1460,Dallas Stars,1511,Away,38.5,1,5,L,-4.3,1455,2020020699,36,15
+2021-04-18,REG,Boston Bruins,1552,Washington Capitals,1546,Home,55.1,6,3,W,4.7,1556,2020020701,6,24
+2021-04-18,REG,Washington Capitals,1546,Boston Bruins,1552,Away,44.9,3,6,L,-4.7,1541,2020020701,24,6
+2021-04-18,REG,New Jersey Devils,1429,New York Rangers,1526,Home,40.4,3,5,L,-3.0,1426,2020020702,23,10
+2021-04-18,REG,New York Rangers,1526,New Jersey Devils,1429,Away,59.6,5,3,W,3.0,1529,2020020702,10,23
+2021-04-18,REG,Buffalo Sabres,1415,Pittsburgh Penguins,1552,Home,35.2,4,2,W,4.9,1420,2020020715,19,17
+2021-04-18,REG,Pittsburgh Penguins,1552,Buffalo Sabres,1415,Away,64.8,2,4,L,-4.9,1547,2020020715,17,19
+2021-04-18,REG,Anaheim Ducks,1427,Vegas Golden Knights,1573,Home,33.9,2,5,L,-3.6,1424,2020020705,32,38
+2021-04-18,REG,Vegas Golden Knights,1573,Anaheim Ducks,1427,Away,66.1,5,2,W,3.6,1577,2020020705,38,32
+2021-04-18,REG,Philadelphia Flyers,1488,New York Islanders,1539,Home,47.0,0,1,OTL,-1.3,1487,2020020703,16,22
+2021-04-18,REG,New York Islanders,1539,Philadelphia Flyers,1488,Away,53.0,1,0,OTW,1.3,1540,2020020703,22,16
+2021-04-18,REG,Vancouver Canucks,1475,Toronto Maple Leafs,1535,Home,45.7,3,2,OTW,1.8,1477,2020020697,20,5
+2021-04-18,REG,Toronto Maple Leafs,1535,Vancouver Canucks,1475,Away,54.3,2,3,OTL,-1.8,1533,2020020697,5,20
+2021-04-19,REG,Tampa Bay Lightning,1574,Carolina Hurricanes,1561,Home,56.1,3,2,OTW,1.1,1575,2020020706,31,26
+2021-04-19,REG,Carolina Hurricanes,1561,Tampa Bay Lightning,1574,Away,43.9,2,3,OTL,-1.1,1560,2020020706,26,31
+2021-04-19,REG,Florida Panthers,1523,Columbus Blue Jackets,1455,Home,63.7,4,2,W,2.7,1526,2020020707,33,36
+2021-04-19,REG,Columbus Blue Jackets,1455,Florida Panthers,1523,Away,36.3,2,4,L,-2.7,1453,2020020707,36,33
+2021-04-19,REG,Dallas Stars,1516,Detroit Red Wings,1405,Home,69.3,3,2,SOW,0.3,1516,2020020711,15,12
+2021-04-19,REG,Detroit Red Wings,1405,Dallas Stars,1516,Away,30.7,2,3,SOL,-0.3,1404,2020020711,12,15
+2021-04-19,REG,Nashville Predators,1494,Chicago Blackhawks,1476,Home,57.0,5,2,W,4.5,1499,2020020601,34,11
+2021-04-19,REG,Chicago Blackhawks,1476,Nashville Predators,1494,Away,43.0,2,5,L,-4.5,1471,2020020601,11,34
+2021-04-19,REG,Calgary Flames,1487,Ottawa Senators,1420,Home,63.7,2,4,L,-4.8,1483,2020020708,21,30
+2021-04-19,REG,Ottawa Senators,1420,Calgary Flames,1487,Away,36.3,4,2,W,4.8,1424,2020020708,30,21
+2021-04-19,REG,Edmonton Oilers,1521,Montréal Canadiens,1489,Home,58.9,4,1,W,4.3,1525,2020020709,25,1
+2021-04-19,REG,Montréal Canadiens,1489,Edmonton Oilers,1521,Away,41.1,1,4,L,-4.3,1485,2020020709,1,25
+2021-04-19,REG,Arizona Coyotes,1477,Minnesota Wild,1530,Home,46.6,2,5,L,-4.9,1472,2020020712,40,37
+2021-04-19,REG,Minnesota Wild,1530,Arizona Coyotes,1477,Away,53.4,5,2,W,4.9,1535,2020020712,37,40
+2021-04-19,REG,Vegas Golden Knights,1577,San Jose Sharks,1442,Home,72.1,3,2,SOW,0.2,1577,2020020713,38,29
+2021-04-19,REG,San Jose Sharks,1442,Vegas Golden Knights,1577,Away,27.9,2,3,SOL,-0.2,1441,2020020713,29,38
+2021-04-20,REG,Buffalo Sabres,1420,Boston Bruins,1556,Home,35.2,0,2,L,-2.6,1417,2020020483,19,6
+2021-04-20,REG,Boston Bruins,1556,Buffalo Sabres,1420,Away,64.8,2,0,W,2.6,1559,2020020483,6,19
+2021-04-20,REG,Pittsburgh Penguins,1547,New Jersey Devils,1426,Home,70.5,7,6,W,1.8,1548,2020020166,17,23
+2021-04-20,REG,New Jersey Devils,1426,Pittsburgh Penguins,1547,Away,29.5,6,7,L,-1.8,1424,2020020166,23,17
+2021-04-20,REG,New York Islanders,1540,New York Rangers,1529,Home,55.9,6,1,W,5.3,1545,2020020717,22,10
+2021-04-20,REG,New York Rangers,1529,New York Islanders,1540,Away,44.1,1,6,L,-5.3,1524,2020020717,10,22
+2021-04-20,REG,Tampa Bay Lightning,1575,Carolina Hurricanes,1560,Home,56.5,1,4,L,-5.9,1569,2020020718,31,26
+2021-04-20,REG,Carolina Hurricanes,1560,Tampa Bay Lightning,1575,Away,43.5,4,1,W,5.9,1566,2020020718,26,31
+2021-04-20,REG,Florida Panthers,1526,Columbus Blue Jackets,1453,Home,64.4,5,1,W,4.0,1530,2020020719,33,36
+2021-04-20,REG,Columbus Blue Jackets,1453,Florida Panthers,1526,Away,35.6,1,5,L,-4.0,1449,2020020719,36,33
+2021-04-20,REG,Dallas Stars,1516,Detroit Red Wings,1404,Home,69.3,5,2,W,3.2,1519,2020020722,15,12
+2021-04-20,REG,Detroit Red Wings,1404,Dallas Stars,1516,Away,30.7,2,5,L,-3.2,1401,2020020722,12,15
+2021-04-20,REG,Vancouver Canucks,1477,Toronto Maple Leafs,1533,Home,46.2,6,3,W,5.6,1482,2020020710,20,5
+2021-04-20,REG,Toronto Maple Leafs,1533,Vancouver Canucks,1477,Away,53.8,3,6,L,-5.6,1527,2020020710,5,20
+2021-04-20,REG,Los Angeles Kings,1457,Anaheim Ducks,1424,Home,59.0,4,1,W,4.3,1461,2020020724,14,32
+2021-04-20,REG,Anaheim Ducks,1424,Los Angeles Kings,1457,Away,41.0,1,4,L,-4.3,1419,2020020724,32,14
+2021-04-21,REG,Chicago Blackhawks,1471,Nashville Predators,1499,Home,50.3,5,4,OTW,1.5,1473,2020020725,11,34
+2021-04-21,REG,Nashville Predators,1499,Chicago Blackhawks,1471,Away,49.7,4,5,OTL,-1.5,1498,2020020725,34,11
+2021-04-21,REG,Arizona Coyotes,1472,Minnesota Wild,1535,Home,45.2,1,4,L,-4.7,1467,2020020727,40,37
+2021-04-21,REG,Minnesota Wild,1535,Arizona Coyotes,1472,Away,54.8,4,1,W,4.7,1540,2020020727,37,40
+2021-04-21,REG,Vegas Golden Knights,1577,San Jose Sharks,1441,Home,72.1,5,2,W,2.9,1580,2020020728,38,29
+2021-04-21,REG,San Jose Sharks,1441,Vegas Golden Knights,1577,Away,27.9,2,5,L,-2.9,1439,2020020728,29,38
+2021-04-21,REG,Edmonton Oilers,1525,Montréal Canadiens,1485,Home,60.1,3,4,L,-3.6,1522,2020020721,25,1
+2021-04-21,REG,Montréal Canadiens,1485,Edmonton Oilers,1525,Away,39.9,4,3,W,3.6,1488,2020020721,1,25
+2021-04-22,REG,New York Rangers,1524,Philadelphia Flyers,1487,Home,59.5,2,3,L,-3.6,1520,2020020254,10,16
+2021-04-22,REG,Philadelphia Flyers,1487,New York Rangers,1524,Away,40.5,3,2,W,3.6,1490,2020020254,16,10
+2021-04-22,REG,Winnipeg Jets,1533,Toronto Maple Leafs,1527,Home,55.1,3,5,L,-4.1,1529,2020020726,35,5
+2021-04-22,REG,Toronto Maple Leafs,1527,Winnipeg Jets,1533,Away,44.9,5,3,W,4.1,1532,2020020726,5,35
+2021-04-22,REG,Buffalo Sabres,1417,Boston Bruins,1559,Home,34.5,1,5,L,-3.9,1414,2020020729,19,6
+2021-04-22,REG,Boston Bruins,1559,Buffalo Sabres,1417,Away,65.5,5,1,W,3.9,1563,2020020729,6,19
+2021-04-22,REG,New York Islanders,1545,Washington Capitals,1541,Home,54.9,0,1,SOL,-1.8,1544,2020020730,22,24
+2021-04-22,REG,Washington Capitals,1541,New York Islanders,1545,Away,45.1,1,0,SOW,1.8,1543,2020020730,24,22
+2021-04-22,REG,Tampa Bay Lightning,1569,Columbus Blue Jackets,1449,Home,70.4,3,1,W,2.2,1572,2020020731,31,36
+2021-04-22,REG,Columbus Blue Jackets,1449,Tampa Bay Lightning,1569,Away,29.6,1,3,L,-2.2,1446,2020020731,36,31
+2021-04-22,REG,Florida Panthers,1530,Carolina Hurricanes,1566,Home,49.1,2,4,L,-3.7,1526,2020020732,33,26
+2021-04-22,REG,Carolina Hurricanes,1566,Florida Panthers,1530,Away,50.9,4,2,W,3.7,1570,2020020732,26,33
+2021-04-22,REG,Pittsburgh Penguins,1548,New Jersey Devils,1424,Home,70.9,5,1,W,3.3,1552,2020020733,17,23
+2021-04-22,REG,New Jersey Devils,1424,Pittsburgh Penguins,1548,Away,29.1,1,5,L,-3.3,1421,2020020733,23,17
+2021-04-22,REG,Detroit Red Wings,1401,Dallas Stars,1519,Home,37.6,7,3,W,7.0,1408,2020020734,12,15
+2021-04-22,REG,Dallas Stars,1519,Detroit Red Wings,1401,Away,62.4,3,7,L,-7.0,1512,2020020734,15,12
+2021-04-22,REG,St. Louis Blues,1495,Colorado Avalanche,1588,Home,41.0,2,4,L,-3.1,1492,2020020735,18,27
+2021-04-22,REG,Colorado Avalanche,1588,St. Louis Blues,1495,Away,59.0,4,2,W,3.1,1591,2020020735,27,18
+2021-04-22,REG,Vancouver Canucks,1482,Ottawa Senators,1424,Home,62.4,0,3,L,-6.6,1476,2020020737,20,30
+2021-04-22,REG,Ottawa Senators,1424,Vancouver Canucks,1482,Away,37.6,3,0,W,6.6,1431,2020020737,30,20
+2021-04-23,REG,Buffalo Sabres,1414,Boston Bruins,1563,Home,33.5,6,4,W,5.0,1419,2020020738,19,6
+2021-04-23,REG,Boston Bruins,1563,Buffalo Sabres,1414,Away,66.5,4,6,L,-5.0,1558,2020020738,6,19
+2021-04-23,REG,New York Rangers,1520,Philadelphia Flyers,1490,Home,58.6,4,1,W,4.4,1525,2020020739,10,16
+2021-04-23,REG,Philadelphia Flyers,1490,New York Rangers,1520,Away,41.4,1,4,L,-4.4,1486,2020020739,16,10
+2021-04-23,REG,Chicago Blackhawks,1473,Nashville Predators,1498,Home,50.7,1,3,L,-3.8,1469,2020020740,11,34
+2021-04-23,REG,Nashville Predators,1498,Chicago Blackhawks,1473,Away,49.3,3,1,W,3.8,1501,2020020740,34,11
+2021-04-23,REG,Calgary Flames,1483,Montréal Canadiens,1488,Home,53.5,4,2,W,3.5,1486,2020020736,21,1
+2021-04-23,REG,Montréal Canadiens,1488,Calgary Flames,1483,Away,46.5,2,4,L,-3.5,1485,2020020736,1,21
+2021-04-23,REG,Los Angeles Kings,1461,Minnesota Wild,1540,Home,43.0,2,4,L,-3.2,1458,2020020240,14,37
+2021-04-23,REG,Minnesota Wild,1540,Los Angeles Kings,1461,Away,57.0,4,2,W,3.2,1543,2020020240,37,14
+2021-04-24,REG,Pittsburgh Penguins,1552,New Jersey Devils,1421,Home,71.6,4,2,W,2.1,1554,2020020746,17,23
+2021-04-24,REG,New Jersey Devils,1421,Pittsburgh Penguins,1552,Away,28.4,2,4,L,-2.1,1419,2020020746,23,17
+2021-04-24,REG,St. Louis Blues,1492,Colorado Avalanche,1591,Home,40.2,5,3,W,4.5,1497,2020020748,18,27
+2021-04-24,REG,Colorado Avalanche,1591,St. Louis Blues,1492,Away,59.8,3,5,L,-4.5,1587,2020020748,27,18
+2021-04-24,REG,New York Islanders,1544,Washington Capitals,1543,Home,54.4,3,6,L,-5.7,1538,2020020744,22,24
+2021-04-24,REG,Washington Capitals,1543,New York Islanders,1544,Away,45.6,6,3,W,5.7,1549,2020020744,24,22
+2021-04-24,REG,Florida Panthers,1526,Carolina Hurricanes,1570,Home,48.0,4,3,OTW,1.6,1528,2020020745,33,26
+2021-04-24,REG,Carolina Hurricanes,1570,Florida Panthers,1526,Away,52.0,3,4,OTL,-1.6,1568,2020020745,26,33
+2021-04-24,REG,Detroit Red Wings,1408,Dallas Stars,1512,Home,39.5,1,2,OTL,-0.9,1407,2020020747,12,15
+2021-04-24,REG,Dallas Stars,1512,Detroit Red Wings,1408,Away,60.5,2,1,OTW,0.9,1513,2020020747,15,12
+2021-04-24,REG,Winnipeg Jets,1529,Toronto Maple Leafs,1532,Home,53.9,1,4,L,-5.7,1523,2020020749,35,5
+2021-04-24,REG,Toronto Maple Leafs,1532,Winnipeg Jets,1529,Away,46.1,4,1,W,5.7,1537,2020020749,5,35
+2021-04-24,REG,Calgary Flames,1486,Montréal Canadiens,1485,Home,54.5,5,2,W,4.8,1491,2020020750,21,1
+2021-04-24,REG,Montréal Canadiens,1485,Calgary Flames,1486,Away,45.5,2,5,L,-4.8,1480,2020020750,1,21
+2021-04-24,REG,Anaheim Ducks,1419,Vegas Golden Knights,1580,Home,32.1,1,5,L,-3.6,1416,2020020325,32,38
+2021-04-24,REG,Vegas Golden Knights,1580,Anaheim Ducks,1419,Away,67.9,5,1,W,3.6,1583,2020020325,38,32
+2021-04-24,REG,San Jose Sharks,1439,Minnesota Wild,1543,Home,39.4,3,6,L,-4.1,1434,2020020753,29,37
+2021-04-24,REG,Minnesota Wild,1543,San Jose Sharks,1439,Away,60.6,6,3,W,4.1,1547,2020020753,37,29
+2021-04-24,REG,Vancouver Canucks,1476,Ottawa Senators,1431,Home,60.6,4,2,W,3.0,1479,2020020751,20,30
+2021-04-24,REG,Ottawa Senators,1431,Vancouver Canucks,1476,Away,39.4,2,4,L,-3.0,1428,2020020751,30,20
+2021-04-24,REG,Los Angeles Kings,1458,Arizona Coyotes,1467,Home,53.0,0,4,L,-6.0,1452,2020020752,14,40
+2021-04-24,REG,Arizona Coyotes,1467,Los Angeles Kings,1458,Away,47.0,4,0,W,6.0,1473,2020020752,40,14
+2021-04-25,REG,Pittsburgh Penguins,1554,Boston Bruins,1558,Home,53.7,1,0,W,2.8,1557,2020020757,17,6
+2021-04-25,REG,Boston Bruins,1558,Pittsburgh Penguins,1554,Away,46.3,0,1,L,-2.8,1555,2020020757,6,17
+2021-04-25,REG,Philadelphia Flyers,1486,New Jersey Devils,1419,Home,63.7,4,3,SOW,0.7,1487,2020020216,16,23
+2021-04-25,REG,New Jersey Devils,1419,Philadelphia Flyers,1486,Away,36.3,3,4,SOL,-0.7,1418,2020020216,23,16
+2021-04-25,REG,New York Rangers,1525,Buffalo Sabres,1419,Home,68.6,6,3,W,3.3,1528,2020020754,10,19
+2021-04-25,REG,Buffalo Sabres,1419,New York Rangers,1525,Away,31.4,3,6,L,-3.3,1415,2020020754,19,10
+2021-04-25,REG,Tampa Bay Lightning,1572,Columbus Blue Jackets,1446,Home,70.9,4,3,OTW,0.2,1572,2020020756,31,36
+2021-04-25,REG,Columbus Blue Jackets,1446,Tampa Bay Lightning,1572,Away,29.1,3,4,OTL,-0.2,1446,2020020756,36,31
+2021-04-26,REG,Calgary Flames,1491,Montréal Canadiens,1480,Home,55.9,1,2,L,-3.4,1488,2020020761,21,1
+2021-04-26,REG,Montréal Canadiens,1480,Calgary Flames,1491,Away,44.1,2,1,W,3.4,1483,2020020761,1,21
+2021-04-26,REG,St. Louis Blues,1497,Colorado Avalanche,1587,Home,41.4,4,1,W,6.2,1503,2020020191,18,27
+2021-04-26,REG,Colorado Avalanche,1587,St. Louis Blues,1497,Away,58.6,1,4,L,-6.2,1581,2020020191,27,18
+2021-04-26,REG,Ottawa Senators,1428,Vancouver Canucks,1479,Home,47.0,2,1,W,3.2,1431,2020020759,30,20
+2021-04-26,REG,Vancouver Canucks,1479,Ottawa Senators,1428,Away,53.0,1,2,L,-3.2,1476,2020020759,20,30
+2021-04-26,REG,Dallas Stars,1513,Carolina Hurricanes,1568,Home,46.4,4,3,OTW,1.7,1515,2020020763,15,26
+2021-04-26,REG,Carolina Hurricanes,1568,Dallas Stars,1513,Away,53.6,3,4,OTL,-1.7,1566,2020020763,26,15
+2021-04-26,REG,Nashville Predators,1501,Florida Panthers,1528,Home,50.5,4,1,W,5.2,1507,2020020758,34,33
+2021-04-26,REG,Florida Panthers,1528,Nashville Predators,1501,Away,49.5,1,4,L,-5.2,1523,2020020758,33,34
+2021-04-26,REG,Winnipeg Jets,1523,Edmonton Oilers,1522,Home,54.5,1,6,L,-6.5,1517,2020020760,35,25
+2021-04-26,REG,Edmonton Oilers,1522,Winnipeg Jets,1523,Away,45.5,6,1,W,6.5,1528,2020020760,25,35
+2021-04-26,REG,Los Angeles Kings,1452,Anaheim Ducks,1416,Home,59.4,4,1,W,4.3,1456,2020020765,14,32
+2021-04-26,REG,Anaheim Ducks,1416,Los Angeles Kings,1452,Away,40.6,1,4,L,-4.3,1411,2020020765,32,14
+2021-04-26,REG,San Jose Sharks,1434,Arizona Coyotes,1473,Home,48.7,6,4,W,3.8,1438,2020020766,29,40
+2021-04-26,REG,Arizona Coyotes,1473,San Jose Sharks,1434,Away,51.3,4,6,L,-3.8,1469,2020020766,40,29
+2021-04-27,REG,Washington Capitals,1549,New York Islanders,1538,Home,55.8,1,0,W,2.6,1551,2020020447,24,22
+2021-04-27,REG,New York Islanders,1538,Washington Capitals,1549,Away,44.2,0,1,L,-2.6,1535,2020020447,22,24
+2021-04-27,REG,New Jersey Devils,1418,Philadelphia Flyers,1487,Home,44.4,6,4,W,4.2,1422,2020020716,23,16
+2021-04-27,REG,Philadelphia Flyers,1487,New Jersey Devils,1418,Away,55.6,4,6,L,-4.2,1482,2020020716,16,23
+2021-04-27,REG,New York Rangers,1528,Buffalo Sabres,1415,Home,69.4,3,1,W,2.3,1530,2020020768,10,19
+2021-04-27,REG,Buffalo Sabres,1415,New York Rangers,1528,Away,30.6,1,3,L,-2.3,1413,2020020768,19,10
+2021-04-27,REG,Pittsburgh Penguins,1557,Boston Bruins,1555,Home,54.5,1,3,L,-4.1,1553,2020020770,17,6
+2021-04-27,REG,Boston Bruins,1555,Pittsburgh Penguins,1557,Away,45.5,3,1,W,4.1,1559,2020020770,6,17
+2021-04-27,REG,Columbus Blue Jackets,1446,Detroit Red Wings,1407,Home,59.8,1,0,SOW,0.9,1447,2020020771,36,12
+2021-04-27,REG,Detroit Red Wings,1407,Columbus Blue Jackets,1446,Away,40.2,0,1,SOL,-0.9,1406,2020020771,12,36
+2021-04-27,REG,Chicago Blackhawks,1469,Tampa Bay Lightning,1572,Home,39.7,4,7,L,-4.2,1465,2020020772,11,31
+2021-04-27,REG,Tampa Bay Lightning,1572,Chicago Blackhawks,1469,Away,60.3,7,4,W,4.2,1576,2020020772,31,11
+2021-04-27,REG,Nashville Predators,1507,Florida Panthers,1523,Home,52.0,4,7,L,-5.5,1501,2020020773,34,33
+2021-04-27,REG,Florida Panthers,1523,Nashville Predators,1507,Away,48.0,7,4,W,5.5,1528,2020020773,33,34
+2021-04-27,REG,Dallas Stars,1515,Carolina Hurricanes,1566,Home,46.9,1,5,L,-5.3,1510,2020020774,15,26
+2021-04-27,REG,Carolina Hurricanes,1566,Dallas Stars,1515,Away,53.1,5,1,W,5.3,1572,2020020774,26,15
+2021-04-28,REG,Ottawa Senators,1431,Vancouver Canucks,1476,Home,47.9,6,3,W,5.5,1437,2020020776,30,20
+2021-04-28,REG,Vancouver Canucks,1476,Ottawa Senators,1431,Away,52.1,3,6,L,-5.5,1470,2020020776,20,30
+2021-04-28,REG,Minnesota Wild,1547,St. Louis Blues,1503,Home,60.6,3,4,L,-3.6,1544,2020020778,37,18
+2021-04-28,REG,St. Louis Blues,1503,Minnesota Wild,1547,Away,39.4,4,3,W,3.6,1506,2020020778,18,37
+2021-04-28,REG,Montréal Canadiens,1483,Toronto Maple Leafs,1537,Home,46.6,1,4,L,-4.9,1478,2020020775,1,5
+2021-04-28,REG,Toronto Maple Leafs,1537,Montréal Canadiens,1483,Away,53.4,4,1,W,4.9,1542,2020020775,5,1
+2021-04-28,REG,Winnipeg Jets,1517,Edmonton Oilers,1528,Home,52.6,1,3,L,-3.9,1513,2020020777,35,25
+2021-04-28,REG,Edmonton Oilers,1528,Winnipeg Jets,1517,Away,47.4,3,1,W,3.9,1532,2020020777,25,35
+2021-04-28,REG,Vegas Golden Knights,1583,Colorado Avalanche,1581,Home,54.7,5,2,W,4.8,1588,2020020779,38,27
+2021-04-28,REG,Colorado Avalanche,1581,Vegas Golden Knights,1583,Away,45.3,2,5,L,-4.8,1576,2020020779,27,38
+2021-04-28,REG,Los Angeles Kings,1456,Anaheim Ducks,1411,Home,60.6,2,3,L,-3.6,1453,2020020780,14,32
+2021-04-28,REG,Anaheim Ducks,1411,Los Angeles Kings,1456,Away,39.4,3,2,W,3.6,1415,2020020780,32,14
+2021-04-28,REG,San Jose Sharks,1438,Arizona Coyotes,1469,Home,49.8,4,2,W,3.8,1442,2020020781,29,40
+2021-04-28,REG,Arizona Coyotes,1469,San Jose Sharks,1438,Away,50.2,2,4,L,-3.8,1466,2020020781,40,29
+2021-04-29,REG,Tampa Bay Lightning,1576,Dallas Stars,1510,Home,63.5,3,0,W,3.8,1580,2020020347,31,15
+2021-04-29,REG,Dallas Stars,1510,Tampa Bay Lightning,1576,Away,36.5,0,3,L,-3.8,1506,2020020347,15,31
+2021-04-29,REG,Boston Bruins,1559,Buffalo Sabres,1413,Home,73.4,5,2,W,2.8,1562,2020020782,6,19
+2021-04-29,REG,Buffalo Sabres,1413,Boston Bruins,1559,Away,26.6,2,5,L,-2.8,1410,2020020782,19,6
+2021-04-29,REG,New Jersey Devils,1422,Philadelphia Flyers,1482,Home,45.6,5,3,W,4.1,1426,2020020783,23,16
+2021-04-29,REG,Philadelphia Flyers,1482,New Jersey Devils,1422,Away,54.4,3,5,L,-4.1,1478,2020020783,16,23
+2021-04-29,REG,New York Rangers,1530,New York Islanders,1535,Home,53.6,0,4,L,-6.0,1524,2020020784,10,22
+2021-04-29,REG,New York Islanders,1535,New York Rangers,1530,Away,46.4,4,0,W,6.0,1541,2020020784,22,10
+2021-04-29,REG,Washington Capitals,1551,Pittsburgh Penguins,1553,Home,54.1,4,5,OTL,-1.7,1550,2020020785,24,17
+2021-04-29,REG,Pittsburgh Penguins,1553,Washington Capitals,1551,Away,45.9,5,4,OTW,1.7,1554,2020020785,17,24
+2021-04-29,REG,Carolina Hurricanes,1572,Detroit Red Wings,1406,Home,75.5,3,1,W,1.8,1574,2020020786,26,12
+2021-04-29,REG,Detroit Red Wings,1406,Carolina Hurricanes,1572,Away,24.5,1,3,L,-1.8,1404,2020020786,12,26
+2021-04-29,REG,Toronto Maple Leafs,1542,Vancouver Canucks,1470,Home,64.3,4,1,W,3.8,1546,2020020792,5,20
+2021-04-29,REG,Vancouver Canucks,1470,Toronto Maple Leafs,1542,Away,35.7,1,4,L,-3.8,1466,2020020792,20,5
+2021-04-29,REG,Minnesota Wild,1544,St. Louis Blues,1506,Home,59.6,4,5,OTL,-2.1,1542,2020020762,37,18
+2021-04-29,REG,St. Louis Blues,1506,Minnesota Wild,1544,Away,40.4,5,4,OTW,2.1,1508,2020020762,18,37
+2021-04-29,REG,Chicago Blackhawks,1465,Florida Panthers,1528,Home,45.2,3,4,OTL,-1.2,1464,2020020787,11,33
+2021-04-29,REG,Florida Panthers,1528,Chicago Blackhawks,1465,Away,54.8,4,3,OTW,1.2,1529,2020020787,33,11
+2021-04-29,REG,Edmonton Oilers,1532,Calgary Flames,1488,Home,60.6,1,3,L,-4.5,1528,2020020789,25,21
+2021-04-29,REG,Calgary Flames,1488,Edmonton Oilers,1532,Away,39.4,3,1,W,4.5,1492,2020020789,21,25
+2021-04-30,REG,Montréal Canadiens,1478,Winnipeg Jets,1513,Home,49.4,5,3,W,3.8,1482,2020020791,1,35
+2021-04-30,REG,Winnipeg Jets,1513,Montréal Canadiens,1478,Away,50.6,3,5,L,-3.8,1509,2020020791,35,1
+2021-04-30,REG,Colorado Avalanche,1576,San Jose Sharks,1442,Home,72.0,3,0,W,2.9,1579,2020020793,27,29
+2021-04-30,REG,San Jose Sharks,1442,Colorado Avalanche,1576,Away,28.0,0,3,L,-2.9,1439,2020020793,29,27
+2021-04-30,REG,Arizona Coyotes,1466,Vegas Golden Knights,1588,Home,37.0,3,0,W,6.6,1472,2020020794,40,38
+2021-04-30,REG,Vegas Golden Knights,1588,Arizona Coyotes,1466,Away,63.0,0,3,L,-6.6,1581,2020020794,38,40
+2021-04-30,REG,Anaheim Ducks,1415,Los Angeles Kings,1453,Home,48.9,1,2,L,-2.9,1412,2020020795,32,14
+2021-04-30,REG,Los Angeles Kings,1453,Anaheim Ducks,1415,Away,51.1,2,1,W,2.9,1456,2020020795,14,32
+2021-05-01,REG,Boston Bruins,1562,Buffalo Sabres,1410,Home,74.0,6,2,W,2.9,1565,2020020796,6,19
+2021-05-01,REG,Buffalo Sabres,1410,Boston Bruins,1562,Away,26.0,2,6,L,-2.9,1407,2020020796,19,6
+2021-05-01,REG,Detroit Red Wings,1404,Tampa Bay Lightning,1580,Home,30.2,1,0,SOW,2.7,1407,2020020801,12,31
+2021-05-01,REG,Tampa Bay Lightning,1580,Detroit Red Wings,1404,Away,69.8,0,1,SOL,-2.7,1577,2020020801,31,12
+2021-05-01,REG,New York Islanders,1541,New York Rangers,1524,Home,56.7,3,0,W,4.5,1546,2020020797,22,10
+2021-05-01,REG,New York Rangers,1524,New York Islanders,1541,Away,43.3,0,3,L,-4.5,1520,2020020797,10,22
+2021-05-01,REG,Philadelphia Flyers,1478,New Jersey Devils,1426,Home,61.6,1,4,L,-6.5,1472,2020020798,16,23
+2021-05-01,REG,New Jersey Devils,1426,Philadelphia Flyers,1478,Away,38.4,4,1,W,6.5,1433,2020020798,23,16
+2021-05-01,REG,Washington Capitals,1550,Pittsburgh Penguins,1554,Home,53.6,0,3,L,-5.6,1544,2020020799,24,17
+2021-05-01,REG,Pittsburgh Penguins,1554,Washington Capitals,1550,Away,46.4,3,0,W,5.6,1560,2020020799,17,24
+2021-05-01,REG,Carolina Hurricanes,1574,Columbus Blue Jackets,1447,Home,71.1,2,1,OTW,0.2,1574,2020020800,26,36
+2021-05-01,REG,Columbus Blue Jackets,1447,Carolina Hurricanes,1574,Away,28.9,1,2,OTL,-0.2,1447,2020020800,36,26
+2021-05-01,REG,Montréal Canadiens,1482,Ottawa Senators,1437,Home,60.7,3,2,OTW,0.9,1483,2020020805,1,30
+2021-05-01,REG,Ottawa Senators,1437,Montréal Canadiens,1482,Away,39.3,2,3,OTL,-0.9,1436,2020020805,30,1
+2021-05-01,REG,Toronto Maple Leafs,1546,Vancouver Canucks,1466,Home,65.2,5,1,W,3.9,1550,2020020806,5,20
+2021-05-01,REG,Vancouver Canucks,1466,Toronto Maple Leafs,1546,Away,34.8,1,5,L,-3.9,1463,2020020806,20,5
+2021-05-01,REG,Minnesota Wild,1542,St. Louis Blues,1508,Home,59.0,4,3,OTW,1.0,1543,2020020207,37,18
+2021-05-01,REG,St. Louis Blues,1508,Minnesota Wild,1542,Away,41.0,3,4,OTL,-1.0,1507,2020020207,18,37
+2021-05-01,REG,Chicago Blackhawks,1464,Florida Panthers,1529,Home,44.9,4,5,L,-2.7,1461,2020020802,11,33
+2021-05-01,REG,Florida Panthers,1529,Chicago Blackhawks,1464,Away,55.1,5,4,W,2.7,1532,2020020802,33,11
+2021-05-01,REG,Nashville Predators,1501,Dallas Stars,1506,Home,53.6,1,0,OTW,1.3,1502,2020020804,34,15
+2021-05-01,REG,Dallas Stars,1506,Nashville Predators,1501,Away,46.4,0,1,OTL,-1.3,1504,2020020804,15,34
+2021-05-01,REG,Colorado Avalanche,1579,San Jose Sharks,1439,Home,72.7,4,3,W,1.6,1581,2020020808,27,29
+2021-05-01,REG,San Jose Sharks,1439,Colorado Avalanche,1579,Away,27.3,3,4,L,-1.6,1437,2020020808,29,27
+2021-05-01,REG,Edmonton Oilers,1528,Calgary Flames,1492,Home,59.3,4,1,W,4.3,1532,2020020807,25,21
+2021-05-01,REG,Calgary Flames,1492,Edmonton Oilers,1528,Away,40.7,1,4,L,-4.3,1488,2020020807,21,25
+2021-05-01,REG,Arizona Coyotes,1472,Vegas Golden Knights,1581,Home,38.8,2,3,OTL,-0.8,1471,2020020809,40,38
+2021-05-01,REG,Vegas Golden Knights,1581,Arizona Coyotes,1472,Away,61.2,3,2,OTW,0.8,1582,2020020809,38,40
+2021-05-01,REG,Anaheim Ducks,1412,Los Angeles Kings,1456,Home,48.1,6,2,W,5.8,1418,2020020810,32,14
+2021-05-01,REG,Los Angeles Kings,1456,Anaheim Ducks,1412,Away,51.9,2,6,L,-5.8,1450,2020020810,14,32
+2021-05-02,REG,Detroit Red Wings,1407,Tampa Bay Lightning,1577,Home,30.9,1,2,L,-1.9,1405,2020020811,12,31
+2021-05-02,REG,Tampa Bay Lightning,1577,Detroit Red Wings,1407,Away,69.1,2,1,W,1.9,1579,2020020811,31,12
+2021-05-03,REG,Florida Panthers,1532,Dallas Stars,1504,Home,58.2,5,4,OTW,1.0,1533,2020020020,33,15
+2021-05-03,REG,Dallas Stars,1504,Florida Panthers,1532,Away,41.8,4,5,OTL,-1.0,1503,2020020020,15,33
+2021-05-03,REG,Buffalo Sabres,1407,New York Islanders,1546,Home,34.9,4,2,W,4.9,1412,2020020812,19,22
+2021-05-03,REG,New York Islanders,1546,Buffalo Sabres,1407,Away,65.1,2,4,L,-4.9,1541,2020020812,22,19
+2021-05-03,REG,New Jersey Devils,1433,Boston Bruins,1565,Home,35.7,0,3,L,-3.7,1429,2020020813,23,6
+2021-05-03,REG,Boston Bruins,1565,New Jersey Devils,1433,Away,64.3,3,0,W,3.7,1569,2020020813,6,23
+2021-05-03,REG,New York Rangers,1520,Washington Capitals,1544,Home,50.8,3,6,L,-5.3,1514,2020020814,10,24
+2021-05-03,REG,Washington Capitals,1544,New York Rangers,1520,Away,49.2,6,3,W,5.3,1549,2020020814,24,10
+2021-05-03,REG,Philadelphia Flyers,1472,Pittsburgh Penguins,1560,Home,41.7,7,2,W,7.0,1479,2020020815,16,17
+2021-05-03,REG,Pittsburgh Penguins,1560,Philadelphia Flyers,1472,Away,58.3,2,7,L,-7.0,1553,2020020815,17,16
+2021-05-03,REG,Carolina Hurricanes,1574,Chicago Blackhawks,1461,Home,69.5,5,2,W,3.2,1577,2020020816,26,11
+2021-05-03,REG,Chicago Blackhawks,1461,Carolina Hurricanes,1574,Away,30.5,2,5,L,-3.2,1458,2020020816,11,26
+2021-05-03,REG,Columbus Blue Jackets,1447,Nashville Predators,1502,Home,46.4,3,4,OTL,-1.3,1446,2020020817,36,34
+2021-05-03,REG,Nashville Predators,1502,Columbus Blue Jackets,1447,Away,53.6,4,3,OTW,1.3,1504,2020020817,34,36
+2021-05-03,REG,Montréal Canadiens,1483,Toronto Maple Leafs,1550,Home,44.7,3,2,OTW,1.8,1485,2020020819,1,5
+2021-05-03,REG,Toronto Maple Leafs,1550,Montréal Canadiens,1483,Away,55.3,2,3,OTL,-1.8,1548,2020020819,5,1
+2021-05-03,REG,Ottawa Senators,1436,Winnipeg Jets,1509,Home,43.8,2,1,W,3.4,1439,2020020820,30,35
+2021-05-03,REG,Winnipeg Jets,1509,Ottawa Senators,1436,Away,56.2,1,2,L,-3.4,1506,2020020820,35,30
+2021-05-03,REG,St. Louis Blues,1507,Anaheim Ducks,1418,Home,66.6,3,1,W,2.5,1510,2020020818,18,32
+2021-05-03,REG,Anaheim Ducks,1418,St. Louis Blues,1507,Away,33.4,1,3,L,-2.5,1415,2020020818,32,18
+2021-05-03,REG,Minnesota Wild,1543,Vegas Golden Knights,1582,Home,48.6,6,5,W,3.1,1546,2020020821,37,38
+2021-05-03,REG,Vegas Golden Knights,1582,Minnesota Wild,1543,Away,51.4,5,6,L,-3.1,1579,2020020821,38,37
+2021-05-03,REG,Arizona Coyotes,1471,Los Angeles Kings,1450,Home,57.4,2,3,L,-3.4,1468,2020020822,40,14
+2021-05-03,REG,Los Angeles Kings,1450,Arizona Coyotes,1471,Away,42.6,3,2,W,3.4,1453,2020020822,14,40
+2021-05-03,REG,Vancouver Canucks,1463,Edmonton Oilers,1532,Home,44.4,3,5,L,-3.3,1459,2020020829,20,25
+2021-05-03,REG,Edmonton Oilers,1532,Vancouver Canucks,1463,Away,55.6,5,3,W,3.3,1535,2020020829,25,20
+2021-05-03,REG,San Jose Sharks,1437,Colorado Avalanche,1581,Home,34.3,4,5,OTL,-0.6,1437,2020020823,29,27
+2021-05-03,REG,Colorado Avalanche,1581,San Jose Sharks,1437,Away,65.7,5,4,OTW,0.6,1581,2020020823,27,29
+2021-05-04,REG,Buffalo Sabres,1412,New York Islanders,1541,Home,36.2,4,3,SOW,2.3,1415,2020020824,19,22
+2021-05-04,REG,New York Islanders,1541,Buffalo Sabres,1412,Away,63.8,3,4,SOL,-2.3,1539,2020020824,22,19
+2021-05-04,REG,New Jersey Devils,1429,Boston Bruins,1569,Home,34.7,4,3,OTW,2.4,1431,2020020825,23,6
+2021-05-04,REG,Boston Bruins,1569,New Jersey Devils,1429,Away,65.3,3,4,OTL,-2.4,1566,2020020825,6,23
+2021-05-04,REG,Philadelphia Flyers,1479,Pittsburgh Penguins,1553,Home,43.7,3,7,L,-4.9,1474,2020020826,16,17
+2021-05-04,REG,Pittsburgh Penguins,1553,Philadelphia Flyers,1479,Away,56.3,7,3,W,4.9,1558,2020020826,17,16
+2021-05-04,REG,Carolina Hurricanes,1577,Chicago Blackhawks,1458,Home,70.3,6,3,W,3.1,1580,2020020827,26,11
+2021-05-04,REG,Chicago Blackhawks,1458,Carolina Hurricanes,1577,Away,29.7,3,6,L,-3.1,1455,2020020827,11,26
+2021-05-04,REG,Vancouver Canucks,1459,Edmonton Oilers,1535,Home,43.4,1,4,L,-4.6,1455,2020020844,20,25
+2021-05-04,REG,Edmonton Oilers,1535,Vancouver Canucks,1459,Away,56.6,4,1,W,4.6,1540,2020020844,25,20
+2021-05-05,REG,Tampa Bay Lightning,1579,Dallas Stars,1503,Home,64.7,6,2,W,4.0,1583,2020020033,31,15
+2021-05-05,REG,Dallas Stars,1503,Tampa Bay Lightning,1579,Away,35.3,2,6,L,-4.0,1499,2020020033,15,31
+2021-05-05,REG,Ottawa Senators,1439,Montréal Canadiens,1485,Home,47.8,5,1,W,5.9,1445,2020020564,30,1
+2021-05-05,REG,Montréal Canadiens,1485,Ottawa Senators,1439,Away,52.2,1,5,L,-5.9,1479,2020020564,1,30
+2021-05-05,REG,New York Rangers,1514,Washington Capitals,1549,Home,49.3,2,4,L,-3.7,1511,2020020830,10,24
+2021-05-05,REG,Washington Capitals,1549,New York Rangers,1514,Away,50.7,4,2,W,3.7,1553,2020020830,24,10
+2021-05-05,REG,Columbus Blue Jackets,1446,Nashville Predators,1504,Home,46.0,4,2,W,4.1,1450,2020020831,36,34
+2021-05-05,REG,Nashville Predators,1504,Columbus Blue Jackets,1446,Away,54.0,2,4,L,-4.1,1500,2020020831,34,36
+2021-05-05,REG,St. Louis Blues,1510,Anaheim Ducks,1415,Home,67.2,2,3,SOL,-2.5,1507,2020020832,18,32
+2021-05-05,REG,Anaheim Ducks,1415,St. Louis Blues,1510,Away,32.8,3,2,SOW,2.5,1418,2020020832,32,18
+2021-05-05,REG,Minnesota Wild,1546,Vegas Golden Knights,1579,Home,49.5,2,3,OTL,-1.5,1544,2020020835,37,38
+2021-05-05,REG,Vegas Golden Knights,1579,Minnesota Wild,1546,Away,50.5,3,2,OTW,1.5,1581,2020020835,38,37
+2021-05-05,REG,Calgary Flames,1488,Winnipeg Jets,1506,Home,51.7,0,4,L,-5.8,1482,2020020834,21,35
+2021-05-05,REG,Winnipeg Jets,1506,Calgary Flames,1488,Away,48.3,4,0,W,5.8,1511,2020020834,35,21
+2021-05-05,REG,San Jose Sharks,1437,Colorado Avalanche,1581,Home,34.1,3,2,W,4.0,1441,2020020837,29,27
+2021-05-05,REG,Colorado Avalanche,1581,San Jose Sharks,1437,Away,65.9,2,3,L,-4.0,1577,2020020837,27,29
+2021-05-05,REG,Arizona Coyotes,1468,Los Angeles Kings,1453,Home,56.4,2,4,L,-4.2,1464,2020020836,40,14
+2021-05-05,REG,Los Angeles Kings,1453,Arizona Coyotes,1468,Away,43.6,4,2,W,4.2,1457,2020020836,14,40
+2021-05-06,REG,Carolina Hurricanes,1580,Chicago Blackhawks,1455,Home,71.0,1,2,OTL,-2.8,1577,2020020280,26,11
+2021-05-06,REG,Chicago Blackhawks,1455,Carolina Hurricanes,1580,Away,29.0,2,1,OTW,2.8,1457,2020020280,11,26
+2021-05-06,REG,Boston Bruins,1566,New York Rangers,1511,Home,62.1,4,0,W,4.3,1571,2020020838,6,10
+2021-05-06,REG,New York Rangers,1511,Boston Bruins,1566,Away,37.9,0,4,L,-4.3,1506,2020020838,10,6
+2021-05-06,REG,New York Islanders,1539,New Jersey Devils,1431,Home,68.8,1,2,L,-4.1,1534,2020020839,22,23
+2021-05-06,REG,New Jersey Devils,1431,New York Islanders,1539,Away,31.2,2,1,W,4.1,1435,2020020839,23,22
+2021-05-06,REG,Pittsburgh Penguins,1558,Buffalo Sabres,1415,Home,73.1,8,4,W,3.0,1561,2020020842,17,19
+2021-05-06,REG,Buffalo Sabres,1415,Pittsburgh Penguins,1558,Away,26.9,4,8,L,-3.0,1411,2020020842,19,17
+2021-05-06,REG,Toronto Maple Leafs,1548,Montréal Canadiens,1479,Home,63.9,5,2,W,3.8,1552,2020020847,5,1
+2021-05-06,REG,Montréal Canadiens,1479,Toronto Maple Leafs,1548,Away,36.1,2,5,L,-3.8,1475,2020020847,1,5
+2021-05-06,REG,Edmonton Oilers,1540,Vancouver Canucks,1455,Home,66.0,3,6,L,-6.9,1533,2020020593,25,20
+2021-05-06,REG,Vancouver Canucks,1455,Edmonton Oilers,1540,Away,34.0,6,3,W,6.9,1462,2020020593,20,25
+2021-05-07,REG,Tampa Bay Lightning,1583,Dallas Stars,1499,Home,65.8,2,5,L,-6.9,1576,2020020048,31,15
+2021-05-07,REG,Dallas Stars,1499,Tampa Bay Lightning,1583,Away,34.2,5,2,W,6.9,1506,2020020048,15,31
+2021-05-07,REG,Washington Capitals,1553,Philadelphia Flyers,1474,Home,65.2,2,4,L,-4.9,1548,2020020840,24,16
+2021-05-07,REG,Philadelphia Flyers,1474,Washington Capitals,1553,Away,34.8,4,2,W,4.9,1479,2020020840,16,24
+2021-05-07,REG,Columbus Blue Jackets,1450,Detroit Red Wings,1405,Home,60.6,2,5,L,-6.4,1443,2020020845,36,12
+2021-05-07,REG,Detroit Red Wings,1405,Columbus Blue Jackets,1450,Away,39.4,5,2,W,6.4,1412,2020020845,12,36
+2021-05-07,REG,Minnesota Wild,1544,Anaheim Ducks,1418,Home,71.1,4,3,OTW,0.2,1545,2020020850,37,32
+2021-05-07,REG,Anaheim Ducks,1418,Minnesota Wild,1544,Away,28.9,3,4,OTL,-0.2,1418,2020020850,32,37
+2021-05-07,REG,Vegas Golden Knights,1581,St. Louis Blues,1507,Home,64.4,4,3,OTW,0.6,1581,2020020851,38,18
+2021-05-07,REG,St. Louis Blues,1507,Vegas Golden Knights,1581,Away,35.6,3,4,OTL,-0.6,1507,2020020851,18,38
+2021-05-07,REG,Los Angeles Kings,1457,Colorado Avalanche,1577,Home,37.4,2,3,L,-2.2,1455,2020020852,14,27
+2021-05-07,REG,Colorado Avalanche,1577,Los Angeles Kings,1457,Away,62.6,3,2,W,2.2,1579,2020020852,27,14
+2021-05-07,REG,San Jose Sharks,1441,Arizona Coyotes,1464,Home,51.0,2,5,L,-5.4,1435,2020020853,29,40
+2021-05-07,REG,Arizona Coyotes,1464,San Jose Sharks,1441,Away,49.0,5,2,W,5.4,1469,2020020853,40,29
+2021-05-08,REG,Boston Bruins,1571,New York Rangers,1506,Home,63.2,4,5,L,-3.8,1567,2020020854,6,10
+2021-05-08,REG,New York Rangers,1506,Boston Bruins,1571,Away,36.8,5,4,W,3.8,1510,2020020854,10,6
+2021-05-08,REG,Pittsburgh Penguins,1561,Buffalo Sabres,1411,Home,73.7,1,0,W,1.6,1562,2020020858,17,19
+2021-05-08,REG,Buffalo Sabres,1411,Pittsburgh Penguins,1561,Away,26.3,0,1,L,-1.6,1410,2020020858,19,17
+2021-05-08,REG,New York Islanders,1534,New Jersey Devils,1435,Home,67.8,5,1,W,3.6,1538,2020020855,22,23
+2021-05-08,REG,New Jersey Devils,1435,New York Islanders,1534,Away,32.2,1,5,L,-3.6,1432,2020020855,23,22
+2021-05-08,REG,Washington Capitals,1548,Philadelphia Flyers,1479,Home,63.9,2,1,OTW,0.7,1549,2020020856,24,16
+2021-05-08,REG,Philadelphia Flyers,1479,Washington Capitals,1548,Away,36.1,1,2,OTL,-0.7,1478,2020020856,16,24
+2021-05-08,REG,Florida Panthers,1533,Tampa Bay Lightning,1576,Home,48.1,5,1,W,5.8,1539,2020020857,33,31
+2021-05-08,REG,Tampa Bay Lightning,1576,Florida Panthers,1533,Away,51.9,1,5,L,-5.8,1570,2020020857,31,33
+2021-05-08,REG,Columbus Blue Jackets,1443,Detroit Red Wings,1412,Home,58.8,5,4,OTW,1.0,1444,2020020859,36,12
+2021-05-08,REG,Detroit Red Wings,1412,Columbus Blue Jackets,1443,Away,41.2,4,5,OTL,-1.0,1411,2020020859,12,36
+2021-05-08,REG,Toronto Maple Leafs,1552,Montréal Canadiens,1475,Home,64.9,3,2,W,2.1,1554,2020020862,5,1
+2021-05-08,REG,Montréal Canadiens,1475,Toronto Maple Leafs,1552,Away,35.1,2,3,L,-2.1,1473,2020020862,1,5
+2021-05-08,REG,Winnipeg Jets,1511,Ottawa Senators,1445,Home,63.5,2,4,L,-4.8,1507,2020020863,35,30
+2021-05-08,REG,Ottawa Senators,1445,Winnipeg Jets,1511,Away,36.5,4,2,W,4.8,1450,2020020863,30,35
+2021-05-08,REG,Nashville Predators,1500,Carolina Hurricanes,1577,Home,43.2,3,1,W,4.3,1504,2020020861,34,26
+2021-05-08,REG,Carolina Hurricanes,1577,Nashville Predators,1500,Away,56.8,1,3,L,-4.3,1573,2020020861,26,34
+2021-05-08,REG,Minnesota Wild,1545,Anaheim Ducks,1418,Home,71.2,4,3,OTW,0.2,1545,2020020865,37,32
+2021-05-08,REG,Anaheim Ducks,1418,Minnesota Wild,1545,Away,28.8,3,4,OTL,-0.2,1417,2020020865,32,37
+2021-05-08,REG,Edmonton Oilers,1533,Vancouver Canucks,1462,Home,64.2,4,3,W,2.1,1535,2020020662,25,20
+2021-05-08,REG,Vancouver Canucks,1462,Edmonton Oilers,1533,Away,35.8,3,4,L,-2.1,1459,2020020662,20,25
+2021-05-08,REG,Vegas Golden Knights,1581,St. Louis Blues,1507,Home,64.6,4,1,W,3.7,1585,2020020866,38,18
+2021-05-08,REG,St. Louis Blues,1507,Vegas Golden Knights,1581,Away,35.4,1,4,L,-3.7,1503,2020020866,18,38
+2021-05-08,REG,Los Angeles Kings,1455,Colorado Avalanche,1579,Home,36.8,2,3,L,-2.2,1453,2020020867,14,27
+2021-05-08,REG,Colorado Avalanche,1579,Los Angeles Kings,1455,Away,63.2,3,2,W,2.2,1582,2020020867,27,14
+2021-05-08,REG,San Jose Sharks,1435,Arizona Coyotes,1469,Home,49.5,4,5,OTL,-1.5,1434,2020020868,29,40
+2021-05-08,REG,Arizona Coyotes,1469,San Jose Sharks,1435,Away,50.5,5,4,OTW,1.5,1471,2020020868,40,29
+2021-05-09,REG,Chicago Blackhawks,1457,Dallas Stars,1506,Home,47.3,4,2,W,4.0,1461,2020020843,11,15
+2021-05-09,REG,Dallas Stars,1506,Chicago Blackhawks,1457,Away,52.7,2,4,L,-4.0,1502,2020020843,15,11
+2021-05-09,REG,Calgary Flames,1482,Ottawa Senators,1450,Home,58.8,6,1,W,4.9,1487,2020020720,21,30
+2021-05-09,REG,Ottawa Senators,1450,Calgary Flames,1482,Away,41.2,1,6,L,-4.9,1445,2020020720,30,21
+2021-05-10,REG,Philadelphia Flyers,1478,New Jersey Devils,1432,Home,60.8,4,2,W,2.9,1481,2020020231,16,23
+2021-05-10,REG,New Jersey Devils,1432,Philadelphia Flyers,1478,Away,39.2,2,4,L,-2.9,1429,2020020231,23,16
+2021-05-10,REG,Montréal Canadiens,1473,Edmonton Oilers,1535,Home,45.4,3,4,OTL,-1.2,1472,2020020510,1,25
+2021-05-10,REG,Edmonton Oilers,1535,Montréal Canadiens,1473,Away,54.6,4,3,OTW,1.2,1536,2020020510,25,1
+2021-05-10,REG,Boston Bruins,1567,New York Islanders,1538,Home,58.4,3,2,OTW,1.0,1568,2020020529,6,22
+2021-05-10,REG,New York Islanders,1538,Boston Bruins,1567,Away,41.6,2,3,OTL,-1.0,1537,2020020529,22,6
+2021-05-10,REG,Florida Panthers,1539,Tampa Bay Lightning,1570,Home,49.8,4,0,W,5.6,1544,2020020841,33,31
+2021-05-10,REG,Tampa Bay Lightning,1570,Florida Panthers,1539,Away,50.2,0,4,L,-5.6,1565,2020020841,31,33
+2021-05-10,REG,Winnipeg Jets,1507,Vancouver Canucks,1459,Home,60.9,1,3,L,-4.6,1502,2020020602,35,20
+2021-05-10,REG,Vancouver Canucks,1459,Winnipeg Jets,1507,Away,39.1,3,1,W,4.6,1464,2020020602,20,35
+2021-05-10,REG,Nashville Predators,1504,Carolina Hurricanes,1573,Home,44.4,5,0,W,6.7,1511,2020020846,34,26
+2021-05-10,REG,Carolina Hurricanes,1573,Nashville Predators,1504,Away,55.6,0,5,L,-6.7,1566,2020020846,26,34
+2021-05-10,REG,Chicago Blackhawks,1461,Dallas Stars,1502,Home,48.4,4,5,OTL,-1.4,1460,2020020860,11,15
+2021-05-10,REG,Dallas Stars,1502,Chicago Blackhawks,1461,Away,51.6,5,4,OTW,1.4,1504,2020020860,15,11
+2021-05-10,REG,Los Angeles Kings,1453,St. Louis Blues,1503,Home,47.1,1,2,OTL,-1.3,1452,2020020456,14,18
+2021-05-10,REG,St. Louis Blues,1503,Los Angeles Kings,1453,Away,52.9,2,1,OTW,1.3,1504,2020020456,18,14
+2021-05-10,REG,Vegas Golden Knights,1585,Colorado Avalanche,1582,Home,54.8,1,2,L,-3.3,1582,2020020764,38,27
+2021-05-10,REG,Colorado Avalanche,1582,Vegas Golden Knights,1585,Away,45.2,2,1,W,3.3,1585,2020020764,27,38
+2021-05-11,REG,Washington Capitals,1549,Boston Bruins,1568,Home,51.6,2,1,W,2.9,1552,2020020653,24,6
+2021-05-11,REG,Boston Bruins,1568,Washington Capitals,1549,Away,48.4,1,2,L,-2.9,1565,2020020653,6,24
+2021-05-11,REG,Winnipeg Jets,1502,Vancouver Canucks,1464,Home,59.7,5,0,W,4.8,1507,2020020619,35,20
+2021-05-11,REG,Vancouver Canucks,1464,Winnipeg Jets,1502,Away,40.3,0,5,L,-4.8,1459,2020020619,20,35
+2021-05-12,REG,Montréal Canadiens,1472,Edmonton Oilers,1536,Home,45.1,3,4,OTL,-1.2,1471,2020020526,1,25
+2021-05-12,REG,Edmonton Oilers,1536,Montréal Canadiens,1472,Away,54.9,4,3,OTW,1.2,1538,2020020526,25,1
+2021-05-12,REG,Ottawa Senators,1445,Toronto Maple Leafs,1554,Home,38.8,4,3,OTW,2.2,1447,2020020833,30,5
+2021-05-12,REG,Toronto Maple Leafs,1554,Ottawa Senators,1445,Away,61.2,3,4,OTL,-2.2,1552,2020020833,5,30
+2021-05-12,REG,San Jose Sharks,1434,Vegas Golden Knights,1582,Home,33.7,0,6,L,-4.3,1430,2020020162,29,38
+2021-05-12,REG,Vegas Golden Knights,1582,San Jose Sharks,1434,Away,66.3,6,0,W,4.3,1586,2020020162,38,29
+2021-05-12,REG,Colorado Avalanche,1585,Los Angeles Kings,1452,Home,71.9,6,0,W,3.6,1589,2020020688,27,14
+2021-05-12,REG,Los Angeles Kings,1452,Colorado Avalanche,1585,Away,28.1,0,6,L,-3.6,1448,2020020688,14,27
+2021-05-12,REG,St. Louis Blues,1504,Minnesota Wild,1545,Home,48.5,4,0,W,5.8,1510,2020020790,18,37
+2021-05-12,REG,Minnesota Wild,1545,St. Louis Blues,1504,Away,51.5,0,4,L,-5.8,1539,2020020790,37,18
+2021-05-13,REG,St. Louis Blues,1510,Minnesota Wild,1539,Home,50.2,7,3,W,5.6,1516,2020020803,18,37
+2021-05-13,REG,Minnesota Wild,1539,St. Louis Blues,1510,Away,49.8,3,7,L,-5.6,1533,2020020803,37,18
+2021-05-13,REG,Calgary Flames,1487,Vancouver Canucks,1459,Home,58.2,4,1,W,4.4,1491,2020020647,21,20
+2021-05-13,REG,Vancouver Canucks,1459,Calgary Flames,1487,Away,41.8,1,4,L,-4.4,1455,2020020647,20,21
+2021-05-13,REG,Colorado Avalanche,1589,Los Angeles Kings,1448,Home,72.7,5,1,W,3.1,1592,2020020704,27,14
+2021-05-13,REG,Los Angeles Kings,1448,Colorado Avalanche,1589,Away,27.3,1,5,L,-3.1,1445,2020020704,14,27
+2021-05-14,REG,Winnipeg Jets,1507,Toronto Maple Leafs,1552,Home,47.9,4,2,W,3.9,1511,2020020741,35,5
+2021-05-14,REG,Toronto Maple Leafs,1552,Winnipeg Jets,1507,Away,52.1,2,4,L,-3.9,1548,2020020741,5,35
+2021-05-15,REG,Edmonton Oilers,1538,Vancouver Canucks,1455,Home,65.7,1,4,L,-6.9,1531,2020020673,25,20
+2021-05-15,REG,Vancouver Canucks,1455,Edmonton Oilers,1538,Away,34.3,4,1,W,6.9,1462,2020020673,20,25
+2021-05-15,PO,Washington Capitals,1552,Boston Bruins,1565,Home,52.4,3,2,OTW,1.4,1553,2020030121,24,6
+2021-05-15,PO,Boston Bruins,1565,Washington Capitals,1552,Away,47.6,2,3,OTL,-1.4,1564,2020030121,6,24
+2021-05-16,PO,Pittsburgh Penguins,1562,New York Islanders,1537,Home,57.9,3,4,OTL,-2.0,1560,2020030111,17,22
+2021-05-16,PO,New York Islanders,1537,Pittsburgh Penguins,1562,Away,42.1,4,3,OTW,2.0,1539,2020030111,22,17
+2021-05-16,PO,Vegas Golden Knights,1586,Minnesota Wild,1533,Home,61.7,0,1,OTL,-2.2,1584,2020030161,38,37
+2021-05-16,PO,Minnesota Wild,1533,Vegas Golden Knights,1586,Away,38.3,1,0,OTW,2.2,1536,2020030161,37,38
+2021-05-16,PO,Florida Panthers,1544,Tampa Bay Lightning,1565,Home,51.4,4,5,L,-3.1,1541,2020030141,33,31
+2021-05-16,PO,Tampa Bay Lightning,1565,Florida Panthers,1544,Away,48.6,5,4,W,3.1,1568,2020030141,31,33
+2021-05-16,REG,Vancouver Canucks,1462,Calgary Flames,1491,Home,50.1,5,6,OTL,-1.5,1460,2020020567,20,21
+2021-05-16,REG,Calgary Flames,1491,Vancouver Canucks,1462,Away,49.9,6,5,OTW,1.5,1493,2020020567,21,20
+2021-05-17,PO,Washington Capitals,1553,Boston Bruins,1564,Home,52.8,3,4,OTL,-1.7,1551,2020030122,24,6
+2021-05-17,PO,Boston Bruins,1564,Washington Capitals,1553,Away,47.2,4,3,OTW,1.7,1565,2020030122,6,24
+2021-05-17,PO,Carolina Hurricanes,1566,Nashville Predators,1511,Home,62.1,5,2,W,4.0,1570,2020030131,26,34
+2021-05-17,PO,Nashville Predators,1511,Carolina Hurricanes,1566,Away,37.9,2,5,L,-4.0,1507,2020030131,34,26
+2021-05-17,PO,Colorado Avalanche,1592,St. Louis Blues,1516,Home,64.8,4,1,W,3.7,1595,2020030151,27,18
+2021-05-17,PO,St. Louis Blues,1516,Colorado Avalanche,1592,Away,35.2,1,4,L,-3.7,1512,2020030151,18,27
+2021-05-18,REG,Vancouver Canucks,1460,Calgary Flames,1493,Home,49.6,4,2,W,3.8,1464,2020020864,20,21
+2021-05-18,REG,Calgary Flames,1493,Vancouver Canucks,1460,Away,50.4,2,4,L,-3.8,1489,2020020864,21,20
+2021-05-18,PO,Pittsburgh Penguins,1560,New York Islanders,1539,Home,57.3,2,1,W,2.6,1563,2020030112,17,22
+2021-05-18,PO,New York Islanders,1539,Pittsburgh Penguins,1560,Away,42.7,1,2,L,-2.6,1536,2020030112,22,17
+2021-05-18,PO,Florida Panthers,1541,Tampa Bay Lightning,1568,Home,50.5,1,3,L,-3.8,1538,2020030142,33,31
+2021-05-18,PO,Tampa Bay Lightning,1568,Florida Panthers,1541,Away,49.5,3,1,W,3.8,1571,2020030142,31,33
+2021-05-18,PO,Vegas Golden Knights,1584,Minnesota Wild,1536,Home,61.1,3,1,W,2.9,1587,2020030162,38,37
+2021-05-18,PO,Minnesota Wild,1536,Vegas Golden Knights,1584,Away,38.9,1,3,L,-2.9,1533,2020030162,37,38
+2021-05-19,REG,Calgary Flames,1489,Vancouver Canucks,1464,Home,57.9,6,2,W,4.7,1494,2020020634,21,20
+2021-05-19,REG,Vancouver Canucks,1464,Calgary Flames,1489,Away,42.1,2,6,L,-4.7,1459,2020020634,20,21
+2021-05-19,PO,Boston Bruins,1565,Washington Capitals,1551,Home,56.3,3,2,OTW,1.1,1566,2020030123,6,24
+2021-05-19,PO,Washington Capitals,1551,Boston Bruins,1565,Away,43.7,2,3,OTL,-1.1,1550,2020030123,24,6
+2021-05-19,PO,Carolina Hurricanes,1570,Nashville Predators,1507,Home,63.2,3,0,W,3.9,1574,2020030132,26,34
+2021-05-19,PO,Nashville Predators,1507,Carolina Hurricanes,1570,Away,36.8,0,3,L,-3.9,1503,2020030132,34,26
+2021-05-19,PO,Edmonton Oilers,1531,Winnipeg Jets,1511,Home,57.1,1,4,L,-6.0,1525,2020030181,25,35
+2021-05-19,PO,Winnipeg Jets,1511,Edmonton Oilers,1531,Away,42.9,4,1,W,6.0,1517,2020030181,35,25
+2021-05-19,PO,Colorado Avalanche,1595,St. Louis Blues,1512,Home,65.7,6,3,W,3.6,1599,2020030152,27,18
+2021-05-19,PO,St. Louis Blues,1512,Colorado Avalanche,1595,Away,34.3,3,6,L,-3.6,1509,2020030152,18,27
+2021-05-20,PO,Tampa Bay Lightning,1571,Florida Panthers,1538,Home,59.1,5,6,OTL,-2.0,1569,2020030143,31,33
+2021-05-20,PO,Florida Panthers,1538,Tampa Bay Lightning,1571,Away,40.9,6,5,OTW,2.0,1540,2020030143,33,31
+2021-05-20,PO,New York Islanders,1536,Pittsburgh Penguins,1563,Home,50.5,4,5,L,-3.0,1533,2020030113,22,17
+2021-05-20,PO,Pittsburgh Penguins,1563,New York Islanders,1536,Away,49.5,5,4,W,3.0,1566,2020030113,17,22
+2021-05-20,PO,Toronto Maple Leafs,1548,Montréal Canadiens,1471,Home,64.9,1,2,L,-3.9,1544,2020030171,5,1
+2021-05-20,PO,Montréal Canadiens,1471,Toronto Maple Leafs,1548,Away,35.1,2,1,W,3.9,1475,2020030171,1,5
+2021-05-20,PO,Minnesota Wild,1533,Vegas Golden Knights,1587,Home,46.5,2,5,L,-4.9,1528,2020030163,37,38
+2021-05-20,PO,Vegas Golden Knights,1587,Minnesota Wild,1533,Away,53.5,5,2,W,4.9,1592,2020030163,38,37
+2021-05-21,PO,Boston Bruins,1566,Washington Capitals,1550,Home,56.6,4,1,W,4.6,1571,2020030124,6,24
+2021-05-21,PO,Washington Capitals,1550,Boston Bruins,1566,Away,43.4,1,4,L,-4.6,1546,2020030124,24,6
+2021-05-21,PO,Nashville Predators,1503,Carolina Hurricanes,1574,Home,44.0,5,4,OTW,1.9,1505,2020030133,34,26
+2021-05-21,PO,Carolina Hurricanes,1574,Nashville Predators,1503,Away,56.0,4,5,OTL,-1.9,1572,2020030133,26,34
+2021-05-21,PO,Edmonton Oilers,1525,Winnipeg Jets,1517,Home,55.4,0,1,OTL,-1.8,1523,2020030182,25,35
+2021-05-21,PO,Winnipeg Jets,1517,Edmonton Oilers,1525,Away,44.6,1,0,OTW,1.8,1519,2020030182,35,25
+2021-05-21,PO,St. Louis Blues,1509,Colorado Avalanche,1599,Home,41.4,1,5,L,-4.7,1504,2020030153,18,27
+2021-05-21,PO,Colorado Avalanche,1599,St. Louis Blues,1509,Away,58.6,5,1,W,4.7,1604,2020030153,27,18
+2021-05-22,PO,Tampa Bay Lightning,1569,Florida Panthers,1540,Home,58.5,6,2,W,4.7,1574,2020030144,31,33
+2021-05-22,PO,Florida Panthers,1540,Tampa Bay Lightning,1569,Away,41.5,2,6,L,-4.7,1535,2020030144,33,31
+2021-05-22,PO,New York Islanders,1533,Pittsburgh Penguins,1566,Home,49.6,4,1,W,5.3,1539,2020030114,22,17
+2021-05-22,PO,Pittsburgh Penguins,1566,New York Islanders,1533,Away,50.4,1,4,L,-5.3,1561,2020030114,17,22
+2021-05-22,PO,Toronto Maple Leafs,1544,Montréal Canadiens,1475,Home,63.9,5,1,W,4.1,1548,2020030172,5,1
+2021-05-22,PO,Montréal Canadiens,1475,Toronto Maple Leafs,1544,Away,36.1,1,5,L,-4.1,1470,2020030172,1,5
+2021-05-22,PO,Minnesota Wild,1528,Vegas Golden Knights,1592,Home,45.1,0,4,L,-5.1,1523,2020030164,37,38
+2021-05-22,PO,Vegas Golden Knights,1592,Minnesota Wild,1528,Away,54.9,4,0,W,5.1,1597,2020030164,38,37
+2021-05-23,PO,Nashville Predators,1505,Carolina Hurricanes,1572,Home,44.6,4,3,OTW,1.8,1506,2020030134,34,26
+2021-05-23,PO,Carolina Hurricanes,1572,Nashville Predators,1505,Away,55.4,3,4,OTL,-1.8,1571,2020030134,26,34
+2021-05-23,PO,St. Louis Blues,1504,Colorado Avalanche,1604,Home,40.1,2,5,L,-4.2,1500,2020030154,18,27
+2021-05-23,PO,Colorado Avalanche,1604,St. Louis Blues,1504,Away,59.9,5,2,W,4.2,1608,2020030154,27,18
+2021-05-23,PO,Washington Capitals,1546,Boston Bruins,1571,Home,50.7,1,3,L,-3.8,1542,2020030125,24,6
+2021-05-23,PO,Boston Bruins,1571,Washington Capitals,1546,Away,49.3,3,1,W,3.8,1575,2020030125,6,24
+2021-05-23,PO,Winnipeg Jets,1519,Edmonton Oilers,1523,Home,53.7,5,4,OTW,1.3,1520,2020030183,35,25
+2021-05-23,PO,Edmonton Oilers,1523,Winnipeg Jets,1519,Away,46.3,4,5,OTL,-1.3,1522,2020030183,25,35
+2021-05-24,PO,Pittsburgh Penguins,1561,New York Islanders,1539,Home,57.4,2,3,OTL,-1.9,1559,2020030115,17,22
+2021-05-24,PO,New York Islanders,1539,Pittsburgh Penguins,1561,Away,42.6,3,2,OTW,1.9,1541,2020030115,22,17
+2021-05-24,PO,Montréal Canadiens,1470,Toronto Maple Leafs,1548,Home,43.2,1,2,L,-2.6,1468,2020030173,1,5
+2021-05-24,PO,Toronto Maple Leafs,1548,Montréal Canadiens,1470,Away,56.8,2,1,W,2.6,1551,2020030173,5,1
+2021-05-24,PO,Florida Panthers,1535,Tampa Bay Lightning,1574,Home,48.7,4,1,W,5.4,1540,2020030145,33,31
+2021-05-24,PO,Tampa Bay Lightning,1574,Florida Panthers,1535,Away,51.3,1,4,L,-5.4,1569,2020030145,31,33
+2021-05-24,PO,Winnipeg Jets,1520,Edmonton Oilers,1522,Home,54.1,4,3,OTW,1.3,1521,2020030184,35,25
+2021-05-24,PO,Edmonton Oilers,1522,Winnipeg Jets,1520,Away,45.9,3,4,OTL,-1.3,1520,2020030184,25,35
+2021-05-24,PO,Vegas Golden Knights,1597,Minnesota Wild,1523,Home,64.5,2,4,L,-4.8,1592,2020030165,38,37
+2021-05-24,PO,Minnesota Wild,1523,Vegas Golden Knights,1597,Away,35.5,4,2,W,4.8,1528,2020030165,37,38
+2021-05-25,PO,Montréal Canadiens,1468,Toronto Maple Leafs,1551,Home,42.5,0,4,L,-4.8,1463,2020030174,1,5
+2021-05-25,PO,Toronto Maple Leafs,1551,Montréal Canadiens,1468,Away,57.5,4,0,W,4.8,1555,2020030174,5,1
+2021-05-25,PO,Carolina Hurricanes,1571,Nashville Predators,1506,Home,63.2,3,2,OTW,0.7,1571,2020030135,26,34
+2021-05-25,PO,Nashville Predators,1506,Carolina Hurricanes,1571,Away,36.8,2,3,OTL,-0.7,1506,2020030135,34,26
+2021-05-26,PO,New York Islanders,1541,Pittsburgh Penguins,1559,Home,51.7,5,3,W,3.6,1544,2020030116,22,17
+2021-05-26,PO,Pittsburgh Penguins,1559,New York Islanders,1541,Away,48.3,3,5,L,-3.6,1555,2020030116,17,22
+2021-05-26,PO,Tampa Bay Lightning,1569,Florida Panthers,1540,Home,58.3,4,0,W,4.7,1573,2020030146,31,33
+2021-05-26,PO,Florida Panthers,1540,Tampa Bay Lightning,1569,Away,41.7,0,4,L,-4.7,1536,2020030146,33,31
+2021-05-26,PO,Minnesota Wild,1528,Vegas Golden Knights,1592,Home,45.1,3,0,W,5.8,1533,2020030166,37,38
+2021-05-26,PO,Vegas Golden Knights,1592,Minnesota Wild,1528,Away,54.9,0,3,L,-5.8,1586,2020030166,38,37
+2021-05-27,PO,Toronto Maple Leafs,1555,Montréal Canadiens,1463,Home,66.9,3,4,OTL,-2.5,1553,2020030175,5,1
+2021-05-27,PO,Montréal Canadiens,1463,Toronto Maple Leafs,1555,Away,33.1,4,3,OTW,2.5,1466,2020030175,1,5
+2021-05-27,PO,Nashville Predators,1506,Carolina Hurricanes,1571,Home,44.9,3,4,OTL,-1.2,1504,2020030136,34,26
+2021-05-27,PO,Carolina Hurricanes,1571,Nashville Predators,1506,Away,55.1,4,3,OTW,1.2,1572,2020030136,26,34
+2021-05-28,PO,Vegas Golden Knights,1586,Minnesota Wild,1533,Home,61.7,6,2,W,4.3,1590,2020030167,38,37
+2021-05-28,PO,Minnesota Wild,1533,Vegas Golden Knights,1586,Away,38.3,2,6,L,-4.3,1529,2020030167,37,38
+2021-05-29,PO,Montréal Canadiens,1466,Toronto Maple Leafs,1553,Home,41.8,3,2,OTW,2.0,1468,2020030176,1,5
+2021-05-29,PO,Toronto Maple Leafs,1553,Montréal Canadiens,1466,Away,58.2,2,3,OTL,-2.0,1551,2020030176,5,1
+2021-05-29,PO,Boston Bruins,1575,New York Islanders,1544,Home,58.6,5,2,W,4.3,1579,2020030211,6,22
+2021-05-29,PO,New York Islanders,1544,Boston Bruins,1575,Away,41.4,2,5,L,-4.3,1540,2020030211,22,6
+2021-05-30,PO,Carolina Hurricanes,1572,Tampa Bay Lightning,1573,Home,54.2,1,2,L,-3.3,1569,2020030221,26,31
+2021-05-30,PO,Tampa Bay Lightning,1573,Carolina Hurricanes,1572,Away,45.8,2,1,W,3.3,1577,2020030221,31,26
+2021-05-30,PO,Colorado Avalanche,1608,Vegas Golden Knights,1590,Home,56.8,7,1,W,5.5,1613,2020030231,27,38
+2021-05-30,PO,Vegas Golden Knights,1590,Colorado Avalanche,1608,Away,43.2,1,7,L,-5.5,1585,2020030231,38,27
+2021-05-31,PO,Toronto Maple Leafs,1551,Montréal Canadiens,1468,Home,65.7,1,3,L,-4.9,1546,2020030177,5,1
+2021-05-31,PO,Montréal Canadiens,1468,Toronto Maple Leafs,1551,Away,34.3,3,1,W,4.9,1473,2020030177,1,5
+2021-05-31,PO,Boston Bruins,1579,New York Islanders,1540,Home,59.8,3,4,OTL,-2.1,1577,2020030212,6,22
+2021-05-31,PO,New York Islanders,1540,Boston Bruins,1579,Away,40.2,4,3,OTW,2.1,1542,2020030212,22,6
+2021-06-01,PO,Carolina Hurricanes,1569,Tampa Bay Lightning,1577,Home,53.2,1,2,L,-3.2,1566,2020030222,26,31
+2021-06-01,PO,Tampa Bay Lightning,1577,Carolina Hurricanes,1569,Away,46.8,2,1,W,3.2,1580,2020030222,31,26
+2021-06-02,PO,Winnipeg Jets,1521,Montréal Canadiens,1473,Home,61.1,3,5,L,-4.6,1517,2020030241,35,1
+2021-06-02,PO,Montréal Canadiens,1473,Winnipeg Jets,1521,Away,38.9,5,3,W,4.6,1477,2020030241,1,35
+2021-06-02,PO,Colorado Avalanche,1613,Vegas Golden Knights,1585,Home,58.3,3,2,OTW,1.0,1614,2020030232,27,38
+2021-06-02,PO,Vegas Golden Knights,1585,Colorado Avalanche,1613,Away,41.7,2,3,OTL,-1.0,1584,2020030232,38,27
+2021-06-03,PO,New York Islanders,1542,Boston Bruins,1577,Home,49.3,1,2,OTL,-1.5,1541,2020030213,22,6
+2021-06-03,PO,Boston Bruins,1577,New York Islanders,1542,Away,50.7,2,1,OTW,1.5,1578,2020030213,6,22
+2021-06-03,PO,Tampa Bay Lightning,1580,Carolina Hurricanes,1566,Home,56.3,2,3,OTL,-1.9,1578,2020030223,31,26
+2021-06-03,PO,Carolina Hurricanes,1566,Tampa Bay Lightning,1580,Away,43.7,3,2,OTW,1.9,1568,2020030223,26,31
+2021-06-04,PO,Winnipeg Jets,1517,Montréal Canadiens,1477,Home,59.9,0,1,L,-3.6,1513,2020030242,35,1
+2021-06-04,PO,Montréal Canadiens,1477,Winnipeg Jets,1517,Away,40.1,1,0,W,3.6,1481,2020030242,1,35
+2021-06-04,PO,Vegas Golden Knights,1584,Colorado Avalanche,1614,Home,49.9,3,2,W,3.0,1587,2020030233,38,27
+2021-06-04,PO,Colorado Avalanche,1614,Vegas Golden Knights,1584,Away,50.1,2,3,L,-3.0,1611,2020030233,27,38
+2021-06-05,PO,Tampa Bay Lightning,1578,Carolina Hurricanes,1568,Home,55.7,6,4,W,3.3,1581,2020030224,31,26
+2021-06-05,PO,Carolina Hurricanes,1568,Tampa Bay Lightning,1578,Away,44.3,4,6,L,-3.3,1565,2020030224,26,31
+2021-06-05,PO,New York Islanders,1541,Boston Bruins,1578,Home,48.9,4,1,W,5.4,1546,2020030214,22,6
+2021-06-05,PO,Boston Bruins,1578,New York Islanders,1541,Away,51.1,1,4,L,-5.4,1573,2020030214,6,22
+2021-06-06,PO,Montréal Canadiens,1481,Winnipeg Jets,1513,Home,49.7,5,1,W,5.7,1486,2020030243,1,35
+2021-06-06,PO,Winnipeg Jets,1513,Montréal Canadiens,1481,Away,50.3,1,5,L,-5.7,1507,2020030243,35,1
+2021-06-06,PO,Vegas Golden Knights,1587,Colorado Avalanche,1611,Home,50.8,5,1,W,5.5,1592,2020030234,38,27
+2021-06-06,PO,Colorado Avalanche,1611,Vegas Golden Knights,1587,Away,49.2,1,5,L,-5.5,1606,2020030234,27,38
+2021-06-07,PO,Boston Bruins,1573,New York Islanders,1546,Home,58.1,4,5,L,-3.5,1570,2020030215,6,22
+2021-06-07,PO,New York Islanders,1546,Boston Bruins,1573,Away,41.9,5,4,W,3.5,1549,2020030215,22,6
+2021-06-07,PO,Montréal Canadiens,1486,Winnipeg Jets,1507,Home,51.3,3,2,OTW,1.4,1488,2020030244,1,35
+2021-06-07,PO,Winnipeg Jets,1507,Montréal Canadiens,1486,Away,48.7,2,3,OTL,-1.4,1506,2020030244,35,1
+2021-06-08,PO,Carolina Hurricanes,1565,Tampa Bay Lightning,1581,Home,51.9,0,2,L,-3.9,1561,2020030225,26,31
+2021-06-08,PO,Tampa Bay Lightning,1581,Carolina Hurricanes,1565,Away,48.1,2,0,W,3.9,1585,2020030225,31,26
+2021-06-08,PO,Colorado Avalanche,1606,Vegas Golden Knights,1592,Home,56.2,2,3,OTL,-1.9,1604,2020030235,27,38
+2021-06-08,PO,Vegas Golden Knights,1592,Colorado Avalanche,1606,Away,43.8,3,2,OTW,1.9,1594,2020030235,38,27
+2021-06-09,PO,New York Islanders,1549,Boston Bruins,1570,Home,51.4,6,2,W,5.5,1555,2020030216,22,6
+2021-06-09,PO,Boston Bruins,1570,New York Islanders,1549,Away,48.6,2,6,L,-5.5,1564,2020030216,6,22
+2021-06-10,PO,Vegas Golden Knights,1594,Colorado Avalanche,1604,Home,52.9,6,3,W,4.9,1599,2020030236,38,27
+2021-06-10,PO,Colorado Avalanche,1604,Vegas Golden Knights,1594,Away,47.1,3,6,L,-4.9,1599,2020030236,27,38
+2021-06-13,PO,Tampa Bay Lightning,1585,New York Islanders,1555,Home,58.6,1,2,L,-3.5,1582,2020030321,31,22
+2021-06-13,PO,New York Islanders,1555,Tampa Bay Lightning,1585,Away,41.4,2,1,W,3.5,1558,2020030321,22,31
+2021-06-14,PO,Vegas Golden Knights,1599,Montréal Canadiens,1488,Home,69.3,4,1,W,3.2,1602,2020030311,38,1
+2021-06-14,PO,Montréal Canadiens,1488,Vegas Golden Knights,1599,Away,30.7,1,4,L,-3.2,1485,2020030311,1,38
+2021-06-15,PO,Tampa Bay Lightning,1582,New York Islanders,1558,Home,57.6,4,2,W,3.2,1585,2020030322,31,22
+2021-06-15,PO,New York Islanders,1558,Tampa Bay Lightning,1582,Away,42.4,2,4,L,-3.2,1555,2020030322,22,31
+2021-06-16,PO,Vegas Golden Knights,1602,Montréal Canadiens,1485,Home,70.1,2,3,L,-4.2,1598,2020030312,38,1
+2021-06-16,PO,Montréal Canadiens,1485,Vegas Golden Knights,1602,Away,29.9,3,2,W,4.2,1489,2020030312,1,38
+2021-06-17,PO,New York Islanders,1555,Tampa Bay Lightning,1585,Home,50.1,1,2,L,-3.0,1552,2020030323,22,31
+2021-06-17,PO,Tampa Bay Lightning,1585,New York Islanders,1555,Away,49.9,2,1,W,3.0,1588,2020030323,31,22
+2021-06-18,PO,Montréal Canadiens,1489,Vegas Golden Knights,1598,Home,38.8,3,2,OTW,2.2,1491,2020030313,1,38
+2021-06-18,PO,Vegas Golden Knights,1598,Montréal Canadiens,1489,Away,61.2,2,3,OTL,-2.2,1596,2020030313,38,1
+2021-06-19,PO,New York Islanders,1552,Tampa Bay Lightning,1588,Home,49.2,3,2,W,3.0,1555,2020030324,22,31
+2021-06-19,PO,Tampa Bay Lightning,1588,New York Islanders,1552,Away,50.8,2,3,L,-3.0,1585,2020030324,31,22
+2021-06-20,PO,Montréal Canadiens,1491,Vegas Golden Knights,1596,Home,39.4,1,2,OTL,-0.9,1490,2020030314,1,38
+2021-06-20,PO,Vegas Golden Knights,1596,Montréal Canadiens,1491,Away,60.6,2,1,OTW,0.9,1597,2020030314,38,1
+2021-06-21,PO,Tampa Bay Lightning,1585,New York Islanders,1555,Home,58.5,8,0,W,5.9,1591,2020030325,31,22
+2021-06-21,PO,New York Islanders,1555,Tampa Bay Lightning,1585,Away,41.5,0,8,L,-5.9,1549,2020030325,22,31
+2021-06-22,PO,Vegas Golden Knights,1597,Montréal Canadiens,1490,Home,68.7,1,4,L,-7.2,1590,2020030315,38,1
+2021-06-22,PO,Montréal Canadiens,1490,Vegas Golden Knights,1597,Away,31.3,4,1,W,7.2,1497,2020030315,1,38
+2021-06-23,PO,New York Islanders,1549,Tampa Bay Lightning,1591,Home,48.4,3,2,OTW,1.6,1551,2020030326,22,31
+2021-06-23,PO,Tampa Bay Lightning,1591,New York Islanders,1549,Away,51.6,2,3,OTL,-1.6,1589,2020030326,31,22
+2021-06-24,PO,Montréal Canadiens,1497,Vegas Golden Knights,1590,Home,41.1,3,2,OTW,2.0,1499,2020030316,1,38
+2021-06-24,PO,Vegas Golden Knights,1590,Montréal Canadiens,1497,Away,58.9,2,3,OTL,-2.0,1588,2020030316,38,1
+2021-06-25,PO,Tampa Bay Lightning,1589,New York Islanders,1551,Home,59.7,1,0,W,2.4,1592,2020030327,31,22
+2021-06-25,PO,New York Islanders,1551,Tampa Bay Lightning,1589,Away,40.3,0,1,L,-2.4,1549,2020030327,22,31
+2021-06-28,PO,Tampa Bay Lightning,1592,Montréal Canadiens,1499,Home,66.9,5,1,W,3.7,1595,2020030411,31,1
+2021-06-28,PO,Montréal Canadiens,1499,Tampa Bay Lightning,1592,Away,33.1,1,5,L,-3.7,1496,2020030411,1,31
+2021-06-30,PO,Tampa Bay Lightning,1595,Montréal Canadiens,1496,Home,67.8,3,1,W,2.4,1598,2020030412,31,1
+2021-06-30,PO,Montréal Canadiens,1496,Tampa Bay Lightning,1595,Away,32.2,1,3,L,-2.4,1493,2020030412,1,31
+2021-07-02,PO,Montréal Canadiens,1493,Tampa Bay Lightning,1598,Home,39.5,3,6,L,-4.1,1489,2020030413,1,31
+2021-07-02,PO,Tampa Bay Lightning,1598,Montréal Canadiens,1493,Away,60.5,6,3,W,4.1,1602,2020030413,31,1
+2021-07-05,PO,Montréal Canadiens,1489,Tampa Bay Lightning,1602,Home,38.3,3,2,OTW,2.2,1491,2020030414,1,31
+2021-07-05,PO,Tampa Bay Lightning,1602,Montréal Canadiens,1489,Away,61.7,2,3,OTL,-2.2,1600,2020030414,31,1
+2021-07-07,PO,Tampa Bay Lightning,1600,Montréal Canadiens,1491,Home,68.9,1,0,W,1.9,1601,2020030415,31,1
+2021-07-07,PO,Montréal Canadiens,1491,Tampa Bay Lightning,1600,Away,31.1,0,1,L,-1.9,1489,2020030415,1,31

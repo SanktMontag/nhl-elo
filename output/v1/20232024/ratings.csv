@@ -1,0 +1,33 @@
+Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO L,Start ELO,Peak ELO,Season +/-
+1,33,Florida Panthers,FLA,Eastern,Atlantic,1602,82,52,24,6,110,268,200,16,8,1531,1616,71
+2,26,Carolina Hurricanes,CAR,Eastern,Metropolitan,1600,82,52,23,7,111,279,216,6,5,1550,1604,50
+3,25,Edmonton Oilers,EDM,Western,Pacific,1590,82,49,27,6,104,294,237,15,10,1558,1593,31
+4,15,Dallas Stars,DAL,Western,Central,1584,82,52,21,9,113,298,234,10,9,1541,1596,42
+5,10,New York Rangers,NYR,Eastern,Metropolitan,1581,82,55,23,4,114,282,229,10,6,1547,1594,34
+6,27,Colorado Avalanche,COL,Western,Central,1578,82,50,25,7,107,304,254,6,5,1558,1590,19
+7,6,Boston Bruins,BOS,Eastern,Atlantic,1574,82,47,20,15,109,267,224,6,7,1594,1616,-20
+8,5,Toronto Maple Leafs,TOR,Eastern,Atlantic,1549,82,46,26,10,102,303,263,3,4,1548,1569,2
+9,35,Winnipeg Jets,WPG,Western,Central,1547,82,52,24,6,110,259,199,1,4,1502,1568,45
+10,20,Vancouver Canucks,VAN,Western,Pacific,1542,82,50,23,9,109,279,223,7,6,1484,1559,57
+11,31,Tampa Bay Lightning,TBL,Eastern,Atlantic,1540,82,45,29,8,98,291,268,1,4,1533,1555,6
+12,38,Vegas Golden Knights,VGK,Western,Pacific,1536,82,45,29,8,98,267,245,3,4,1567,1594,-31
+13,34,Nashville Predators,NSH,Western,Central,1528,82,47,30,5,99,269,248,2,4,1498,1544,30
+14,14,Los Angeles Kings,LAK,Western,Pacific,1523,82,44,27,11,99,256,215,1,4,1521,1565,2
+15,17,Pittsburgh Penguins,PIT,Eastern,Metropolitan,1505,82,38,32,12,88,255,251,0,0,1503,1517,3
+16,37,Minnesota Wild,MIN,Western,Central,1504,82,39,33,10,88,251,263,0,0,1521,1524,-17
+17,19,Buffalo Sabres,BUF,Eastern,Atlantic,1498,82,39,37,6,84,246,244,0,0,1488,1498,11
+18,22,New York Islanders,NYI,Eastern,Metropolitan,1493,82,39,27,16,94,246,263,1,4,1513,1518,-20
+19,18,St. Louis Blues,STL,Western,Central,1489,82,43,33,6,92,239,250,0,0,1489,1500,1
+20,21,Calgary Flames,CGY,Western,Pacific,1485,82,38,39,5,81,253,271,0,0,1514,1521,-29
+21,23,New Jersey Devils,NJD,Eastern,Metropolitan,1481,82,38,39,5,81,264,283,0,0,1518,1525,-37
+22,12,Detroit Red Wings,DET,Eastern,Atlantic,1477,82,41,32,9,91,278,274,0,0,1459,1506,19
+23,24,Washington Capitals,WSH,Eastern,Metropolitan,1471,82,40,31,11,91,220,257,0,4,1484,1493,-12
+24,39,Seattle Kraken,SEA,Western,Pacific,1470,82,34,35,13,81,217,236,0,0,1510,1510,-39
+25,30,Ottawa Senators,OTT,Eastern,Atlantic,1464,82,37,41,4,78,255,281,0,0,1486,1498,-22
+26,16,Philadelphia Flyers,PHI,Eastern,Metropolitan,1449,82,38,33,11,87,235,261,0,0,1446,1486,4
+27,40,Arizona Coyotes,ARI,Western,Central,1446,82,36,41,5,77,256,274,0,0,1434,1461,12
+28,1,Montréal Canadiens,MTL,Eastern,Atlantic,1420,82,30,36,16,76,236,289,0,0,1434,1438,-15
+29,36,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,1405,82,27,43,12,66,237,300,0,0,1419,1421,-13
+30,32,Anaheim Ducks,ANA,Western,Pacific,1373,82,27,50,5,59,204,295,0,0,1407,1426,-34
+31,11,Chicago Blackhawks,CHI,Western,Central,1360,82,23,53,6,52,179,290,0,0,1421,1429,-61
+32,29,San Jose Sharks,SJS,Western,Pacific,1334,82,19,54,9,47,181,331,0,0,1423,1419,-89
