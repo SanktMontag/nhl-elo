@@ -29,16 +29,20 @@ with c2:
 view = view.assign(Range=view["PTS p10"].astype(str) + "–" + view["PTS p90"].astype(str))
 pct = {"format": "percent"}
 if mode == "Playoff rounds":
-    cols = ["Team", "Division", "ELO", "PTS", "Proj PTS", "Range", "Playoffs", "Div Title", "Round 2",
-            "Conf Final", "Cup Final", "Stanley Cup", "Presidents"]
+    # Playoff rounds first (each one includes the next), then the two regular-season titles.
+    cols = ["Team", "Division", "ELO", "PTS", "Proj PTS", "Range", "Playoffs", "Round 2", "Conf Final",
+            "Cup Final", "Stanley Cup", "Div Title", "Presidents"]
     config = {
-        "Div Title": st.column_config.NumberColumn("Division", **pct),
-        "Round 2": st.column_config.NumberColumn("Round 2", **pct),
-        "Conf Final": st.column_config.NumberColumn("Conf. Final", **pct),
-        "Cup Final": st.column_config.NumberColumn("Cup Final", **pct),
-        "Stanley Cup": st.column_config.ProgressColumn("Stanley Cup", format="percent", min_value=0,
+        "Round 2": st.column_config.NumberColumn("Reach Round 2", help="Make the playoffs and win a "
+                                                 "first-round series", **pct),
+        "Conf Final": st.column_config.NumberColumn("Reach Conf. Final", help="Win two playoff series", **pct),
+        "Cup Final": st.column_config.NumberColumn("Reach Cup Final", help="Win the conference", **pct),
+        "Stanley Cup": st.column_config.ProgressColumn("Win Stanley Cup", format="percent", min_value=0,
                                                        max_value=max(0.25, float(t["Stanley Cup"].max()))),
-        "Presidents": st.column_config.NumberColumn("Presidents'", help="Most points in the league", **pct),
+        "Div Title": st.column_config.NumberColumn("Win division", help="Regular season: finish 1st in the "
+                                                   "division", **pct),
+        "Presidents": st.column_config.NumberColumn("Presidents' Trophy", help="Regular season: most points "
+                                                    "in the league", **pct),
     }
 else:
     # Older simulation files (before seeds were recorded) don't have these columns.

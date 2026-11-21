@@ -45,7 +45,8 @@ def _season(season: int, _key: float) -> dict:
     tg = pd.read_csv(d / "team_games.csv", parse_dates=["Date"])
     preds = pd.read_csv(d / "predictions.csv", parse_dates=["Date"]) if (d / "predictions.csv").exists() \
         else pd.DataFrame()
-    return {"ratings": pd.read_csv(d / "ratings.csv"), "team_games": tg, "predictions": preds}
+    return {"ratings": pd.read_csv(d / "ratings.csv"), "team_games": tg, "predictions": preds,
+            "games": pd.read_csv(d / "games.csv", parse_dates=["Date"])}
 
 
 def season_data(season: int) -> dict:
