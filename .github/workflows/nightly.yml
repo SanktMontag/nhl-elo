@@ -49,8 +49,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data output
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
+          # run_meta.json always changes (it records when the run happened); only commit for real changes.
+          if git diff --cached --quiet -- . ':!output/v1/run_meta.json'; then
+            echo "No new results to commit."
             exit 0
           fi
           through=$(python -c "import json; print(json.load(open('output/v1/run_meta.json'))['last_game'])")
