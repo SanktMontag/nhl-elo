@@ -26,6 +26,9 @@ from .methods import Method, get_method
 
 HOME_GAMES = (0, 1, 4, 6)  # 2-2-1-1-1: games 1, 2, 5 and 7 at the higher seed
 ODDS = ["Playoffs", "Div Title", "Presidents", "Round 2", "Conf Final", "Cup Final", "Stanley Cup", "Bottom 3"]
+# How a team gets in: its playoff seed. 1st in division is "Div Title"; together with these they add up to
+# "Playoffs". Seed codes used internally: 1-3 division place, 4 first wild card, 5 second wild card.
+SEEDS = {2: "Div 2nd", 3: "Div 3rd", 4: "WC1", 5: "WC2"}
 
 
 # ------------------------------------------------------------------ inputs
@@ -208,9 +211,11 @@ def _sort_key(pts, rw, row, w, gd, rng):
 
 
 def _seed_wildcard(st: SeasonState, key, spots: int, wildcards: int):
-    """Round-1 slots (S × 8 × 2: [higher-ranked side first]) in NHL series order, plus division winners."""
+    """Round-1 slots (S × 8 × 2: [higher-ranked side first]) in NHL series order, division winners, the
+    last wild card per conference, and each team's seed (S × T: 0 out, 1-3 division place, 4+ wild card)."""
     S = key.shape[0]
     rows = np.arange(S)[:, None]
+    seed = np.zeros(key.shape, dtype=np.int8)
     confs = sorted(set(st.conference))
     if len(confs) != 2:
         raise ValueError(f"wildcard format needs 2 conferences, found {confs}")
@@ -226,9 +231,11 @@ def _seed_wildcard(st: SeasonState, key, spots: int, wildcards: int):
             m = np.where(st.division == d)[0]
             top = m[np.argsort(-key[:, m], axis=1)[:, :spots]]          # S × spots
             q[rows, top] = True
+            seed[rows, top] = np.arange(1, spots + 1)
             tops.append(top)
         k2 = np.where(q[:, cm], -np.inf, key[:, cm])
         wc = cm[np.argsort(-k2, axis=1)[:, :wildcards]]                 # S × 2
+        seed[rows, wc] = np.arange(spots + 1, spots + 1 + wildcards)
         a_better = key[rows[:, 0], tops[0][:, 0]] > key[rows[:, 0], tops[1][:, 0]]
         opp = [np.where(a_better, wc[:, 1], wc[:, 0]), np.where(a_better, wc[:, 0], wc[:, 1])]
         for top, o in zip(tops, opp):
@@ -236,7 +243,7 @@ def _seed_wildcard(st: SeasonState, key, spots: int, wildcards: int):
             slots.append(np.stack([top[:, 1], top[:, 2]], axis=1))
             div_winners.append(top[:, 0])
         cut_teams[conf] = wc[:, -1]
-    return np.stack(slots, axis=1), np.stack(div_winners, axis=1), cut_teams
+    return np.stack(slots, axis=1), np.stack(div_winners, axis=1), cut_teams, seed
 
 
 def simulate(st: SeasonState, method: Method, rates: Rates, sims: int = 10000, seed: int = 0,
@@ -274,8 +281,8 @@ def simulate(st: SeasonState, method: Method, rates: Rates, sims: int = 10000, s
     key = _sort_key(pts, rw, row, w, gd, rng)
 
     # ---- bracket: from the real round-1 series once they're set, otherwise seeded from the standings
-    slots, div_winners, cut_teams = _seed_wildcard(st, key, int(playoffs.get("division_spots", 3)),
-                                                   int(playoffs.get("wildcards", 2)))
+    slots, div_winners, cut_teams, seeding = _seed_wildcard(st, key, int(playoffs.get("division_spots", 3)),
+                                                         int(playoffs.get("wildcards", 2)))
     r1 = st.playoffs.loc[st.playoffs["rnd"] == 1].drop_duplicates("ser").set_index("ser")
     if len(r1) == 8:
         real = np.array([[r1.at[s, "h"], r1.at[s, "a"]] for s in range(1, 9)])
@@ -322,6 +329,24 @@ def simulate(st: SeasonState, method: Method, rates: Rates, sims: int = 10000, s
         "Round 2": share(reached[1]), "Conf Final": share(reached[2]), "Cup Final": share(reached[3]),
         "Stanley Cup": share(champion), "Bottom 3": share(order[:, -3:]),
     }
+    seeds = {name: (seeding == code).mean(axis=0) for code, name in SEEDS.items()}
+
+    # most likely first-round opponent, as a share of the team's playoff appearances
+    opp = np.full((S, T), -1)
+    for k in range(slots.shape[1]):
+        opp[rows, slots[:, k, 0]] = slots[:, k, 1]
+        opp[rows, slots[:, k, 1]] = slots[:, k, 0]
+    r1_opp, r1_share = [], []
+    for i in range(T):
+        o = opp[:, i][opp[:, i] >= 0]
+        if len(o):
+            c = np.bincount(o, minlength=T)
+            r1_opp.append(st.abbrevs[int(c.argmax())])
+            r1_share.append(round(c.max() / len(o), 4))
+        else:
+            r1_opp.append("")
+            r1_share.append(0.0)
+
     l_ = gp[None, :] - w - otl
     table = pd.DataFrame({
         "franchise": st.franchises, "Team": st.names, "Abbrev": st.abbrevs,
@@ -332,6 +357,8 @@ def simulate(st: SeasonState, method: Method, rates: Rates, sims: int = 10000, s
         "PTS p90": np.percentile(pts, 90, axis=0).round(0).astype(int),
         "Proj W": w.mean(axis=0).round(1), "Proj L": l_.mean(axis=0).round(1), "Proj OTL": otl.mean(axis=0).round(1),
         **{k: v.round(4) for k, v in odds.items()},
+        **{k: v.round(4) for k, v in seeds.items()},
+        "R1 Opp": r1_opp, "R1 Opp %": r1_share,
     }).sort_values(["Stanley Cup", "Playoffs", "Proj PTS"], ascending=False, kind="stable").reset_index(drop=True)
 
     pts_rows = []
@@ -469,8 +496,8 @@ def calibration_table(df: pd.DataFrame, col: str = "Playoffs", truth: str = "mad
                                                actual=(truth, "mean")).round(3)
 
 
-def _actual_outcomes(sim: Simulator, season: int) -> pd.DataFrame:
-    st = sim.state(season)
+def _actual_outcomes(sim: Simulator, season: int, st: SeasonState | None = None) -> pd.DataFrame:
+    st = st or sim.state(season)
     key = (((st.pts * 100.0 + st.rw) * 100.0 + st.row) * 100.0 + st.w) * 1000.0 + (st.gd + 500)
     made = set(st.playoffs["a"]) | set(st.playoffs["h"])
     div_win = {int(np.where(st.division == d)[0][np.argmax(key[st.division == d])]) for d in set(st.division)}
@@ -480,8 +507,9 @@ def _actual_outcomes(sim: Simulator, season: int) -> pd.DataFrame:
     return pd.DataFrame({"franchise": st.franchises,
                          "made_playoffs": [int(i in made) for i in range(st.n)],
                          "won_division": [int(i in div_win) for i in range(st.n)],
-                         "won_cup": [int(i == champ) for i in range(st.n)]})
+                         "won_cup": [int(i == champ) for i in range(st.n)],
+                         "final_pts": st.pts})
 
 
 __all__ = ["Simulator", "simulate", "season_state", "measure_rates", "truncate", "write", "append_history",
-           "backfill_dates", "backtest", "calibration_table", "ODDS"]
+           "backfill_dates", "backtest", "calibration_table", "ODDS", "SEEDS"]

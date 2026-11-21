@@ -90,14 +90,39 @@ division, Presidents' Trophy, round-by-round and Stanley Cup odds, plus projecte
 - **Ratings** update within each run ("hot"). `--cold` keeps them fixed; the backtest found hot slightly better.
 - **Standings tiebreakers:** points, regulation wins, regulation + OT wins, wins, goal differential. Head-to-head
   is left out.
-- **Playoffs:** top 3 per division + 2 wild cards per conference, best-of-7 with 2-2-1-1-1 home ice. Once real
-  series exist, the real bracket and series scores are used.
+- **Playoffs:** top 3 per division + 2 wild cards per conference. The wild cards are the next 2 best teams in
+  the conference, from either division; the division winner with more points plays wild card 2, the other
+  plays wild card 1. Series are best-of-7 with 2-2-1-1-1 home ice. Once real series exist, the real
+  bracket and series scores are used.
+- **Path to the playoffs:** the odds of each seed (1st, 2nd or 3rd in the division, wild card 1 or 2; they
+  add up to the playoff chance) and the most likely first-round opponent. Shown under **Path to the
+  playoffs** on the Season Outlook page.
 
 ```powershell
 nhl simulate                         # current season (run automatically by nhl update)
 nhl simulate --backfill              # also rebuild weekly snapshots so far, for the odds-over-time chart
 nhl simulate --backtest --date 01-01 # check the odds on past seasons, using only games before that date
 ```
+
+### Past predictions (checkpoints)
+
+`nhl simulate --checkpoints` re-simulates every past season (2013-14 on, skipping 2019-20 and 2020-21) at
+five points: opening night, US Thanksgiving, Christmas, the All-Star break (the Olympic or 4 Nations break
+in seasons that had one) and the trade deadline. Each simulation uses only the games played before that
+day. The results go to `output/v1/checkpoints.csv` and the site's **Past Predictions** page, next to what
+happened and next to "the teams in a playoff spot that day make it".
+
+`nhl update` keeps it current: finished seasons are reused, the current season gains each checkpoint as it
+passes, and its results fill in when the Cup is awarded. Trade deadline dates are in `[trade_deadline]` in
+`config/settings.toml`; **add each new season's date** once it's announced. After changing the model,
+the file is rebuilt automatically (or force it with `--force`).
+
+Average playoff teams called right, out of 16 (11 seasons):
+
+| | Opening night | Thanksgiving | Christmas | All-Star break | Trade deadline |
+|---|---|---|---|---|---|
+| Simulation | 10.5 | 12.8 | 13.0 | 13.8 | 14.6 |
+| Standings that day | – | 12.4 | 12.5 | 14.0 | 14.4 |
 
 **Accuracy:** from January 1 across 11 past seasons (2013-14 on, skipping 2019-20 and 2020-21), playoff odds
 score a Brier score of 0.120, against 0.250 with no model. From March 1 the score is 0.067. The calibration
@@ -159,6 +184,7 @@ Things to know:
 | `nhl update [--no-sim]` | Fetch the latest games, recompute and simulate (the weekly command) |
 | `nhl simulate [--sims N] [--seed S] [--cold] [--backfill]` | Season odds for the current season |
 | `nhl simulate --backtest [--date MM-DD] [--cold]` | Score the simulation on past seasons |
+| `nhl simulate --checkpoints [--force]` | Past predictions at Thanksgiving, Christmas, the All-Star break, ... |
 | `nhl fetch [--refresh-all] [--offline] [--run]` | Download from the API into `data/` |
 | `nhl run [--method v1\|v2-dev] [--top N]` | Recompute all seasons into `output/<method>/` |
 | `nhl backtest [--method ...] [--grid NAME=V1,V2 ...] [--from S] [--to S] [--seasons]` | Score and tune the model |
@@ -182,8 +208,10 @@ output/<method>/
   history.csv             each franchise's start/end/peak ELO and record per season
   accuracy.csv            prediction scores per season
   calibration.csv         predicted vs actual favourite win rate
+  checkpoints.csv         past seasons' predictions at each checkpoint, with what happened
   run_meta.json           settings, counts and overall score of the last run
-src/nhl_elo/              api.py, fetch.py, engine.py, backtest.py, methods/, cli.py
+src/nhl_elo/              api.py, fetch.py, engine.py, backtest.py, simulate.py, checkpoints.py,
+                          methods/, cli.py
 app/                      Streamlit site (streamlit_app.py + pages/)
 tests/                    pytest suite
 ```

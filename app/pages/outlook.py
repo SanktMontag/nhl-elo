@@ -20,27 +20,59 @@ st.caption(
 )
 
 # ---- odds table
-view = group_filter(t, key="outlook_group")
+c1, c2 = st.columns([3, 2], vertical_alignment="center")
+with c1:
+    view = group_filter(t, key="outlook_group")
+with c2:
+    mode = st.segmented_control("View", ["Playoff rounds", "Path to the playoffs"], default="Playoff rounds",
+                                key="outlook_view", label_visibility="collapsed") or "Playoff rounds"
 view = view.assign(Range=view["PTS p10"].astype(str) + "–" + view["PTS p90"].astype(str))
+pct = {"format": "percent"}
+if mode == "Playoff rounds":
+    cols = ["Team", "Division", "ELO", "PTS", "Proj PTS", "Range", "Playoffs", "Div Title", "Round 2",
+            "Conf Final", "Cup Final", "Stanley Cup", "Presidents"]
+    config = {
+        "Div Title": st.column_config.NumberColumn("Division", **pct),
+        "Round 2": st.column_config.NumberColumn("Round 2", **pct),
+        "Conf Final": st.column_config.NumberColumn("Conf. Final", **pct),
+        "Cup Final": st.column_config.NumberColumn("Cup Final", **pct),
+        "Stanley Cup": st.column_config.ProgressColumn("Stanley Cup", format="percent", min_value=0,
+                                                       max_value=max(0.25, float(t["Stanley Cup"].max()))),
+        "Presidents": st.column_config.NumberColumn("Presidents'", help="Most points in the league", **pct),
+    }
+else:
+    # Older simulation files (before seeds were recorded) don't have these columns.
+    if "WC2" not in view:
+        st.info("Run `nhl simulate` to add the seeding odds.")
+        st.stop()
+    view = view.assign(Opp=view["R1 Opp"].fillna("") + view["R1 Opp %"].map(lambda x: f" ({x:.0%})" if x else ""))
+    cols = ["Team", "Division", "PTS", "Proj PTS", "Range", "Playoffs", "Div Title", "Div 2nd", "Div 3rd",
+            "WC1", "WC2", "Opp"]
+    config = {
+        "Div Title": st.column_config.NumberColumn("1st in div.", help="Division winner", **pct),
+        "Div 2nd": st.column_config.NumberColumn("2nd in div.", **pct),
+        "Div 3rd": st.column_config.NumberColumn("3rd in div.", **pct),
+        "WC1": st.column_config.NumberColumn("Wild card 1", help="7th seed: plays the division winner with "
+                                             "fewer points", **pct),
+        "WC2": st.column_config.NumberColumn("Wild card 2", help="8th seed: plays the division winner with "
+                                             "more points", **pct),
+        "Opp": st.column_config.TextColumn("Likely 1st-round opponent",
+                                           help="Most common opponent when the team makes it, and how often"),
+    }
 st.dataframe(
-    view[["Team", "Division", "ELO", "PTS", "Proj PTS", "Range", "Playoffs", "Div Title", "Round 2",
-          "Conf Final", "Cup Final", "Stanley Cup", "Presidents"]],
-    hide_index=True, height=min(36 * (len(view) + 1) + 3, 1200),
+    view[cols], hide_index=True, height=min(36 * (len(view) + 1) + 3, 1200),
     column_config={
         "PTS": st.column_config.NumberColumn("Points now"),
         "Proj PTS": st.column_config.NumberColumn("Projected", format="%.0f"),
         "Range": st.column_config.TextColumn("80% range", help="8 in 10 simulations ended in this range"),
         "Playoffs": st.column_config.ProgressColumn("Playoffs", format="percent", min_value=0, max_value=1),
-        "Div Title": st.column_config.NumberColumn("Division", format="percent"),
-        "Round 2": st.column_config.NumberColumn("Round 2", format="percent"),
-        "Conf Final": st.column_config.NumberColumn("Conf. Final", format="percent"),
-        "Cup Final": st.column_config.NumberColumn("Cup Final", format="percent"),
-        "Stanley Cup": st.column_config.ProgressColumn("Stanley Cup", format="percent", min_value=0,
-                                                       max_value=max(0.25, float(t["Stanley Cup"].max()))),
-        "Presidents": st.column_config.NumberColumn("Presidents'", format="percent",
-                                                    help="Most points in the league"),
+        **config,
     },
 )
+if mode != "Playoff rounds":
+    st.caption("How each team gets in. The top 3 in each division qualify; the next 2 best teams in the "
+               "conference, from either division, are the wild cards. The five columns add up to the "
+               "playoff chance.")
 
 # ---- odds over time
 st.subheader("How the odds have moved")

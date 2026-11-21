@@ -50,7 +50,7 @@ def cmd_update(a) -> int:
     if rc == 0 and not a.no_sim:
         print()
         a.sims = a.seed = None
-        a.cold = a.backfill = a.backtest = False
+        a.cold = a.backfill = a.backtest = a.checkpoints = a.force = False
         rc = cmd_simulate(a)
     return rc
 
@@ -63,10 +63,36 @@ def _sim_table(t: pd.DataFrame, n: int | None) -> pd.DataFrame:
     return view.head(n) if n else view
 
 
+def _checkpoints(sim, sims=None, force=False, quiet=False) -> None:
+    from . import checkpoints as C
+
+    df = C.run_checkpoints(sim, sims=sims, force=force,
+                           progress=lambda i, t, s: print(f"\r  checkpoints {i}/{t} {season_label(s)}", end="",
+                                                          file=sys.stderr))
+    if df.empty:
+        return
+    sm = C.summary(df)
+    if quiet or sm.empty:
+        print(f"\nCheckpoints: {df.groupby(['season', 'checkpoint']).ngroups} snapshots in "
+              f"output/{sim.method.name}/checkpoints.csv", file=sys.stderr)
+        return
+    print(f"\n\nHow right were the playoff predictions? ({sm['season'].nunique()} finished seasons, "
+          "playoff teams called right out of 16)")
+    by = sm.groupby("checkpoint", sort=False).agg(
+        model=("model_right", "mean"), standings=("standings_right", "mean"), model_brier=("model_brier", "mean"),
+        standings_brier=("standings_brier", "mean"), champ_odds=("champion_cup_odds", "mean"),
+        champ_rank=("champion_cup_rank", "median"))
+    by = by.reindex([c for c in C.CHECKPOINTS if c in by.index])
+    print(by.round(3).to_string())
+
+
 def cmd_simulate(a) -> int:
     from . import simulate as S
 
     sim = S.Simulator(a.method)
+    if a.checkpoints:
+        _checkpoints(sim, a.sims, a.force)
+        return 0
     if a.backtest:
         mmdd = a.date or "01-01"
         print(f"Simulating past seasons from {mmdd} (only earlier games used)...", file=sys.stderr)
@@ -96,6 +122,7 @@ def cmd_simulate(a) -> int:
 
     res = sim.run(sims=a.sims, seed=a.seed, hot=False if a.cold else None)
     out = S.write(res, sim.method.name)
+    _checkpoints(sim, quiet=True)   # adds checkpoints that have passed; finished seasons are reused
     m = res.meta
     print(f"{m['sims']:,} simulations of {season_label(m['season'])} through {m['through']} "
           f"({m['remaining_games']} regular-season games left, {'hot' if m['hot'] else 'cold'} ratings). "
@@ -166,6 +193,9 @@ def build_parser() -> argparse.ArgumentParser:
                    help="also rebuild weekly odds for the current season so far (each from earlier games only)")
     s.add_argument("--backtest", action="store_true", help="score the simulation on past seasons")
     s.add_argument("--date", help="with --backtest: simulate each season from this MM-DD (default 01-01)")
+    s.add_argument("--checkpoints", action="store_true",
+                   help="how right were past predictions at Thanksgiving, Christmas, the All-Star break, ...")
+    s.add_argument("--force", action="store_true", help="with --checkpoints: recompute every season")
     s.add_argument("--top", type=int, default=32)
     s.set_defaults(func=cmd_simulate)
 

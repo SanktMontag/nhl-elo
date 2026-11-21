@@ -31,6 +31,8 @@ hot = true
 rates_from = 20152016
 # `nhl simulate --backtest` uses fewer runs per season to stay quick.
 backtest_sims = 2000
+# Runs per snapshot for the "how right were the predictions" checkpoints (`nhl simulate --checkpoints`).
+checkpoint_sims = 5000
 
 [playoffs]
 # 2013-14 on: top 3 per division + 2 wild cards per conference; the division winner with more points
@@ -38,6 +40,25 @@ backtest_sims = 2000
 format = "wildcard"
 division_spots = 3
 wildcards = 2
+
+# NHL trade deadline per season, for the "Trade deadline" checkpoint (predictions made the morning of
+# that day). Add the new season's date once it is announced; seasons without one skip the checkpoint.
+# The other checkpoints are worked out from the calendar and the schedule (opening night, US Thanksgiving,
+# Christmas, and the longest mid-season break: the All-Star break, or the Olympic / 4 Nations break).
+[trade_deadline]
+20132014 = "2014-03-05"
+20142015 = "2015-03-02"
+20152016 = "2016-02-29"
+20162017 = "2017-03-01"
+20172018 = "2018-02-26"
+20182019 = "2019-02-25"
+20192020 = "2020-02-24"
+20202021 = "2021-04-12"
+20212022 = "2022-03-21"
+20222023 = "2023-03-03"
+20232024 = "2024-03-08"
+20242025 = "2025-03-07"
+20252026 = "2026-03-06"
 
 # A franchise that continues another one for rating purposes. The NHL lists Utah as a new
 # franchise (40), but it took over Arizona's (28) players and staff in 2024, so its rating carries on.

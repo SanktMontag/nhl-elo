@@ -14,6 +14,7 @@ st.set_page_config(page_title="NHL ELO", layout="wide")
 pg = st.navigation([
     st.Page(APP_DIR / "pages" / "rankings.py", title="NHL ELO", icon=":material/line_axis:", default=True),
     st.Page(APP_DIR / "pages" / "outlook.py", title="Season Outlook", icon=":material/emoji_events:"),
+    st.Page(APP_DIR / "pages" / "hindsight.py", title="Past Predictions", icon=":material/history:"),
     st.Page(APP_DIR / "pages" / "upcoming.py", title="Upcoming Games", icon=":material/event:"),
     st.Page(APP_DIR / "pages" / "teams.py", title="Franchise History", icon=":material/groups:"),
     st.Page(APP_DIR / "pages" / "about.py", title="What is ELO?", icon=":material/help:"),

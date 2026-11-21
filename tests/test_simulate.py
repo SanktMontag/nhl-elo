@@ -125,3 +125,44 @@ def test_real_series_respected():
     assert 0.8 < t.at[103, "Round 2"] < 1.0                                # 3-0 lead: usually, not always
     # the real round-1 teams are exactly the playoff teams
     assert set(t.index[t["Playoffs"] == 1] - 100) == set(po["a"]) | set(po["h"])
+
+
+def test_seed_paths_add_up_to_playoffs(result):
+    t = result.table
+    paths = t[["Div Title", "Div 2nd", "Div 3rd", "WC1", "WC2"]].sum(axis=1)
+    assert paths.to_numpy() == pytest.approx(t["Playoffs"].to_numpy(), abs=1e-9)
+    for c in ("Div 2nd", "Div 3rd"):
+        assert t[c].sum() == pytest.approx(4)            # one per division
+    for c in ("WC1", "WC2"):
+        assert t[c].sum() == pytest.approx(2)            # one per conference
+    assert ((t["R1 Opp"] != "") == (t["Playoffs"] > 0)).all()
+
+
+def test_wildcard_matchups():
+    from nhl_elo.simulate import _seed_wildcard
+
+    st = make_state(remaining_rounds=0)
+    # Eastern: Atlantic 0-7, Metropolitan 8-15. Make the Metropolitan winner (8) the best team and give the
+    # Metropolitan the 4th and 5th best records, so both Eastern wild cards come from one division.
+    key = np.zeros(32)
+    key[[8, 0, 9, 10, 11, 12, 1, 2]] = [100, 90, 85, 84, 83, 82, 80, 79]
+    slots, winners, cut, seeding = _seed_wildcard(st, key[None, :], 3, 2)
+    s = seeding[0]
+    assert s[[8, 9, 10]].tolist() == [1, 2, 3] and s[[0, 1, 2]].tolist() == [1, 2, 3]
+    assert s[11] == 4 and s[12] == 5                     # both wild cards from the Metropolitan
+    pairs = {tuple(p) for p in slots[0][:4].tolist()}
+    assert (8, 12) in pairs                              # best division winner plays wild card 2
+    assert (0, 11) in pairs                              # the other plays wild card 1 (crosses divisions)
+    assert cut["Eastern"][0] == 12
+
+
+def test_in_playoff_spot_uses_points_percentage():
+    from nhl_elo.checkpoints import in_playoff_spot
+
+    st = make_state(remaining_rounds=0)
+    spot = in_playoff_spot(st, PLAYOFFS)
+    assert spot.sum() == 16
+    i = int(np.where(spot == 1)[0][0])
+    st.gp = st.gp.copy()
+    st.gp[i] = 400                    # same points from far more games: worst percentage in its division
+    assert in_playoff_spot(st, PLAYOFFS)[i] == 0

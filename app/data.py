@@ -95,6 +95,17 @@ def simulation(season: int) -> dict | None:
 
 
 @st.cache_data(show_spinner=False)
+def _checkpoints(_key: float) -> pd.DataFrame:
+    return pd.read_csv(OUT / "checkpoints.csv")
+
+
+def checkpoints() -> pd.DataFrame | None:
+    """Past predictions at fixed points of each season (written by `nhl simulate --checkpoints`)."""
+    p = OUT / "checkpoints.csv"
+    return _checkpoints(p.stat().st_mtime) if p.exists() else None
+
+
+@st.cache_data(show_spinner=False)
 def _all_games(_key: float) -> pd.DataFrame:
     frames = [pd.read_csv(OUT / str(s) / "team_games.csv", parse_dates=["Date"]).assign(Season=season_label(s))
               for s in _meta(_key)["seasons"] if (OUT / str(s) / "team_games.csv").exists()]

@@ -42,6 +42,7 @@ class Settings:
     simulation: dict = field(default_factory=dict)
     playoffs: dict = field(default_factory=dict)
     site: dict = field(default_factory=dict)
+    trade_deadlines: dict = field(default_factory=dict)   # season -> "YYYY-MM-DD"
 
     def continuation_map(self) -> dict[int, int]:
         """franchise id -> franchise id its rating lives under (followed transitively)."""
@@ -77,9 +78,10 @@ def load_settings() -> Settings:
         continuations=tuple(raw.get("continuation", [])),
         neutral=tuple(raw.get("neutral", [])),
         simulation={"sims": 10000, "seed": 2026, "hot": True, "rates_from": 20152016, "backtest_sims": 2000,
-                    **raw.get("simulation", {})},
+                    "checkpoint_sims": 5000, **raw.get("simulation", {})},
         playoffs={"format": "wildcard", "division_spots": 3, "wildcards": 2, **raw.get("playoffs", {})},
         site={"favorite_team": "", "favorite_division": "", **raw.get("site", {})},
+        trade_deadlines={int(k): str(v) for k, v in raw.get("trade_deadline", {}).items()},
     )
 
 

@@ -92,7 +92,9 @@ The Season Outlook page plays out the rest of the season 10,000 times:
   games go to overtime or a shootout, the real rate since 2015-16, so the loser picks up a point.
 * Ratings keep updating within each simulated season, so a team can get hot or go cold.
 * The standings decide the playoff teams: the top three in each division plus two wild cards per
-  conference. Ties are broken by regulation wins, regulation-plus-OT wins, wins and goal differential.
+  conference (the next two best teams, from either division). The division winner with more points
+  plays the second wild card. Ties are broken by regulation wins, regulation-plus-OT wins, wins and goal
+  differential.
 * The playoffs are simulated game by game, as best-of-seven series with home ice to the team with
   more points. Once real series start, the real results are used.
 
