@@ -6,7 +6,7 @@ from the NHL's public API, so there are no exports to import and no team names t
 
 **Contents**
 1. [One-time setup](#1-one-time-setup)
-2. [Weekly update](#2-weekly-update)
+2. [Updating](#2-updating)
 3. [How the ratings work](#3-how-the-ratings-work)
 4. [Once a season: check and tune the model](#4-once-a-season-check-and-tune-the-model)
 5. [Testing method changes (v2-dev)](#5-testing-method-changes-v2-dev)
@@ -30,10 +30,20 @@ Every session after that: `.venv\Scripts\Activate.ps1`, and `nhl` is available (
 **Publishing:** as with the KHL site, Streamlit Community Cloud can run this from a GitHub repo, with
 `streamlit.py` as the main file. The site only reads `output/`, so changes appear once you commit and push.
 
-## 2. Weekly update
+## 2. Updating
 
+### Automatic (nightly)
+A GitHub Action (`.github/workflows/nightly.yml`) runs `nhl update` every day at 12:00 UTC: 4am Pacific in
+winter, 5am in summer. It commits the new results to `main`, and Streamlit Cloud then redeploys the site.
+Nights with no new games make no commit. To run it immediately, use **Actions → Nightly update → Run
+workflow** on GitHub, or run `gh workflow run nightly.yml`. GitHub emails you if a run fails.
+
+Because the Action pushes to `main`, run **`git pull` before working locally**.
+
+### Manual
 ```powershell
-nhl update                       # download new results, recompute, print the top 10
+git pull
+nhl update                       # download new results, recompute, simulate, print the top 10
 streamlit run app\streamlit_app.py
 git add -A; git commit -m "Update ratings through <date>"; git push
 ```
