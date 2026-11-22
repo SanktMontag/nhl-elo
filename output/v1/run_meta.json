@@ -53,19 +53,19 @@
     20252026,
     20262027
   ],
-  "games_played": 27538,
-  "games_played_current": 372,
-  "games_upcoming": 972,
-  "last_game": "2026-11-21",
+  "games_played": 27539,
+  "games_played_current": 373,
+  "games_upcoming": 971,
+  "last_game": "2026-11-22",
   "score": {
-    "games": 26225,
-    "logloss": 0.6736809263762596,
-    "brier": 0.24045945367725502,
-    "pick_pct": 0.5763965681601525,
-    "home_win_pred": 0.5416357177434354,
-    "home_win_actual": 0.5425738798856053
+    "games": 26226,
+    "logloss": 0.6736744883470834,
+    "brier": 0.24045627631333424,
+    "pick_pct": 0.576412720201327,
+    "home_win_pred": 0.541630179744196,
+    "home_win_actual": 0.5425531914893617
   },
   "score_from": 20062007,
-  "games_sha256": "4a36a77bb059c056",
-  "generated_at": "2026-11-22T18:35:31"
+  "games_sha256": "76b3c8a10f8ed6ee",
+  "generated_at": "2026-11-22T20:52:15"
 }

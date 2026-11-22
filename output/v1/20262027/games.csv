@@ -371,3 +371,4 @@ game_id,Date,Game Type,Away,Home,Away Score,Home Score,Outcome,Neutral,Away ELO 
 2026020370,2026-11-21,REG,Anaheim Ducks,Utah Mammoth,2,3,REG,False,1475,1502,58.2,2.5,1472,1504,32,40
 2026020371,2026-11-21,REG,Minnesota Wild,Vancouver Canucks,3,4,SO,False,1573,1388,29.0,2.8,1571,1391,37,20
 2026020372,2026-11-21,REG,Seattle Kraken,San Jose Sharks,3,4,REG,False,1466,1431,49.4,3.0,1462,1434,39,29
+2026020373,2026-11-22,REG,Carolina Hurricanes,New York Rangers,5,2,REG,False,1605,1502,39.6,-4.2,1609,1498,26,10

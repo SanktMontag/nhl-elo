@@ -743,3 +743,5 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-21,REG,Minnesota Wild,1573,Vancouver Canucks,1388,Away,71.0,3,4,SOL,-2.8,1571,2026020371,37,20
 2026-11-21,REG,San Jose Sharks,1431,Seattle Kraken,1466,Home,49.4,4,3,W,3.0,1434,2026020372,29,39
 2026-11-21,REG,Seattle Kraken,1466,San Jose Sharks,1431,Away,50.6,3,4,L,-3.0,1462,2026020372,39,29
+2026-11-22,REG,New York Rangers,1502,Carolina Hurricanes,1605,Home,39.6,2,5,L,-4.2,1498,2026020373,10,26
+2026-11-22,REG,Carolina Hurricanes,1605,New York Rangers,1502,Away,60.4,5,2,W,4.2,1609,2026020373,26,10

@@ -643,7 +643,7 @@ season,Season,franchise,Franchise,Team,Rank,Start ELO,End ELO,Peak ELO,GP,W,L,OT
 20252026,2025-26,29,San Jose Sharks,San Jose Sharks,30,1392,1426,1438,82,39,35,8,86,0,0
 20252026,2025-26,11,Chicago Blackhawks,Chicago Blackhawks,31,1423,1402,1458,82,29,39,14,72,0,0
 20252026,2025-26,20,Vancouver Canucks,Vancouver Canucks,32,1498,1386,1504,82,25,49,8,58,0,0
-20262027,2026-27,26,Carolina Hurricanes,Carolina Hurricanes,1,1574,1605,1605,23,17,3,3,37,0,0
+20262027,2026-27,26,Carolina Hurricanes,Carolina Hurricanes,1,1574,1609,1609,24,18,3,3,39,0,0
 20262027,2026-27,27,Colorado Avalanche,Colorado Avalanche,2,1567,1575,1577,23,13,7,3,29,0,0
 20262027,2026-27,37,Minnesota Wild,Minnesota Wild,3,1526,1571,1573,25,17,3,5,39,0,0
 20262027,2026-27,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1543,1564,1564,22,15,5,2,32,0,0
@@ -658,8 +658,8 @@ season,Season,franchise,Franchise,Team,Rank,Start ELO,End ELO,Peak ELO,GP,W,L,OT
 20262027,2026-27,33,Florida Panthers,Florida Panthers,13,1503,1512,1515,24,13,8,3,29,0,0
 20262027,2026-27,23,New Jersey Devils,New Jersey Devils,14,1483,1509,1517,23,15,8,0,30,0,0
 20262027,2026-27,40,Utah Mammoth,Utah Mammoth,15,1505,1504,1522,24,12,9,3,27,0,0
-20262027,2026-27,10,New York Rangers,New York Rangers,16,1485,1502,1505,22,13,8,1,27,0,0
-20262027,2026-27,24,Washington Capitals,Washington Capitals,17,1521,1502,1531,21,10,11,0,20,0,0
+20262027,2026-27,24,Washington Capitals,Washington Capitals,16,1521,1502,1531,21,10,11,0,20,0,0
+20262027,2026-27,10,New York Rangers,New York Rangers,17,1485,1498,1505,23,13,9,1,27,0,0
 20262027,2026-27,34,Nashville Predators,Nashville Predators,18,1479,1497,1503,23,12,6,5,29,0,0
 20262027,2026-27,22,New York Islanders,New York Islanders,19,1481,1494,1494,22,11,6,5,27,0,0
 20262027,2026-27,35,Winnipeg Jets,Winnipeg Jets,20,1490,1489,1499,24,11,9,4,26,0,0
