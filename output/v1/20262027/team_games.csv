@@ -745,3 +745,11 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-21,REG,Seattle Kraken,1466,San Jose Sharks,1431,Away,50.6,3,4,L,-3.0,1462,2026020372,39,29
 2026-11-22,REG,New York Rangers,1502,Carolina Hurricanes,1605,Home,39.6,2,5,L,-4.2,1498,2026020373,10,26
 2026-11-22,REG,Carolina Hurricanes,1605,New York Rangers,1502,Away,60.4,5,2,W,4.2,1609,2026020373,26,10
+2026-11-22,REG,Tampa Bay Lightning,1564,Buffalo Sabres,1515,Home,61.2,2,6,L,-6.9,1557,2026020374,31,19
+2026-11-22,REG,Buffalo Sabres,1515,Tampa Bay Lightning,1564,Away,38.8,6,2,W,6.9,1522,2026020374,19,31
+2026-11-22,REG,St. Louis Blues,1515,Edmonton Oilers,1542,Home,50.4,5,4,SOW,1.5,1516,2026020375,18,25
+2026-11-22,REG,Edmonton Oilers,1542,St. Louis Blues,1515,Away,49.6,4,5,SOL,-1.5,1541,2026020375,25,18
+2026-11-22,REG,Dallas Stars,1538,Pittsburgh Penguins,1474,Home,63.1,1,0,W,2.2,1540,2026020376,15,17
+2026-11-22,REG,Pittsburgh Penguins,1474,Dallas Stars,1538,Away,36.9,0,1,L,-2.2,1472,2026020376,17,15
+2026-11-22,REG,Vancouver Canucks,1391,Chicago Blackhawks,1409,Home,51.7,3,6,L,-5.4,1385,2026020377,20,11
+2026-11-22,REG,Chicago Blackhawks,1409,Vancouver Canucks,1391,Away,48.3,6,3,W,5.4,1415,2026020377,11,20

@@ -372,3 +372,7 @@ game_id,Date,Game Type,Away,Home,Away Score,Home Score,Outcome,Neutral,Away ELO 
 2026020371,2026-11-21,REG,Minnesota Wild,Vancouver Canucks,3,4,SO,False,1573,1388,29.0,2.8,1571,1391,37,20
 2026020372,2026-11-21,REG,Seattle Kraken,San Jose Sharks,3,4,REG,False,1466,1431,49.4,3.0,1462,1434,39,29
 2026020373,2026-11-22,REG,Carolina Hurricanes,New York Rangers,5,2,REG,False,1605,1502,39.6,-4.2,1609,1498,26,10
+2026020374,2026-11-22,REG,Buffalo Sabres,Tampa Bay Lightning,6,2,REG,False,1515,1564,61.2,-6.9,1522,1557,19,31
+2026020375,2026-11-22,REG,Edmonton Oilers,St. Louis Blues,4,5,SO,False,1542,1515,50.4,1.5,1541,1516,25,18
+2026020376,2026-11-22,REG,Pittsburgh Penguins,Dallas Stars,0,1,REG,False,1474,1538,63.1,2.2,1472,1540,17,15
+2026020377,2026-11-22,REG,Chicago Blackhawks,Vancouver Canucks,6,3,REG,False,1409,1391,51.7,-5.4,1415,1385,11,20
