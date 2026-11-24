@@ -753,3 +753,17 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-22,REG,Pittsburgh Penguins,1474,Dallas Stars,1538,Away,36.9,0,1,L,-2.2,1472,2026020376,17,15
 2026-11-22,REG,Vancouver Canucks,1391,Chicago Blackhawks,1409,Home,51.7,3,6,L,-5.4,1385,2026020377,20,11
 2026-11-22,REG,Chicago Blackhawks,1409,Vancouver Canucks,1391,Away,48.3,6,3,W,5.4,1415,2026020377,11,20
+2026-11-23,REG,New Jersey Devils,1509,Columbus Blue Jackets,1476,Home,59.0,3,2,W,2.5,1512,2026020378,23,36
+2026-11-23,REG,Columbus Blue Jackets,1476,New Jersey Devils,1509,Away,41.0,2,3,L,-2.5,1474,2026020378,36,23
+2026-11-23,REG,Montréal Canadiens,1536,Los Angeles Kings,1464,Home,64.3,1,2,L,-3.9,1533,2026020379,1,14
+2026-11-23,REG,Los Angeles Kings,1464,Montréal Canadiens,1536,Away,35.7,2,1,W,3.9,1468,2026020379,14,1
+2026-11-23,REG,Ottawa Senators,1537,Calgary Flames,1455,Home,65.5,2,1,W,2.1,1539,2026020380,30,21
+2026-11-23,REG,Calgary Flames,1455,Ottawa Senators,1537,Away,34.5,1,2,L,-2.1,1453,2026020380,21,30
+2026-11-23,REG,New York Islanders,1494,Toronto Maple Leafs,1448,Home,60.8,2,4,L,-4.6,1490,2026020381,22,5
+2026-11-23,REG,Toronto Maple Leafs,1448,New York Islanders,1494,Away,39.2,4,2,W,4.6,1452,2026020381,5,22
+2026-11-23,REG,Winnipeg Jets,1489,Utah Mammoth,1504,Home,52.1,4,2,W,3.6,1493,2026020382,35,40
+2026-11-23,REG,Utah Mammoth,1504,Winnipeg Jets,1489,Away,47.9,2,4,L,-3.6,1501,2026020382,40,35
+2026-11-23,REG,Seattle Kraken,1462,Anaheim Ducks,1472,Home,52.9,3,2,W,2.8,1465,2026020383,39,32
+2026-11-23,REG,Anaheim Ducks,1472,Seattle Kraken,1462,Away,47.1,2,3,L,-2.8,1469,2026020383,32,39
+2026-11-23,REG,San Jose Sharks,1434,Minnesota Wild,1571,Home,35.1,2,5,L,-3.7,1430,2026020384,29,37
+2026-11-23,REG,Minnesota Wild,1571,San Jose Sharks,1434,Away,64.9,5,2,W,3.7,1574,2026020384,37,29

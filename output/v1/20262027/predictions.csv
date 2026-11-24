@@ -1,968 +1,961 @@
 Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
-2026-11-23,REG,Columbus Blue Jackets,New Jersey Devils,1476,1509,41.0,59.0,2026020378
-2026-11-23,REG,Los Angeles Kings,Montréal Canadiens,1464,1536,35.7,64.3,2026020379
-2026-11-23,REG,Calgary Flames,Ottawa Senators,1455,1537,34.5,65.5,2026020380
-2026-11-23,REG,Toronto Maple Leafs,New York Islanders,1448,1494,39.2,60.8,2026020381
-2026-11-23,REG,Utah Mammoth,Winnipeg Jets,1504,1489,47.9,52.1,2026020382
-2026-11-23,REG,Anaheim Ducks,Seattle Kraken,1472,1462,47.1,52.9,2026020383
-2026-11-23,REG,Minnesota Wild,San Jose Sharks,1571,1434,64.9,35.1,2026020384
 2026-11-24,REG,Vegas Golden Knights,Edmonton Oilers,1534,1541,44.7,55.3,2026020385
-2026-11-25,REG,Winnipeg Jets,Boston Bruins,1489,1527,40.3,59.7,2026020386
+2026-11-25,REG,Winnipeg Jets,Boston Bruins,1493,1527,40.8,59.2,2026020386
 2026-11-25,REG,New York Rangers,Buffalo Sabres,1498,1522,42.3,57.7,2026020387
 2026-11-25,REG,Carolina Hurricanes,Tampa Bay Lightning,1609,1557,53.2,46.8,2026020388
-2026-11-25,REG,Ottawa Senators,Florida Panthers,1537,1512,49.2,50.8,2026020389
-2026-11-25,REG,St. Louis Blues,New York Islanders,1516,1494,48.8,51.2,2026020390
-2026-11-25,REG,Calgary Flames,Pittsburgh Penguins,1455,1472,43.3,56.7,2026020391
+2026-11-25,REG,Ottawa Senators,Florida Panthers,1539,1512,49.5,50.5,2026020389
+2026-11-25,REG,St. Louis Blues,New York Islanders,1516,1490,49.5,50.5,2026020390
+2026-11-25,REG,Calgary Flames,Pittsburgh Penguins,1453,1472,43.0,57.0,2026020391
 2026-11-25,REG,Philadelphia Flyers,Washington Capitals,1479,1502,42.5,57.5,2026020392
-2026-11-25,REG,New Jersey Devils,Columbus Blue Jackets,1509,1476,50.5,49.5,2026020393
+2026-11-25,REG,New Jersey Devils,Columbus Blue Jackets,1512,1474,51.2,48.8,2026020393
 2026-11-25,REG,Vancouver Canucks,Detroit Red Wings,1385,1467,34.4,65.6,2026020394
 2026-11-25,REG,Nashville Predators,Dallas Stars,1497,1540,39.7,60.3,2026020395
-2026-11-25,REG,Utah Mammoth,Minnesota Wild,1504,1571,36.5,63.5,2026020396
-2026-11-25,REG,Montréal Canadiens,Colorado Avalanche,1536,1575,40.3,59.7,2026020397
-2026-11-25,REG,Chicago Blackhawks,Seattle Kraken,1415,1462,39.0,61.0,2026020399
-2026-11-25,REG,San Jose Sharks,Anaheim Ducks,1434,1472,40.3,59.7,2026020398
-2026-11-27,REG,Toronto Maple Leafs,Boston Bruins,1448,1527,34.7,65.3,2026020400
-2026-11-27,REG,Calgary Flames,New Jersey Devils,1455,1509,38.1,61.9,2026020401
-2026-11-27,REG,Utah Mammoth,Nashville Predators,1504,1497,46.7,53.3,2026020402
+2026-11-25,REG,Utah Mammoth,Minnesota Wild,1501,1574,35.5,64.5,2026020396
+2026-11-25,REG,Montréal Canadiens,Colorado Avalanche,1533,1575,39.8,60.2,2026020397
+2026-11-25,REG,Chicago Blackhawks,Seattle Kraken,1415,1465,38.6,61.4,2026020399
+2026-11-25,REG,San Jose Sharks,Anaheim Ducks,1430,1469,40.2,59.8,2026020398
+2026-11-27,REG,Toronto Maple Leafs,Boston Bruins,1452,1527,35.3,64.7,2026020400
+2026-11-27,REG,Calgary Flames,New Jersey Devils,1453,1512,37.5,62.5,2026020401
+2026-11-27,REG,Utah Mammoth,Nashville Predators,1501,1497,46.2,53.8,2026020402
 2026-11-27,REG,Dallas Stars,St. Louis Blues,1540,1516,49.1,50.9,2026020403
-2026-11-27,REG,Ottawa Senators,Tampa Bay Lightning,1537,1557,42.8,57.2,2026020404
+2026-11-27,REG,Ottawa Senators,Tampa Bay Lightning,1539,1557,43.1,56.9,2026020404
 2026-11-27,REG,Vancouver Canucks,Philadelphia Flyers,1385,1479,32.9,67.1,2026020405
 2026-11-27,REG,Florida Panthers,Washington Capitals,1512,1502,47.1,52.9,2026020406
-2026-11-27,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1476,44.4,55.6,2026020407
-2026-11-27,REG,Colorado Avalanche,Minnesota Wild,1575,1571,46.3,53.7,2026020408
-2026-11-27,REG,Los Angeles Kings,Anaheim Ducks,1464,1472,44.6,55.4,2026020409
-2026-11-27,REG,Vegas Golden Knights,San Jose Sharks,1534,1434,59.9,40.1,2026020410
+2026-11-27,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1474,44.8,55.2,2026020407
+2026-11-27,REG,Colorado Avalanche,Minnesota Wild,1575,1574,45.8,54.2,2026020408
+2026-11-27,REG,Los Angeles Kings,Anaheim Ducks,1468,1469,45.5,54.5,2026020409
+2026-11-27,REG,Vegas Golden Knights,San Jose Sharks,1534,1430,60.4,39.6,2026020410
 2026-11-27,REG,New York Rangers,Chicago Blackhawks,1498,1415,57.6,42.4,2026020411
-2026-11-27,REG,Winnipeg Jets,New York Islanders,1489,1494,44.9,55.1,2026020412
+2026-11-27,REG,Winnipeg Jets,New York Islanders,1493,1490,46.1,53.9,2026020412
 2026-11-27,REG,Pittsburgh Penguins,Buffalo Sabres,1472,1522,38.7,61.3,2026020413
-2026-11-27,REG,Seattle Kraken,Edmonton Oilers,1462,1541,34.9,65.1,2026020414
-2026-11-28,REG,Montréal Canadiens,Vegas Golden Knights,1536,1534,46.1,53.9,2026020415
+2026-11-27,REG,Seattle Kraken,Edmonton Oilers,1465,1541,35.3,64.7,2026020414
+2026-11-28,REG,Montréal Canadiens,Vegas Golden Knights,1533,1534,45.5,54.5,2026020415
 2026-11-28,REG,Tampa Bay Lightning,Florida Panthers,1557,1512,52.2,47.8,2026020416
 2026-11-28,REG,Nashville Predators,Detroit Red Wings,1497,1467,50.0,50.0,2026020417
-2026-11-28,REG,Winnipeg Jets,New Jersey Devils,1489,1509,42.8,57.2,2026020418
-2026-11-28,REG,Calgary Flames,New York Rangers,1455,1498,39.7,60.3,2026020419
-2026-11-28,REG,Toronto Maple Leafs,Pittsburgh Penguins,1448,1472,42.2,57.8,2026020420
-2026-11-28,REG,Ottawa Senators,Carolina Hurricanes,1537,1609,35.7,64.3,2026020421
+2026-11-28,REG,Winnipeg Jets,New Jersey Devils,1493,1512,42.9,57.1,2026020418
+2026-11-28,REG,Calgary Flames,New York Rangers,1453,1498,39.4,60.6,2026020419
+2026-11-28,REG,Toronto Maple Leafs,Pittsburgh Penguins,1452,1472,42.9,57.1,2026020420
+2026-11-28,REG,Ottawa Senators,Carolina Hurricanes,1539,1609,35.9,64.1,2026020421
 2026-11-28,REG,Washington Capitals,St. Louis Blues,1502,1516,43.7,56.3,2026020422
-2026-11-28,REG,New York Islanders,Philadelphia Flyers,1494,1479,47.9,52.1,2026020423
-2026-11-28,REG,Utah Mammoth,Dallas Stars,1504,1540,40.7,59.3,2026020424
-2026-11-28,REG,San Jose Sharks,Colorado Avalanche,1434,1575,27.2,72.8,2026020425
-2026-11-28,REG,Anaheim Ducks,Los Angeles Kings,1472,1464,46.8,53.2,2026020426
-2026-11-28,REG,Edmonton Oilers,Seattle Kraken,1541,1462,56.9,43.1,2026020427
-2026-11-29,REG,Minnesota Wild,Chicago Blackhawks,1571,1415,67.4,32.6,2026020428
+2026-11-28,REG,New York Islanders,Philadelphia Flyers,1490,1479,47.2,52.8,2026020423
+2026-11-28,REG,Utah Mammoth,Dallas Stars,1501,1540,40.2,59.8,2026020424
+2026-11-28,REG,San Jose Sharks,Colorado Avalanche,1430,1575,26.8,73.2,2026020425
+2026-11-28,REG,Anaheim Ducks,Los Angeles Kings,1469,1468,45.9,54.1,2026020426
+2026-11-28,REG,Edmonton Oilers,Seattle Kraken,1541,1465,56.5,43.5,2026020427
+2026-11-29,REG,Minnesota Wild,Chicago Blackhawks,1574,1415,67.9,32.1,2026020428
 2026-11-29,REG,Vancouver Canucks,Boston Bruins,1385,1527,27.1,72.9,2026020429
-2026-11-30,REG,Ottawa Senators,Nashville Predators,1537,1497,51.3,48.7,2026020430
+2026-11-30,REG,Ottawa Senators,Nashville Predators,1539,1497,51.6,48.4,2026020430
 2026-11-30,REG,Carolina Hurricanes,New York Rangers,1609,1498,61.5,38.5,2026020431
-2026-11-30,REG,Columbus Blue Jackets,Pittsburgh Penguins,1476,1472,46.3,53.7,2026020432
-2026-11-30,REG,Philadelphia Flyers,Toronto Maple Leafs,1479,1448,50.2,49.8,2026020433
-2026-11-30,REG,Chicago Blackhawks,Winnipeg Jets,1415,1489,35.4,64.6,2026020434
-2026-11-30,REG,Montréal Canadiens,Utah Mammoth,1536,1504,50.3,49.7,2026020435
-2026-12-01,REG,Calgary Flames,Detroit Red Wings,1455,1467,44.0,56.0,2026020436
-2026-12-01,REG,Florida Panthers,New York Islanders,1512,1494,48.2,51.8,2026020438
+2026-11-30,REG,Columbus Blue Jackets,Pittsburgh Penguins,1474,1472,45.9,54.1,2026020432
+2026-11-30,REG,Philadelphia Flyers,Toronto Maple Leafs,1479,1452,49.5,50.5,2026020433
+2026-11-30,REG,Chicago Blackhawks,Winnipeg Jets,1415,1493,34.9,65.1,2026020434
+2026-11-30,REG,Montréal Canadiens,Utah Mammoth,1533,1501,50.3,49.7,2026020435
+2026-12-01,REG,Calgary Flames,Detroit Red Wings,1453,1467,43.7,56.3,2026020436
+2026-12-01,REG,Florida Panthers,New York Islanders,1512,1490,48.9,51.1,2026020438
 2026-12-01,REG,Vancouver Canucks,Washington Capitals,1385,1502,30.1,69.9,2026020439
-2026-12-01,REG,San Jose Sharks,New Jersey Devils,1434,1509,35.3,64.7,2026020437
+2026-12-01,REG,San Jose Sharks,New Jersey Devils,1430,1512,34.5,65.5,2026020437
 2026-12-01,REG,Colorado Avalanche,Boston Bruins,1575,1527,52.5,47.5,2026020440
 2026-12-01,REG,Buffalo Sabres,Edmonton Oilers,1522,1541,43.0,57.0,2026020441
-2026-12-01,REG,Dallas Stars,Seattle Kraken,1540,1462,56.8,43.2,2026020442
-2026-12-01,REG,Minnesota Wild,Anaheim Ducks,1571,1472,59.7,40.3,2026020443
-2026-12-01,REG,Vegas Golden Knights,Los Angeles Kings,1534,1464,55.7,44.3,2026020444
-2026-12-02,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1536,48.6,51.4,2026020445
+2026-12-01,REG,Dallas Stars,Seattle Kraken,1540,1465,56.4,43.6,2026020442
+2026-12-01,REG,Minnesota Wild,Anaheim Ducks,1574,1469,60.6,39.4,2026020443
+2026-12-01,REG,Vegas Golden Knights,Los Angeles Kings,1534,1468,55.2,44.8,2026020444
+2026-12-02,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1533,49.2,50.8,2026020445
 2026-12-02,REG,Pittsburgh Penguins,St. Louis Blues,1472,1516,39.5,60.5,2026020446
-2026-12-02,REG,Winnipeg Jets,Utah Mammoth,1489,1504,43.5,56.5,2026020447
-2026-12-03,REG,Florida Panthers,Toronto Maple Leafs,1512,1448,54.9,45.1,2026020448
-2026-12-03,REG,New Jersey Devils,Ottawa Senators,1509,1537,41.9,58.1,2026020449
+2026-12-02,REG,Winnipeg Jets,Utah Mammoth,1493,1501,44.5,55.5,2026020447
+2026-12-03,REG,Florida Panthers,Toronto Maple Leafs,1512,1452,54.2,45.8,2026020448
+2026-12-03,REG,New Jersey Devils,Ottawa Senators,1512,1539,41.9,58.1,2026020449
 2026-12-03,REG,Colorado Avalanche,Detroit Red Wings,1575,1467,60.9,39.1,2026020450
-2026-12-03,REG,San Jose Sharks,New York Rangers,1434,1498,36.8,63.2,2026020451
-2026-12-03,REG,Columbus Blue Jackets,Carolina Hurricanes,1476,1609,28.1,71.9,2026020453
-2026-12-03,REG,New York Islanders,Philadelphia Flyers,1494,1479,47.9,52.1,2026020452
+2026-12-03,REG,San Jose Sharks,New York Rangers,1430,1498,36.3,63.7,2026020451
+2026-12-03,REG,Columbus Blue Jackets,Carolina Hurricanes,1474,1609,27.9,72.1,2026020453
+2026-12-03,REG,New York Islanders,Philadelphia Flyers,1490,1479,47.2,52.8,2026020452
 2026-12-03,REG,Chicago Blackhawks,Nashville Predators,1415,1497,34.3,65.7,2026020454
-2026-12-03,REG,Buffalo Sabres,Calgary Flames,1522,1455,55.2,44.8,2026020455
+2026-12-03,REG,Buffalo Sabres,Calgary Flames,1522,1453,55.5,44.5,2026020455
 2026-12-03,REG,Washington Capitals,Edmonton Oilers,1502,1541,40.2,59.8,2026020456
-2026-12-03,REG,Dallas Stars,Seattle Kraken,1540,1462,56.8,43.2,2026020457
-2026-12-03,REG,Utah Mammoth,Vegas Golden Knights,1504,1534,41.5,58.5,2026020458
-2026-12-03,REG,Minnesota Wild,Los Angeles Kings,1571,1464,60.8,39.2,2026020459
-2026-12-04,REG,San Jose Sharks,New York Islanders,1434,1494,37.3,62.7,2026020460
+2026-12-03,REG,Dallas Stars,Seattle Kraken,1540,1465,56.4,43.6,2026020457
+2026-12-03,REG,Utah Mammoth,Vegas Golden Knights,1501,1534,41.0,59.0,2026020458
+2026-12-03,REG,Minnesota Wild,Los Angeles Kings,1574,1468,60.8,39.2,2026020459
+2026-12-04,REG,San Jose Sharks,New York Islanders,1430,1490,37.4,62.6,2026020460
 2026-12-04,REG,Chicago Blackhawks,St. Louis Blues,1415,1516,31.9,68.1,2026020461
 2026-12-04,REG,Buffalo Sabres,Vancouver Canucks,1522,1385,64.8,35.2,2026020462
-2026-12-04,REG,Seattle Kraken,Anaheim Ducks,1462,1472,44.3,55.7,2026020463
+2026-12-04,REG,Seattle Kraken,Anaheim Ducks,1465,1469,45.1,54.9,2026020463
 2026-12-05,REG,Detroit Red Wings,Boston Bruins,1467,1527,37.3,62.7,2026020464
-2026-12-05,REG,Florida Panthers,Montréal Canadiens,1512,1536,42.2,57.8,2026020465
-2026-12-05,REG,Columbus Blue Jackets,Nashville Predators,1476,1497,42.7,57.3,2026020466
-2026-12-05,REG,New Jersey Devils,Pittsburgh Penguins,1509,1472,51.1,48.9,2026020467
-2026-12-05,REG,Washington Capitals,Calgary Flames,1502,1455,52.3,47.7,2026020468
-2026-12-05,REG,Tampa Bay Lightning,Ottawa Senators,1557,1537,48.6,51.4,2026020469
+2026-12-05,REG,Florida Panthers,Montréal Canadiens,1512,1533,42.7,57.3,2026020465
+2026-12-05,REG,Columbus Blue Jackets,Nashville Predators,1474,1497,42.3,57.7,2026020466
+2026-12-05,REG,New Jersey Devils,Pittsburgh Penguins,1512,1472,51.4,48.6,2026020467
+2026-12-05,REG,Washington Capitals,Calgary Flames,1502,1453,52.6,47.4,2026020468
+2026-12-05,REG,Tampa Bay Lightning,Ottawa Senators,1557,1539,48.3,51.7,2026020469
 2026-12-05,REG,Colorado Avalanche,New York Rangers,1575,1498,56.7,43.3,2026020470
-2026-12-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1448,1609,24.9,75.1,2026020471
-2026-12-05,REG,Winnipeg Jets,Vegas Golden Knights,1489,1534,39.4,60.6,2026020472
-2026-12-05,REG,Philadelphia Flyers,Minnesota Wild,1479,1571,33.2,66.8,2026020473
-2026-12-05,REG,Utah Mammoth,Los Angeles Kings,1504,1464,51.5,48.5,2026020474
+2026-12-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1452,1609,25.4,74.6,2026020471
+2026-12-05,REG,Winnipeg Jets,Vegas Golden Knights,1493,1534,39.9,60.1,2026020472
+2026-12-05,REG,Philadelphia Flyers,Minnesota Wild,1479,1574,32.7,67.3,2026020473
+2026-12-05,REG,Utah Mammoth,Los Angeles Kings,1501,1468,50.4,49.6,2026020474
 2026-12-05,REG,Dallas Stars,Vancouver Canucks,1540,1385,67.2,32.8,2026020475
-2026-12-06,REG,San Jose Sharks,Pittsburgh Penguins,1434,1472,40.3,59.7,2026020476
+2026-12-06,REG,San Jose Sharks,Pittsburgh Penguins,1430,1472,39.8,60.2,2026020476
 2026-12-06,REG,Nashville Predators,St. Louis Blues,1497,1516,43.1,56.9,2026020477
-2026-12-06,REG,Ottawa Senators,Montréal Canadiens,1537,1536,45.7,54.3,2026020478
+2026-12-06,REG,Ottawa Senators,Montréal Canadiens,1539,1533,46.5,53.5,2026020478
 2026-12-06,REG,Edmonton Oilers,Chicago Blackhawks,1541,1415,63.5,36.5,2026020479
-2026-12-06,REG,Winnipeg Jets,Anaheim Ducks,1489,1472,48.1,51.9,2026020480
-2026-12-06,REG,Buffalo Sabres,Seattle Kraken,1522,1462,54.2,45.8,2026020481
-2026-12-07,REG,Colorado Avalanche,New York Islanders,1575,1494,57.2,42.8,2026020482
-2026-12-07,REG,Columbus Blue Jackets,Tampa Bay Lightning,1476,1557,34.6,65.4,2026020483
-2026-12-07,REG,New Jersey Devils,New York Rangers,1509,1498,47.4,52.6,2026020484
+2026-12-06,REG,Winnipeg Jets,Anaheim Ducks,1493,1469,49.0,51.0,2026020480
+2026-12-06,REG,Buffalo Sabres,Seattle Kraken,1522,1465,53.8,46.2,2026020481
+2026-12-07,REG,Colorado Avalanche,New York Islanders,1575,1490,57.8,42.2,2026020482
+2026-12-07,REG,Columbus Blue Jackets,Tampa Bay Lightning,1474,1557,34.3,65.7,2026020483
+2026-12-07,REG,New Jersey Devils,New York Rangers,1512,1498,47.7,52.3,2026020484
 2026-12-07,REG,Washington Capitals,Vancouver Canucks,1502,1385,62.2,37.8,2026020485
-2026-12-08,REG,Vegas Golden Knights,Montréal Canadiens,1534,1536,45.3,54.7,2026020486
-2026-12-08,REG,Anaheim Ducks,Ottawa Senators,1472,1537,36.7,63.3,2026020487
+2026-12-08,REG,Vegas Golden Knights,Montréal Canadiens,1534,1533,45.9,54.1,2026020486
+2026-12-08,REG,Anaheim Ducks,Ottawa Senators,1469,1539,36.1,63.9,2026020487
 2026-12-08,REG,Boston Bruins,Florida Panthers,1527,1512,47.9,52.1,2026020488
 2026-12-08,REG,New York Rangers,Carolina Hurricanes,1498,1609,30.7,69.3,2026020490
-2026-12-08,REG,Philadelphia Flyers,Winnipeg Jets,1479,1489,44.3,55.7,2026020492
+2026-12-08,REG,Philadelphia Flyers,Winnipeg Jets,1479,1493,43.8,56.2,2026020492
 2026-12-08,REG,Chicago Blackhawks,Pittsburgh Penguins,1415,1472,37.7,62.3,2026020489
 2026-12-08,REG,Colorado Avalanche,St. Louis Blues,1575,1516,54.1,45.9,2026020491
-2026-12-08,REG,Nashville Predators,Calgary Flames,1497,1455,51.7,48.3,2026020493
-2026-12-08,REG,Edmonton Oilers,Minnesota Wild,1541,1571,41.5,58.5,2026020494
-2026-12-08,REG,Seattle Kraken,San Jose Sharks,1462,1434,49.8,50.2,2026020495
-2026-12-09,REG,Detroit Red Wings,New Jersey Devils,1467,1509,39.8,60.2,2026020496
-2026-12-09,REG,Toronto Maple Leafs,Dallas Stars,1448,1540,33.1,66.9,2026020497
-2026-12-09,REG,San Jose Sharks,Los Angeles Kings,1434,1464,41.5,58.5,2026020498
+2026-12-08,REG,Nashville Predators,Calgary Flames,1497,1453,52.0,48.0,2026020493
+2026-12-08,REG,Edmonton Oilers,Minnesota Wild,1541,1574,40.9,59.1,2026020494
+2026-12-08,REG,Seattle Kraken,San Jose Sharks,1465,1430,50.7,49.3,2026020495
+2026-12-09,REG,Detroit Red Wings,New Jersey Devils,1467,1512,39.4,60.6,2026020496
+2026-12-09,REG,Toronto Maple Leafs,Dallas Stars,1452,1540,33.7,66.3,2026020497
+2026-12-09,REG,San Jose Sharks,Los Angeles Kings,1430,1468,40.4,59.6,2026020498
 2026-12-10,REG,Edmonton Oilers,Buffalo Sabres,1541,1522,48.4,51.6,2026020499
-2026-12-10,REG,Anaheim Ducks,Montréal Canadiens,1472,1536,36.7,63.3,2026020500
-2026-12-10,REG,Vegas Golden Knights,Ottawa Senators,1534,1537,45.3,54.7,2026020501
+2026-12-10,REG,Anaheim Ducks,Montréal Canadiens,1469,1533,36.9,63.1,2026020500
+2026-12-10,REG,Vegas Golden Knights,Ottawa Senators,1534,1539,45.0,55.0,2026020501
 2026-12-10,REG,Boston Bruins,Tampa Bay Lightning,1527,1557,41.5,58.5,2026020502
 2026-12-10,REG,Pittsburgh Penguins,Florida Panthers,1472,1512,40.1,59.9,2026020503
-2026-12-10,REG,Calgary Flames,New York Islanders,1455,1494,40.2,59.8,2026020504
-2026-12-10,REG,Minnesota Wild,Columbus Blue Jackets,1571,1476,59.2,40.8,2026020505
-2026-12-10,REG,Chicago Blackhawks,Winnipeg Jets,1415,1489,35.4,64.6,2026020506
-2026-12-10,REG,St. Louis Blues,Utah Mammoth,1516,1504,47.4,52.6,2026020507
+2026-12-10,REG,Calgary Flames,New York Islanders,1453,1490,40.5,59.5,2026020504
+2026-12-10,REG,Minnesota Wild,Columbus Blue Jackets,1574,1474,60.0,40.0,2026020505
+2026-12-10,REG,Chicago Blackhawks,Winnipeg Jets,1415,1493,34.9,65.1,2026020506
+2026-12-10,REG,St. Louis Blues,Utah Mammoth,1516,1501,47.9,52.1,2026020507
 2026-12-10,REG,Nashville Predators,Vancouver Canucks,1497,1385,61.6,38.4,2026020508
-2026-12-10,REG,Washington Capitals,Seattle Kraken,1502,1462,51.3,48.7,2026020509
+2026-12-10,REG,Washington Capitals,Seattle Kraken,1502,1465,50.9,49.1,2026020509
 2026-12-11,REG,New York Rangers,Detroit Red Wings,1498,1467,50.0,50.0,2026020510
-2026-12-11,REG,Calgary Flames,Philadelphia Flyers,1455,1479,42.3,57.7,2026020511
-2026-12-11,REG,New York Islanders,Carolina Hurricanes,1494,1609,30.3,69.7,2026020512
-2026-12-11,REG,Los Angeles Kings,San Jose Sharks,1464,1434,50.0,50.0,2026020513
-2026-12-12,REG,New Jersey Devils,Boston Bruins,1509,1527,43.1,56.9,2026020514
-2026-12-12,REG,Montréal Canadiens,Columbus Blue Jackets,1536,1476,54.3,45.7,2026020515
+2026-12-11,REG,Calgary Flames,Philadelphia Flyers,1453,1479,42.0,58.0,2026020511
+2026-12-11,REG,New York Islanders,Carolina Hurricanes,1490,1609,29.7,70.3,2026020512
+2026-12-11,REG,Los Angeles Kings,San Jose Sharks,1468,1430,51.1,48.9,2026020513
+2026-12-12,REG,New Jersey Devils,Boston Bruins,1512,1527,43.5,56.5,2026020514
+2026-12-12,REG,Montréal Canadiens,Columbus Blue Jackets,1533,1474,54.1,45.9,2026020515
 2026-12-12,REG,Pittsburgh Penguins,Tampa Bay Lightning,1472,1557,34.0,66.0,2026020516
-2026-12-12,REG,Winnipeg Jets,Minnesota Wild,1489,1571,34.5,65.5,2026020517
-2026-12-12,REG,Anaheim Ducks,Buffalo Sabres,1472,1522,38.7,61.3,2026020518
-2026-12-12,REG,Vegas Golden Knights,Toronto Maple Leafs,1534,1448,58.0,42.0,2026020519
-2026-12-12,REG,Edmonton Oilers,Ottawa Senators,1541,1537,46.3,53.7,2026020520
+2026-12-12,REG,Winnipeg Jets,Minnesota Wild,1493,1574,34.4,65.6,2026020517
+2026-12-12,REG,Anaheim Ducks,Buffalo Sabres,1469,1522,38.4,61.6,2026020518
+2026-12-12,REG,Vegas Golden Knights,Toronto Maple Leafs,1534,1452,57.4,42.6,2026020519
+2026-12-12,REG,Edmonton Oilers,Ottawa Senators,1541,1539,46.0,54.0,2026020520
 2026-12-12,REG,Florida Panthers,Detroit Red Wings,1512,1467,52.1,47.9,2026020521
-2026-12-12,REG,Utah Mammoth,Chicago Blackhawks,1504,1415,58.5,41.5,2026020522
+2026-12-12,REG,Utah Mammoth,Chicago Blackhawks,1501,1415,58.0,42.0,2026020522
 2026-12-12,REG,St. Louis Blues,Dallas Stars,1516,1540,42.3,57.7,2026020523
 2026-12-12,REG,Washington Capitals,Colorado Avalanche,1502,1575,35.6,64.4,2026020524
-2026-12-12,REG,Vancouver Canucks,Los Angeles Kings,1385,1464,34.8,65.2,2026020525
-2026-12-12,REG,Nashville Predators,Seattle Kraken,1497,1462,50.7,49.3,2026020526
+2026-12-12,REG,Vancouver Canucks,Los Angeles Kings,1385,1468,34.3,65.7,2026020525
+2026-12-12,REG,Nashville Predators,Seattle Kraken,1497,1465,50.3,49.7,2026020526
 2026-12-13,REG,Boston Bruins,Carolina Hurricanes,1527,1609,34.4,65.6,2026020527
-2026-12-13,REG,Columbus Blue Jackets,New York Rangers,1476,1498,42.6,57.4,2026020528
-2026-12-13,REG,Anaheim Ducks,Toronto Maple Leafs,1472,1448,49.2,50.8,2026020529
+2026-12-13,REG,Columbus Blue Jackets,New York Rangers,1474,1498,42.3,57.7,2026020528
+2026-12-13,REG,Anaheim Ducks,Toronto Maple Leafs,1469,1452,48.1,51.9,2026020529
 2026-12-13,REG,Tampa Bay Lightning,St. Louis Blues,1557,1516,51.6,48.4,2026020530
-2026-12-14,REG,Buffalo Sabres,Ottawa Senators,1522,1537,43.6,56.4,2026020531
+2026-12-14,REG,Buffalo Sabres,Ottawa Senators,1522,1539,43.3,56.7,2026020531
 2026-12-14,REG,Florida Panthers,Philadelphia Flyers,1512,1479,50.4,49.6,2026020532
-2026-12-14,REG,Edmonton Oilers,Montréal Canadiens,1541,1536,46.3,53.7,2026020533
-2026-12-14,REG,Utah Mammoth,Colorado Avalanche,1504,1575,35.9,64.1,2026020534
-2026-12-14,REG,Vancouver Canucks,San Jose Sharks,1385,1434,38.9,61.1,2026020535
+2026-12-14,REG,Edmonton Oilers,Montréal Canadiens,1541,1533,46.8,53.2,2026020533
+2026-12-14,REG,Utah Mammoth,Colorado Avalanche,1501,1575,35.5,64.5,2026020534
+2026-12-14,REG,Vancouver Canucks,San Jose Sharks,1385,1430,39.4,60.6,2026020535
 2026-12-15,REG,Florida Panthers,Boston Bruins,1512,1527,43.5,56.5,2026020536
-2026-12-15,REG,Calgary Flames,Buffalo Sabres,1455,1522,36.5,63.5,2026020537
-2026-12-15,REG,New York Rangers,New Jersey Devils,1498,1509,44.0,56.0,2026020539
+2026-12-15,REG,Calgary Flames,Buffalo Sabres,1453,1522,36.2,63.8,2026020537
+2026-12-15,REG,New York Rangers,New Jersey Devils,1498,1512,43.7,56.3,2026020539
 2026-12-15,REG,Tampa Bay Lightning,Pittsburgh Penguins,1557,1472,57.8,42.2,2026020540
-2026-12-15,REG,Carolina Hurricanes,Columbus Blue Jackets,1609,1476,64.4,35.6,2026020541
-2026-12-15,REG,Los Angeles Kings,Detroit Red Wings,1464,1467,45.2,54.8,2026020538
-2026-12-15,REG,Winnipeg Jets,St. Louis Blues,1489,1516,41.9,58.1,2026020542
-2026-12-15,REG,Seattle Kraken,Nashville Predators,1462,1497,40.8,59.2,2026020543
-2026-12-15,REG,Toronto Maple Leafs,Minnesota Wild,1448,1571,29.3,70.7,2026020544
-2026-12-15,REG,New York Islanders,Utah Mammoth,1494,1504,44.3,55.7,2026020545
+2026-12-15,REG,Carolina Hurricanes,Columbus Blue Jackets,1609,1474,64.7,35.3,2026020541
+2026-12-15,REG,Los Angeles Kings,Detroit Red Wings,1468,1467,45.8,54.2,2026020538
+2026-12-15,REG,Winnipeg Jets,St. Louis Blues,1493,1516,42.4,57.6,2026020542
+2026-12-15,REG,Seattle Kraken,Nashville Predators,1465,1497,41.2,58.8,2026020543
+2026-12-15,REG,Toronto Maple Leafs,Minnesota Wild,1452,1574,29.4,70.6,2026020544
+2026-12-15,REG,New York Islanders,Utah Mammoth,1490,1501,44.1,55.9,2026020545
 2026-12-15,REG,Washington Capitals,Dallas Stars,1502,1540,40.3,59.7,2026020546
 2026-12-16,REG,New York Rangers,Philadelphia Flyers,1498,1479,48.4,51.6,2026020547
-2026-12-16,REG,New York Islanders,Colorado Avalanche,1494,1575,34.6,65.4,2026020548
-2026-12-16,REG,Vancouver Canucks,Anaheim Ducks,1385,1472,33.8,66.2,2026020549
-2026-12-16,REG,San Jose Sharks,Vegas Golden Knights,1434,1534,32.1,67.9,2026020550
+2026-12-16,REG,New York Islanders,Colorado Avalanche,1490,1575,34.0,66.0,2026020548
+2026-12-16,REG,Vancouver Canucks,Anaheim Ducks,1385,1469,34.2,65.8,2026020549
+2026-12-16,REG,San Jose Sharks,Vegas Golden Knights,1430,1534,31.7,68.3,2026020550
 2026-12-17,REG,St. Louis Blues,Boston Bruins,1516,1527,44.1,55.9,2026020551
-2026-12-17,REG,Calgary Flames,Tampa Bay Lightning,1455,1557,31.9,68.1,2026020552
-2026-12-17,REG,Los Angeles Kings,Pittsburgh Penguins,1464,1472,44.5,55.5,2026020554
+2026-12-17,REG,Calgary Flames,Tampa Bay Lightning,1453,1557,31.7,68.3,2026020552
+2026-12-17,REG,Los Angeles Kings,Pittsburgh Penguins,1468,1472,45.1,54.9,2026020554
 2026-12-17,REG,Detroit Red Wings,Washington Capitals,1467,1502,40.9,59.1,2026020555
-2026-12-17,REG,Seattle Kraken,Columbus Blue Jackets,1462,1476,43.7,56.3,2026020556
-2026-12-17,REG,Toronto Maple Leafs,New Jersey Devils,1448,1509,37.1,62.9,2026020553
+2026-12-17,REG,Seattle Kraken,Columbus Blue Jackets,1465,1474,44.5,55.5,2026020556
+2026-12-17,REG,Toronto Maple Leafs,New Jersey Devils,1452,1512,37.4,62.6,2026020553
 2026-12-17,REG,Dallas Stars,Edmonton Oilers,1540,1541,45.6,54.4,2026020557
-2026-12-17,REG,Carolina Hurricanes,Utah Mammoth,1609,1504,60.6,39.4,2026020558
-2026-12-18,REG,Chicago Blackhawks,Ottawa Senators,1415,1537,29.4,70.6,2026020560
+2026-12-17,REG,Carolina Hurricanes,Utah Mammoth,1609,1501,61.1,38.9,2026020558
+2026-12-18,REG,Chicago Blackhawks,Ottawa Senators,1415,1539,29.2,70.8,2026020560
 2026-12-18,REG,Nashville Predators,New York Rangers,1497,1498,45.7,54.3,2026020561
 2026-12-18,REG,Detroit Red Wings,Philadelphia Flyers,1467,1479,44.0,56.0,2026020562
-2026-12-18,REG,Seattle Kraken,Pittsburgh Penguins,1462,1472,44.3,55.7,2026020563
-2026-12-18,REG,Montréal Canadiens,Buffalo Sabres,1536,1522,47.8,52.2,2026020559
-2026-12-18,REG,Anaheim Ducks,Minnesota Wild,1472,1571,32.3,67.7,2026020564
+2026-12-18,REG,Seattle Kraken,Pittsburgh Penguins,1465,1472,44.7,55.3,2026020563
+2026-12-18,REG,Montréal Canadiens,Buffalo Sabres,1533,1522,47.3,52.7,2026020559
+2026-12-18,REG,Anaheim Ducks,Minnesota Wild,1469,1574,31.5,68.5,2026020564
 2026-12-18,REG,Carolina Hurricanes,Colorado Avalanche,1609,1575,50.6,49.4,2026020565
-2026-12-18,REG,New York Islanders,Vegas Golden Knights,1494,1534,40.1,59.9,2026020566
-2026-12-19,REG,Boston Bruins,New Jersey Devils,1527,1509,48.3,51.7,2026020567
-2026-12-19,REG,Calgary Flames,Florida Panthers,1455,1512,37.8,62.2,2026020568
-2026-12-19,REG,Utah Mammoth,Edmonton Oilers,1504,1541,40.6,59.4,2026020569
-2026-12-19,REG,Tampa Bay Lightning,Toronto Maple Leafs,1557,1448,61.2,38.8,2026020570
+2026-12-18,REG,New York Islanders,Vegas Golden Knights,1490,1534,39.5,60.5,2026020566
+2026-12-19,REG,Boston Bruins,New Jersey Devils,1527,1512,47.9,52.1,2026020567
+2026-12-19,REG,Calgary Flames,Florida Panthers,1453,1512,37.5,62.5,2026020568
+2026-12-19,REG,Utah Mammoth,Edmonton Oilers,1501,1541,40.1,59.9,2026020569
+2026-12-19,REG,Tampa Bay Lightning,Toronto Maple Leafs,1557,1452,60.6,39.4,2026020570
 2026-12-19,REG,St. Louis Blues,Washington Capitals,1516,1502,47.7,52.3,2026020571
-2026-12-19,REG,Los Angeles Kings,Columbus Blue Jackets,1464,1476,44.0,56.0,2026020572
-2026-12-19,REG,Montréal Canadiens,Minnesota Wild,1536,1571,40.9,59.1,2026020573
-2026-12-19,REG,Dallas Stars,Winnipeg Jets,1540,1489,53.0,47.0,2026020574
-2026-12-19,REG,San Jose Sharks,Vancouver Canucks,1434,1385,52.7,47.3,2026020575
-2026-12-20,REG,Ottawa Senators,Chicago Blackhawks,1537,1415,62.9,37.1,2026020577
+2026-12-19,REG,Los Angeles Kings,Columbus Blue Jackets,1468,1474,44.9,55.1,2026020572
+2026-12-19,REG,Montréal Canadiens,Minnesota Wild,1533,1574,39.8,60.2,2026020573
+2026-12-19,REG,Dallas Stars,Winnipeg Jets,1540,1493,52.5,47.5,2026020574
+2026-12-19,REG,San Jose Sharks,Vancouver Canucks,1430,1385,52.2,47.8,2026020575
+2026-12-20,REG,Ottawa Senators,Chicago Blackhawks,1539,1415,63.2,36.8,2026020577
 2026-12-20,REG,Philadelphia Flyers,Boston Bruins,1479,1527,38.9,61.1,2026020576
 2026-12-20,REG,Tampa Bay Lightning,Detroit Red Wings,1557,1467,58.5,41.5,2026020578
-2026-12-20,REG,Dallas Stars,Winnipeg Jets,1540,1489,53.0,47.0,2026020580
-2026-12-20,REG,Los Angeles Kings,Buffalo Sabres,1464,1522,37.7,62.3,2026020579
-2026-12-20,REG,Nashville Predators,New Jersey Devils,1497,1509,44.0,56.0,2026020581
-2026-12-20,REG,New York Rangers,New York Islanders,1498,1494,46.2,53.8,2026020582
-2026-12-20,REG,Anaheim Ducks,Edmonton Oilers,1472,1541,36.2,63.8,2026020583
-2026-12-20,REG,Seattle Kraken,Colorado Avalanche,1462,1575,30.6,69.4,2026020584
-2026-12-21,REG,Washington Capitals,Toronto Maple Leafs,1502,1448,53.4,46.6,2026020585
+2026-12-20,REG,Dallas Stars,Winnipeg Jets,1540,1493,52.5,47.5,2026020580
+2026-12-20,REG,Los Angeles Kings,Buffalo Sabres,1468,1522,38.2,61.8,2026020579
+2026-12-20,REG,Nashville Predators,New Jersey Devils,1497,1512,43.6,56.4,2026020581
+2026-12-20,REG,New York Rangers,New York Islanders,1498,1490,46.8,53.2,2026020582
+2026-12-20,REG,Anaheim Ducks,Edmonton Oilers,1469,1541,35.8,64.2,2026020583
+2026-12-20,REG,Seattle Kraken,Colorado Avalanche,1465,1575,31.0,69.0,2026020584
+2026-12-21,REG,Washington Capitals,Toronto Maple Leafs,1502,1452,52.8,47.2,2026020585
 2026-12-21,REG,St. Louis Blues,Florida Panthers,1516,1512,46.3,53.7,2026020586
-2026-12-21,REG,Columbus Blue Jackets,Philadelphia Flyers,1476,1479,45.3,54.7,2026020587
-2026-12-21,REG,Utah Mammoth,Vancouver Canucks,1504,1385,62.5,37.5,2026020588
+2026-12-21,REG,Columbus Blue Jackets,Philadelphia Flyers,1474,1479,44.9,55.1,2026020587
+2026-12-21,REG,Utah Mammoth,Vancouver Canucks,1501,1385,62.0,38.0,2026020588
 2026-12-21,REG,Carolina Hurricanes,Vegas Golden Knights,1609,1534,56.5,43.5,2026020589
 2026-12-22,REG,St. Louis Blues,Tampa Bay Lightning,1516,1557,39.9,60.1,2026020590
-2026-12-22,REG,Boston Bruins,New York Islanders,1527,1494,50.4,49.6,2026020591
-2026-12-22,REG,New Jersey Devils,New York Rangers,1509,1498,47.4,52.6,2026020592
+2026-12-22,REG,Boston Bruins,New York Islanders,1527,1490,51.1,48.9,2026020591
+2026-12-22,REG,New Jersey Devils,New York Rangers,1512,1498,47.7,52.3,2026020592
 2026-12-22,REG,Buffalo Sabres,Pittsburgh Penguins,1522,1472,52.8,47.2,2026020593
-2026-12-22,REG,Montréal Canadiens,Columbus Blue Jackets,1536,1476,54.3,45.7,2026020594
-2026-12-22,REG,Toronto Maple Leafs,Detroit Red Wings,1448,1467,42.9,57.1,2026020595
-2026-12-22,REG,Winnipeg Jets,Nashville Predators,1489,1497,44.5,55.5,2026020596
-2026-12-22,REG,Calgary Flames,Dallas Stars,1455,1540,34.1,65.9,2026020597
-2026-12-22,REG,Los Angeles Kings,Minnesota Wild,1464,1571,31.3,68.7,2026020598
-2026-12-22,REG,Vegas Golden Knights,Anaheim Ducks,1534,1472,54.6,45.4,2026020600
-2026-12-22,REG,San Jose Sharks,Seattle Kraken,1434,1462,41.7,58.3,2026020599
+2026-12-22,REG,Montréal Canadiens,Columbus Blue Jackets,1533,1474,54.1,45.9,2026020594
+2026-12-22,REG,Toronto Maple Leafs,Detroit Red Wings,1452,1467,43.5,56.5,2026020595
+2026-12-22,REG,Winnipeg Jets,Nashville Predators,1493,1497,45.0,55.0,2026020596
+2026-12-22,REG,Calgary Flames,Dallas Stars,1453,1540,33.8,66.2,2026020597
+2026-12-22,REG,Los Angeles Kings,Minnesota Wild,1468,1574,31.3,68.7,2026020598
+2026-12-22,REG,Vegas Golden Knights,Anaheim Ducks,1534,1469,55.0,45.0,2026020600
+2026-12-22,REG,San Jose Sharks,Seattle Kraken,1430,1465,40.8,59.2,2026020599
 2026-12-26,REG,Tampa Bay Lightning,Florida Panthers,1557,1512,52.2,47.8,2026020601
-2026-12-26,REG,New York Islanders,Boston Bruins,1494,1527,41.0,59.0,2026020602
-2026-12-26,REG,New Jersey Devils,Buffalo Sabres,1509,1522,44.0,56.0,2026020603
-2026-12-26,REG,Toronto Maple Leafs,Montréal Canadiens,1448,1536,33.6,66.4,2026020604
+2026-12-26,REG,New York Islanders,Boston Bruins,1490,1527,40.4,59.6,2026020602
+2026-12-26,REG,New Jersey Devils,Buffalo Sabres,1512,1522,44.3,55.7,2026020603
+2026-12-26,REG,Toronto Maple Leafs,Montréal Canadiens,1452,1533,34.6,65.4,2026020604
 2026-12-26,REG,Pittsburgh Penguins,Carolina Hurricanes,1472,1609,27.7,72.3,2026020606
 2026-12-26,REG,Detroit Red Wings,Nashville Predators,1467,1497,41.4,58.6,2026020607
-2026-12-26,REG,Winnipeg Jets,Minnesota Wild,1489,1571,34.5,65.5,2026020608
-2026-12-26,REG,Columbus Blue Jackets,Washington Capitals,1476,1502,42.1,57.9,2026020605
-2026-12-26,REG,Vancouver Canucks,Calgary Flames,1385,1455,36.0,64.0,2026020609
-2026-12-26,REG,Utah Mammoth,Los Angeles Kings,1504,1464,51.5,48.5,2026020610
-2026-12-26,REG,Vegas Golden Knights,San Jose Sharks,1534,1434,59.9,40.1,2026020611
+2026-12-26,REG,Winnipeg Jets,Minnesota Wild,1493,1574,34.4,65.6,2026020608
+2026-12-26,REG,Columbus Blue Jackets,Washington Capitals,1474,1502,41.7,58.3,2026020605
+2026-12-26,REG,Vancouver Canucks,Calgary Flames,1385,1453,36.3,63.7,2026020609
+2026-12-26,REG,Utah Mammoth,Los Angeles Kings,1501,1468,50.4,49.6,2026020610
+2026-12-26,REG,Vegas Golden Knights,San Jose Sharks,1534,1430,60.4,39.6,2026020611
 2026-12-27,REG,Philadelphia Flyers,Chicago Blackhawks,1479,1415,55.0,45.0,2026020612
 2026-12-27,REG,New York Rangers,St. Louis Blues,1498,1516,43.1,56.9,2026020614
-2026-12-27,REG,Edmonton Oilers,Columbus Blue Jackets,1541,1476,54.9,45.1,2026020613
-2026-12-27,REG,Dallas Stars,Montréal Canadiens,1540,1536,46.2,53.8,2026020615
-2026-12-27,REG,Boston Bruins,New Jersey Devils,1527,1509,48.3,51.7,2026020616
-2026-12-27,REG,Ottawa Senators,New York Islanders,1537,1494,51.8,48.2,2026020617
-2026-12-27,REG,Colorado Avalanche,Anaheim Ducks,1575,1472,60.3,39.7,2026020618
-2026-12-28,REG,Vegas Golden Knights,Minnesota Wild,1534,1571,40.5,59.5,2026020619
+2026-12-27,REG,Edmonton Oilers,Columbus Blue Jackets,1541,1474,55.3,44.7,2026020613
+2026-12-27,REG,Dallas Stars,Montréal Canadiens,1540,1533,46.7,53.3,2026020615
+2026-12-27,REG,Boston Bruins,New Jersey Devils,1527,1512,47.9,52.1,2026020616
+2026-12-27,REG,Ottawa Senators,New York Islanders,1539,1490,52.7,47.3,2026020617
+2026-12-27,REG,Colorado Avalanche,Anaheim Ducks,1575,1469,60.7,39.3,2026020618
+2026-12-28,REG,Vegas Golden Knights,Minnesota Wild,1534,1574,40.0,60.0,2026020619
 2026-12-28,REG,Detroit Red Wings,Buffalo Sabres,1467,1522,38.1,61.9,2026020620
 2026-12-28,REG,Nashville Predators,Florida Panthers,1497,1512,43.6,56.4,2026020621
 2026-12-28,REG,Edmonton Oilers,Washington Capitals,1541,1502,51.3,48.7,2026020622
 2026-12-28,REG,Tampa Bay Lightning,Carolina Hurricanes,1557,1609,38.4,61.6,2026020623
-2026-12-28,REG,San Jose Sharks,Winnipeg Jets,1434,1489,38.0,62.0,2026020624
-2026-12-28,REG,Los Angeles Kings,Vancouver Canucks,1464,1385,57.0,43.0,2026020625
-2026-12-29,REG,Columbus Blue Jackets,Montréal Canadiens,1476,1536,37.3,62.7,2026020626
-2026-12-29,REG,Dallas Stars,Ottawa Senators,1540,1537,46.2,53.8,2026020627
+2026-12-28,REG,San Jose Sharks,Winnipeg Jets,1430,1493,37.0,63.0,2026020624
+2026-12-28,REG,Los Angeles Kings,Vancouver Canucks,1468,1385,57.5,42.5,2026020625
+2026-12-29,REG,Columbus Blue Jackets,Montréal Canadiens,1474,1533,37.5,62.5,2026020626
+2026-12-29,REG,Dallas Stars,Ottawa Senators,1540,1539,45.9,54.1,2026020627
 2026-12-29,REG,Nashville Predators,Tampa Bay Lightning,1497,1557,37.4,62.6,2026020628
 2026-12-29,REG,Detroit Red Wings,New York Rangers,1467,1498,41.4,58.6,2026020629
 2026-12-29,REG,Carolina Hurricanes,Pittsburgh Penguins,1609,1472,64.9,35.1,2026020630
 2026-12-29,REG,Vegas Golden Knights,Chicago Blackhawks,1534,1415,62.6,37.4,2026020631
-2026-12-29,REG,San Jose Sharks,Calgary Flames,1434,1455,42.7,57.3,2026020632
+2026-12-29,REG,San Jose Sharks,Calgary Flames,1430,1453,42.4,57.6,2026020632
 2026-12-29,REG,St. Louis Blues,Colorado Avalanche,1516,1575,37.5,62.5,2026020633
-2026-12-29,REG,New Jersey Devils,Utah Mammoth,1509,1504,46.4,53.6,2026020634
-2026-12-29,REG,Philadelphia Flyers,Seattle Kraken,1479,1462,48.1,51.9,2026020635
-2026-12-29,REG,Toronto Maple Leafs,Anaheim Ducks,1448,1472,42.3,57.7,2026020636
-2026-12-30,REG,Washington Capitals,New York Islanders,1502,1494,46.7,53.3,2026020637
+2026-12-29,REG,New Jersey Devils,Utah Mammoth,1512,1501,47.3,52.7,2026020634
+2026-12-29,REG,Philadelphia Flyers,Seattle Kraken,1479,1465,47.7,52.3,2026020635
+2026-12-29,REG,Toronto Maple Leafs,Anaheim Ducks,1452,1469,43.3,56.7,2026020636
+2026-12-30,REG,Washington Capitals,New York Islanders,1502,1490,47.4,52.6,2026020637
 2026-12-30,REG,Buffalo Sabres,Florida Panthers,1522,1512,47.1,52.9,2026020638
 2026-12-30,REG,Edmonton Oilers,Boston Bruins,1541,1527,47.6,52.4,2026020639
-2026-12-30,REG,Seattle Kraken,Vancouver Canucks,1462,1385,56.7,43.3,2026020640
-2026-12-30,REG,Toronto Maple Leafs,Los Angeles Kings,1448,1464,43.4,56.6,2026020641
-2026-12-31,REG,Pittsburgh Penguins,Ottawa Senators,1472,1537,36.7,63.3,2026020642
+2026-12-30,REG,Seattle Kraken,Vancouver Canucks,1465,1385,57.1,42.9,2026020640
+2026-12-30,REG,Toronto Maple Leafs,Los Angeles Kings,1452,1468,43.5,56.5,2026020641
+2026-12-31,REG,Pittsburgh Penguins,Ottawa Senators,1472,1539,36.5,63.5,2026020642
 2026-12-31,REG,Carolina Hurricanes,Detroit Red Wings,1609,1467,65.5,34.5,2026020643
-2026-12-31,REG,Montréal Canadiens,Tampa Bay Lightning,1536,1557,42.8,57.2,2026020644
-2026-12-31,REG,Washington Capitals,Columbus Blue Jackets,1502,1476,49.3,50.7,2026020645
+2026-12-31,REG,Montréal Canadiens,Tampa Bay Lightning,1533,1557,42.2,57.8,2026020644
+2026-12-31,REG,Washington Capitals,Columbus Blue Jackets,1502,1474,49.7,50.3,2026020645
 2026-12-31,REG,St. Louis Blues,Vegas Golden Knights,1516,1534,43.2,56.8,2026020646
-2026-12-31,REG,Colorado Avalanche,Utah Mammoth,1575,1504,55.8,44.2,2026020647
-2026-12-31,REG,Winnipeg Jets,Calgary Flames,1489,1455,50.5,49.5,2026020648
+2026-12-31,REG,Colorado Avalanche,Utah Mammoth,1575,1501,56.3,43.7,2026020647
+2026-12-31,REG,Winnipeg Jets,Calgary Flames,1493,1453,51.3,48.7,2026020648
 2026-12-31,REG,New York Rangers,Dallas Stars,1498,1540,39.8,60.2,2026020649
 2027-01-01,REG,Florida Panthers,Nashville Predators,1512,1497,47.8,52.2,2026020650
 2027-01-01,REG,Boston Bruins,Chicago Blackhawks,1527,1415,61.7,38.3,2026020651
-2027-01-01,REG,New Jersey Devils,Anaheim Ducks,1509,1472,51.1,48.9,2026020652
-2027-01-01,REG,Philadelphia Flyers,San Jose Sharks,1479,1434,52.2,47.8,2026020653
-2027-01-01,REG,Minnesota Wild,Pittsburgh Penguins,1571,1472,59.7,40.3,2026020654
-2027-01-02,REG,Montréal Canadiens,Florida Panthers,1536,1512,49.2,50.8,2026020656
+2027-01-01,REG,New Jersey Devils,Anaheim Ducks,1512,1469,51.8,48.2,2026020652
+2027-01-01,REG,Philadelphia Flyers,San Jose Sharks,1479,1430,52.7,47.3,2026020653
+2027-01-01,REG,Minnesota Wild,Pittsburgh Penguins,1574,1472,60.2,39.8,2026020654
+2027-01-02,REG,Montréal Canadiens,Florida Panthers,1533,1512,48.7,51.3,2026020656
 2027-01-02,REG,Edmonton Oilers,Detroit Red Wings,1541,1467,56.2,43.8,2026020655
 2027-01-02,REG,Buffalo Sabres,Tampa Bay Lightning,1522,1557,40.7,59.3,2026020657
-2027-01-02,REG,Ottawa Senators,Washington Capitals,1537,1502,50.7,49.3,2026020658
+2027-01-02,REG,Ottawa Senators,Washington Capitals,1539,1502,51.0,49.0,2026020658
 2027-01-02,REG,Nashville Predators,Carolina Hurricanes,1497,1609,30.7,69.3,2026020659
-2027-01-02,REG,Boston Bruins,Columbus Blue Jackets,1527,1476,53.0,47.0,2026020660
-2027-01-02,REG,St. Louis Blues,Minnesota Wild,1516,1571,38.1,61.9,2026020661
-2027-01-02,REG,Calgary Flames,Winnipeg Jets,1455,1489,41.0,59.0,2026020662
-2027-01-02,REG,Toronto Maple Leafs,San Jose Sharks,1448,1434,47.7,52.3,2026020663
+2027-01-02,REG,Boston Bruins,Columbus Blue Jackets,1527,1474,53.4,46.6,2026020660
+2027-01-02,REG,St. Louis Blues,Minnesota Wild,1516,1574,37.6,62.4,2026020661
+2027-01-02,REG,Calgary Flames,Winnipeg Jets,1453,1493,40.2,59.8,2026020662
+2027-01-02,REG,Toronto Maple Leafs,San Jose Sharks,1452,1430,48.8,51.2,2026020663
 2027-01-02,REG,Chicago Blackhawks,Dallas Stars,1415,1540,29.0,71.0,2026020664
-2027-01-02,REG,New Jersey Devils,Los Angeles Kings,1509,1464,52.2,47.8,2026020665
-2027-01-02,REG,Vancouver Canucks,Utah Mammoth,1385,1504,29.8,70.2,2026020666
+2027-01-02,REG,New Jersey Devils,Los Angeles Kings,1512,1468,52.0,48.0,2026020665
+2027-01-02,REG,Vancouver Canucks,Utah Mammoth,1385,1501,30.2,69.8,2026020666
 2027-01-02,REG,Colorado Avalanche,Vegas Golden Knights,1575,1534,51.6,48.4,2026020667
-2027-01-02,REG,New York Islanders,Seattle Kraken,1494,1462,50.3,49.7,2026020668
+2027-01-02,REG,New York Islanders,Seattle Kraken,1490,1465,49.2,50.8,2026020668
 2027-01-03,REG,Edmonton Oilers,Pittsburgh Penguins,1541,1472,55.5,44.5,2026020669
-2027-01-03,REG,Columbus Blue Jackets,New York Rangers,1476,1498,42.6,57.4,2026020670
-2027-01-03,REG,Calgary Flames,St. Louis Blues,1455,1516,37.2,62.8,2026020671
-2027-01-03,REG,Philadelphia Flyers,Anaheim Ducks,1479,1472,46.7,53.3,2026020672
-2027-01-03,REG,Vancouver Canucks,Seattle Kraken,1385,1462,35.1,64.9,2026020673
-2027-01-04,REG,Winnipeg Jets,Buffalo Sabres,1489,1522,41.1,58.9,2026020674
-2027-01-04,REG,Chicago Blackhawks,Montréal Canadiens,1415,1536,29.4,70.6,2026020675
-2027-01-04,REG,Toronto Maple Leafs,Washington Capitals,1448,1502,38.2,61.8,2026020676
+2027-01-03,REG,Columbus Blue Jackets,New York Rangers,1474,1498,42.3,57.7,2026020670
+2027-01-03,REG,Calgary Flames,St. Louis Blues,1453,1516,37.0,63.0,2026020671
+2027-01-03,REG,Philadelphia Flyers,Anaheim Ducks,1479,1469,47.1,52.9,2026020672
+2027-01-03,REG,Vancouver Canucks,Seattle Kraken,1385,1465,34.7,65.3,2026020673
+2027-01-04,REG,Winnipeg Jets,Buffalo Sabres,1493,1522,41.6,58.4,2026020674
+2027-01-04,REG,Chicago Blackhawks,Montréal Canadiens,1415,1533,29.9,70.1,2026020675
+2027-01-04,REG,Toronto Maple Leafs,Washington Capitals,1452,1502,38.8,61.2,2026020676
 2027-01-04,REG,Detroit Red Wings,Dallas Stars,1467,1540,35.7,64.3,2026020677
 2027-01-04,REG,Vegas Golden Knights,Colorado Avalanche,1534,1575,39.9,60.1,2026020678
-2027-01-04,REG,Philadelphia Flyers,Los Angeles Kings,1479,1464,47.8,52.2,2026020679
-2027-01-04,REG,New Jersey Devils,San Jose Sharks,1509,1434,56.5,43.5,2026020680
+2027-01-04,REG,Philadelphia Flyers,Los Angeles Kings,1479,1468,47.3,52.7,2026020679
+2027-01-04,REG,New Jersey Devils,San Jose Sharks,1512,1430,57.4,42.6,2026020680
 2027-01-05,REG,St. Louis Blues,Carolina Hurricanes,1516,1609,33.0,67.0,2026020681
-2027-01-05,REG,New York Rangers,Columbus Blue Jackets,1498,1476,48.8,51.2,2026020682
+2027-01-05,REG,New York Rangers,Columbus Blue Jackets,1498,1474,49.1,50.9,2026020682
 2027-01-05,REG,Buffalo Sabres,Boston Bruins,1522,1527,44.9,55.1,2026020683
 2027-01-05,REG,Edmonton Oilers,Nashville Predators,1541,1497,51.9,48.1,2026020684
-2027-01-05,REG,Florida Panthers,Calgary Flames,1512,1455,53.8,46.2,2026020685
-2027-01-05,REG,Ottawa Senators,Utah Mammoth,1537,1504,50.3,49.7,2026020686
-2027-01-05,REG,New York Islanders,Vancouver Canucks,1494,1385,61.2,38.8,2026020687
-2027-01-05,REG,Tampa Bay Lightning,Seattle Kraken,1557,1462,59.2,40.8,2026020688
-2027-01-05,REG,Minnesota Wild,Anaheim Ducks,1571,1472,59.7,40.3,2026020689
-2027-01-06,REG,Boston Bruins,Montréal Canadiens,1527,1536,44.4,55.6,2026020690
-2027-01-06,REG,Ottawa Senators,Colorado Avalanche,1537,1575,40.3,59.7,2026020691
-2027-01-06,REG,Washington Capitals,Los Angeles Kings,1502,1464,51.1,48.9,2026020692
-2027-01-06,REG,Dallas Stars,San Jose Sharks,1540,1434,60.7,39.3,2026020693
-2027-01-07,REG,Utah Mammoth,Detroit Red Wings,1504,1467,51.0,49.0,2026020694
-2027-01-07,REG,Columbus Blue Jackets,New Jersey Devils,1476,1509,41.0,59.0,2026020695
+2027-01-05,REG,Florida Panthers,Calgary Flames,1512,1453,54.1,45.9,2026020685
+2027-01-05,REG,Ottawa Senators,Utah Mammoth,1539,1501,51.1,48.9,2026020686
+2027-01-05,REG,New York Islanders,Vancouver Canucks,1490,1385,60.6,39.4,2026020687
+2027-01-05,REG,Tampa Bay Lightning,Seattle Kraken,1557,1465,58.8,41.2,2026020688
+2027-01-05,REG,Minnesota Wild,Anaheim Ducks,1574,1469,60.6,39.4,2026020689
+2027-01-06,REG,Boston Bruins,Montréal Canadiens,1527,1533,44.9,55.1,2026020690
+2027-01-06,REG,Ottawa Senators,Colorado Avalanche,1539,1575,40.6,59.4,2026020691
+2027-01-06,REG,Washington Capitals,Los Angeles Kings,1502,1468,50.5,49.5,2026020692
+2027-01-06,REG,Dallas Stars,San Jose Sharks,1540,1430,61.2,38.8,2026020693
+2027-01-07,REG,Utah Mammoth,Detroit Red Wings,1501,1467,50.5,49.5,2026020694
+2027-01-07,REG,Columbus Blue Jackets,New Jersey Devils,1474,1512,40.3,59.7,2026020695
 2027-01-07,REG,Chicago Blackhawks,New York Rangers,1415,1498,34.3,65.7,2026020696
-2027-01-07,REG,Toronto Maple Leafs,Philadelphia Flyers,1448,1479,41.3,58.7,2026020697
+2027-01-07,REG,Toronto Maple Leafs,Philadelphia Flyers,1452,1479,41.9,58.1,2026020697
 2027-01-07,REG,Pittsburgh Penguins,Carolina Hurricanes,1472,1609,27.7,72.3,2026020698
-2027-01-07,REG,Nashville Predators,Winnipeg Jets,1497,1489,46.9,53.1,2026020699
-2027-01-07,REG,New York Islanders,Calgary Flames,1494,1455,51.3,48.7,2026020700
+2027-01-07,REG,Nashville Predators,Winnipeg Jets,1497,1493,46.4,53.6,2026020699
+2027-01-07,REG,New York Islanders,Calgary Flames,1490,1453,50.9,49.1,2026020700
 2027-01-07,REG,Florida Panthers,Edmonton Oilers,1512,1541,41.6,58.4,2026020701
 2027-01-07,REG,Tampa Bay Lightning,Vancouver Canucks,1557,1385,69.3,30.7,2026020702
-2027-01-07,REG,Minnesota Wild,Vegas Golden Knights,1571,1534,51.0,49.0,2026020703
-2027-01-08,REG,Buffalo Sabres,Columbus Blue Jackets,1522,1476,52.2,47.8,2026020704
-2027-01-08,REG,Ottawa Senators,St. Louis Blues,1537,1516,48.6,51.4,2026020705
-2027-01-08,REG,Seattle Kraken,Colorado Avalanche,1462,1575,30.6,69.4,2026020706
-2027-01-08,REG,Dallas Stars,Anaheim Ducks,1540,1472,55.4,44.6,2026020707
-2027-01-08,REG,Washington Capitals,San Jose Sharks,1502,1434,55.4,44.6,2026020708
-2027-01-09,REG,Chicago Blackhawks,New Jersey Devils,1415,1509,32.8,67.2,2026020709
-2027-01-09,REG,Tampa Bay Lightning,Calgary Flames,1557,1455,60.2,39.8,2026020710
-2027-01-09,REG,New York Islanders,Edmonton Oilers,1494,1541,39.2,60.8,2026020711
+2027-01-07,REG,Minnesota Wild,Vegas Golden Knights,1574,1534,51.5,48.5,2026020703
+2027-01-08,REG,Buffalo Sabres,Columbus Blue Jackets,1522,1474,52.6,47.4,2026020704
+2027-01-08,REG,Ottawa Senators,St. Louis Blues,1539,1516,48.9,51.1,2026020705
+2027-01-08,REG,Seattle Kraken,Colorado Avalanche,1465,1575,31.0,69.0,2026020706
+2027-01-08,REG,Dallas Stars,Anaheim Ducks,1540,1469,55.8,44.2,2026020707
+2027-01-08,REG,Washington Capitals,San Jose Sharks,1502,1430,55.9,44.1,2026020708
+2027-01-09,REG,Chicago Blackhawks,New Jersey Devils,1415,1512,32.5,67.5,2026020709
+2027-01-09,REG,Tampa Bay Lightning,Calgary Flames,1557,1453,60.4,39.6,2026020710
+2027-01-09,REG,New York Islanders,Edmonton Oilers,1490,1541,38.6,61.4,2026020711
 2027-01-09,REG,Carolina Hurricanes,Buffalo Sabres,1609,1522,58.2,41.8,2026020712
-2027-01-09,REG,Philadelphia Flyers,Toronto Maple Leafs,1479,1448,50.2,49.8,2026020713
-2027-01-09,REG,Pittsburgh Penguins,Montréal Canadiens,1472,1536,36.7,63.3,2026020714
+2027-01-09,REG,Philadelphia Flyers,Toronto Maple Leafs,1479,1452,49.5,50.5,2026020713
+2027-01-09,REG,Pittsburgh Penguins,Montréal Canadiens,1472,1533,37.3,62.7,2026020714
 2027-01-09,REG,Boston Bruins,Detroit Red Wings,1527,1467,54.3,45.7,2026020715
-2027-01-09,REG,Utah Mammoth,Winnipeg Jets,1504,1489,47.9,52.1,2026020716
-2027-01-09,REG,Nashville Predators,Minnesota Wild,1497,1571,35.6,64.4,2026020717
-2027-01-09,REG,Dallas Stars,Los Angeles Kings,1540,1464,56.5,43.5,2026020718
+2027-01-09,REG,Utah Mammoth,Winnipeg Jets,1501,1493,46.9,53.1,2026020716
+2027-01-09,REG,Nashville Predators,Minnesota Wild,1497,1574,35.1,64.9,2026020717
+2027-01-09,REG,Dallas Stars,Los Angeles Kings,1540,1468,56.0,44.0,2026020718
 2027-01-09,REG,Florida Panthers,Vancouver Canucks,1512,1385,63.5,36.5,2026020719
-2027-01-09,REG,Seattle Kraken,Vegas Golden Knights,1462,1534,35.8,64.2,2026020720
-2027-01-09,REG,New York Rangers,San Jose Sharks,1498,1434,54.8,45.2,2026020721
-2027-01-10,REG,Washington Capitals,Anaheim Ducks,1502,1472,50.0,50.0,2026020724
+2027-01-09,REG,Seattle Kraken,Vegas Golden Knights,1465,1534,36.2,63.8,2026020720
+2027-01-09,REG,New York Rangers,San Jose Sharks,1498,1430,55.4,44.6,2026020721
+2027-01-10,REG,Washington Capitals,Anaheim Ducks,1502,1469,50.4,49.6,2026020724
 2027-01-10,REG,Chicago Blackhawks,Philadelphia Flyers,1415,1479,36.7,63.3,2026020722
 2027-01-10,REG,Nashville Predators,Colorado Avalanche,1497,1575,35.0,65.0,2026020723
-2027-01-11,REG,Winnipeg Jets,Toronto Maple Leafs,1489,1448,51.6,48.4,2026020725
+2027-01-11,REG,Winnipeg Jets,Toronto Maple Leafs,1493,1452,51.5,48.5,2026020725
 2027-01-11,REG,Tampa Bay Lightning,Edmonton Oilers,1557,1541,48.0,52.0,2026020726
-2027-01-11,REG,New York Rangers,Los Angeles Kings,1498,1464,50.5,49.5,2026020727
+2027-01-11,REG,New York Rangers,Los Angeles Kings,1498,1468,50.0,50.0,2026020727
 2027-01-12,REG,Carolina Hurricanes,Boston Bruins,1609,1527,57.4,42.6,2026020728
-2027-01-12,REG,New Jersey Devils,Buffalo Sabres,1509,1522,44.0,56.0,2026020729
+2027-01-12,REG,New Jersey Devils,Buffalo Sabres,1512,1522,44.3,55.7,2026020729
 2027-01-12,REG,Colorado Avalanche,Pittsburgh Penguins,1575,1472,60.3,39.7,2026020730
 2027-01-12,REG,Vegas Golden Knights,Washington Capitals,1534,1502,50.3,49.7,2026020731
-2027-01-12,REG,Utah Mammoth,Chicago Blackhawks,1504,1415,58.5,41.5,2026020732
+2027-01-12,REG,Utah Mammoth,Chicago Blackhawks,1501,1415,58.0,42.0,2026020732
 2027-01-12,REG,Philadelphia Flyers,Nashville Predators,1479,1497,43.1,56.9,2026020733
-2027-01-12,REG,Ottawa Senators,Dallas Stars,1537,1540,45.2,54.8,2026020734
-2027-01-12,REG,Columbus Blue Jackets,Calgary Flames,1476,1455,48.7,51.3,2026020735
-2027-01-12,REG,Florida Panthers,Seattle Kraken,1512,1462,52.8,47.2,2026020736
-2027-01-12,REG,New York Rangers,Anaheim Ducks,1498,1472,49.4,50.6,2026020737
-2027-01-13,REG,New Jersey Devils,Montréal Canadiens,1509,1536,41.9,58.1,2026020738
-2027-01-13,REG,Pittsburgh Penguins,New York Islanders,1472,1494,42.5,57.5,2026020739
-2027-01-13,REG,Detroit Red Wings,Utah Mammoth,1467,1504,40.5,59.5,2026020740
-2027-01-13,REG,San Jose Sharks,Edmonton Oilers,1434,1541,31.3,68.7,2026020741
-2027-01-13,REG,St. Louis Blues,Los Angeles Kings,1516,1464,53.2,46.8,2026020742
+2027-01-12,REG,Ottawa Senators,Dallas Stars,1539,1540,45.5,54.5,2026020734
+2027-01-12,REG,Columbus Blue Jackets,Calgary Flames,1474,1453,48.6,51.4,2026020735
+2027-01-12,REG,Florida Panthers,Seattle Kraken,1512,1465,52.4,47.6,2026020736
+2027-01-12,REG,New York Rangers,Anaheim Ducks,1498,1469,49.8,50.2,2026020737
+2027-01-13,REG,New Jersey Devils,Montréal Canadiens,1512,1533,42.7,57.3,2026020738
+2027-01-13,REG,Pittsburgh Penguins,New York Islanders,1472,1490,43.2,56.8,2026020739
+2027-01-13,REG,Detroit Red Wings,Utah Mammoth,1467,1501,41.0,59.0,2026020740
+2027-01-13,REG,San Jose Sharks,Edmonton Oilers,1430,1541,30.9,69.1,2026020741
+2027-01-13,REG,St. Louis Blues,Los Angeles Kings,1516,1468,52.6,47.4,2026020742
 2027-01-14,REG,Dallas Stars,Boston Bruins,1540,1527,47.5,52.5,2026020743
-2027-01-14,REG,Chicago Blackhawks,Toronto Maple Leafs,1415,1448,41.0,59.0,2026020745
-2027-01-14,REG,Winnipeg Jets,Ottawa Senators,1489,1537,39.0,61.0,2026020746
+2027-01-14,REG,Chicago Blackhawks,Toronto Maple Leafs,1415,1452,40.4,59.6,2026020745
+2027-01-14,REG,Winnipeg Jets,Ottawa Senators,1493,1539,39.2,60.8,2026020746
 2027-01-14,REG,Vegas Golden Knights,Tampa Bay Lightning,1534,1557,42.4,57.6,2026020747
 2027-01-14,REG,Carolina Hurricanes,Washington Capitals,1609,1502,61.0,39.0,2026020748
 2027-01-14,REG,Colorado Avalanche,Buffalo Sabres,1575,1522,53.3,46.7,2026020744
-2027-01-14,REG,Montréal Canadiens,Nashville Predators,1536,1497,51.3,48.7,2026020749
-2027-01-14,REG,San Jose Sharks,Calgary Flames,1434,1455,42.7,57.3,2026020750
-2027-01-14,REG,Seattle Kraken,Vancouver Canucks,1462,1385,56.7,43.3,2026020752
-2027-01-14,REG,Florida Panthers,Minnesota Wild,1512,1571,37.5,62.5,2026020751
-2027-01-14,REG,St. Louis Blues,Anaheim Ducks,1516,1472,52.0,48.0,2026020753
-2027-01-15,REG,Dallas Stars,New York Islanders,1540,1494,52.2,47.8,2026020754
+2027-01-14,REG,Montréal Canadiens,Nashville Predators,1533,1497,50.7,49.3,2026020749
+2027-01-14,REG,San Jose Sharks,Calgary Flames,1430,1453,42.4,57.6,2026020750
+2027-01-14,REG,Seattle Kraken,Vancouver Canucks,1465,1385,57.1,42.9,2026020752
+2027-01-14,REG,Florida Panthers,Minnesota Wild,1512,1574,37.0,63.0,2026020751
+2027-01-14,REG,St. Louis Blues,Anaheim Ducks,1516,1469,52.4,47.6,2026020753
+2027-01-15,REG,Dallas Stars,New York Islanders,1540,1490,52.9,47.1,2026020754
 2027-01-15,REG,Philadelphia Flyers,Carolina Hurricanes,1479,1609,28.5,71.5,2026020755
-2027-01-15,REG,Columbus Blue Jackets,Edmonton Oilers,1476,1541,36.7,63.3,2026020756
-2027-01-15,REG,Los Angeles Kings,Utah Mammoth,1464,1504,40.0,60.0,2026020757
+2027-01-15,REG,Columbus Blue Jackets,Edmonton Oilers,1474,1541,36.4,63.6,2026020756
+2027-01-15,REG,Los Angeles Kings,Utah Mammoth,1468,1501,41.1,58.9,2026020757
 2027-01-16,REG,Boston Bruins,New York Rangers,1527,1498,49.9,50.1,2026020758
-2027-01-16,REG,Ottawa Senators,Tampa Bay Lightning,1537,1557,42.8,57.2,2026020759
+2027-01-16,REG,Ottawa Senators,Tampa Bay Lightning,1539,1557,43.1,56.9,2026020759
 2027-01-16,REG,Vegas Golden Knights,Florida Panthers,1534,1512,48.9,51.1,2026020760
 2027-01-16,REG,Nashville Predators,Buffalo Sabres,1497,1522,42.3,57.7,2026020761
-2027-01-16,REG,Pittsburgh Penguins,Toronto Maple Leafs,1472,1448,49.2,50.8,2026020762
-2027-01-16,REG,New York Islanders,New Jersey Devils,1494,1509,43.6,56.4,2026020763
-2027-01-16,REG,Montréal Canadiens,Philadelphia Flyers,1536,1479,53.9,46.1,2026020764
+2027-01-16,REG,Pittsburgh Penguins,Toronto Maple Leafs,1472,1452,48.5,51.5,2026020762
+2027-01-16,REG,New York Islanders,New Jersey Devils,1490,1512,42.6,57.4,2026020763
+2027-01-16,REG,Montréal Canadiens,Philadelphia Flyers,1533,1479,53.4,46.6,2026020764
 2027-01-16,REG,Colorado Avalanche,Washington Capitals,1575,1502,56.2,43.8,2026020765
 2027-01-16,REG,Detroit Red Wings,Chicago Blackhawks,1467,1415,53.3,46.7,2026020766
-2027-01-16,REG,Minnesota Wild,St. Louis Blues,1571,1516,53.5,46.5,2026020767
-2027-01-16,REG,Anaheim Ducks,Winnipeg Jets,1472,1489,43.3,56.7,2026020768
-2027-01-16,REG,Los Angeles Kings,Calgary Flames,1464,1455,46.9,53.1,2026020769
-2027-01-16,REG,Columbus Blue Jackets,Vancouver Canucks,1476,1385,58.7,41.3,2026020770
-2027-01-16,REG,San Jose Sharks,Seattle Kraken,1434,1462,41.7,58.3,2026020771
-2027-01-17,REG,Minnesota Wild,Detroit Red Wings,1571,1467,60.4,39.6,2026020772
+2027-01-16,REG,Minnesota Wild,St. Louis Blues,1574,1516,54.1,45.9,2026020767
+2027-01-16,REG,Anaheim Ducks,Winnipeg Jets,1469,1493,42.4,57.6,2026020768
+2027-01-16,REG,Los Angeles Kings,Calgary Flames,1468,1453,47.8,52.2,2026020769
+2027-01-16,REG,Columbus Blue Jackets,Vancouver Canucks,1474,1385,58.3,41.7,2026020770
+2027-01-16,REG,San Jose Sharks,Seattle Kraken,1430,1465,40.8,59.2,2026020771
+2027-01-17,REG,Minnesota Wild,Detroit Red Wings,1574,1467,60.9,39.1,2026020772
 2027-01-17,REG,Dallas Stars,New York Rangers,1540,1498,51.7,48.3,2026020773
 2027-01-17,REG,Vegas Golden Knights,Carolina Hurricanes,1534,1609,35.3,64.7,2026020774
-2027-01-17,REG,Winnipeg Jets,Edmonton Oilers,1489,1541,38.5,61.5,2026020775
+2027-01-17,REG,Winnipeg Jets,Edmonton Oilers,1493,1541,38.9,61.1,2026020775
 2027-01-18,REG,Tampa Bay Lightning,Boston Bruins,1557,1527,50.0,50.0,2026020777
-2027-01-18,REG,Montréal Canadiens,Buffalo Sabres,1536,1522,47.8,52.2,2026020776
-2027-01-18,REG,Nashville Predators,New York Islanders,1497,1494,46.1,53.9,2026020778
+2027-01-18,REG,Montréal Canadiens,Buffalo Sabres,1533,1522,47.3,52.7,2026020776
+2027-01-18,REG,Nashville Predators,New York Islanders,1497,1490,46.8,53.2,2026020778
 2027-01-18,REG,Vancouver Canucks,Colorado Avalanche,1385,1575,22.1,77.9,2026020779
 2027-01-18,REG,Washington Capitals,Pittsburgh Penguins,1502,1472,49.9,50.1,2026020780
-2027-01-18,REG,Utah Mammoth,San Jose Sharks,1504,1434,55.8,44.2,2026020781
-2027-01-18,REG,Columbus Blue Jackets,Seattle Kraken,1476,1462,47.7,52.3,2026020782
-2027-01-18,REG,St. Louis Blues,Toronto Maple Leafs,1516,1448,55.5,44.5,2026020783
-2027-01-18,REG,Ottawa Senators,Florida Panthers,1537,1512,49.2,50.8,2026020784
-2027-01-18,REG,Calgary Flames,Chicago Blackhawks,1455,1415,51.6,48.4,2026020785
-2027-01-19,REG,Anaheim Ducks,Detroit Red Wings,1472,1467,46.3,53.7,2026020786
-2027-01-19,REG,Dallas Stars,New Jersey Devils,1540,1509,50.1,49.9,2026020787
+2027-01-18,REG,Utah Mammoth,San Jose Sharks,1501,1430,55.8,44.2,2026020781
+2027-01-18,REG,Columbus Blue Jackets,Seattle Kraken,1474,1465,46.9,53.1,2026020782
+2027-01-18,REG,St. Louis Blues,Toronto Maple Leafs,1516,1452,54.8,45.2,2026020783
+2027-01-18,REG,Ottawa Senators,Florida Panthers,1539,1512,49.5,50.5,2026020784
+2027-01-18,REG,Calgary Flames,Chicago Blackhawks,1453,1415,51.3,48.7,2026020785
+2027-01-19,REG,Anaheim Ducks,Detroit Red Wings,1469,1467,45.9,54.1,2026020786
+2027-01-19,REG,Dallas Stars,New Jersey Devils,1540,1512,49.7,50.3,2026020787
 2027-01-19,REG,Philadelphia Flyers,New York Rangers,1479,1498,43.0,57.0,2026020788
-2027-01-19,REG,Montréal Canadiens,Washington Capitals,1536,1502,50.7,49.3,2026020789
-2027-01-19,REG,Minnesota Wild,Winnipeg Jets,1571,1489,57.4,42.6,2026020790
-2027-01-19,REG,Seattle Kraken,Los Angeles Kings,1462,1464,45.5,54.5,2026020791
+2027-01-19,REG,Montréal Canadiens,Washington Capitals,1533,1502,50.1,49.9,2026020789
+2027-01-19,REG,Minnesota Wild,Winnipeg Jets,1574,1493,57.4,42.6,2026020790
+2027-01-19,REG,Seattle Kraken,Los Angeles Kings,1465,1468,45.3,54.7,2026020791
 2027-01-20,REG,Vancouver Canucks,Nashville Predators,1385,1497,30.6,69.4,2026020792
-2027-01-20,REG,Buffalo Sabres,New York Islanders,1522,1494,49.6,50.4,2026020793
-2027-01-20,REG,Toronto Maple Leafs,Ottawa Senators,1448,1537,33.5,66.5,2026020794
+2027-01-20,REG,Buffalo Sabres,New York Islanders,1522,1490,50.3,49.7,2026020793
+2027-01-20,REG,Toronto Maple Leafs,Ottawa Senators,1452,1539,33.9,66.1,2026020794
 2027-01-20,REG,Dallas Stars,Chicago Blackhawks,1540,1415,63.4,36.6,2026020796
 2027-01-20,REG,Boston Bruins,Colorado Avalanche,1527,1575,39.0,61.0,2026020795
 2027-01-20,REG,Edmonton Oilers,Vegas Golden Knights,1541,1534,46.7,53.3,2026020797
-2027-01-21,REG,Seattle Kraken,Buffalo Sabres,1462,1522,37.4,62.6,2026020798
-2027-01-21,REG,St. Louis Blues,Montréal Canadiens,1516,1536,42.8,57.2,2026020799
+2027-01-21,REG,Seattle Kraken,Buffalo Sabres,1465,1522,37.8,62.2,2026020798
+2027-01-21,REG,St. Louis Blues,Montréal Canadiens,1516,1533,43.3,56.7,2026020799
 2027-01-21,REG,Carolina Hurricanes,Florida Panthers,1609,1512,59.6,40.4,2026020800
-2027-01-21,REG,Tampa Bay Lightning,New Jersey Devils,1557,1509,52.5,47.5,2026020801
+2027-01-21,REG,Tampa Bay Lightning,New Jersey Devils,1557,1512,52.2,47.8,2026020801
 2027-01-21,REG,Nashville Predators,Philadelphia Flyers,1497,1479,48.3,51.7,2026020802
-2027-01-21,REG,Anaheim Ducks,Pittsburgh Penguins,1472,1472,45.7,54.3,2026020803
-2027-01-21,REG,Calgary Flames,Columbus Blue Jackets,1455,1476,42.7,57.3,2026020804
-2027-01-21,REG,New York Rangers,Winnipeg Jets,1498,1489,47.0,53.0,2026020805
-2027-01-21,REG,Detroit Red Wings,Minnesota Wild,1467,1571,31.7,68.3,2026020806
-2027-01-21,REG,Edmonton Oilers,Los Angeles Kings,1541,1464,56.7,43.3,2026020807
-2027-01-22,REG,New York Islanders,Washington Capitals,1494,1502,44.6,55.4,2026020808
+2027-01-21,REG,Anaheim Ducks,Pittsburgh Penguins,1469,1472,45.3,54.7,2026020803
+2027-01-21,REG,Calgary Flames,Columbus Blue Jackets,1453,1474,42.8,57.2,2026020804
+2027-01-21,REG,New York Rangers,Winnipeg Jets,1498,1493,46.4,53.6,2026020805
+2027-01-21,REG,Detroit Red Wings,Minnesota Wild,1467,1574,31.3,68.7,2026020806
+2027-01-21,REG,Edmonton Oilers,Los Angeles Kings,1541,1468,56.1,43.9,2026020807
+2027-01-22,REG,New York Islanders,Washington Capitals,1490,1502,44.0,56.0,2026020808
 2027-01-22,REG,Vancouver Canucks,Chicago Blackhawks,1385,1415,41.6,58.4,2026020809
 2027-01-22,REG,Colorado Avalanche,Dallas Stars,1575,1540,50.7,49.3,2026020810
 2027-01-22,REG,Boston Bruins,Vegas Golden Knights,1527,1534,44.8,55.2,2026020811
 2027-01-23,REG,Tampa Bay Lightning,Detroit Red Wings,1557,1467,58.5,41.5,2026020812
-2027-01-23,REG,Columbus Blue Jackets,Ottawa Senators,1476,1537,37.3,62.7,2026020813
-2027-01-23,REG,Los Angeles Kings,Nashville Predators,1464,1497,41.0,59.0,2026020814
-2027-01-23,REG,Calgary Flames,Montréal Canadiens,1455,1536,34.5,65.5,2026020815
+2027-01-23,REG,Columbus Blue Jackets,Ottawa Senators,1474,1539,36.7,63.3,2026020813
+2027-01-23,REG,Los Angeles Kings,Nashville Predators,1468,1497,41.5,58.5,2026020814
+2027-01-23,REG,Calgary Flames,Montréal Canadiens,1453,1533,34.8,65.2,2026020815
 2027-01-23,REG,Vancouver Canucks,Pittsburgh Penguins,1385,1472,33.8,66.2,2026020816
-2027-01-23,REG,Anaheim Ducks,Carolina Hurricanes,1472,1609,27.6,72.4,2026020817
-2027-01-23,REG,Toronto Maple Leafs,St. Louis Blues,1448,1516,36.2,63.8,2026020818
-2027-01-23,REG,Seattle Kraken,New York Islanders,1462,1494,41.2,58.8,2026020819
-2027-01-23,REG,New Jersey Devils,Philadelphia Flyers,1509,1479,50.0,50.0,2026020820
-2027-01-23,REG,New York Rangers,Minnesota Wild,1498,1571,35.6,64.4,2026020821
-2027-01-23,REG,Boston Bruins,Utah Mammoth,1527,1504,49.0,51.0,2026020822
-2027-01-23,REG,Edmonton Oilers,San Jose Sharks,1541,1434,60.8,39.2,2026020823
-2027-01-24,REG,Buffalo Sabres,Winnipeg Jets,1522,1489,50.4,49.6,2026020824
-2027-01-24,REG,Anaheim Ducks,Columbus Blue Jackets,1472,1476,45.1,54.9,2026020825
+2027-01-23,REG,Anaheim Ducks,Carolina Hurricanes,1469,1609,27.3,72.7,2026020817
+2027-01-23,REG,Toronto Maple Leafs,St. Louis Blues,1452,1516,36.8,63.2,2026020818
+2027-01-23,REG,Seattle Kraken,New York Islanders,1465,1490,42.2,57.8,2026020819
+2027-01-23,REG,New Jersey Devils,Philadelphia Flyers,1512,1479,50.4,49.6,2026020820
+2027-01-23,REG,New York Rangers,Minnesota Wild,1498,1574,35.1,64.9,2026020821
+2027-01-23,REG,Boston Bruins,Utah Mammoth,1527,1501,49.5,50.5,2026020822
+2027-01-23,REG,Edmonton Oilers,San Jose Sharks,1541,1430,61.3,38.7,2026020823
+2027-01-24,REG,Buffalo Sabres,Winnipeg Jets,1522,1493,49.9,50.1,2026020824
+2027-01-24,REG,Anaheim Ducks,Columbus Blue Jackets,1469,1474,45.0,55.0,2026020825
 2027-01-24,REG,Dallas Stars,Colorado Avalanche,1540,1575,40.8,59.2,2026020826
-2027-01-24,REG,Los Angeles Kings,Florida Panthers,1464,1512,39.0,61.0,2026020827
-2027-01-24,REG,Washington Capitals,New Jersey Devils,1502,1509,44.6,55.4,2026020828
+2027-01-24,REG,Los Angeles Kings,Florida Panthers,1468,1512,39.5,60.5,2026020827
+2027-01-24,REG,Washington Capitals,New Jersey Devils,1502,1512,44.2,55.8,2026020828
 2027-01-24,REG,Vegas Golden Knights,Chicago Blackhawks,1534,1415,62.6,37.4,2026020829
 2027-01-25,REG,Pittsburgh Penguins,Detroit Red Wings,1472,1467,46.4,53.6,2026020830
-2027-01-25,REG,Seattle Kraken,New York Rangers,1462,1498,40.7,59.3,2026020831
-2027-01-25,REG,Carolina Hurricanes,Ottawa Senators,1609,1537,56.1,43.9,2026020832
-2027-01-25,REG,Minnesota Wild,Utah Mammoth,1571,1504,55.2,44.8,2026020833
-2027-01-26,REG,Columbus Blue Jackets,Boston Bruins,1476,1527,38.5,61.5,2026020834
-2027-01-26,REG,Calgary Flames,Toronto Maple Leafs,1455,1448,46.8,53.2,2026020835
-2027-01-26,REG,Carolina Hurricanes,Montréal Canadiens,1609,1536,56.1,43.9,2026020836
-2027-01-26,REG,Los Angeles Kings,Tampa Bay Lightning,1464,1557,33.0,67.0,2026020837
-2027-01-26,REG,Seattle Kraken,New Jersey Devils,1462,1509,39.1,60.9,2026020838
+2027-01-25,REG,Seattle Kraken,New York Rangers,1465,1498,41.1,58.9,2026020831
+2027-01-25,REG,Carolina Hurricanes,Ottawa Senators,1609,1539,55.8,44.2,2026020832
+2027-01-25,REG,Minnesota Wild,Utah Mammoth,1574,1501,56.2,43.8,2026020833
+2027-01-26,REG,Columbus Blue Jackets,Boston Bruins,1474,1527,38.2,61.8,2026020834
+2027-01-26,REG,Calgary Flames,Toronto Maple Leafs,1453,1452,45.8,54.2,2026020835
+2027-01-26,REG,Carolina Hurricanes,Montréal Canadiens,1609,1533,56.7,43.3,2026020836
+2027-01-26,REG,Los Angeles Kings,Tampa Bay Lightning,1468,1557,33.5,66.5,2026020837
+2027-01-26,REG,Seattle Kraken,New Jersey Devils,1465,1512,39.2,60.8,2026020838
 2027-01-26,REG,Florida Panthers,Philadelphia Flyers,1512,1479,50.4,49.6,2026020839
-2027-01-26,REG,New York Islanders,Pittsburgh Penguins,1494,1472,48.9,51.1,2026020840
+2027-01-26,REG,New York Islanders,Pittsburgh Penguins,1490,1472,48.2,51.8,2026020840
 2027-01-26,REG,Chicago Blackhawks,St. Louis Blues,1415,1516,31.9,68.1,2026020841
 2027-01-26,REG,Vegas Golden Knights,Nashville Predators,1534,1497,50.9,49.1,2026020842
-2027-01-26,REG,Anaheim Ducks,Dallas Stars,1472,1540,36.3,63.7,2026020843
-2027-01-26,REG,Vancouver Canucks,Minnesota Wild,1385,1571,22.5,77.5,2026020844
+2027-01-26,REG,Anaheim Ducks,Dallas Stars,1469,1540,35.9,64.1,2026020843
+2027-01-26,REG,Vancouver Canucks,Minnesota Wild,1385,1574,22.1,77.9,2026020844
 2027-01-26,REG,Edmonton Oilers,Colorado Avalanche,1541,1575,40.9,59.1,2026020845
-2027-01-27,REG,Toronto Maple Leafs,Detroit Red Wings,1448,1467,42.9,57.1,2026020846
+2027-01-27,REG,Toronto Maple Leafs,Detroit Red Wings,1452,1467,43.5,56.5,2026020846
 2027-01-27,REG,Florida Panthers,New York Rangers,1512,1498,47.7,52.3,2026020847
-2027-01-27,REG,Buffalo Sabres,Utah Mammoth,1522,1504,48.2,51.8,2026020848
-2027-01-28,REG,New York Islanders,Carolina Hurricanes,1494,1609,30.3,69.7,2026020851
-2027-01-28,REG,Boston Bruins,Ottawa Senators,1527,1537,44.4,55.6,2026020849
-2027-01-28,REG,Winnipeg Jets,Columbus Blue Jackets,1489,1476,47.5,52.5,2026020852
-2027-01-28,REG,Los Angeles Kings,Philadelphia Flyers,1464,1479,43.6,56.4,2026020850
+2027-01-27,REG,Buffalo Sabres,Utah Mammoth,1522,1501,48.7,51.3,2026020848
+2027-01-28,REG,New York Islanders,Carolina Hurricanes,1490,1609,29.7,70.3,2026020851
+2027-01-28,REG,Boston Bruins,Ottawa Senators,1527,1539,44.1,55.9,2026020849
+2027-01-28,REG,Winnipeg Jets,Columbus Blue Jackets,1493,1474,48.4,51.6,2026020852
+2027-01-28,REG,Los Angeles Kings,Philadelphia Flyers,1468,1479,44.1,55.9,2026020850
 2027-01-28,REG,Colorado Avalanche,St. Louis Blues,1575,1516,54.1,45.9,2026020853
 2027-01-28,REG,Vancouver Canucks,Dallas Stars,1385,1540,25.7,74.3,2026020854
-2027-01-28,REG,Montréal Canadiens,Calgary Flames,1536,1455,57.3,42.7,2026020855
-2027-01-28,REG,New Jersey Devils,Edmonton Oilers,1509,1541,41.3,58.7,2026020856
-2027-01-28,REG,Seattle Kraken,Minnesota Wild,1462,1571,31.1,68.9,2026020857
+2027-01-28,REG,Montréal Canadiens,Calgary Flames,1533,1453,57.1,42.9,2026020855
+2027-01-28,REG,New Jersey Devils,Edmonton Oilers,1512,1541,41.6,58.4,2026020856
+2027-01-28,REG,Seattle Kraken,Minnesota Wild,1465,1574,31.0,69.0,2026020857
 2027-01-28,REG,Buffalo Sabres,Vegas Golden Knights,1522,1534,44.0,56.0,2026020858
-2027-01-28,REG,Chicago Blackhawks,Anaheim Ducks,1415,1472,37.7,62.3,2026020859
-2027-01-28,REG,Nashville Predators,San Jose Sharks,1497,1434,54.8,45.2,2026020860
+2027-01-28,REG,Chicago Blackhawks,Anaheim Ducks,1415,1469,38.1,61.9,2026020859
+2027-01-28,REG,Nashville Predators,San Jose Sharks,1497,1430,55.3,44.7,2026020860
 2027-01-29,REG,Florida Panthers,Detroit Red Wings,1512,1467,52.1,47.9,2026020861
 2027-01-29,REG,New York Rangers,Pittsburgh Penguins,1498,1472,49.4,50.6,2026020862
-2027-01-29,REG,Washington Capitals,Utah Mammoth,1502,1504,45.3,54.7,2026020863
-2027-01-30,REG,Winnipeg Jets,Philadelphia Flyers,1489,1479,47.1,52.9,2026020864
+2027-01-29,REG,Washington Capitals,Utah Mammoth,1502,1501,45.8,54.2,2026020863
+2027-01-30,REG,Winnipeg Jets,Philadelphia Flyers,1493,1479,47.6,52.4,2026020864
 2027-01-30,REG,Vancouver Canucks,St. Louis Blues,1385,1516,28.4,71.6,2026020865
-2027-01-30,REG,New Jersey Devils,Calgary Flames,1509,1455,53.5,46.5,2026020866
-2027-01-30,REG,Chicago Blackhawks,San Jose Sharks,1415,1434,42.9,57.1,2026020867
+2027-01-30,REG,New Jersey Devils,Calgary Flames,1512,1453,54.1,45.9,2026020866
+2027-01-30,REG,Chicago Blackhawks,San Jose Sharks,1415,1430,43.4,56.6,2026020867
 2027-01-30,REG,Buffalo Sabres,Colorado Avalanche,1522,1575,38.3,61.7,2026020868
-2027-01-30,REG,Toronto Maple Leafs,Boston Bruins,1448,1527,34.7,65.3,2026020869
-2027-01-30,REG,New York Rangers,Ottawa Senators,1498,1537,40.2,59.8,2026020870
-2027-01-30,REG,New York Islanders,Tampa Bay Lightning,1494,1557,37.0,63.0,2026020871
-2027-01-30,REG,Los Angeles Kings,Carolina Hurricanes,1464,1609,26.7,73.3,2026020872
-2027-01-30,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1476,44.4,55.6,2026020873
-2027-01-30,REG,Montréal Canadiens,Edmonton Oilers,1536,1541,45.1,54.9,2026020874
-2027-01-30,REG,Dallas Stars,Minnesota Wild,1540,1571,41.3,58.7,2026020875
+2027-01-30,REG,Toronto Maple Leafs,Boston Bruins,1452,1527,35.3,64.7,2026020869
+2027-01-30,REG,New York Rangers,Ottawa Senators,1498,1539,39.9,60.1,2026020870
+2027-01-30,REG,New York Islanders,Tampa Bay Lightning,1490,1557,36.4,63.6,2026020871
+2027-01-30,REG,Los Angeles Kings,Carolina Hurricanes,1468,1609,27.2,72.8,2026020872
+2027-01-30,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1474,44.8,55.2,2026020873
+2027-01-30,REG,Montréal Canadiens,Edmonton Oilers,1533,1541,44.6,55.4,2026020874
+2027-01-30,REG,Dallas Stars,Minnesota Wild,1540,1574,40.8,59.2,2026020875
 2027-01-30,REG,Washington Capitals,Vegas Golden Knights,1502,1534,41.1,58.9,2026020876
-2027-01-30,REG,Nashville Predators,Anaheim Ducks,1497,1472,49.3,50.7,2026020877
+2027-01-30,REG,Nashville Predators,Anaheim Ducks,1497,1469,49.8,50.2,2026020877
 2027-01-31,REG,Philadelphia Flyers,Pittsburgh Penguins,1479,1472,46.7,53.3,2026020878
-2027-01-31,REG,New Jersey Devils,Seattle Kraken,1509,1462,52.4,47.6,2026020879
-2027-01-31,REG,Nashville Predators,Utah Mammoth,1497,1504,44.7,55.3,2026020880
-2027-02-01,REG,New York Islanders,Florida Panthers,1494,1512,43.2,56.8,2026020881
-2027-02-01,REG,Vegas Golden Knights,Calgary Flames,1534,1455,56.9,43.1,2026020882
-2027-02-01,REG,Montréal Canadiens,Vancouver Canucks,1536,1385,66.8,33.2,2026020883
-2027-02-02,REG,Winnipeg Jets,Washington Capitals,1489,1502,43.9,56.1,2026020884
+2027-01-31,REG,New Jersey Devils,Seattle Kraken,1512,1465,52.4,47.6,2026020879
+2027-01-31,REG,Nashville Predators,Utah Mammoth,1497,1501,45.2,54.8,2026020880
+2027-02-01,REG,New York Islanders,Florida Panthers,1490,1512,42.6,57.4,2026020881
+2027-02-01,REG,Vegas Golden Knights,Calgary Flames,1534,1453,57.2,42.8,2026020882
+2027-02-01,REG,Montréal Canadiens,Vancouver Canucks,1533,1385,66.3,33.7,2026020883
+2027-02-02,REG,Winnipeg Jets,Washington Capitals,1493,1502,44.4,55.6,2026020884
 2027-02-02,REG,Tampa Bay Lightning,Pittsburgh Penguins,1557,1472,57.8,42.2,2026020885
-2027-02-02,REG,Nashville Predators,Utah Mammoth,1497,1504,44.7,55.3,2026020886
-2027-02-03,REG,New York Islanders,Buffalo Sabres,1494,1522,41.8,58.2,2026020887
+2027-02-02,REG,Nashville Predators,Utah Mammoth,1497,1501,45.2,54.8,2026020886
+2027-02-03,REG,New York Islanders,Buffalo Sabres,1490,1522,41.2,58.8,2026020887
 2027-02-03,REG,Washington Capitals,Florida Panthers,1502,1512,44.2,55.8,2026020888
-2027-02-03,REG,Winnipeg Jets,New York Rangers,1489,1498,44.4,55.6,2026020889
+2027-02-03,REG,Winnipeg Jets,New York Rangers,1493,1498,44.9,55.1,2026020889
 2027-02-03,REG,Tampa Bay Lightning,Philadelphia Flyers,1557,1479,56.8,43.2,2026020890
-2027-02-03,REG,Utah Mammoth,Calgary Flames,1504,1455,52.7,47.3,2026020891
+2027-02-03,REG,Utah Mammoth,Calgary Flames,1501,1453,52.5,47.5,2026020891
 2027-02-03,REG,Vegas Golden Knights,Edmonton Oilers,1534,1541,44.7,55.3,2026020892
-2027-02-03,REG,New Jersey Devils,Vancouver Canucks,1509,1385,63.2,36.8,2026020893
-2027-02-03,REG,Montréal Canadiens,Seattle Kraken,1536,1462,56.3,43.7,2026020894
-2027-02-08,REG,Columbus Blue Jackets,Toronto Maple Leafs,1476,1448,49.8,50.2,2026020895
-2027-02-08,REG,Los Angeles Kings,Dallas Stars,1464,1540,35.2,64.8,2026020896
-2027-02-09,REG,Columbus Blue Jackets,Ottawa Senators,1476,1537,37.3,62.7,2026020897
+2027-02-03,REG,New Jersey Devils,Vancouver Canucks,1512,1385,63.5,36.5,2026020893
+2027-02-03,REG,Montréal Canadiens,Seattle Kraken,1533,1465,55.4,44.6,2026020894
+2027-02-08,REG,Columbus Blue Jackets,Toronto Maple Leafs,1474,1452,48.8,51.2,2026020895
+2027-02-08,REG,Los Angeles Kings,Dallas Stars,1468,1540,35.7,64.3,2026020896
+2027-02-09,REG,Columbus Blue Jackets,Ottawa Senators,1474,1539,36.7,63.3,2026020897
 2027-02-09,REG,Colorado Avalanche,Carolina Hurricanes,1575,1609,40.8,59.2,2026020898
-2027-02-09,REG,Los Angeles Kings,St. Louis Blues,1464,1516,38.4,61.6,2026020899
-2027-02-09,REG,Detroit Red Wings,Anaheim Ducks,1467,1472,45.0,55.0,2026020900
-2027-02-10,REG,Boston Bruins,Toronto Maple Leafs,1527,1448,57.1,42.9,2026020901
-2027-02-10,REG,Chicago Blackhawks,San Jose Sharks,1415,1434,42.9,57.1,2026020902
-2027-02-11,REG,Ottawa Senators,Columbus Blue Jackets,1537,1476,54.3,45.7,2026020903
-2027-02-11,REG,Minnesota Wild,Carolina Hurricanes,1571,1609,40.3,59.7,2026020904
-2027-02-11,REG,Chicago Blackhawks,Anaheim Ducks,1415,1472,37.7,62.3,2026020905
-2027-02-11,REG,Detroit Red Wings,Los Angeles Kings,1467,1464,46.2,53.8,2026020906
+2027-02-09,REG,Los Angeles Kings,St. Louis Blues,1468,1516,38.9,61.1,2026020899
+2027-02-09,REG,Detroit Red Wings,Anaheim Ducks,1467,1469,45.4,54.6,2026020900
+2027-02-10,REG,Boston Bruins,Toronto Maple Leafs,1527,1452,56.4,43.6,2026020901
+2027-02-10,REG,Chicago Blackhawks,San Jose Sharks,1415,1430,43.4,56.6,2026020902
+2027-02-11,REG,Ottawa Senators,Columbus Blue Jackets,1539,1474,55.0,45.0,2026020903
+2027-02-11,REG,Minnesota Wild,Carolina Hurricanes,1574,1609,40.8,59.2,2026020904
+2027-02-11,REG,Chicago Blackhawks,Anaheim Ducks,1415,1469,38.1,61.9,2026020905
+2027-02-11,REG,Detroit Red Wings,Los Angeles Kings,1467,1468,45.6,54.4,2026020906
 2027-02-12,REG,Dallas Stars,Tampa Bay Lightning,1540,1557,43.3,56.7,2026020907
 2027-02-12,REG,Colorado Avalanche,Florida Panthers,1575,1512,54.7,45.3,2026020908
-2027-02-12,REG,New York Islanders,New York Rangers,1494,1498,45.2,54.8,2026020909
+2027-02-12,REG,New York Islanders,New York Rangers,1490,1498,44.6,55.4,2026020909
 2027-02-12,REG,St. Louis Blues,Edmonton Oilers,1516,1541,42.2,57.8,2026020910
-2027-02-12,REG,Calgary Flames,Utah Mammoth,1455,1504,38.8,61.2,2026020911
-2027-02-13,REG,Washington Capitals,Montréal Canadiens,1502,1536,40.8,59.2,2026020912
-2027-02-13,REG,Anaheim Ducks,Nashville Predators,1472,1497,42.1,57.9,2026020913
-2027-02-13,REG,Detroit Red Wings,San Jose Sharks,1467,1434,50.5,49.5,2026020914
+2027-02-12,REG,Calgary Flames,Utah Mammoth,1453,1501,39.0,61.0,2026020911
+2027-02-13,REG,Washington Capitals,Montréal Canadiens,1502,1533,41.3,58.7,2026020912
+2027-02-13,REG,Anaheim Ducks,Nashville Predators,1469,1497,41.7,58.3,2026020913
+2027-02-13,REG,Detroit Red Wings,San Jose Sharks,1467,1430,51.0,49.0,2026020914
 2027-02-13,REG,Dallas Stars,Florida Panthers,1540,1512,49.7,50.3,2026020915
-2027-02-13,REG,Chicago Blackhawks,Los Angeles Kings,1415,1464,38.8,61.2,2026020916
-2027-02-13,REG,Columbus Blue Jackets,Boston Bruins,1476,1527,38.5,61.5,2026020917
-2027-02-13,REG,Toronto Maple Leafs,Ottawa Senators,1448,1537,33.5,66.5,2026020918
+2027-02-13,REG,Chicago Blackhawks,Los Angeles Kings,1415,1468,38.2,61.8,2026020916
+2027-02-13,REG,Columbus Blue Jackets,Boston Bruins,1474,1527,38.2,61.8,2026020917
+2027-02-13,REG,Toronto Maple Leafs,Ottawa Senators,1452,1539,33.9,66.1,2026020918
 2027-02-13,REG,Colorado Avalanche,Tampa Bay Lightning,1575,1557,48.2,51.8,2026020919
-2027-02-13,REG,Minnesota Wild,New York Islanders,1571,1494,56.6,43.4,2026020920
+2027-02-13,REG,Minnesota Wild,New York Islanders,1574,1490,57.8,42.2,2026020920
 2027-02-13,REG,Buffalo Sabres,Carolina Hurricanes,1522,1609,33.7,66.3,2026020921
 2027-02-13,REG,Pittsburgh Penguins,Edmonton Oilers,1472,1541,36.2,63.8,2026020922
-2027-02-13,REG,New Jersey Devils,Philadelphia Flyers,1509,1479,50.0,50.0,2026020923
-2027-02-13,REG,Winnipeg Jets,Vancouver Canucks,1489,1385,60.4,39.6,2026020924
-2027-02-13,REG,Calgary Flames,Vegas Golden Knights,1455,1534,34.9,65.1,2026020925
-2027-02-13,REG,St. Louis Blues,Seattle Kraken,1516,1462,53.4,46.6,2026020926
-2027-02-14,REG,New York Rangers,Montréal Canadiens,1498,1536,40.2,59.8,2026020927
-2027-02-14,REG,Utah Mammoth,Washington Capitals,1504,1502,46.1,53.9,2026020928
-2027-02-15,REG,Anaheim Ducks,Boston Bruins,1472,1527,38.0,62.0,2026020929
-2027-02-15,REG,Utah Mammoth,New York Islanders,1504,1494,47.1,52.9,2026020930
-2027-02-15,REG,Columbus Blue Jackets,Colorado Avalanche,1476,1575,32.3,67.7,2026020932
-2027-02-15,REG,Pittsburgh Penguins,Seattle Kraken,1472,1462,47.1,52.9,2026020933
+2027-02-13,REG,New Jersey Devils,Philadelphia Flyers,1512,1479,50.4,49.6,2026020923
+2027-02-13,REG,Winnipeg Jets,Vancouver Canucks,1493,1385,60.9,39.1,2026020924
+2027-02-13,REG,Calgary Flames,Vegas Golden Knights,1453,1534,34.6,65.4,2026020925
+2027-02-13,REG,St. Louis Blues,Seattle Kraken,1516,1465,53.0,47.0,2026020926
+2027-02-14,REG,New York Rangers,Montréal Canadiens,1498,1533,40.8,59.2,2026020927
+2027-02-14,REG,Utah Mammoth,Washington Capitals,1501,1502,45.5,54.5,2026020928
+2027-02-15,REG,Anaheim Ducks,Boston Bruins,1469,1527,37.6,62.4,2026020929
+2027-02-15,REG,Utah Mammoth,New York Islanders,1501,1490,47.2,52.8,2026020930
+2027-02-15,REG,Columbus Blue Jackets,Colorado Avalanche,1474,1575,32.0,68.0,2026020932
+2027-02-15,REG,Pittsburgh Penguins,Seattle Kraken,1472,1465,46.7,53.3,2026020933
 2027-02-15,REG,Buffalo Sabres,New York Rangers,1522,1498,49.1,50.9,2026020931
-2027-02-15,REG,Ottawa Senators,Minnesota Wild,1537,1571,40.9,59.1,2026020934
-2027-02-15,REG,Winnipeg Jets,San Jose Sharks,1489,1434,53.6,46.4,2026020935
+2027-02-15,REG,Ottawa Senators,Minnesota Wild,1539,1574,40.7,59.3,2026020934
+2027-02-15,REG,Winnipeg Jets,San Jose Sharks,1493,1430,54.6,45.4,2026020935
 2027-02-15,REG,Philadelphia Flyers,St. Louis Blues,1479,1516,40.5,59.5,2026020936
 2027-02-15,REG,Detroit Red Wings,Vegas Golden Knights,1467,1534,36.5,63.5,2026020937
-2027-02-15,REG,Calgary Flames,Los Angeles Kings,1455,1464,44.5,55.5,2026020938
-2027-02-16,REG,Carolina Hurricanes,Toronto Maple Leafs,1609,1448,68.0,32.0,2026020939
-2027-02-16,REG,Anaheim Ducks,Washington Capitals,1472,1502,41.5,58.5,2026020941
+2027-02-15,REG,Calgary Flames,Los Angeles Kings,1453,1468,43.6,56.4,2026020938
+2027-02-16,REG,Carolina Hurricanes,Toronto Maple Leafs,1609,1452,67.5,32.5,2026020939
+2027-02-16,REG,Anaheim Ducks,Washington Capitals,1469,1502,41.1,58.9,2026020941
 2027-02-16,REG,Florida Panthers,Tampa Bay Lightning,1512,1557,39.4,60.6,2026020940
-2027-02-16,REG,New Jersey Devils,Nashville Predators,1509,1497,47.4,52.6,2026020942
-2027-02-16,REG,Minnesota Wild,Dallas Stars,1571,1540,50.1,49.9,2026020943
+2027-02-16,REG,New Jersey Devils,Nashville Predators,1512,1497,47.8,52.2,2026020942
+2027-02-16,REG,Minnesota Wild,Dallas Stars,1574,1540,50.6,49.4,2026020943
 2027-02-16,REG,Pittsburgh Penguins,Vancouver Canucks,1472,1385,58.1,41.9,2026020944
 2027-02-17,REG,St. Louis Blues,Chicago Blackhawks,1516,1415,60.1,39.9,2026020945
-2027-02-17,REG,Los Angeles Kings,Winnipeg Jets,1464,1489,42.2,57.8,2026020946
-2027-02-17,REG,Columbus Blue Jackets,Utah Mammoth,1476,1504,41.7,58.3,2026020947
-2027-02-17,REG,Boston Bruins,Calgary Flames,1527,1455,56.0,44.0,2026020948
+2027-02-17,REG,Los Angeles Kings,Winnipeg Jets,1468,1493,42.2,57.8,2026020946
+2027-02-17,REG,Columbus Blue Jackets,Utah Mammoth,1474,1501,41.9,58.1,2026020947
+2027-02-17,REG,Boston Bruins,Calgary Flames,1527,1453,56.3,43.7,2026020948
 2027-02-17,REG,Colorado Avalanche,Edmonton Oilers,1575,1541,50.6,49.4,2026020949
-2027-02-17,REG,Ottawa Senators,Seattle Kraken,1537,1462,56.3,43.7,2026020950
+2027-02-17,REG,Ottawa Senators,Seattle Kraken,1539,1465,56.2,43.8,2026020950
 2027-02-18,REG,Carolina Hurricanes,Buffalo Sabres,1609,1522,58.2,41.8,2026020951
-2027-02-18,REG,Montréal Canadiens,Detroit Red Wings,1536,1467,55.6,44.4,2026020952
-2027-02-18,REG,Anaheim Ducks,Tampa Bay Lightning,1472,1557,34.0,66.0,2026020953
-2027-02-18,REG,New Jersey Devils,Florida Panthers,1509,1512,45.3,54.7,2026020954
-2027-02-18,REG,New York Rangers,New York Islanders,1498,1494,46.2,53.8,2026020955
-2027-02-18,REG,Toronto Maple Leafs,Nashville Predators,1448,1497,38.7,61.3,2026020956
-2027-02-18,REG,Los Angeles Kings,Minnesota Wild,1464,1571,31.3,68.7,2026020958
+2027-02-18,REG,Montréal Canadiens,Detroit Red Wings,1533,1467,55.0,45.0,2026020952
+2027-02-18,REG,Anaheim Ducks,Tampa Bay Lightning,1469,1557,33.7,66.3,2026020953
+2027-02-18,REG,New Jersey Devils,Florida Panthers,1512,1512,45.7,54.3,2026020954
+2027-02-18,REG,New York Rangers,New York Islanders,1498,1490,46.8,53.2,2026020955
+2027-02-18,REG,Toronto Maple Leafs,Nashville Predators,1452,1497,39.4,60.6,2026020956
+2027-02-18,REG,Los Angeles Kings,Minnesota Wild,1468,1574,31.3,68.7,2026020958
 2027-02-18,REG,Philadelphia Flyers,Dallas Stars,1479,1540,37.2,62.8,2026020957
-2027-02-18,REG,Ottawa Senators,Vancouver Canucks,1537,1385,66.8,33.2,2026020959
-2027-02-18,REG,Columbus Blue Jackets,Vegas Golden Knights,1476,1534,37.7,62.3,2026020960
-2027-02-19,REG,San Jose Sharks,Washington Capitals,1434,1502,36.3,63.7,2026020961
+2027-02-18,REG,Ottawa Senators,Vancouver Canucks,1539,1385,67.0,33.0,2026020959
+2027-02-18,REG,Columbus Blue Jackets,Vegas Golden Knights,1474,1534,37.3,62.7,2026020960
+2027-02-19,REG,San Jose Sharks,Washington Capitals,1430,1502,35.8,64.2,2026020961
 2027-02-19,REG,Detroit Red Wings,Carolina Hurricanes,1467,1609,27.1,72.9,2026020962
-2027-02-19,REG,St. Louis Blues,Winnipeg Jets,1516,1489,49.6,50.4,2026020963
-2027-02-19,REG,Pittsburgh Penguins,Calgary Flames,1472,1455,48.1,51.9,2026020964
+2027-02-19,REG,St. Louis Blues,Winnipeg Jets,1516,1493,49.1,50.9,2026020963
+2027-02-19,REG,Pittsburgh Penguins,Calgary Flames,1472,1453,48.4,51.6,2026020964
 2027-02-19,REG,Boston Bruins,Edmonton Oilers,1527,1541,43.8,56.2,2026020965
-2027-02-19,REG,Seattle Kraken,Utah Mammoth,1462,1504,39.8,60.2,2026020966
+2027-02-19,REG,Seattle Kraken,Utah Mammoth,1465,1501,40.7,59.3,2026020966
 2027-02-20,REG,New York Rangers,Philadelphia Flyers,1498,1479,48.4,51.6,2026020967
-2027-02-20,REG,Buffalo Sabres,New Jersey Devils,1522,1509,47.4,52.6,2026020968
-2027-02-20,REG,Minnesota Wild,Chicago Blackhawks,1571,1415,67.4,32.6,2026020969
-2027-02-20,REG,Anaheim Ducks,Florida Panthers,1472,1512,40.1,59.9,2026020970
-2027-02-20,REG,Nashville Predators,Columbus Blue Jackets,1497,1476,48.7,51.3,2026020971
-2027-02-20,REG,New York Islanders,Montréal Canadiens,1494,1536,39.8,60.2,2026020972
-2027-02-20,REG,Toronto Maple Leafs,Tampa Bay Lightning,1448,1557,31.0,69.0,2026020973
+2027-02-20,REG,Buffalo Sabres,New Jersey Devils,1522,1512,47.1,52.9,2026020968
+2027-02-20,REG,Minnesota Wild,Chicago Blackhawks,1574,1415,67.9,32.1,2026020969
+2027-02-20,REG,Anaheim Ducks,Florida Panthers,1469,1512,39.7,60.3,2026020970
+2027-02-20,REG,Nashville Predators,Columbus Blue Jackets,1497,1474,49.1,50.9,2026020971
+2027-02-20,REG,New York Islanders,Montréal Canadiens,1490,1533,39.7,60.3,2026020972
+2027-02-20,REG,Toronto Maple Leafs,Tampa Bay Lightning,1452,1557,31.5,68.5,2026020973
 2027-02-20,REG,Vegas Golden Knights,Dallas Stars,1534,1540,44.9,55.1,2026020974
 2027-02-20,REG,Colorado Avalanche,Vancouver Canucks,1575,1385,71.4,28.6,2026020975
-2027-02-20,REG,Seattle Kraken,Los Angeles Kings,1462,1464,45.5,54.5,2026020976
+2027-02-20,REG,Seattle Kraken,Los Angeles Kings,1465,1468,45.3,54.7,2026020976
 2027-02-21,REG,New York Rangers,Carolina Hurricanes,1498,1609,30.7,69.3,2026020977
 2027-02-21,REG,Buffalo Sabres,Detroit Red Wings,1522,1467,53.5,46.5,2026020978
-2027-02-21,REG,Pittsburgh Penguins,Winnipeg Jets,1472,1489,43.3,56.7,2026020983
-2027-02-21,REG,New Jersey Devils,Chicago Blackhawks,1509,1415,59.2,40.8,2026020979
-2027-02-21,REG,San Jose Sharks,Florida Panthers,1434,1512,35.0,65.0,2026020980
+2027-02-21,REG,Pittsburgh Penguins,Winnipeg Jets,1472,1493,42.8,57.2,2026020983
+2027-02-21,REG,New Jersey Devils,Chicago Blackhawks,1512,1415,59.6,40.4,2026020979
+2027-02-21,REG,San Jose Sharks,Florida Panthers,1430,1512,34.5,65.5,2026020980
 2027-02-21,REG,Nashville Predators,Washington Capitals,1497,1502,45.1,54.9,2026020981
-2027-02-21,REG,Utah Mammoth,St. Louis Blues,1504,1516,44.0,56.0,2026020982
-2027-02-21,REG,Ottawa Senators,Calgary Flames,1537,1455,57.3,42.7,2026020984
+2027-02-21,REG,Utah Mammoth,St. Louis Blues,1501,1516,43.5,56.5,2026020982
+2027-02-21,REG,Ottawa Senators,Calgary Flames,1539,1453,57.9,42.1,2026020984
 2027-02-21,REG,Boston Bruins,Vancouver Canucks,1527,1385,65.6,34.4,2026020985
-2027-02-22,REG,Montréal Canadiens,Philadelphia Flyers,1536,1479,53.9,46.1,2026020986
-2027-02-22,REG,New York Islanders,Columbus Blue Jackets,1494,1476,48.3,51.7,2026020987
-2027-02-22,REG,Ottawa Senators,Edmonton Oilers,1537,1541,45.1,54.9,2026020988
+2027-02-22,REG,Montréal Canadiens,Philadelphia Flyers,1533,1479,53.4,46.6,2026020986
+2027-02-22,REG,New York Islanders,Columbus Blue Jackets,1490,1474,48.0,52.0,2026020987
+2027-02-22,REG,Ottawa Senators,Edmonton Oilers,1539,1541,45.4,54.6,2026020988
 2027-02-22,REG,Vegas Golden Knights,Colorado Avalanche,1534,1575,39.9,60.1,2026020989
-2027-02-22,REG,Boston Bruins,Seattle Kraken,1527,1462,55.0,45.0,2026020990
-2027-02-23,REG,Detroit Red Wings,Toronto Maple Leafs,1467,1448,48.5,51.5,2026020991
-2027-02-23,REG,San Jose Sharks,Tampa Bay Lightning,1434,1557,29.3,70.7,2026020992
+2027-02-22,REG,Boston Bruins,Seattle Kraken,1527,1465,54.6,45.4,2026020990
+2027-02-23,REG,Detroit Red Wings,Toronto Maple Leafs,1467,1452,47.9,52.1,2026020991
+2027-02-23,REG,San Jose Sharks,Tampa Bay Lightning,1430,1557,28.9,71.1,2026020992
 2027-02-23,REG,New York Rangers,Washington Capitals,1498,1502,45.1,54.9,2026020994
-2027-02-23,REG,Carolina Hurricanes,New Jersey Devils,1609,1509,59.9,40.1,2026020993
-2027-02-23,REG,New York Islanders,Chicago Blackhawks,1494,1415,57.1,42.9,2026020995
-2027-02-23,REG,Winnipeg Jets,Nashville Predators,1489,1497,44.5,55.5,2026020996
+2027-02-23,REG,Carolina Hurricanes,New Jersey Devils,1609,1512,59.6,40.4,2026020993
+2027-02-23,REG,New York Islanders,Chicago Blackhawks,1490,1415,56.5,43.5,2026020995
+2027-02-23,REG,Winnipeg Jets,Nashville Predators,1493,1497,45.0,55.0,2026020996
 2027-02-23,REG,Vancouver Canucks,Dallas Stars,1385,1540,25.7,74.3,2026020997
-2027-02-23,REG,Pittsburgh Penguins,Minnesota Wild,1472,1571,32.3,67.7,2026020998
+2027-02-23,REG,Pittsburgh Penguins,Minnesota Wild,1472,1574,31.8,68.2,2026020998
 2027-02-24,REG,Buffalo Sabres,Philadelphia Flyers,1522,1479,51.8,48.2,2026020999
-2027-02-24,REG,Calgary Flames,Utah Mammoth,1455,1504,38.8,61.2,2026021000
+2027-02-24,REG,Calgary Flames,Utah Mammoth,1453,1501,39.0,61.0,2026021000
 2027-02-24,REG,Florida Panthers,Vegas Golden Knights,1512,1534,42.6,57.4,2026021001
-2027-02-24,REG,Seattle Kraken,Anaheim Ducks,1462,1472,44.3,55.7,2026021002
-2027-02-24,REG,Montréal Canadiens,Los Angeles Kings,1536,1464,56.1,43.9,2026021003
-2027-02-25,REG,Detroit Red Wings,Ottawa Senators,1467,1537,36.1,63.9,2026021004
-2027-02-25,REG,Toronto Maple Leafs,Pittsburgh Penguins,1448,1472,42.2,57.8,2026021005
-2027-02-25,REG,San Jose Sharks,Carolina Hurricanes,1434,1609,23.5,76.5,2026021006
+2027-02-24,REG,Seattle Kraken,Anaheim Ducks,1465,1469,45.1,54.9,2026021002
+2027-02-24,REG,Montréal Canadiens,Los Angeles Kings,1533,1468,55.0,45.0,2026021003
+2027-02-25,REG,Detroit Red Wings,Ottawa Senators,1467,1539,35.8,64.2,2026021004
+2027-02-25,REG,Toronto Maple Leafs,Pittsburgh Penguins,1452,1472,42.9,57.1,2026021005
+2027-02-25,REG,San Jose Sharks,Carolina Hurricanes,1430,1609,23.1,76.9,2026021006
 2027-02-25,REG,Washington Capitals,Boston Bruins,1502,1527,42.1,57.9,2026021007
 2027-02-25,REG,Vancouver Canucks,St. Louis Blues,1385,1516,28.4,71.6,2026021008
 2027-02-25,REG,Edmonton Oilers,Nashville Predators,1541,1497,51.9,48.1,2026021009
 2027-02-25,REG,Tampa Bay Lightning,Dallas Stars,1557,1540,48.2,51.8,2026021010
-2027-02-25,REG,Winnipeg Jets,Colorado Avalanche,1489,1575,33.9,66.1,2026021011
-2027-02-26,REG,Philadelphia Flyers,New York Islanders,1479,1494,43.5,56.5,2026021013
+2027-02-25,REG,Winnipeg Jets,Colorado Avalanche,1493,1575,34.4,65.6,2026021011
+2027-02-26,REG,Philadelphia Flyers,New York Islanders,1479,1490,44.2,55.8,2026021013
 2027-02-26,REG,Washington Capitals,New York Rangers,1502,1498,46.3,53.7,2026021014
-2027-02-26,REG,New Jersey Devils,Columbus Blue Jackets,1509,1476,50.5,49.5,2026021015
-2027-02-26,REG,Ottawa Senators,Buffalo Sabres,1537,1522,47.8,52.2,2026021012
-2027-02-26,REG,Los Angeles Kings,Chicago Blackhawks,1464,1415,52.8,47.2,2026021016
-2027-02-26,REG,Florida Panthers,Utah Mammoth,1512,1504,46.8,53.2,2026021017
-2027-02-26,REG,Anaheim Ducks,Vegas Golden Knights,1472,1534,37.1,62.9,2026021018
+2027-02-26,REG,New Jersey Devils,Columbus Blue Jackets,1512,1474,51.2,48.8,2026021015
+2027-02-26,REG,Ottawa Senators,Buffalo Sabres,1539,1522,48.1,51.9,2026021012
+2027-02-26,REG,Los Angeles Kings,Chicago Blackhawks,1468,1415,53.4,46.6,2026021016
+2027-02-26,REG,Florida Panthers,Utah Mammoth,1512,1501,47.3,52.7,2026021017
+2027-02-26,REG,Anaheim Ducks,Vegas Golden Knights,1469,1534,36.7,63.3,2026021018
 2027-02-27,REG,Detroit Red Wings,Boston Bruins,1467,1527,37.3,62.7,2026021019
 2027-02-27,REG,Edmonton Oilers,Dallas Stars,1541,1540,45.8,54.2,2026021020
-2027-02-27,REG,Minnesota Wild,St. Louis Blues,1571,1516,53.5,46.5,2026021021
-2027-02-27,REG,Toronto Maple Leafs,Buffalo Sabres,1448,1522,35.5,64.5,2026021022
-2027-02-27,REG,San Jose Sharks,Philadelphia Flyers,1434,1479,39.4,60.6,2026021023
+2027-02-27,REG,Minnesota Wild,St. Louis Blues,1574,1516,54.1,45.9,2026021021
+2027-02-27,REG,Toronto Maple Leafs,Buffalo Sabres,1452,1522,36.1,63.9,2026021022
+2027-02-27,REG,San Jose Sharks,Philadelphia Flyers,1430,1479,38.9,61.1,2026021023
 2027-02-27,REG,Tampa Bay Lightning,Carolina Hurricanes,1557,1609,38.4,61.6,2026021024
-2027-02-27,REG,New York Islanders,Columbus Blue Jackets,1494,1476,48.3,51.7,2026021025
+2027-02-27,REG,New York Islanders,Columbus Blue Jackets,1490,1474,48.0,52.0,2026021025
 2027-02-27,REG,Florida Panthers,Colorado Avalanche,1512,1575,36.9,63.1,2026021026
-2027-02-27,REG,Montréal Canadiens,Anaheim Ducks,1536,1472,54.9,45.1,2026021027
-2027-02-27,REG,Winnipeg Jets,Seattle Kraken,1489,1462,49.5,50.5,2026021028
-2027-02-27,REG,Los Angeles Kings,Nashville Predators,1464,1497,41.0,59.0,2026021029
-2027-02-27,REG,Calgary Flames,Vancouver Canucks,1455,1385,55.7,44.3,2026021030
+2027-02-27,REG,Montréal Canadiens,Anaheim Ducks,1533,1469,54.8,45.2,2026021027
+2027-02-27,REG,Winnipeg Jets,Seattle Kraken,1493,1465,49.6,50.4,2026021028
+2027-02-27,REG,Los Angeles Kings,Nashville Predators,1468,1497,41.5,58.5,2026021029
+2027-02-27,REG,Calgary Flames,Vancouver Canucks,1453,1385,55.4,44.6,2026021030
 2027-02-28,REG,New York Rangers,Pittsburgh Penguins,1498,1472,49.4,50.6,2026021031
-2027-02-28,REG,New Jersey Devils,Minnesota Wild,1509,1571,37.2,62.8,2026021032
+2027-02-28,REG,New Jersey Devils,Minnesota Wild,1512,1574,37.0,63.0,2026021032
 2027-02-28,REG,Colorado Avalanche,Chicago Blackhawks,1575,1415,67.9,32.1,2026021033
-2027-02-28,REG,Utah Mammoth,Tampa Bay Lightning,1504,1557,38.3,61.7,2026021034
+2027-02-28,REG,Utah Mammoth,Tampa Bay Lightning,1501,1557,37.8,62.2,2026021034
 2027-02-28,REG,Dallas Stars,St. Louis Blues,1540,1516,49.1,50.9,2026021035
-2027-03-01,REG,Detroit Red Wings,Toronto Maple Leafs,1467,1448,48.5,51.5,2026021036
-2027-03-01,REG,Washington Capitals,New York Islanders,1502,1494,46.7,53.3,2026021037
-2027-03-01,REG,Carolina Hurricanes,Columbus Blue Jackets,1609,1476,64.4,35.6,2026021038
-2027-03-01,REG,Seattle Kraken,Winnipeg Jets,1462,1489,42.0,58.0,2026021039
+2027-03-01,REG,Detroit Red Wings,Toronto Maple Leafs,1467,1452,47.9,52.1,2026021036
+2027-03-01,REG,Washington Capitals,New York Islanders,1502,1490,47.4,52.6,2026021037
+2027-03-01,REG,Carolina Hurricanes,Columbus Blue Jackets,1609,1474,64.7,35.3,2026021038
+2027-03-01,REG,Seattle Kraken,Winnipeg Jets,1465,1493,41.8,58.2,2026021039
 2027-03-01,REG,Edmonton Oilers,Chicago Blackhawks,1541,1415,63.5,36.5,2026021040
-2027-03-01,REG,Anaheim Ducks,Los Angeles Kings,1472,1464,46.8,53.2,2026021041
-2027-03-01,REG,Montréal Canadiens,San Jose Sharks,1536,1434,60.3,39.7,2026021042
+2027-03-01,REG,Anaheim Ducks,Los Angeles Kings,1469,1468,45.9,54.1,2026021041
+2027-03-01,REG,Montréal Canadiens,San Jose Sharks,1533,1430,60.2,39.8,2026021042
 2027-03-02,REG,Pittsburgh Penguins,Buffalo Sabres,1472,1522,38.7,61.3,2026021043
-2027-03-02,REG,Utah Mammoth,Florida Panthers,1504,1512,44.6,55.4,2026021044
-2027-03-02,REG,Ottawa Senators,New Jersey Devils,1537,1509,49.6,50.4,2026021045
+2027-03-02,REG,Utah Mammoth,Florida Panthers,1501,1512,44.1,55.9,2026021044
+2027-03-02,REG,Ottawa Senators,New Jersey Devils,1539,1512,49.5,50.5,2026021045
 2027-03-02,REG,Vegas Golden Knights,Philadelphia Flyers,1534,1479,53.6,46.4,2026021046
 2027-03-02,REG,Colorado Avalanche,Nashville Predators,1575,1497,56.8,43.2,2026021047
-2027-03-03,REG,Seattle Kraken,Toronto Maple Leafs,1462,1448,47.8,52.2,2026021048
+2027-03-03,REG,Seattle Kraken,Toronto Maple Leafs,1465,1452,47.6,52.4,2026021048
 2027-03-03,REG,Boston Bruins,New York Rangers,1527,1498,49.9,50.1,2026021049
 2027-03-03,REG,Carolina Hurricanes,Washington Capitals,1609,1502,61.0,39.0,2026021050
-2027-03-03,REG,Minnesota Wild,Dallas Stars,1571,1540,50.1,49.9,2026021051
-2027-03-03,REG,Edmonton Oilers,Calgary Flames,1541,1455,57.9,42.1,2026021052
+2027-03-03,REG,Minnesota Wild,Dallas Stars,1574,1540,50.6,49.4,2026021051
+2027-03-03,REG,Edmonton Oilers,Calgary Flames,1541,1453,58.2,41.8,2026021052
 2027-03-03,REG,Chicago Blackhawks,Vancouver Canucks,1415,1385,49.9,50.1,2026021053
-2027-03-03,REG,Tampa Bay Lightning,Los Angeles Kings,1557,1464,59.0,41.0,2026021054
-2027-03-03,REG,Columbus Blue Jackets,San Jose Sharks,1476,1434,51.8,48.2,2026021055
-2027-03-04,REG,New Jersey Devils,Detroit Red Wings,1509,1467,51.7,48.3,2026021059
+2027-03-03,REG,Tampa Bay Lightning,Los Angeles Kings,1557,1468,58.4,41.6,2026021054
+2027-03-03,REG,Columbus Blue Jackets,San Jose Sharks,1474,1430,51.9,48.1,2026021055
+2027-03-04,REG,New Jersey Devils,Detroit Red Wings,1512,1467,52.1,47.9,2026021059
 2027-03-04,REG,St. Louis Blues,Buffalo Sabres,1516,1522,44.9,55.1,2026021056
-2027-03-04,REG,Seattle Kraken,Montréal Canadiens,1462,1536,35.5,64.5,2026021057
-2027-03-04,REG,Boston Bruins,Ottawa Senators,1527,1537,44.4,55.6,2026021058
-2027-03-04,REG,Vegas Golden Knights,New York Islanders,1534,1494,51.4,48.6,2026021061
-2027-03-04,REG,Utah Mammoth,Nashville Predators,1504,1497,46.7,53.3,2026021062
+2027-03-04,REG,Seattle Kraken,Montréal Canadiens,1465,1533,36.3,63.7,2026021057
+2027-03-04,REG,Boston Bruins,Ottawa Senators,1527,1539,44.1,55.9,2026021058
+2027-03-04,REG,Vegas Golden Knights,New York Islanders,1534,1490,52.0,48.0,2026021061
+2027-03-04,REG,Utah Mammoth,Nashville Predators,1501,1497,46.2,53.8,2026021062
 2027-03-04,REG,Pittsburgh Penguins,Florida Panthers,1472,1512,40.1,59.9,2026021060
-2027-03-05,REG,Vegas Golden Knights,New Jersey Devils,1534,1509,49.2,50.8,2026021063
+2027-03-05,REG,Vegas Golden Knights,New Jersey Devils,1534,1512,48.8,51.2,2026021063
 2027-03-05,REG,Dallas Stars,Philadelphia Flyers,1540,1479,54.4,45.6,2026021064
-2027-03-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1448,1609,24.9,75.1,2026021065
-2027-03-05,REG,Washington Capitals,Winnipeg Jets,1502,1489,47.5,52.5,2026021066
-2027-03-05,REG,Chicago Blackhawks,Calgary Flames,1415,1455,39.9,60.1,2026021067
-2027-03-05,REG,Tampa Bay Lightning,Anaheim Ducks,1557,1472,57.8,42.2,2026021068
-2027-03-05,REG,Columbus Blue Jackets,Los Angeles Kings,1476,1464,47.4,52.6,2026021069
-2027-03-05,REG,Colorado Avalanche,San Jose Sharks,1575,1434,65.4,34.6,2026021070
+2027-03-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1452,1609,25.4,74.6,2026021065
+2027-03-05,REG,Washington Capitals,Winnipeg Jets,1502,1493,47.0,53.0,2026021066
+2027-03-05,REG,Chicago Blackhawks,Calgary Flames,1415,1453,40.2,59.8,2026021067
+2027-03-05,REG,Tampa Bay Lightning,Anaheim Ducks,1557,1469,58.2,41.8,2026021068
+2027-03-05,REG,Columbus Blue Jackets,Los Angeles Kings,1474,1468,46.5,53.5,2026021069
+2027-03-05,REG,Colorado Avalanche,San Jose Sharks,1575,1430,65.9,34.1,2026021070
 2027-03-06,REG,Pittsburgh Penguins,Boston Bruins,1472,1527,38.0,62.0,2026021071
 2027-03-06,REG,New York Rangers,Buffalo Sabres,1498,1522,42.3,57.7,2026021072
-2027-03-06,REG,Seattle Kraken,Ottawa Senators,1462,1537,35.5,64.5,2026021073
-2027-03-06,REG,Vancouver Canucks,Montréal Canadiens,1385,1536,26.1,73.9,2026021074
+2027-03-06,REG,Seattle Kraken,Ottawa Senators,1465,1539,35.6,64.4,2026021073
+2027-03-06,REG,Vancouver Canucks,Montréal Canadiens,1385,1533,26.5,73.5,2026021074
 2027-03-06,REG,Dallas Stars,Detroit Red Wings,1540,1467,56.1,43.9,2026021075
-2027-03-06,REG,Toronto Maple Leafs,Florida Panthers,1448,1512,36.8,63.2,2026021076
-2027-03-06,REG,Minnesota Wild,Nashville Predators,1571,1497,56.2,43.8,2026021077
+2027-03-06,REG,Toronto Maple Leafs,Florida Panthers,1452,1512,37.4,62.6,2026021076
+2027-03-06,REG,Minnesota Wild,Nashville Predators,1574,1497,56.7,43.3,2026021077
 2027-03-06,REG,Chicago Blackhawks,Edmonton Oilers,1415,1541,28.9,71.1,2026021078
-2027-03-06,REG,Tampa Bay Lightning,San Jose Sharks,1557,1434,63.1,36.9,2026021079
-2027-03-07,REG,Pittsburgh Penguins,New York Islanders,1472,1494,42.5,57.5,2026021080
-2027-03-07,REG,Utah Mammoth,Carolina Hurricanes,1504,1609,31.5,68.5,2026021082
-2027-03-07,REG,Calgary Flames,Winnipeg Jets,1455,1489,41.0,59.0,2026021083
-2027-03-07,REG,Buffalo Sabres,Ottawa Senators,1522,1537,43.6,56.4,2026021085
+2027-03-06,REG,Tampa Bay Lightning,San Jose Sharks,1557,1430,63.6,36.4,2026021079
+2027-03-07,REG,Pittsburgh Penguins,New York Islanders,1472,1490,43.2,56.8,2026021080
+2027-03-07,REG,Utah Mammoth,Carolina Hurricanes,1501,1609,31.1,68.9,2026021082
+2027-03-07,REG,Calgary Flames,Winnipeg Jets,1453,1493,40.2,59.8,2026021083
+2027-03-07,REG,Buffalo Sabres,Ottawa Senators,1522,1539,43.3,56.7,2026021085
 2027-03-07,REG,St. Louis Blues,Philadelphia Flyers,1516,1479,51.0,49.0,2026021081
-2027-03-07,REG,Colorado Avalanche,Los Angeles Kings,1575,1464,61.4,38.6,2026021084
+2027-03-07,REG,Colorado Avalanche,Los Angeles Kings,1575,1468,60.9,39.1,2026021084
 2027-03-07,REG,Vegas Golden Knights,New York Rangers,1534,1498,50.9,49.1,2026021086
-2027-03-07,REG,Columbus Blue Jackets,Anaheim Ducks,1476,1472,46.3,53.7,2026021087
-2027-03-07,REG,Washington Capitals,Minnesota Wild,1502,1571,36.1,63.9,2026021088
-2027-03-08,REG,Seattle Kraken,Boston Bruins,1462,1527,36.7,63.3,2026021089
-2027-03-08,REG,Dallas Stars,Toronto Maple Leafs,1540,1448,58.8,41.2,2026021090
+2027-03-07,REG,Columbus Blue Jackets,Anaheim Ducks,1474,1469,46.4,53.6,2026021087
+2027-03-07,REG,Washington Capitals,Minnesota Wild,1502,1574,35.6,64.4,2026021088
+2027-03-08,REG,Seattle Kraken,Boston Bruins,1465,1527,37.1,62.9,2026021089
+2027-03-08,REG,Dallas Stars,Toronto Maple Leafs,1540,1452,58.2,41.8,2026021090
 2027-03-08,REG,Tampa Bay Lightning,Chicago Blackhawks,1557,1415,65.6,34.4,2026021091
 2027-03-09,REG,Vancouver Canucks,Buffalo Sabres,1385,1522,27.7,72.3,2026021092
-2027-03-09,REG,New Jersey Devils,Florida Panthers,1509,1512,45.3,54.7,2026021093
-2027-03-09,REG,Montréal Canadiens,New York Islanders,1536,1494,51.7,48.3,2026021094
-2027-03-09,REG,Ottawa Senators,Pittsburgh Penguins,1537,1472,54.9,45.1,2026021095
-2027-03-09,REG,Calgary Flames,Washington Capitals,1455,1502,39.2,60.8,2026021096
-2027-03-09,REG,Detroit Red Wings,Winnipeg Jets,1467,1489,42.6,57.4,2026021099
+2027-03-09,REG,New Jersey Devils,Florida Panthers,1512,1512,45.7,54.3,2026021093
+2027-03-09,REG,Montréal Canadiens,New York Islanders,1533,1490,51.8,48.2,2026021094
+2027-03-09,REG,Ottawa Senators,Pittsburgh Penguins,1539,1472,55.2,44.8,2026021095
+2027-03-09,REG,Calgary Flames,Washington Capitals,1453,1502,38.9,61.1,2026021096
+2027-03-09,REG,Detroit Red Wings,Winnipeg Jets,1467,1493,42.1,57.9,2026021099
 2027-03-09,REG,Nashville Predators,St. Louis Blues,1497,1516,43.1,56.9,2026021097
-2027-03-09,REG,Carolina Hurricanes,Minnesota Wild,1609,1571,51.2,48.8,2026021098
-2027-03-09,REG,Los Angeles Kings,Edmonton Oilers,1464,1541,35.1,64.9,2026021100
+2027-03-09,REG,Carolina Hurricanes,Minnesota Wild,1609,1574,50.7,49.3,2026021098
+2027-03-09,REG,Los Angeles Kings,Edmonton Oilers,1468,1541,35.6,64.4,2026021100
 2027-03-09,REG,Philadelphia Flyers,Colorado Avalanche,1479,1575,32.7,67.3,2026021101
-2027-03-09,REG,New York Rangers,Utah Mammoth,1498,1504,44.8,55.2,2026021102
-2027-03-09,REG,San Jose Sharks,Vegas Golden Knights,1434,1534,32.1,67.9,2026021103
-2027-03-10,REG,Boston Bruins,Montréal Canadiens,1527,1536,44.4,55.6,2026021104
+2027-03-09,REG,New York Rangers,Utah Mammoth,1498,1501,45.3,54.7,2026021102
+2027-03-09,REG,San Jose Sharks,Vegas Golden Knights,1430,1534,31.7,68.3,2026021103
+2027-03-10,REG,Boston Bruins,Montréal Canadiens,1527,1533,44.9,55.1,2026021104
 2027-03-10,REG,Washington Capitals,Chicago Blackhawks,1502,1415,58.2,41.8,2026021105
-2027-03-10,REG,Anaheim Ducks,Dallas Stars,1472,1540,36.3,63.7,2026021106
-2027-03-11,REG,Minnesota Wild,Ottawa Senators,1571,1537,50.6,49.4,2026021107
-2027-03-11,REG,New Jersey Devils,Tampa Bay Lightning,1509,1557,39.0,61.0,2026021108
-2027-03-11,REG,Vancouver Canucks,Columbus Blue Jackets,1385,1476,33.3,66.7,2026021110
-2027-03-11,REG,Toronto Maple Leafs,Winnipeg Jets,1448,1489,39.9,60.1,2026021112
+2027-03-10,REG,Anaheim Ducks,Dallas Stars,1469,1540,35.9,64.1,2026021106
+2027-03-11,REG,Minnesota Wild,Ottawa Senators,1574,1539,50.8,49.2,2026021107
+2027-03-11,REG,New Jersey Devils,Tampa Bay Lightning,1512,1557,39.4,60.6,2026021108
+2027-03-11,REG,Vancouver Canucks,Columbus Blue Jackets,1385,1474,33.6,66.4,2026021110
+2027-03-11,REG,Toronto Maple Leafs,Winnipeg Jets,1452,1493,40.0,60.0,2026021112
 2027-03-11,REG,Boston Bruins,Pittsburgh Penguins,1527,1472,53.6,46.4,2026021109
-2027-03-11,REG,San Jose Sharks,St. Louis Blues,1434,1516,34.4,65.6,2026021111
+2027-03-11,REG,San Jose Sharks,St. Louis Blues,1430,1516,33.9,66.1,2026021111
 2027-03-11,REG,Nashville Predators,Edmonton Oilers,1497,1541,39.6,60.4,2026021113
 2027-03-11,REG,New York Rangers,Colorado Avalanche,1498,1575,35.1,64.9,2026021114
-2027-03-11,REG,Los Angeles Kings,Seattle Kraken,1464,1462,45.9,54.1,2026021115
+2027-03-11,REG,Los Angeles Kings,Seattle Kraken,1468,1465,46.1,53.9,2026021115
 2027-03-11,REG,Philadelphia Flyers,Vegas Golden Knights,1479,1534,38.0,62.0,2026021116
 2027-03-12,REG,Buffalo Sabres,Detroit Red Wings,1522,1467,53.5,46.5,2026021117
-2027-03-12,REG,New York Islanders,Florida Panthers,1494,1512,43.2,56.8,2026021118
-2027-03-12,REG,Calgary Flames,Carolina Hurricanes,1455,1609,25.8,74.2,2026021119
+2027-03-12,REG,New York Islanders,Florida Panthers,1490,1512,42.6,57.4,2026021118
+2027-03-12,REG,Calgary Flames,Carolina Hurricanes,1453,1609,25.5,74.5,2026021119
 2027-03-13,REG,Washington Capitals,Pittsburgh Penguins,1502,1472,49.9,50.1,2026021120
-2027-03-13,REG,Nashville Predators,Winnipeg Jets,1497,1489,46.9,53.1,2026021121
-2027-03-13,REG,Philadelphia Flyers,Utah Mammoth,1479,1504,42.1,57.9,2026021130
+2027-03-13,REG,Nashville Predators,Winnipeg Jets,1497,1493,46.4,53.6,2026021121
+2027-03-13,REG,Philadelphia Flyers,Utah Mammoth,1479,1501,42.6,57.4,2026021130
 2027-03-13,REG,Chicago Blackhawks,Colorado Avalanche,1415,1575,25.1,74.9,2026021122
-2027-03-13,REG,Anaheim Ducks,St. Louis Blues,1472,1516,39.5,60.5,2026021123
-2027-03-13,REG,Calgary Flames,Boston Bruins,1455,1527,35.7,64.3,2026021124
-2027-03-13,REG,Vancouver Canucks,Toronto Maple Leafs,1385,1448,37.0,63.0,2026021125
-2027-03-13,REG,Montréal Canadiens,Ottawa Senators,1536,1537,45.7,54.3,2026021126
-2027-03-13,REG,New York Islanders,Tampa Bay Lightning,1494,1557,37.0,63.0,2026021127
-2027-03-13,REG,New Jersey Devils,Carolina Hurricanes,1509,1609,32.2,67.8,2026021128
-2027-03-13,REG,San Jose Sharks,Columbus Blue Jackets,1434,1476,39.8,60.2,2026021129
-2027-03-13,REG,Dallas Stars,Los Angeles Kings,1540,1464,56.5,43.5,2026021131
+2027-03-13,REG,Anaheim Ducks,St. Louis Blues,1469,1516,39.1,60.9,2026021123
+2027-03-13,REG,Calgary Flames,Boston Bruins,1453,1527,35.5,64.5,2026021124
+2027-03-13,REG,Vancouver Canucks,Toronto Maple Leafs,1385,1452,36.4,63.6,2026021125
+2027-03-13,REG,Montréal Canadiens,Ottawa Senators,1533,1539,44.8,55.2,2026021126
+2027-03-13,REG,New York Islanders,Tampa Bay Lightning,1490,1557,36.4,63.6,2026021127
+2027-03-13,REG,New Jersey Devils,Carolina Hurricanes,1512,1609,32.5,67.5,2026021128
+2027-03-13,REG,San Jose Sharks,Columbus Blue Jackets,1430,1474,39.6,60.4,2026021129
+2027-03-13,REG,Dallas Stars,Los Angeles Kings,1540,1468,56.0,44.0,2026021131
 2027-03-13,REG,New York Rangers,Vegas Golden Knights,1498,1534,40.6,59.4,2026021132
-2027-03-13,REG,Edmonton Oilers,Seattle Kraken,1541,1462,56.9,43.1,2026021133
+2027-03-13,REG,Edmonton Oilers,Seattle Kraken,1541,1465,56.5,43.5,2026021133
 2027-03-14,REG,Detroit Red Wings,Pittsburgh Penguins,1467,1472,45.0,55.0,2026021134
-2027-03-14,REG,Anaheim Ducks,Chicago Blackhawks,1472,1415,53.9,46.1,2026021135
-2027-03-14,REG,Vancouver Canucks,Ottawa Senators,1385,1537,26.1,73.9,2026021136
-2027-03-14,REG,Buffalo Sabres,Minnesota Wild,1522,1571,38.8,61.2,2026021137
+2027-03-14,REG,Anaheim Ducks,Chicago Blackhawks,1469,1415,53.5,46.5,2026021135
+2027-03-14,REG,Vancouver Canucks,Ottawa Senators,1385,1539,25.8,74.2,2026021136
+2027-03-14,REG,Buffalo Sabres,Minnesota Wild,1522,1574,38.3,61.7,2026021137
 2027-03-15,REG,Tampa Bay Lightning,Washington Capitals,1557,1502,53.6,46.4,2026021138
-2027-03-15,REG,New York Islanders,Boston Bruins,1494,1527,41.0,59.0,2026021139
-2027-03-15,REG,San Jose Sharks,Buffalo Sabres,1434,1522,33.7,66.3,2026021140
-2027-03-15,REG,Florida Panthers,Toronto Maple Leafs,1512,1448,54.9,45.1,2026021141
-2027-03-15,REG,Dallas Stars,Utah Mammoth,1540,1504,50.8,49.2,2026021142
+2027-03-15,REG,New York Islanders,Boston Bruins,1490,1527,40.4,59.6,2026021139
+2027-03-15,REG,San Jose Sharks,Buffalo Sabres,1430,1522,33.2,66.8,2026021140
+2027-03-15,REG,Florida Panthers,Toronto Maple Leafs,1512,1452,54.2,45.8,2026021141
+2027-03-15,REG,Dallas Stars,Utah Mammoth,1540,1501,51.3,48.7,2026021142
 2027-03-15,REG,Edmonton Oilers,Colorado Avalanche,1541,1575,40.9,59.1,2026021143
-2027-03-15,REG,Nashville Predators,Calgary Flames,1497,1455,51.7,48.3,2026021144
-2027-03-15,REG,St. Louis Blues,Seattle Kraken,1516,1462,53.4,46.6,2026021145
-2027-03-15,REG,Winnipeg Jets,Vegas Golden Knights,1489,1534,39.4,60.6,2026021146
-2027-03-16,REG,Florida Panthers,Montréal Canadiens,1512,1536,42.2,57.8,2026021147
-2027-03-16,REG,Ottawa Senators,New York Rangers,1537,1498,51.3,48.7,2026021148
+2027-03-15,REG,Nashville Predators,Calgary Flames,1497,1453,52.0,48.0,2026021144
+2027-03-15,REG,St. Louis Blues,Seattle Kraken,1516,1465,53.0,47.0,2026021145
+2027-03-15,REG,Winnipeg Jets,Vegas Golden Knights,1493,1534,39.9,60.1,2026021146
+2027-03-16,REG,Florida Panthers,Montréal Canadiens,1512,1533,42.7,57.3,2026021147
+2027-03-16,REG,Ottawa Senators,New York Rangers,1539,1498,51.6,48.4,2026021148
 2027-03-16,REG,Detroit Red Wings,Philadelphia Flyers,1467,1479,44.0,56.0,2026021149
-2027-03-16,REG,Pittsburgh Penguins,Columbus Blue Jackets,1472,1476,45.1,54.9,2026021150
-2027-03-16,REG,San Jose Sharks,Chicago Blackhawks,1434,1415,48.5,51.5,2026021151
-2027-03-16,REG,Winnipeg Jets,Los Angeles Kings,1489,1464,49.3,50.7,2026021153
-2027-03-16,REG,Carolina Hurricanes,Anaheim Ducks,1609,1472,64.9,35.1,2026021152
-2027-03-17,REG,New York Islanders,Washington Capitals,1494,1502,44.6,55.4,2026021154
-2027-03-17,REG,Tampa Bay Lightning,Toronto Maple Leafs,1557,1448,61.2,38.8,2026021155
-2027-03-17,REG,Minnesota Wild,Colorado Avalanche,1571,1575,45.1,54.9,2026021156
-2027-03-17,REG,Dallas Stars,Calgary Flames,1540,1455,57.8,42.2,2026021157
+2027-03-16,REG,Pittsburgh Penguins,Columbus Blue Jackets,1472,1474,45.5,54.5,2026021150
+2027-03-16,REG,San Jose Sharks,Chicago Blackhawks,1430,1415,48.0,52.0,2026021151
+2027-03-16,REG,Winnipeg Jets,Los Angeles Kings,1493,1468,49.2,50.8,2026021153
+2027-03-16,REG,Carolina Hurricanes,Anaheim Ducks,1609,1469,65.3,34.7,2026021152
+2027-03-17,REG,New York Islanders,Washington Capitals,1490,1502,44.0,56.0,2026021154
+2027-03-17,REG,Tampa Bay Lightning,Toronto Maple Leafs,1557,1452,60.6,39.4,2026021155
+2027-03-17,REG,Minnesota Wild,Colorado Avalanche,1574,1575,45.6,54.4,2026021156
+2027-03-17,REG,Dallas Stars,Calgary Flames,1540,1453,58.1,41.9,2026021157
 2027-03-17,REG,Nashville Predators,Vancouver Canucks,1497,1385,61.6,38.4,2026021158
-2027-03-17,REG,Seattle Kraken,Vegas Golden Knights,1462,1534,35.8,64.2,2026021159
-2027-03-18,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1536,48.6,51.4,2026021161
-2027-03-18,REG,Florida Panthers,Ottawa Senators,1512,1537,42.2,57.8,2026021162
-2027-03-18,REG,Columbus Blue Jackets,Detroit Red Wings,1476,1467,47.0,53.0,2026021163
-2027-03-18,REG,Pittsburgh Penguins,New Jersey Devils,1472,1509,40.4,59.6,2026021164
-2027-03-18,REG,Toronto Maple Leafs,New York Rangers,1448,1498,38.7,61.3,2026021165
+2027-03-17,REG,Seattle Kraken,Vegas Golden Knights,1465,1534,36.2,63.8,2026021159
+2027-03-18,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1533,49.2,50.8,2026021161
+2027-03-18,REG,Florida Panthers,Ottawa Senators,1512,1539,41.9,58.1,2026021162
+2027-03-18,REG,Columbus Blue Jackets,Detroit Red Wings,1474,1467,46.6,53.4,2026021163
+2027-03-18,REG,Pittsburgh Penguins,New Jersey Devils,1472,1512,40.1,59.9,2026021164
+2027-03-18,REG,Toronto Maple Leafs,New York Rangers,1452,1498,39.3,60.7,2026021165
 2027-03-18,REG,Boston Bruins,Philadelphia Flyers,1527,1479,52.6,47.4,2026021166
 2027-03-18,REG,Washington Capitals,Buffalo Sabres,1502,1522,42.9,57.1,2026021160
-2027-03-18,REG,San Jose Sharks,Winnipeg Jets,1434,1489,38.0,62.0,2026021167
+2027-03-18,REG,San Jose Sharks,Winnipeg Jets,1430,1493,37.0,63.0,2026021167
 2027-03-18,REG,St. Louis Blues,Edmonton Oilers,1516,1541,42.2,57.8,2026021168
-2027-03-18,REG,Utah Mammoth,Anaheim Ducks,1504,1472,50.3,49.7,2026021169
-2027-03-18,REG,Carolina Hurricanes,Los Angeles Kings,1609,1464,66.0,34.0,2026021170
-2027-03-19,REG,Calgary Flames,Minnesota Wild,1455,1571,30.2,69.8,2026021171
-2027-03-19,REG,Chicago Blackhawks,Utah Mammoth,1415,1504,33.4,66.6,2026021172
-2027-03-19,REG,Colorado Avalanche,Seattle Kraken,1575,1462,61.6,38.4,2026021173
-2027-03-20,REG,Montréal Canadiens,Detroit Red Wings,1536,1467,55.6,44.4,2026021175
+2027-03-18,REG,Utah Mammoth,Anaheim Ducks,1501,1469,50.2,49.8,2026021169
+2027-03-18,REG,Carolina Hurricanes,Los Angeles Kings,1609,1468,65.5,34.5,2026021170
+2027-03-19,REG,Calgary Flames,Minnesota Wild,1453,1574,29.5,70.5,2026021171
+2027-03-19,REG,Chicago Blackhawks,Utah Mammoth,1415,1501,33.9,66.1,2026021172
+2027-03-19,REG,Colorado Avalanche,Seattle Kraken,1575,1465,61.2,38.8,2026021173
+2027-03-20,REG,Montréal Canadiens,Detroit Red Wings,1533,1467,55.0,45.0,2026021175
 2027-03-20,REG,Florida Panthers,Buffalo Sabres,1512,1522,44.3,55.7,2026021174
-2027-03-20,REG,Philadelphia Flyers,New York Islanders,1479,1494,43.5,56.5,2026021176
+2027-03-20,REG,Philadelphia Flyers,New York Islanders,1479,1490,44.2,55.8,2026021176
 2027-03-20,REG,Dallas Stars,Edmonton Oilers,1540,1541,45.6,54.4,2026021177
 2027-03-20,REG,Boston Bruins,Nashville Predators,1527,1497,50.0,50.0,2026021178
-2027-03-20,REG,Tampa Bay Lightning,Ottawa Senators,1557,1537,48.6,51.4,2026021179
-2027-03-20,REG,Toronto Maple Leafs,New Jersey Devils,1448,1509,37.1,62.9,2026021180
-2027-03-20,REG,Columbus Blue Jackets,Winnipeg Jets,1476,1489,43.9,56.1,2026021181
+2027-03-20,REG,Tampa Bay Lightning,Ottawa Senators,1557,1539,48.3,51.7,2026021179
+2027-03-20,REG,Toronto Maple Leafs,New Jersey Devils,1452,1512,37.4,62.6,2026021180
+2027-03-20,REG,Columbus Blue Jackets,Winnipeg Jets,1474,1493,43.0,57.0,2026021181
 2027-03-20,REG,Pittsburgh Penguins,New York Rangers,1472,1498,42.1,57.9,2026021182
 2027-03-20,REG,St. Louis Blues,Vancouver Canucks,1516,1385,64.1,35.9,2026021183
-2027-03-20,REG,Vegas Golden Knights,Anaheim Ducks,1534,1472,54.6,45.4,2026021184
-2027-03-20,REG,Carolina Hurricanes,San Jose Sharks,1609,1434,69.7,30.3,2026021185
-2027-03-21,REG,Utah Mammoth,Minnesota Wild,1504,1571,36.5,63.5,2026021186
-2027-03-21,REG,Buffalo Sabres,New York Islanders,1522,1494,49.6,50.4,2026021187
+2027-03-20,REG,Vegas Golden Knights,Anaheim Ducks,1534,1469,55.0,45.0,2026021184
+2027-03-20,REG,Carolina Hurricanes,San Jose Sharks,1609,1430,70.2,29.8,2026021185
+2027-03-21,REG,Utah Mammoth,Minnesota Wild,1501,1574,35.5,64.5,2026021186
+2027-03-21,REG,Buffalo Sabres,New York Islanders,1522,1490,50.3,49.7,2026021187
 2027-03-21,REG,Chicago Blackhawks,Colorado Avalanche,1415,1575,25.1,74.9,2026021188
 2027-03-21,REG,Washington Capitals,New York Rangers,1502,1498,46.3,53.7,2026021189
-2027-03-21,REG,St. Louis Blues,Calgary Flames,1516,1455,54.4,45.6,2026021190
-2027-03-21,REG,Los Angeles Kings,Seattle Kraken,1464,1462,45.9,54.1,2026021191
+2027-03-21,REG,St. Louis Blues,Calgary Flames,1516,1453,54.7,45.3,2026021190
+2027-03-21,REG,Los Angeles Kings,Seattle Kraken,1468,1465,46.1,53.9,2026021191
 2027-03-21,REG,Edmonton Oilers,Vancouver Canucks,1541,1385,67.3,32.7,2026021192
-2027-03-22,REG,Columbus Blue Jackets,Pittsburgh Penguins,1476,1472,46.3,53.7,2026021193
-2027-03-22,REG,Toronto Maple Leafs,Montréal Canadiens,1448,1536,33.6,66.4,2026021194
-2027-03-22,REG,San Jose Sharks,Anaheim Ducks,1434,1472,40.3,59.7,2026021195
+2027-03-22,REG,Columbus Blue Jackets,Pittsburgh Penguins,1474,1472,45.9,54.1,2026021193
+2027-03-22,REG,Toronto Maple Leafs,Montréal Canadiens,1452,1533,34.6,65.4,2026021194
+2027-03-22,REG,San Jose Sharks,Anaheim Ducks,1430,1469,40.2,59.8,2026021195
 2027-03-23,REG,Buffalo Sabres,Boston Bruins,1522,1527,44.9,55.1,2026021196
 2027-03-23,REG,Florida Panthers,Tampa Bay Lightning,1512,1557,39.4,60.6,2026021197
-2027-03-23,REG,Philadelphia Flyers,New Jersey Devils,1479,1509,41.4,58.6,2026021198
+2027-03-23,REG,Philadelphia Flyers,New Jersey Devils,1479,1512,41.1,58.9,2026021198
 2027-03-23,REG,Detroit Red Wings,Washington Capitals,1467,1502,40.9,59.1,2026021199
 2027-03-23,REG,New York Rangers,Nashville Predators,1498,1497,45.7,54.3,2026021200
 2027-03-23,REG,Carolina Hurricanes,Dallas Stars,1609,1540,55.6,44.4,2026021201
-2027-03-23,REG,Chicago Blackhawks,Minnesota Wild,1415,1571,25.5,74.5,2026021202
-2027-03-23,REG,St. Louis Blues,Winnipeg Jets,1516,1489,49.6,50.4,2026021203
-2027-03-23,REG,Edmonton Oilers,Calgary Flames,1541,1455,57.9,42.1,2026021205
-2027-03-23,REG,Utah Mammoth,Colorado Avalanche,1504,1575,35.9,64.1,2026021204
-2027-03-23,REG,Vegas Golden Knights,Seattle Kraken,1534,1462,55.9,44.1,2026021206
-2027-03-23,REG,Los Angeles Kings,Vancouver Canucks,1464,1385,57.0,43.0,2026021207
-2027-03-24,REG,Ottawa Senators,Montréal Canadiens,1537,1536,45.7,54.3,2026021208
+2027-03-23,REG,Chicago Blackhawks,Minnesota Wild,1415,1574,25.1,74.9,2026021202
+2027-03-23,REG,St. Louis Blues,Winnipeg Jets,1516,1493,49.1,50.9,2026021203
+2027-03-23,REG,Edmonton Oilers,Calgary Flames,1541,1453,58.2,41.8,2026021205
+2027-03-23,REG,Utah Mammoth,Colorado Avalanche,1501,1575,35.5,64.5,2026021204
+2027-03-23,REG,Vegas Golden Knights,Seattle Kraken,1534,1465,55.5,44.5,2026021206
+2027-03-23,REG,Los Angeles Kings,Vancouver Canucks,1468,1385,57.5,42.5,2026021207
+2027-03-24,REG,Ottawa Senators,Montréal Canadiens,1539,1533,46.5,53.5,2026021208
 2027-03-24,REG,Washington Capitals,Detroit Red Wings,1502,1467,50.6,49.4,2026021209
-2027-03-24,REG,Anaheim Ducks,San Jose Sharks,1472,1434,51.1,48.9,2026021210
+2027-03-24,REG,Anaheim Ducks,San Jose Sharks,1469,1430,51.3,48.7,2026021210
 2027-03-25,REG,Philadelphia Flyers,Tampa Bay Lightning,1479,1557,35.0,65.0,2026021213
-2027-03-25,REG,Ottawa Senators,Boston Bruins,1537,1527,47.0,53.0,2026021211
-2027-03-25,REG,Toronto Maple Leafs,Buffalo Sabres,1448,1522,35.5,64.5,2026021212
+2027-03-25,REG,Ottawa Senators,Boston Bruins,1539,1527,47.3,52.7,2026021211
+2027-03-25,REG,Toronto Maple Leafs,Buffalo Sabres,1452,1522,36.1,63.9,2026021212
 2027-03-25,REG,New York Rangers,Florida Panthers,1498,1512,43.7,56.3,2026021214
-2027-03-25,REG,New Jersey Devils,Pittsburgh Penguins,1509,1472,51.1,48.9,2026021215
+2027-03-25,REG,New Jersey Devils,Pittsburgh Penguins,1512,1472,51.4,48.6,2026021215
 2027-03-25,REG,Dallas Stars,Carolina Hurricanes,1540,1609,36.1,63.9,2026021216
-2027-03-25,REG,Chicago Blackhawks,Columbus Blue Jackets,1415,1476,37.1,62.9,2026021217
-2027-03-25,REG,New York Islanders,St. Louis Blues,1494,1516,42.6,57.4,2026021218
-2027-03-25,REG,Colorado Avalanche,Winnipeg Jets,1575,1489,58.0,42.0,2026021219
-2027-03-25,REG,Edmonton Oilers,Minnesota Wild,1541,1571,41.5,58.5,2026021220
-2027-03-25,REG,Los Angeles Kings,Calgary Flames,1464,1455,46.9,53.1,2026021221
-2027-03-25,REG,Anaheim Ducks,Seattle Kraken,1472,1462,47.1,52.9,2026021222
+2027-03-25,REG,Chicago Blackhawks,Columbus Blue Jackets,1415,1474,37.4,62.6,2026021217
+2027-03-25,REG,New York Islanders,St. Louis Blues,1490,1516,42.0,58.0,2026021218
+2027-03-25,REG,Colorado Avalanche,Winnipeg Jets,1575,1493,57.5,42.5,2026021219
+2027-03-25,REG,Edmonton Oilers,Minnesota Wild,1541,1574,40.9,59.1,2026021220
+2027-03-25,REG,Los Angeles Kings,Calgary Flames,1468,1453,47.8,52.2,2026021221
+2027-03-25,REG,Anaheim Ducks,Seattle Kraken,1469,1465,46.2,53.8,2026021222
 2027-03-25,REG,Vegas Golden Knights,Vancouver Canucks,1534,1385,66.4,33.6,2026021223
 2027-03-26,REG,Boston Bruins,Washington Capitals,1527,1502,49.4,50.6,2026021224
 2027-03-26,REG,Nashville Predators,Chicago Blackhawks,1497,1415,57.6,42.4,2026021225
-2027-03-26,REG,San Jose Sharks,Utah Mammoth,1434,1504,36.0,64.0,2026021226
-2027-03-27,REG,Seattle Kraken,Minnesota Wild,1462,1571,31.1,68.9,2026021228
-2027-03-27,REG,Los Angeles Kings,Edmonton Oilers,1464,1541,35.1,64.9,2026021227
-2027-03-27,REG,Anaheim Ducks,Vancouver Canucks,1472,1385,58.1,41.9,2026021229
+2027-03-26,REG,San Jose Sharks,Utah Mammoth,1430,1501,36.0,64.0,2026021226
+2027-03-27,REG,Seattle Kraken,Minnesota Wild,1465,1574,31.0,69.0,2026021228
+2027-03-27,REG,Los Angeles Kings,Edmonton Oilers,1468,1541,35.6,64.4,2026021227
+2027-03-27,REG,Anaheim Ducks,Vancouver Canucks,1469,1385,57.7,42.3,2026021229
 2027-03-27,REG,Philadelphia Flyers,Florida Panthers,1479,1512,41.1,58.9,2026021230
-2027-03-27,REG,Ottawa Senators,Toronto Maple Leafs,1537,1448,58.4,41.6,2026021231
-2027-03-27,REG,New Jersey Devils,Montréal Canadiens,1509,1536,41.9,58.1,2026021232
+2027-03-27,REG,Ottawa Senators,Toronto Maple Leafs,1539,1452,58.0,42.0,2026021231
+2027-03-27,REG,New Jersey Devils,Montréal Canadiens,1512,1533,42.7,57.3,2026021232
 2027-03-27,REG,New York Rangers,Tampa Bay Lightning,1498,1557,37.4,62.6,2026021233
 2027-03-27,REG,Carolina Hurricanes,Pittsburgh Penguins,1609,1472,64.9,35.1,2026021234
-2027-03-27,REG,St. Louis Blues,Columbus Blue Jackets,1516,1476,51.4,48.6,2026021235
-2027-03-27,REG,Winnipeg Jets,Colorado Avalanche,1489,1575,33.9,66.1,2026021236
-2027-03-27,REG,Detroit Red Wings,New York Islanders,1467,1494,41.9,58.1,2026021237
+2027-03-27,REG,St. Louis Blues,Columbus Blue Jackets,1516,1474,51.8,48.2,2026021235
+2027-03-27,REG,Winnipeg Jets,Colorado Avalanche,1493,1575,34.4,65.6,2026021236
+2027-03-27,REG,Detroit Red Wings,New York Islanders,1467,1490,42.5,57.5,2026021237
 2027-03-27,REG,Nashville Predators,Dallas Stars,1497,1540,39.7,60.3,2026021238
-2027-03-27,REG,Vegas Golden Knights,Calgary Flames,1534,1455,56.9,43.1,2026021239
-2027-03-28,REG,Seattle Kraken,Chicago Blackhawks,1462,1415,52.6,47.4,2026021240
-2027-03-28,REG,Detroit Red Wings,Montréal Canadiens,1467,1536,36.1,63.9,2026021242
-2027-03-28,REG,Washington Capitals,Toronto Maple Leafs,1502,1448,53.4,46.6,2026021241
+2027-03-27,REG,Vegas Golden Knights,Calgary Flames,1534,1453,57.2,42.8,2026021239
+2027-03-28,REG,Seattle Kraken,Chicago Blackhawks,1465,1415,53.0,47.0,2026021240
+2027-03-28,REG,Detroit Red Wings,Montréal Canadiens,1467,1533,36.6,63.4,2026021242
+2027-03-28,REG,Washington Capitals,Toronto Maple Leafs,1502,1452,52.8,47.2,2026021241
 2027-03-28,REG,Buffalo Sabres,St. Louis Blues,1522,1516,46.5,53.5,2026021243
-2027-03-29,REG,Carolina Hurricanes,New Jersey Devils,1609,1509,59.9,40.1,2026021244
-2027-03-29,REG,Minnesota Wild,New York Rangers,1571,1498,56.1,43.9,2026021245
-2027-03-29,REG,Vancouver Canucks,Los Angeles Kings,1385,1464,34.8,65.2,2026021246
-2027-03-29,REG,Colorado Avalanche,San Jose Sharks,1575,1434,65.4,34.6,2026021247
-2027-03-30,REG,Montréal Canadiens,Boston Bruins,1536,1527,47.0,53.0,2026021248
-2027-03-30,REG,Ottawa Senators,Detroit Red Wings,1537,1467,55.6,44.4,2026021249
-2027-03-30,REG,Toronto Maple Leafs,Tampa Bay Lightning,1448,1557,31.0,69.0,2026021250
-2027-03-30,REG,Columbus Blue Jackets,Florida Panthers,1476,1512,40.7,59.3,2026021251
+2027-03-29,REG,Carolina Hurricanes,New Jersey Devils,1609,1512,59.6,40.4,2026021244
+2027-03-29,REG,Minnesota Wild,New York Rangers,1574,1498,56.7,43.3,2026021245
+2027-03-29,REG,Vancouver Canucks,Los Angeles Kings,1385,1468,34.3,65.7,2026021246
+2027-03-29,REG,Colorado Avalanche,San Jose Sharks,1575,1430,65.9,34.1,2026021247
+2027-03-30,REG,Montréal Canadiens,Boston Bruins,1533,1527,46.5,53.5,2026021248
+2027-03-30,REG,Ottawa Senators,Detroit Red Wings,1539,1467,55.9,44.1,2026021249
+2027-03-30,REG,Toronto Maple Leafs,Tampa Bay Lightning,1452,1557,31.5,68.5,2026021250
+2027-03-30,REG,Columbus Blue Jackets,Florida Panthers,1474,1512,40.3,59.7,2026021251
 2027-03-30,REG,Pittsburgh Penguins,Philadelphia Flyers,1472,1479,44.7,55.3,2026021253
 2027-03-30,REG,Chicago Blackhawks,Washington Capitals,1415,1502,33.8,66.2,2026021254
-2027-03-30,REG,Carolina Hurricanes,New York Islanders,1609,1494,62.0,38.0,2026021252
+2027-03-30,REG,Carolina Hurricanes,New York Islanders,1609,1490,62.6,37.4,2026021252
 2027-03-30,REG,Buffalo Sabres,Nashville Predators,1522,1497,49.2,50.8,2026021255
-2027-03-30,REG,Calgary Flames,Dallas Stars,1455,1540,34.1,65.9,2026021256
-2027-03-30,REG,Utah Mammoth,Seattle Kraken,1504,1462,51.7,48.3,2026021257
-2027-03-30,REG,Colorado Avalanche,Anaheim Ducks,1575,1472,60.3,39.7,2026021258
-2027-03-31,REG,Minnesota Wild,New Jersey Devils,1571,1509,54.5,45.5,2026021259
-2027-03-31,REG,San Jose Sharks,Edmonton Oilers,1434,1541,31.3,68.7,2026021260
-2027-03-31,REG,Winnipeg Jets,Los Angeles Kings,1489,1464,49.3,50.7,2026021261
+2027-03-30,REG,Calgary Flames,Dallas Stars,1453,1540,33.8,66.2,2026021256
+2027-03-30,REG,Utah Mammoth,Seattle Kraken,1501,1465,50.8,49.2,2026021257
+2027-03-30,REG,Colorado Avalanche,Anaheim Ducks,1575,1469,60.7,39.3,2026021258
+2027-03-31,REG,Minnesota Wild,New Jersey Devils,1574,1512,54.7,45.3,2026021259
+2027-03-31,REG,San Jose Sharks,Edmonton Oilers,1430,1541,30.9,69.1,2026021260
+2027-03-31,REG,Winnipeg Jets,Los Angeles Kings,1493,1468,49.2,50.8,2026021261
 2027-03-31,REG,Vancouver Canucks,Vegas Golden Knights,1385,1534,26.4,73.6,2026021262
-2027-04-01,REG,New York Rangers,Montréal Canadiens,1498,1536,40.2,59.8,2026021263
-2027-04-01,REG,Columbus Blue Jackets,Tampa Bay Lightning,1476,1557,34.6,65.4,2026021264
-2027-04-01,REG,Toronto Maple Leafs,Florida Panthers,1448,1512,36.8,63.2,2026021265
-2027-04-01,REG,New York Islanders,Pittsburgh Penguins,1494,1472,48.9,51.1,2026021267
+2027-04-01,REG,New York Rangers,Montréal Canadiens,1498,1533,40.8,59.2,2026021263
+2027-04-01,REG,Columbus Blue Jackets,Tampa Bay Lightning,1474,1557,34.3,65.7,2026021264
+2027-04-01,REG,Toronto Maple Leafs,Florida Panthers,1452,1512,37.4,62.6,2026021265
+2027-04-01,REG,New York Islanders,Pittsburgh Penguins,1490,1472,48.2,51.8,2026021267
 2027-04-01,REG,Boston Bruins,Buffalo Sabres,1527,1522,46.5,53.5,2026021268
 2027-04-01,REG,Washington Capitals,Philadelphia Flyers,1502,1479,48.9,51.1,2026021266
-2027-04-01,REG,Calgary Flames,St. Louis Blues,1455,1516,37.2,62.8,2026021269
+2027-04-01,REG,Calgary Flames,St. Louis Blues,1453,1516,37.0,63.0,2026021269
 2027-04-01,REG,Chicago Blackhawks,Nashville Predators,1415,1497,34.3,65.7,2026021270
-2027-04-01,REG,Anaheim Ducks,Utah Mammoth,1472,1504,41.1,58.9,2026021271
+2027-04-01,REG,Anaheim Ducks,Utah Mammoth,1469,1501,41.2,58.8,2026021271
 2027-04-02,REG,Carolina Hurricanes,Detroit Red Wings,1609,1467,65.5,34.5,2026021272
-2027-04-02,REG,Ottawa Senators,New York Islanders,1537,1494,51.8,48.2,2026021273
-2027-04-02,REG,Dallas Stars,Minnesota Wild,1540,1571,41.3,58.7,2026021274
-2027-04-02,REG,Los Angeles Kings,Colorado Avalanche,1464,1575,30.8,69.2,2026021275
+2027-04-02,REG,Ottawa Senators,New York Islanders,1539,1490,52.7,47.3,2026021273
+2027-04-02,REG,Dallas Stars,Minnesota Wild,1540,1574,40.8,59.2,2026021274
+2027-04-02,REG,Los Angeles Kings,Colorado Avalanche,1468,1575,31.3,68.7,2026021275
 2027-04-02,REG,Edmonton Oilers,Vegas Golden Knights,1541,1534,46.7,53.3,2026021276
 2027-04-03,REG,Florida Panthers,New York Rangers,1512,1498,47.7,52.3,2026021277
 2027-04-03,REG,Tampa Bay Lightning,Boston Bruins,1557,1527,50.0,50.0,2026021278
-2027-04-03,REG,Calgary Flames,Nashville Predators,1455,1497,39.8,60.2,2026021279
-2027-04-03,REG,Columbus Blue Jackets,Washington Capitals,1476,1502,42.1,57.9,2026021280
-2027-04-03,REG,New Jersey Devils,Carolina Hurricanes,1509,1609,32.2,67.8,2026021281
+2027-04-03,REG,Calgary Flames,Nashville Predators,1453,1497,39.5,60.5,2026021279
+2027-04-03,REG,Columbus Blue Jackets,Washington Capitals,1474,1502,41.7,58.3,2026021280
+2027-04-03,REG,New Jersey Devils,Carolina Hurricanes,1512,1609,32.5,67.5,2026021281
 2027-04-03,REG,Chicago Blackhawks,Dallas Stars,1415,1540,29.0,71.0,2026021282
-2027-04-03,REG,Buffalo Sabres,Toronto Maple Leafs,1522,1448,56.3,43.7,2026021283
-2027-04-03,REG,Winnipeg Jets,Seattle Kraken,1489,1462,49.5,50.5,2026021284
+2027-04-03,REG,Buffalo Sabres,Toronto Maple Leafs,1522,1452,55.6,44.4,2026021283
+2027-04-03,REG,Winnipeg Jets,Seattle Kraken,1493,1465,49.6,50.4,2026021284
 2027-04-03,REG,Philadelphia Flyers,Pittsburgh Penguins,1479,1472,46.7,53.3,2026021285
-2027-04-03,REG,Vegas Golden Knights,Utah Mammoth,1534,1504,49.9,50.1,2026021286
-2027-04-03,REG,San Jose Sharks,Vancouver Canucks,1434,1385,52.7,47.3,2026021287
-2027-04-03,REG,Edmonton Oilers,Anaheim Ducks,1541,1472,55.5,44.5,2026021288
-2027-04-03,REG,St. Louis Blues,Los Angeles Kings,1516,1464,53.2,46.8,2026021289
-2027-04-04,REG,Colorado Avalanche,Minnesota Wild,1575,1571,46.3,53.7,2026021290
-2027-04-04,REG,Detroit Red Wings,Ottawa Senators,1467,1537,36.1,63.9,2026021292
-2027-04-04,REG,Florida Panthers,New Jersey Devils,1512,1509,46.0,54.0,2026021291
+2027-04-03,REG,Vegas Golden Knights,Utah Mammoth,1534,1501,50.5,49.5,2026021286
+2027-04-03,REG,San Jose Sharks,Vancouver Canucks,1430,1385,52.2,47.8,2026021287
+2027-04-03,REG,Edmonton Oilers,Anaheim Ducks,1541,1469,55.9,44.1,2026021288
+2027-04-03,REG,St. Louis Blues,Los Angeles Kings,1516,1468,52.6,47.4,2026021289
+2027-04-04,REG,Colorado Avalanche,Minnesota Wild,1575,1574,45.8,54.2,2026021290
+2027-04-04,REG,Detroit Red Wings,Ottawa Senators,1467,1539,35.8,64.2,2026021292
+2027-04-04,REG,Florida Panthers,New Jersey Devils,1512,1512,45.7,54.3,2026021291
 2027-04-04,REG,Pittsburgh Penguins,Washington Capitals,1472,1502,41.5,58.5,2026021293
-2027-04-04,REG,Montréal Canadiens,New York Islanders,1536,1494,51.7,48.3,2026021294
-2027-04-04,REG,St. Louis Blues,San Jose Sharks,1516,1434,57.4,42.6,2026021295
+2027-04-04,REG,Montréal Canadiens,New York Islanders,1533,1490,51.8,48.2,2026021294
+2027-04-04,REG,St. Louis Blues,San Jose Sharks,1516,1430,57.9,42.1,2026021295
 2027-04-05,REG,Philadelphia Flyers,Carolina Hurricanes,1479,1609,28.5,71.5,2026021296
 2027-04-05,REG,Tampa Bay Lightning,Buffalo Sabres,1557,1522,50.8,49.2,2026021297
-2027-04-05,REG,Boston Bruins,Toronto Maple Leafs,1527,1448,57.1,42.9,2026021298
-2027-04-05,REG,Seattle Kraken,Dallas Stars,1462,1540,35.0,65.0,2026021299
-2027-04-05,REG,Winnipeg Jets,Utah Mammoth,1489,1504,43.5,56.5,2026021300
-2027-04-05,REG,Calgary Flames,Edmonton Oilers,1455,1541,34.0,66.0,2026021301
+2027-04-05,REG,Boston Bruins,Toronto Maple Leafs,1527,1452,56.4,43.6,2026021298
+2027-04-05,REG,Seattle Kraken,Dallas Stars,1465,1540,35.4,64.6,2026021299
+2027-04-05,REG,Winnipeg Jets,Utah Mammoth,1493,1501,44.5,55.5,2026021300
+2027-04-05,REG,Calgary Flames,Edmonton Oilers,1453,1541,33.7,66.3,2026021301
 2027-04-06,REG,Pittsburgh Penguins,New York Rangers,1472,1498,42.1,57.9,2026021306
-2027-04-06,REG,Montréal Canadiens,Florida Panthers,1536,1512,49.2,50.8,2026021302
-2027-04-06,REG,Tampa Bay Lightning,New Jersey Devils,1557,1509,52.5,47.5,2026021303
-2027-04-06,REG,Detroit Red Wings,New York Islanders,1467,1494,41.9,58.1,2026021305
-2027-04-06,REG,Washington Capitals,Columbus Blue Jackets,1502,1476,49.3,50.7,2026021304
-2027-04-06,REG,Seattle Kraken,Nashville Predators,1462,1497,40.8,59.2,2026021307
-2027-04-06,REG,Chicago Blackhawks,Minnesota Wild,1415,1571,25.5,74.5,2026021308
+2027-04-06,REG,Montréal Canadiens,Florida Panthers,1533,1512,48.7,51.3,2026021302
+2027-04-06,REG,Tampa Bay Lightning,New Jersey Devils,1557,1512,52.2,47.8,2026021303
+2027-04-06,REG,Detroit Red Wings,New York Islanders,1467,1490,42.5,57.5,2026021305
+2027-04-06,REG,Washington Capitals,Columbus Blue Jackets,1502,1474,49.7,50.3,2026021304
+2027-04-06,REG,Seattle Kraken,Nashville Predators,1465,1497,41.2,58.8,2026021307
+2027-04-06,REG,Chicago Blackhawks,Minnesota Wild,1415,1574,25.1,74.9,2026021308
 2027-04-06,REG,Colorado Avalanche,Vancouver Canucks,1575,1385,71.4,28.6,2026021309
-2027-04-06,REG,Los Angeles Kings,Anaheim Ducks,1464,1472,44.6,55.4,2026021311
+2027-04-06,REG,Los Angeles Kings,Anaheim Ducks,1468,1469,45.5,54.5,2026021311
 2027-04-06,REG,St. Louis Blues,Vegas Golden Knights,1516,1534,43.2,56.8,2026021310
-2027-04-07,REG,Ottawa Senators,Carolina Hurricanes,1537,1609,35.7,64.3,2026021313
+2027-04-07,REG,Ottawa Senators,Carolina Hurricanes,1539,1609,35.9,64.1,2026021313
 2027-04-07,REG,Boston Bruins,Buffalo Sabres,1527,1522,46.5,53.5,2026021312
-2027-04-07,REG,Edmonton Oilers,Winnipeg Jets,1541,1489,53.1,46.9,2026021314
-2027-04-07,REG,Dallas Stars,Utah Mammoth,1540,1504,50.8,49.2,2026021315
-2027-04-08,REG,Washington Capitals,Ottawa Senators,1502,1537,40.8,59.2,2026021316
-2027-04-08,REG,Montréal Canadiens,Tampa Bay Lightning,1536,1557,42.8,57.2,2026021317
-2027-04-08,REG,New York Islanders,New Jersey Devils,1494,1509,43.6,56.4,2026021318
-2027-04-08,REG,Philadelphia Flyers,Columbus Blue Jackets,1479,1476,46.1,53.9,2026021319
+2027-04-07,REG,Edmonton Oilers,Winnipeg Jets,1541,1493,52.6,47.4,2026021314
+2027-04-07,REG,Dallas Stars,Utah Mammoth,1540,1501,51.3,48.7,2026021315
+2027-04-08,REG,Washington Capitals,Ottawa Senators,1502,1539,40.5,59.5,2026021316
+2027-04-08,REG,Montréal Canadiens,Tampa Bay Lightning,1533,1557,42.2,57.8,2026021317
+2027-04-08,REG,New York Islanders,New Jersey Devils,1490,1512,42.6,57.4,2026021318
+2027-04-08,REG,Philadelphia Flyers,Columbus Blue Jackets,1479,1474,46.5,53.5,2026021319
 2027-04-08,REG,Nashville Predators,Chicago Blackhawks,1497,1415,57.6,42.4,2026021320
-2027-04-08,REG,Seattle Kraken,St. Louis Blues,1462,1516,38.2,61.8,2026021321
-2027-04-08,REG,Colorado Avalanche,Calgary Flames,1575,1455,62.6,37.4,2026021322
-2027-04-08,REG,Minnesota Wild,San Jose Sharks,1571,1434,64.9,35.1,2026021323
-2027-04-08,REG,Vegas Golden Knights,Los Angeles Kings,1534,1464,55.7,44.3,2026021324
+2027-04-08,REG,Seattle Kraken,St. Louis Blues,1465,1516,38.6,61.4,2026021321
+2027-04-08,REG,Colorado Avalanche,Calgary Flames,1575,1453,62.9,37.1,2026021322
+2027-04-08,REG,Minnesota Wild,San Jose Sharks,1574,1430,65.8,34.2,2026021323
+2027-04-08,REG,Vegas Golden Knights,Los Angeles Kings,1534,1468,55.2,44.8,2026021324
 2027-04-09,REG,Pittsburgh Penguins,Detroit Red Wings,1472,1467,46.4,53.6,2026021325
 2027-04-09,REG,Boston Bruins,Florida Panthers,1527,1512,47.9,52.1,2026021326
-2027-04-09,REG,Vancouver Canucks,Winnipeg Jets,1385,1489,31.7,68.3,2026021327
-2027-04-09,REG,Utah Mammoth,Dallas Stars,1504,1540,40.7,59.3,2026021328
+2027-04-09,REG,Vancouver Canucks,Winnipeg Jets,1385,1493,31.2,68.8,2026021327
+2027-04-09,REG,Utah Mammoth,Dallas Stars,1501,1540,40.2,59.8,2026021328
 2027-04-10,REG,Washington Capitals,Philadelphia Flyers,1502,1479,48.9,51.1,2026021329
-2027-04-10,REG,Minnesota Wild,Colorado Avalanche,1571,1575,45.1,54.9,2026021330
-2027-04-10,REG,Anaheim Ducks,San Jose Sharks,1472,1434,51.1,48.9,2026021331
-2027-04-10,REG,Columbus Blue Jackets,New York Islanders,1476,1494,43.1,56.9,2026021332
+2027-04-10,REG,Minnesota Wild,Colorado Avalanche,1574,1575,45.6,54.4,2026021330
+2027-04-10,REG,Anaheim Ducks,San Jose Sharks,1469,1430,51.3,48.7,2026021331
+2027-04-10,REG,Columbus Blue Jackets,New York Islanders,1474,1490,43.4,56.6,2026021332
 2027-04-10,REG,Detroit Red Wings,Buffalo Sabres,1467,1522,38.1,61.9,2026021333
 2027-04-10,REG,Carolina Hurricanes,Florida Panthers,1609,1512,59.6,40.4,2026021334
-2027-04-10,REG,Pittsburgh Penguins,New Jersey Devils,1472,1509,40.4,59.6,2026021335
-2027-04-10,REG,Seattle Kraken,Chicago Blackhawks,1462,1415,52.6,47.4,2026021336
+2027-04-10,REG,Pittsburgh Penguins,New Jersey Devils,1472,1512,40.1,59.9,2026021335
+2027-04-10,REG,Seattle Kraken,Chicago Blackhawks,1465,1415,53.0,47.0,2026021336
 2027-04-10,REG,Dallas Stars,Nashville Predators,1540,1497,51.8,48.2,2026021337
-2027-04-10,REG,Montréal Canadiens,Ottawa Senators,1536,1537,45.7,54.3,2026021338
-2027-04-10,REG,Toronto Maple Leafs,New York Rangers,1448,1498,38.7,61.3,2026021339
-2027-04-10,REG,Utah Mammoth,St. Louis Blues,1504,1516,44.0,56.0,2026021340
+2027-04-10,REG,Montréal Canadiens,Ottawa Senators,1533,1539,44.8,55.2,2026021338
+2027-04-10,REG,Toronto Maple Leafs,New York Rangers,1452,1498,39.3,60.7,2026021339
+2027-04-10,REG,Utah Mammoth,St. Louis Blues,1501,1516,43.5,56.5,2026021340
 2027-04-10,REG,Boston Bruins,Tampa Bay Lightning,1527,1557,41.5,58.5,2026021341
-2027-04-10,REG,Vancouver Canucks,Calgary Flames,1385,1455,36.0,64.0,2026021342
-2027-04-10,REG,Winnipeg Jets,Edmonton Oilers,1489,1541,38.5,61.5,2026021343
-2027-04-10,REG,Los Angeles Kings,Vegas Golden Knights,1464,1534,36.0,64.0,2026021344
+2027-04-10,REG,Vancouver Canucks,Calgary Flames,1385,1453,36.3,63.7,2026021342
+2027-04-10,REG,Winnipeg Jets,Edmonton Oilers,1493,1541,38.9,61.1,2026021343
+2027-04-10,REG,Los Angeles Kings,Vegas Golden Knights,1468,1534,36.5,63.5,2026021344
