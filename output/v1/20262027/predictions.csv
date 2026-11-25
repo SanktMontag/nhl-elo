@@ -1,5 +1,4 @@
 Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
-2026-11-24,REG,Vegas Golden Knights,Edmonton Oilers,1534,1541,44.7,55.3,2026020385
 2026-11-25,REG,Winnipeg Jets,Boston Bruins,1493,1527,40.8,59.2,2026020386
 2026-11-25,REG,New York Rangers,Buffalo Sabres,1498,1522,42.3,57.7,2026020387
 2026-11-25,REG,Carolina Hurricanes,Tampa Bay Lightning,1609,1557,53.2,46.8,2026020388
@@ -24,12 +23,12 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-11-27,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1474,44.8,55.2,2026020407
 2026-11-27,REG,Colorado Avalanche,Minnesota Wild,1575,1574,45.8,54.2,2026020408
 2026-11-27,REG,Los Angeles Kings,Anaheim Ducks,1468,1469,45.5,54.5,2026020409
-2026-11-27,REG,Vegas Golden Knights,San Jose Sharks,1534,1430,60.4,39.6,2026020410
+2026-11-27,REG,Vegas Golden Knights,San Jose Sharks,1538,1430,61.0,39.0,2026020410
 2026-11-27,REG,New York Rangers,Chicago Blackhawks,1498,1415,57.6,42.4,2026020411
 2026-11-27,REG,Winnipeg Jets,New York Islanders,1493,1490,46.1,53.9,2026020412
 2026-11-27,REG,Pittsburgh Penguins,Buffalo Sabres,1472,1522,38.7,61.3,2026020413
-2026-11-27,REG,Seattle Kraken,Edmonton Oilers,1465,1541,35.3,64.7,2026020414
-2026-11-28,REG,Montréal Canadiens,Vegas Golden Knights,1533,1534,45.5,54.5,2026020415
+2026-11-27,REG,Seattle Kraken,Edmonton Oilers,1465,1536,35.8,64.2,2026020414
+2026-11-28,REG,Montréal Canadiens,Vegas Golden Knights,1533,1538,44.9,55.1,2026020415
 2026-11-28,REG,Tampa Bay Lightning,Florida Panthers,1557,1512,52.2,47.8,2026020416
 2026-11-28,REG,Nashville Predators,Detroit Red Wings,1497,1467,50.0,50.0,2026020417
 2026-11-28,REG,Winnipeg Jets,New Jersey Devils,1493,1512,42.9,57.1,2026020418
@@ -41,7 +40,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-11-28,REG,Utah Mammoth,Dallas Stars,1501,1540,40.2,59.8,2026020424
 2026-11-28,REG,San Jose Sharks,Colorado Avalanche,1430,1575,26.8,73.2,2026020425
 2026-11-28,REG,Anaheim Ducks,Los Angeles Kings,1469,1468,45.9,54.1,2026020426
-2026-11-28,REG,Edmonton Oilers,Seattle Kraken,1541,1465,56.5,43.5,2026020427
+2026-11-28,REG,Edmonton Oilers,Seattle Kraken,1536,1465,55.9,44.1,2026020427
 2026-11-29,REG,Minnesota Wild,Chicago Blackhawks,1574,1415,67.9,32.1,2026020428
 2026-11-29,REG,Vancouver Canucks,Boston Bruins,1385,1527,27.1,72.9,2026020429
 2026-11-30,REG,Ottawa Senators,Nashville Predators,1539,1497,51.6,48.4,2026020430
@@ -55,10 +54,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-01,REG,Vancouver Canucks,Washington Capitals,1385,1502,30.1,69.9,2026020439
 2026-12-01,REG,San Jose Sharks,New Jersey Devils,1430,1512,34.5,65.5,2026020437
 2026-12-01,REG,Colorado Avalanche,Boston Bruins,1575,1527,52.5,47.5,2026020440
-2026-12-01,REG,Buffalo Sabres,Edmonton Oilers,1522,1541,43.0,57.0,2026020441
+2026-12-01,REG,Buffalo Sabres,Edmonton Oilers,1522,1536,43.6,56.4,2026020441
 2026-12-01,REG,Dallas Stars,Seattle Kraken,1540,1465,56.4,43.6,2026020442
 2026-12-01,REG,Minnesota Wild,Anaheim Ducks,1574,1469,60.6,39.4,2026020443
-2026-12-01,REG,Vegas Golden Knights,Los Angeles Kings,1534,1468,55.2,44.8,2026020444
+2026-12-01,REG,Vegas Golden Knights,Los Angeles Kings,1538,1468,55.7,44.3,2026020444
 2026-12-02,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1533,49.2,50.8,2026020445
 2026-12-02,REG,Pittsburgh Penguins,St. Louis Blues,1472,1516,39.5,60.5,2026020446
 2026-12-02,REG,Winnipeg Jets,Utah Mammoth,1493,1501,44.5,55.5,2026020447
@@ -70,9 +69,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-03,REG,New York Islanders,Philadelphia Flyers,1490,1479,47.2,52.8,2026020452
 2026-12-03,REG,Chicago Blackhawks,Nashville Predators,1415,1497,34.3,65.7,2026020454
 2026-12-03,REG,Buffalo Sabres,Calgary Flames,1522,1453,55.5,44.5,2026020455
-2026-12-03,REG,Washington Capitals,Edmonton Oilers,1502,1541,40.2,59.8,2026020456
+2026-12-03,REG,Washington Capitals,Edmonton Oilers,1502,1536,40.8,59.2,2026020456
 2026-12-03,REG,Dallas Stars,Seattle Kraken,1540,1465,56.4,43.6,2026020457
-2026-12-03,REG,Utah Mammoth,Vegas Golden Knights,1501,1534,41.0,59.0,2026020458
+2026-12-03,REG,Utah Mammoth,Vegas Golden Knights,1501,1538,40.4,59.6,2026020458
 2026-12-03,REG,Minnesota Wild,Los Angeles Kings,1574,1468,60.8,39.2,2026020459
 2026-12-04,REG,San Jose Sharks,New York Islanders,1430,1490,37.4,62.6,2026020460
 2026-12-04,REG,Chicago Blackhawks,St. Louis Blues,1415,1516,31.9,68.1,2026020461
@@ -86,21 +85,21 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-05,REG,Tampa Bay Lightning,Ottawa Senators,1557,1539,48.3,51.7,2026020469
 2026-12-05,REG,Colorado Avalanche,New York Rangers,1575,1498,56.7,43.3,2026020470
 2026-12-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1452,1609,25.4,74.6,2026020471
-2026-12-05,REG,Winnipeg Jets,Vegas Golden Knights,1493,1534,39.9,60.1,2026020472
+2026-12-05,REG,Winnipeg Jets,Vegas Golden Knights,1493,1538,39.3,60.7,2026020472
 2026-12-05,REG,Philadelphia Flyers,Minnesota Wild,1479,1574,32.7,67.3,2026020473
 2026-12-05,REG,Utah Mammoth,Los Angeles Kings,1501,1468,50.4,49.6,2026020474
 2026-12-05,REG,Dallas Stars,Vancouver Canucks,1540,1385,67.2,32.8,2026020475
 2026-12-06,REG,San Jose Sharks,Pittsburgh Penguins,1430,1472,39.8,60.2,2026020476
 2026-12-06,REG,Nashville Predators,St. Louis Blues,1497,1516,43.1,56.9,2026020477
 2026-12-06,REG,Ottawa Senators,Montréal Canadiens,1539,1533,46.5,53.5,2026020478
-2026-12-06,REG,Edmonton Oilers,Chicago Blackhawks,1541,1415,63.5,36.5,2026020479
+2026-12-06,REG,Edmonton Oilers,Chicago Blackhawks,1536,1415,62.9,37.1,2026020479
 2026-12-06,REG,Winnipeg Jets,Anaheim Ducks,1493,1469,49.0,51.0,2026020480
 2026-12-06,REG,Buffalo Sabres,Seattle Kraken,1522,1465,53.8,46.2,2026020481
 2026-12-07,REG,Colorado Avalanche,New York Islanders,1575,1490,57.8,42.2,2026020482
 2026-12-07,REG,Columbus Blue Jackets,Tampa Bay Lightning,1474,1557,34.3,65.7,2026020483
 2026-12-07,REG,New Jersey Devils,New York Rangers,1512,1498,47.7,52.3,2026020484
 2026-12-07,REG,Washington Capitals,Vancouver Canucks,1502,1385,62.2,37.8,2026020485
-2026-12-08,REG,Vegas Golden Knights,Montréal Canadiens,1534,1533,45.9,54.1,2026020486
+2026-12-08,REG,Vegas Golden Knights,Montréal Canadiens,1538,1533,46.5,53.5,2026020486
 2026-12-08,REG,Anaheim Ducks,Ottawa Senators,1469,1539,36.1,63.9,2026020487
 2026-12-08,REG,Boston Bruins,Florida Panthers,1527,1512,47.9,52.1,2026020488
 2026-12-08,REG,New York Rangers,Carolina Hurricanes,1498,1609,30.7,69.3,2026020490
@@ -108,14 +107,14 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-08,REG,Chicago Blackhawks,Pittsburgh Penguins,1415,1472,37.7,62.3,2026020489
 2026-12-08,REG,Colorado Avalanche,St. Louis Blues,1575,1516,54.1,45.9,2026020491
 2026-12-08,REG,Nashville Predators,Calgary Flames,1497,1453,52.0,48.0,2026020493
-2026-12-08,REG,Edmonton Oilers,Minnesota Wild,1541,1574,40.9,59.1,2026020494
+2026-12-08,REG,Edmonton Oilers,Minnesota Wild,1536,1574,40.4,59.6,2026020494
 2026-12-08,REG,Seattle Kraken,San Jose Sharks,1465,1430,50.7,49.3,2026020495
 2026-12-09,REG,Detroit Red Wings,New Jersey Devils,1467,1512,39.4,60.6,2026020496
 2026-12-09,REG,Toronto Maple Leafs,Dallas Stars,1452,1540,33.7,66.3,2026020497
 2026-12-09,REG,San Jose Sharks,Los Angeles Kings,1430,1468,40.4,59.6,2026020498
-2026-12-10,REG,Edmonton Oilers,Buffalo Sabres,1541,1522,48.4,51.6,2026020499
+2026-12-10,REG,Edmonton Oilers,Buffalo Sabres,1536,1522,47.8,52.2,2026020499
 2026-12-10,REG,Anaheim Ducks,Montréal Canadiens,1469,1533,36.9,63.1,2026020500
-2026-12-10,REG,Vegas Golden Knights,Ottawa Senators,1534,1539,45.0,55.0,2026020501
+2026-12-10,REG,Vegas Golden Knights,Ottawa Senators,1538,1539,45.6,54.4,2026020501
 2026-12-10,REG,Boston Bruins,Tampa Bay Lightning,1527,1557,41.5,58.5,2026020502
 2026-12-10,REG,Pittsburgh Penguins,Florida Panthers,1472,1512,40.1,59.9,2026020503
 2026-12-10,REG,Calgary Flames,New York Islanders,1453,1490,40.5,59.5,2026020504
@@ -133,8 +132,8 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-12,REG,Pittsburgh Penguins,Tampa Bay Lightning,1472,1557,34.0,66.0,2026020516
 2026-12-12,REG,Winnipeg Jets,Minnesota Wild,1493,1574,34.4,65.6,2026020517
 2026-12-12,REG,Anaheim Ducks,Buffalo Sabres,1469,1522,38.4,61.6,2026020518
-2026-12-12,REG,Vegas Golden Knights,Toronto Maple Leafs,1534,1452,57.4,42.6,2026020519
-2026-12-12,REG,Edmonton Oilers,Ottawa Senators,1541,1539,46.0,54.0,2026020520
+2026-12-12,REG,Vegas Golden Knights,Toronto Maple Leafs,1538,1452,57.9,42.1,2026020519
+2026-12-12,REG,Edmonton Oilers,Ottawa Senators,1536,1539,45.4,54.6,2026020520
 2026-12-12,REG,Florida Panthers,Detroit Red Wings,1512,1467,52.1,47.9,2026020521
 2026-12-12,REG,Utah Mammoth,Chicago Blackhawks,1501,1415,58.0,42.0,2026020522
 2026-12-12,REG,St. Louis Blues,Dallas Stars,1516,1540,42.3,57.7,2026020523
@@ -147,7 +146,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-13,REG,Tampa Bay Lightning,St. Louis Blues,1557,1516,51.6,48.4,2026020530
 2026-12-14,REG,Buffalo Sabres,Ottawa Senators,1522,1539,43.3,56.7,2026020531
 2026-12-14,REG,Florida Panthers,Philadelphia Flyers,1512,1479,50.4,49.6,2026020532
-2026-12-14,REG,Edmonton Oilers,Montréal Canadiens,1541,1533,46.8,53.2,2026020533
+2026-12-14,REG,Edmonton Oilers,Montréal Canadiens,1536,1533,46.2,53.8,2026020533
 2026-12-14,REG,Utah Mammoth,Colorado Avalanche,1501,1575,35.5,64.5,2026020534
 2026-12-14,REG,Vancouver Canucks,San Jose Sharks,1385,1430,39.4,60.6,2026020535
 2026-12-15,REG,Florida Panthers,Boston Bruins,1512,1527,43.5,56.5,2026020536
@@ -164,14 +163,14 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-16,REG,New York Rangers,Philadelphia Flyers,1498,1479,48.4,51.6,2026020547
 2026-12-16,REG,New York Islanders,Colorado Avalanche,1490,1575,34.0,66.0,2026020548
 2026-12-16,REG,Vancouver Canucks,Anaheim Ducks,1385,1469,34.2,65.8,2026020549
-2026-12-16,REG,San Jose Sharks,Vegas Golden Knights,1430,1534,31.7,68.3,2026020550
+2026-12-16,REG,San Jose Sharks,Vegas Golden Knights,1430,1538,31.2,68.8,2026020550
 2026-12-17,REG,St. Louis Blues,Boston Bruins,1516,1527,44.1,55.9,2026020551
 2026-12-17,REG,Calgary Flames,Tampa Bay Lightning,1453,1557,31.7,68.3,2026020552
 2026-12-17,REG,Los Angeles Kings,Pittsburgh Penguins,1468,1472,45.1,54.9,2026020554
 2026-12-17,REG,Detroit Red Wings,Washington Capitals,1467,1502,40.9,59.1,2026020555
 2026-12-17,REG,Seattle Kraken,Columbus Blue Jackets,1465,1474,44.5,55.5,2026020556
 2026-12-17,REG,Toronto Maple Leafs,New Jersey Devils,1452,1512,37.4,62.6,2026020553
-2026-12-17,REG,Dallas Stars,Edmonton Oilers,1540,1541,45.6,54.4,2026020557
+2026-12-17,REG,Dallas Stars,Edmonton Oilers,1540,1536,46.2,53.8,2026020557
 2026-12-17,REG,Carolina Hurricanes,Utah Mammoth,1609,1501,61.1,38.9,2026020558
 2026-12-18,REG,Chicago Blackhawks,Ottawa Senators,1415,1539,29.2,70.8,2026020560
 2026-12-18,REG,Nashville Predators,New York Rangers,1497,1498,45.7,54.3,2026020561
@@ -180,10 +179,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-18,REG,Montréal Canadiens,Buffalo Sabres,1533,1522,47.3,52.7,2026020559
 2026-12-18,REG,Anaheim Ducks,Minnesota Wild,1469,1574,31.5,68.5,2026020564
 2026-12-18,REG,Carolina Hurricanes,Colorado Avalanche,1609,1575,50.6,49.4,2026020565
-2026-12-18,REG,New York Islanders,Vegas Golden Knights,1490,1534,39.5,60.5,2026020566
+2026-12-18,REG,New York Islanders,Vegas Golden Knights,1490,1538,38.9,61.1,2026020566
 2026-12-19,REG,Boston Bruins,New Jersey Devils,1527,1512,47.9,52.1,2026020567
 2026-12-19,REG,Calgary Flames,Florida Panthers,1453,1512,37.5,62.5,2026020568
-2026-12-19,REG,Utah Mammoth,Edmonton Oilers,1501,1541,40.1,59.9,2026020569
+2026-12-19,REG,Utah Mammoth,Edmonton Oilers,1501,1536,40.6,59.4,2026020569
 2026-12-19,REG,Tampa Bay Lightning,Toronto Maple Leafs,1557,1452,60.6,39.4,2026020570
 2026-12-19,REG,St. Louis Blues,Washington Capitals,1516,1502,47.7,52.3,2026020571
 2026-12-19,REG,Los Angeles Kings,Columbus Blue Jackets,1468,1474,44.9,55.1,2026020572
@@ -197,13 +196,13 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-20,REG,Los Angeles Kings,Buffalo Sabres,1468,1522,38.2,61.8,2026020579
 2026-12-20,REG,Nashville Predators,New Jersey Devils,1497,1512,43.6,56.4,2026020581
 2026-12-20,REG,New York Rangers,New York Islanders,1498,1490,46.8,53.2,2026020582
-2026-12-20,REG,Anaheim Ducks,Edmonton Oilers,1469,1541,35.8,64.2,2026020583
+2026-12-20,REG,Anaheim Ducks,Edmonton Oilers,1469,1536,36.4,63.6,2026020583
 2026-12-20,REG,Seattle Kraken,Colorado Avalanche,1465,1575,31.0,69.0,2026020584
 2026-12-21,REG,Washington Capitals,Toronto Maple Leafs,1502,1452,52.8,47.2,2026020585
 2026-12-21,REG,St. Louis Blues,Florida Panthers,1516,1512,46.3,53.7,2026020586
 2026-12-21,REG,Columbus Blue Jackets,Philadelphia Flyers,1474,1479,44.9,55.1,2026020587
 2026-12-21,REG,Utah Mammoth,Vancouver Canucks,1501,1385,62.0,38.0,2026020588
-2026-12-21,REG,Carolina Hurricanes,Vegas Golden Knights,1609,1534,56.5,43.5,2026020589
+2026-12-21,REG,Carolina Hurricanes,Vegas Golden Knights,1609,1538,55.9,44.1,2026020589
 2026-12-22,REG,St. Louis Blues,Tampa Bay Lightning,1516,1557,39.9,60.1,2026020590
 2026-12-22,REG,Boston Bruins,New York Islanders,1527,1490,51.1,48.9,2026020591
 2026-12-22,REG,New Jersey Devils,New York Rangers,1512,1498,47.7,52.3,2026020592
@@ -213,7 +212,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-22,REG,Winnipeg Jets,Nashville Predators,1493,1497,45.0,55.0,2026020596
 2026-12-22,REG,Calgary Flames,Dallas Stars,1453,1540,33.8,66.2,2026020597
 2026-12-22,REG,Los Angeles Kings,Minnesota Wild,1468,1574,31.3,68.7,2026020598
-2026-12-22,REG,Vegas Golden Knights,Anaheim Ducks,1534,1469,55.0,45.0,2026020600
+2026-12-22,REG,Vegas Golden Knights,Anaheim Ducks,1538,1469,55.6,44.4,2026020600
 2026-12-22,REG,San Jose Sharks,Seattle Kraken,1430,1465,40.8,59.2,2026020599
 2026-12-26,REG,Tampa Bay Lightning,Florida Panthers,1557,1512,52.2,47.8,2026020601
 2026-12-26,REG,New York Islanders,Boston Bruins,1490,1527,40.4,59.6,2026020602
@@ -225,18 +224,18 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-26,REG,Columbus Blue Jackets,Washington Capitals,1474,1502,41.7,58.3,2026020605
 2026-12-26,REG,Vancouver Canucks,Calgary Flames,1385,1453,36.3,63.7,2026020609
 2026-12-26,REG,Utah Mammoth,Los Angeles Kings,1501,1468,50.4,49.6,2026020610
-2026-12-26,REG,Vegas Golden Knights,San Jose Sharks,1534,1430,60.4,39.6,2026020611
+2026-12-26,REG,Vegas Golden Knights,San Jose Sharks,1538,1430,61.0,39.0,2026020611
 2026-12-27,REG,Philadelphia Flyers,Chicago Blackhawks,1479,1415,55.0,45.0,2026020612
 2026-12-27,REG,New York Rangers,St. Louis Blues,1498,1516,43.1,56.9,2026020614
-2026-12-27,REG,Edmonton Oilers,Columbus Blue Jackets,1541,1474,55.3,44.7,2026020613
+2026-12-27,REG,Edmonton Oilers,Columbus Blue Jackets,1536,1474,54.7,45.3,2026020613
 2026-12-27,REG,Dallas Stars,Montréal Canadiens,1540,1533,46.7,53.3,2026020615
 2026-12-27,REG,Boston Bruins,New Jersey Devils,1527,1512,47.9,52.1,2026020616
 2026-12-27,REG,Ottawa Senators,New York Islanders,1539,1490,52.7,47.3,2026020617
 2026-12-27,REG,Colorado Avalanche,Anaheim Ducks,1575,1469,60.7,39.3,2026020618
-2026-12-28,REG,Vegas Golden Knights,Minnesota Wild,1534,1574,40.0,60.0,2026020619
+2026-12-28,REG,Vegas Golden Knights,Minnesota Wild,1538,1574,40.6,59.4,2026020619
 2026-12-28,REG,Detroit Red Wings,Buffalo Sabres,1467,1522,38.1,61.9,2026020620
 2026-12-28,REG,Nashville Predators,Florida Panthers,1497,1512,43.6,56.4,2026020621
-2026-12-28,REG,Edmonton Oilers,Washington Capitals,1541,1502,51.3,48.7,2026020622
+2026-12-28,REG,Edmonton Oilers,Washington Capitals,1536,1502,50.7,49.3,2026020622
 2026-12-28,REG,Tampa Bay Lightning,Carolina Hurricanes,1557,1609,38.4,61.6,2026020623
 2026-12-28,REG,San Jose Sharks,Winnipeg Jets,1430,1493,37.0,63.0,2026020624
 2026-12-28,REG,Los Angeles Kings,Vancouver Canucks,1468,1385,57.5,42.5,2026020625
@@ -245,7 +244,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-29,REG,Nashville Predators,Tampa Bay Lightning,1497,1557,37.4,62.6,2026020628
 2026-12-29,REG,Detroit Red Wings,New York Rangers,1467,1498,41.4,58.6,2026020629
 2026-12-29,REG,Carolina Hurricanes,Pittsburgh Penguins,1609,1472,64.9,35.1,2026020630
-2026-12-29,REG,Vegas Golden Knights,Chicago Blackhawks,1534,1415,62.6,37.4,2026020631
+2026-12-29,REG,Vegas Golden Knights,Chicago Blackhawks,1538,1415,63.1,36.9,2026020631
 2026-12-29,REG,San Jose Sharks,Calgary Flames,1430,1453,42.4,57.6,2026020632
 2026-12-29,REG,St. Louis Blues,Colorado Avalanche,1516,1575,37.5,62.5,2026020633
 2026-12-29,REG,New Jersey Devils,Utah Mammoth,1512,1501,47.3,52.7,2026020634
@@ -253,14 +252,14 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2026-12-29,REG,Toronto Maple Leafs,Anaheim Ducks,1452,1469,43.3,56.7,2026020636
 2026-12-30,REG,Washington Capitals,New York Islanders,1502,1490,47.4,52.6,2026020637
 2026-12-30,REG,Buffalo Sabres,Florida Panthers,1522,1512,47.1,52.9,2026020638
-2026-12-30,REG,Edmonton Oilers,Boston Bruins,1541,1527,47.6,52.4,2026020639
+2026-12-30,REG,Edmonton Oilers,Boston Bruins,1536,1527,47.0,53.0,2026020639
 2026-12-30,REG,Seattle Kraken,Vancouver Canucks,1465,1385,57.1,42.9,2026020640
 2026-12-30,REG,Toronto Maple Leafs,Los Angeles Kings,1452,1468,43.5,56.5,2026020641
 2026-12-31,REG,Pittsburgh Penguins,Ottawa Senators,1472,1539,36.5,63.5,2026020642
 2026-12-31,REG,Carolina Hurricanes,Detroit Red Wings,1609,1467,65.5,34.5,2026020643
 2026-12-31,REG,Montréal Canadiens,Tampa Bay Lightning,1533,1557,42.2,57.8,2026020644
 2026-12-31,REG,Washington Capitals,Columbus Blue Jackets,1502,1474,49.7,50.3,2026020645
-2026-12-31,REG,St. Louis Blues,Vegas Golden Knights,1516,1534,43.2,56.8,2026020646
+2026-12-31,REG,St. Louis Blues,Vegas Golden Knights,1516,1538,42.6,57.4,2026020646
 2026-12-31,REG,Colorado Avalanche,Utah Mammoth,1575,1501,56.3,43.7,2026020647
 2026-12-31,REG,Winnipeg Jets,Calgary Flames,1493,1453,51.3,48.7,2026020648
 2026-12-31,REG,New York Rangers,Dallas Stars,1498,1540,39.8,60.2,2026020649
@@ -270,7 +269,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-01,REG,Philadelphia Flyers,San Jose Sharks,1479,1430,52.7,47.3,2026020653
 2027-01-01,REG,Minnesota Wild,Pittsburgh Penguins,1574,1472,60.2,39.8,2026020654
 2027-01-02,REG,Montréal Canadiens,Florida Panthers,1533,1512,48.7,51.3,2026020656
-2027-01-02,REG,Edmonton Oilers,Detroit Red Wings,1541,1467,56.2,43.8,2026020655
+2027-01-02,REG,Edmonton Oilers,Detroit Red Wings,1536,1467,55.6,44.4,2026020655
 2027-01-02,REG,Buffalo Sabres,Tampa Bay Lightning,1522,1557,40.7,59.3,2026020657
 2027-01-02,REG,Ottawa Senators,Washington Capitals,1539,1502,51.0,49.0,2026020658
 2027-01-02,REG,Nashville Predators,Carolina Hurricanes,1497,1609,30.7,69.3,2026020659
@@ -281,9 +280,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-02,REG,Chicago Blackhawks,Dallas Stars,1415,1540,29.0,71.0,2026020664
 2027-01-02,REG,New Jersey Devils,Los Angeles Kings,1512,1468,52.0,48.0,2026020665
 2027-01-02,REG,Vancouver Canucks,Utah Mammoth,1385,1501,30.2,69.8,2026020666
-2027-01-02,REG,Colorado Avalanche,Vegas Golden Knights,1575,1534,51.6,48.4,2026020667
+2027-01-02,REG,Colorado Avalanche,Vegas Golden Knights,1575,1538,51.0,49.0,2026020667
 2027-01-02,REG,New York Islanders,Seattle Kraken,1490,1465,49.2,50.8,2026020668
-2027-01-03,REG,Edmonton Oilers,Pittsburgh Penguins,1541,1472,55.5,44.5,2026020669
+2027-01-03,REG,Edmonton Oilers,Pittsburgh Penguins,1536,1472,54.9,45.1,2026020669
 2027-01-03,REG,Columbus Blue Jackets,New York Rangers,1474,1498,42.3,57.7,2026020670
 2027-01-03,REG,Calgary Flames,St. Louis Blues,1453,1516,37.0,63.0,2026020671
 2027-01-03,REG,Philadelphia Flyers,Anaheim Ducks,1479,1469,47.1,52.9,2026020672
@@ -292,13 +291,13 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-04,REG,Chicago Blackhawks,Montréal Canadiens,1415,1533,29.9,70.1,2026020675
 2027-01-04,REG,Toronto Maple Leafs,Washington Capitals,1452,1502,38.8,61.2,2026020676
 2027-01-04,REG,Detroit Red Wings,Dallas Stars,1467,1540,35.7,64.3,2026020677
-2027-01-04,REG,Vegas Golden Knights,Colorado Avalanche,1534,1575,39.9,60.1,2026020678
+2027-01-04,REG,Vegas Golden Knights,Colorado Avalanche,1538,1575,40.5,59.5,2026020678
 2027-01-04,REG,Philadelphia Flyers,Los Angeles Kings,1479,1468,47.3,52.7,2026020679
 2027-01-04,REG,New Jersey Devils,San Jose Sharks,1512,1430,57.4,42.6,2026020680
 2027-01-05,REG,St. Louis Blues,Carolina Hurricanes,1516,1609,33.0,67.0,2026020681
 2027-01-05,REG,New York Rangers,Columbus Blue Jackets,1498,1474,49.1,50.9,2026020682
 2027-01-05,REG,Buffalo Sabres,Boston Bruins,1522,1527,44.9,55.1,2026020683
-2027-01-05,REG,Edmonton Oilers,Nashville Predators,1541,1497,51.9,48.1,2026020684
+2027-01-05,REG,Edmonton Oilers,Nashville Predators,1536,1497,51.3,48.7,2026020684
 2027-01-05,REG,Florida Panthers,Calgary Flames,1512,1453,54.1,45.9,2026020685
 2027-01-05,REG,Ottawa Senators,Utah Mammoth,1539,1501,51.1,48.9,2026020686
 2027-01-05,REG,New York Islanders,Vancouver Canucks,1490,1385,60.6,39.4,2026020687
@@ -315,9 +314,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-07,REG,Pittsburgh Penguins,Carolina Hurricanes,1472,1609,27.7,72.3,2026020698
 2027-01-07,REG,Nashville Predators,Winnipeg Jets,1497,1493,46.4,53.6,2026020699
 2027-01-07,REG,New York Islanders,Calgary Flames,1490,1453,50.9,49.1,2026020700
-2027-01-07,REG,Florida Panthers,Edmonton Oilers,1512,1541,41.6,58.4,2026020701
+2027-01-07,REG,Florida Panthers,Edmonton Oilers,1512,1536,42.2,57.8,2026020701
 2027-01-07,REG,Tampa Bay Lightning,Vancouver Canucks,1557,1385,69.3,30.7,2026020702
-2027-01-07,REG,Minnesota Wild,Vegas Golden Knights,1574,1534,51.5,48.5,2026020703
+2027-01-07,REG,Minnesota Wild,Vegas Golden Knights,1574,1538,50.9,49.1,2026020703
 2027-01-08,REG,Buffalo Sabres,Columbus Blue Jackets,1522,1474,52.6,47.4,2026020704
 2027-01-08,REG,Ottawa Senators,St. Louis Blues,1539,1516,48.9,51.1,2026020705
 2027-01-08,REG,Seattle Kraken,Colorado Avalanche,1465,1575,31.0,69.0,2026020706
@@ -325,7 +324,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-08,REG,Washington Capitals,San Jose Sharks,1502,1430,55.9,44.1,2026020708
 2027-01-09,REG,Chicago Blackhawks,New Jersey Devils,1415,1512,32.5,67.5,2026020709
 2027-01-09,REG,Tampa Bay Lightning,Calgary Flames,1557,1453,60.4,39.6,2026020710
-2027-01-09,REG,New York Islanders,Edmonton Oilers,1490,1541,38.6,61.4,2026020711
+2027-01-09,REG,New York Islanders,Edmonton Oilers,1490,1536,39.1,60.9,2026020711
 2027-01-09,REG,Carolina Hurricanes,Buffalo Sabres,1609,1522,58.2,41.8,2026020712
 2027-01-09,REG,Philadelphia Flyers,Toronto Maple Leafs,1479,1452,49.5,50.5,2026020713
 2027-01-09,REG,Pittsburgh Penguins,Montréal Canadiens,1472,1533,37.3,62.7,2026020714
@@ -334,18 +333,18 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-09,REG,Nashville Predators,Minnesota Wild,1497,1574,35.1,64.9,2026020717
 2027-01-09,REG,Dallas Stars,Los Angeles Kings,1540,1468,56.0,44.0,2026020718
 2027-01-09,REG,Florida Panthers,Vancouver Canucks,1512,1385,63.5,36.5,2026020719
-2027-01-09,REG,Seattle Kraken,Vegas Golden Knights,1465,1534,36.2,63.8,2026020720
+2027-01-09,REG,Seattle Kraken,Vegas Golden Knights,1465,1538,35.6,64.4,2026020720
 2027-01-09,REG,New York Rangers,San Jose Sharks,1498,1430,55.4,44.6,2026020721
 2027-01-10,REG,Washington Capitals,Anaheim Ducks,1502,1469,50.4,49.6,2026020724
 2027-01-10,REG,Chicago Blackhawks,Philadelphia Flyers,1415,1479,36.7,63.3,2026020722
 2027-01-10,REG,Nashville Predators,Colorado Avalanche,1497,1575,35.0,65.0,2026020723
 2027-01-11,REG,Winnipeg Jets,Toronto Maple Leafs,1493,1452,51.5,48.5,2026020725
-2027-01-11,REG,Tampa Bay Lightning,Edmonton Oilers,1557,1541,48.0,52.0,2026020726
+2027-01-11,REG,Tampa Bay Lightning,Edmonton Oilers,1557,1536,48.6,51.4,2026020726
 2027-01-11,REG,New York Rangers,Los Angeles Kings,1498,1468,50.0,50.0,2026020727
 2027-01-12,REG,Carolina Hurricanes,Boston Bruins,1609,1527,57.4,42.6,2026020728
 2027-01-12,REG,New Jersey Devils,Buffalo Sabres,1512,1522,44.3,55.7,2026020729
 2027-01-12,REG,Colorado Avalanche,Pittsburgh Penguins,1575,1472,60.3,39.7,2026020730
-2027-01-12,REG,Vegas Golden Knights,Washington Capitals,1534,1502,50.3,49.7,2026020731
+2027-01-12,REG,Vegas Golden Knights,Washington Capitals,1538,1502,50.9,49.1,2026020731
 2027-01-12,REG,Utah Mammoth,Chicago Blackhawks,1501,1415,58.0,42.0,2026020732
 2027-01-12,REG,Philadelphia Flyers,Nashville Predators,1479,1497,43.1,56.9,2026020733
 2027-01-12,REG,Ottawa Senators,Dallas Stars,1539,1540,45.5,54.5,2026020734
@@ -355,12 +354,12 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-13,REG,New Jersey Devils,Montréal Canadiens,1512,1533,42.7,57.3,2026020738
 2027-01-13,REG,Pittsburgh Penguins,New York Islanders,1472,1490,43.2,56.8,2026020739
 2027-01-13,REG,Detroit Red Wings,Utah Mammoth,1467,1501,41.0,59.0,2026020740
-2027-01-13,REG,San Jose Sharks,Edmonton Oilers,1430,1541,30.9,69.1,2026020741
+2027-01-13,REG,San Jose Sharks,Edmonton Oilers,1430,1536,31.4,68.6,2026020741
 2027-01-13,REG,St. Louis Blues,Los Angeles Kings,1516,1468,52.6,47.4,2026020742
 2027-01-14,REG,Dallas Stars,Boston Bruins,1540,1527,47.5,52.5,2026020743
 2027-01-14,REG,Chicago Blackhawks,Toronto Maple Leafs,1415,1452,40.4,59.6,2026020745
 2027-01-14,REG,Winnipeg Jets,Ottawa Senators,1493,1539,39.2,60.8,2026020746
-2027-01-14,REG,Vegas Golden Knights,Tampa Bay Lightning,1534,1557,42.4,57.6,2026020747
+2027-01-14,REG,Vegas Golden Knights,Tampa Bay Lightning,1538,1557,43.0,57.0,2026020747
 2027-01-14,REG,Carolina Hurricanes,Washington Capitals,1609,1502,61.0,39.0,2026020748
 2027-01-14,REG,Colorado Avalanche,Buffalo Sabres,1575,1522,53.3,46.7,2026020744
 2027-01-14,REG,Montréal Canadiens,Nashville Predators,1533,1497,50.7,49.3,2026020749
@@ -370,11 +369,11 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-14,REG,St. Louis Blues,Anaheim Ducks,1516,1469,52.4,47.6,2026020753
 2027-01-15,REG,Dallas Stars,New York Islanders,1540,1490,52.9,47.1,2026020754
 2027-01-15,REG,Philadelphia Flyers,Carolina Hurricanes,1479,1609,28.5,71.5,2026020755
-2027-01-15,REG,Columbus Blue Jackets,Edmonton Oilers,1474,1541,36.4,63.6,2026020756
+2027-01-15,REG,Columbus Blue Jackets,Edmonton Oilers,1474,1536,37.0,63.0,2026020756
 2027-01-15,REG,Los Angeles Kings,Utah Mammoth,1468,1501,41.1,58.9,2026020757
 2027-01-16,REG,Boston Bruins,New York Rangers,1527,1498,49.9,50.1,2026020758
 2027-01-16,REG,Ottawa Senators,Tampa Bay Lightning,1539,1557,43.1,56.9,2026020759
-2027-01-16,REG,Vegas Golden Knights,Florida Panthers,1534,1512,48.9,51.1,2026020760
+2027-01-16,REG,Vegas Golden Knights,Florida Panthers,1538,1512,49.4,50.6,2026020760
 2027-01-16,REG,Nashville Predators,Buffalo Sabres,1497,1522,42.3,57.7,2026020761
 2027-01-16,REG,Pittsburgh Penguins,Toronto Maple Leafs,1472,1452,48.5,51.5,2026020762
 2027-01-16,REG,New York Islanders,New Jersey Devils,1490,1512,42.6,57.4,2026020763
@@ -388,8 +387,8 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-16,REG,San Jose Sharks,Seattle Kraken,1430,1465,40.8,59.2,2026020771
 2027-01-17,REG,Minnesota Wild,Detroit Red Wings,1574,1467,60.9,39.1,2026020772
 2027-01-17,REG,Dallas Stars,New York Rangers,1540,1498,51.7,48.3,2026020773
-2027-01-17,REG,Vegas Golden Knights,Carolina Hurricanes,1534,1609,35.3,64.7,2026020774
-2027-01-17,REG,Winnipeg Jets,Edmonton Oilers,1493,1541,38.9,61.1,2026020775
+2027-01-17,REG,Vegas Golden Knights,Carolina Hurricanes,1538,1609,35.8,64.2,2026020774
+2027-01-17,REG,Winnipeg Jets,Edmonton Oilers,1493,1536,39.5,60.5,2026020775
 2027-01-18,REG,Tampa Bay Lightning,Boston Bruins,1557,1527,50.0,50.0,2026020777
 2027-01-18,REG,Montréal Canadiens,Buffalo Sabres,1533,1522,47.3,52.7,2026020776
 2027-01-18,REG,Nashville Predators,New York Islanders,1497,1490,46.8,53.2,2026020778
@@ -411,7 +410,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-20,REG,Toronto Maple Leafs,Ottawa Senators,1452,1539,33.9,66.1,2026020794
 2027-01-20,REG,Dallas Stars,Chicago Blackhawks,1540,1415,63.4,36.6,2026020796
 2027-01-20,REG,Boston Bruins,Colorado Avalanche,1527,1575,39.0,61.0,2026020795
-2027-01-20,REG,Edmonton Oilers,Vegas Golden Knights,1541,1534,46.7,53.3,2026020797
+2027-01-20,REG,Edmonton Oilers,Vegas Golden Knights,1536,1538,45.5,54.5,2026020797
 2027-01-21,REG,Seattle Kraken,Buffalo Sabres,1465,1522,37.8,62.2,2026020798
 2027-01-21,REG,St. Louis Blues,Montréal Canadiens,1516,1533,43.3,56.7,2026020799
 2027-01-21,REG,Carolina Hurricanes,Florida Panthers,1609,1512,59.6,40.4,2026020800
@@ -421,11 +420,11 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-21,REG,Calgary Flames,Columbus Blue Jackets,1453,1474,42.8,57.2,2026020804
 2027-01-21,REG,New York Rangers,Winnipeg Jets,1498,1493,46.4,53.6,2026020805
 2027-01-21,REG,Detroit Red Wings,Minnesota Wild,1467,1574,31.3,68.7,2026020806
-2027-01-21,REG,Edmonton Oilers,Los Angeles Kings,1541,1468,56.1,43.9,2026020807
+2027-01-21,REG,Edmonton Oilers,Los Angeles Kings,1536,1468,55.5,44.5,2026020807
 2027-01-22,REG,New York Islanders,Washington Capitals,1490,1502,44.0,56.0,2026020808
 2027-01-22,REG,Vancouver Canucks,Chicago Blackhawks,1385,1415,41.6,58.4,2026020809
 2027-01-22,REG,Colorado Avalanche,Dallas Stars,1575,1540,50.7,49.3,2026020810
-2027-01-22,REG,Boston Bruins,Vegas Golden Knights,1527,1534,44.8,55.2,2026020811
+2027-01-22,REG,Boston Bruins,Vegas Golden Knights,1527,1538,44.2,55.8,2026020811
 2027-01-23,REG,Tampa Bay Lightning,Detroit Red Wings,1557,1467,58.5,41.5,2026020812
 2027-01-23,REG,Columbus Blue Jackets,Ottawa Senators,1474,1539,36.7,63.3,2026020813
 2027-01-23,REG,Los Angeles Kings,Nashville Predators,1468,1497,41.5,58.5,2026020814
@@ -437,13 +436,13 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-23,REG,New Jersey Devils,Philadelphia Flyers,1512,1479,50.4,49.6,2026020820
 2027-01-23,REG,New York Rangers,Minnesota Wild,1498,1574,35.1,64.9,2026020821
 2027-01-23,REG,Boston Bruins,Utah Mammoth,1527,1501,49.5,50.5,2026020822
-2027-01-23,REG,Edmonton Oilers,San Jose Sharks,1541,1430,61.3,38.7,2026020823
+2027-01-23,REG,Edmonton Oilers,San Jose Sharks,1536,1430,60.8,39.2,2026020823
 2027-01-24,REG,Buffalo Sabres,Winnipeg Jets,1522,1493,49.9,50.1,2026020824
 2027-01-24,REG,Anaheim Ducks,Columbus Blue Jackets,1469,1474,45.0,55.0,2026020825
 2027-01-24,REG,Dallas Stars,Colorado Avalanche,1540,1575,40.8,59.2,2026020826
 2027-01-24,REG,Los Angeles Kings,Florida Panthers,1468,1512,39.5,60.5,2026020827
 2027-01-24,REG,Washington Capitals,New Jersey Devils,1502,1512,44.2,55.8,2026020828
-2027-01-24,REG,Vegas Golden Knights,Chicago Blackhawks,1534,1415,62.6,37.4,2026020829
+2027-01-24,REG,Vegas Golden Knights,Chicago Blackhawks,1538,1415,63.1,36.9,2026020829
 2027-01-25,REG,Pittsburgh Penguins,Detroit Red Wings,1472,1467,46.4,53.6,2026020830
 2027-01-25,REG,Seattle Kraken,New York Rangers,1465,1498,41.1,58.9,2026020831
 2027-01-25,REG,Carolina Hurricanes,Ottawa Senators,1609,1539,55.8,44.2,2026020832
@@ -456,10 +455,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-26,REG,Florida Panthers,Philadelphia Flyers,1512,1479,50.4,49.6,2026020839
 2027-01-26,REG,New York Islanders,Pittsburgh Penguins,1490,1472,48.2,51.8,2026020840
 2027-01-26,REG,Chicago Blackhawks,St. Louis Blues,1415,1516,31.9,68.1,2026020841
-2027-01-26,REG,Vegas Golden Knights,Nashville Predators,1534,1497,50.9,49.1,2026020842
+2027-01-26,REG,Vegas Golden Knights,Nashville Predators,1538,1497,51.5,48.5,2026020842
 2027-01-26,REG,Anaheim Ducks,Dallas Stars,1469,1540,35.9,64.1,2026020843
 2027-01-26,REG,Vancouver Canucks,Minnesota Wild,1385,1574,22.1,77.9,2026020844
-2027-01-26,REG,Edmonton Oilers,Colorado Avalanche,1541,1575,40.9,59.1,2026020845
+2027-01-26,REG,Edmonton Oilers,Colorado Avalanche,1536,1575,40.3,59.7,2026020845
 2027-01-27,REG,Toronto Maple Leafs,Detroit Red Wings,1452,1467,43.5,56.5,2026020846
 2027-01-27,REG,Florida Panthers,New York Rangers,1512,1498,47.7,52.3,2026020847
 2027-01-27,REG,Buffalo Sabres,Utah Mammoth,1522,1501,48.7,51.3,2026020848
@@ -470,9 +469,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-28,REG,Colorado Avalanche,St. Louis Blues,1575,1516,54.1,45.9,2026020853
 2027-01-28,REG,Vancouver Canucks,Dallas Stars,1385,1540,25.7,74.3,2026020854
 2027-01-28,REG,Montréal Canadiens,Calgary Flames,1533,1453,57.1,42.9,2026020855
-2027-01-28,REG,New Jersey Devils,Edmonton Oilers,1512,1541,41.6,58.4,2026020856
+2027-01-28,REG,New Jersey Devils,Edmonton Oilers,1512,1536,42.2,57.8,2026020856
 2027-01-28,REG,Seattle Kraken,Minnesota Wild,1465,1574,31.0,69.0,2026020857
-2027-01-28,REG,Buffalo Sabres,Vegas Golden Knights,1522,1534,44.0,56.0,2026020858
+2027-01-28,REG,Buffalo Sabres,Vegas Golden Knights,1522,1538,43.4,56.6,2026020858
 2027-01-28,REG,Chicago Blackhawks,Anaheim Ducks,1415,1469,38.1,61.9,2026020859
 2027-01-28,REG,Nashville Predators,San Jose Sharks,1497,1430,55.3,44.7,2026020860
 2027-01-29,REG,Florida Panthers,Detroit Red Wings,1512,1467,52.1,47.9,2026020861
@@ -488,15 +487,15 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-01-30,REG,New York Islanders,Tampa Bay Lightning,1490,1557,36.4,63.6,2026020871
 2027-01-30,REG,Los Angeles Kings,Carolina Hurricanes,1468,1609,27.2,72.8,2026020872
 2027-01-30,REG,Detroit Red Wings,Columbus Blue Jackets,1467,1474,44.8,55.2,2026020873
-2027-01-30,REG,Montréal Canadiens,Edmonton Oilers,1533,1541,44.6,55.4,2026020874
+2027-01-30,REG,Montréal Canadiens,Edmonton Oilers,1533,1536,45.1,54.9,2026020874
 2027-01-30,REG,Dallas Stars,Minnesota Wild,1540,1574,40.8,59.2,2026020875
-2027-01-30,REG,Washington Capitals,Vegas Golden Knights,1502,1534,41.1,58.9,2026020876
+2027-01-30,REG,Washington Capitals,Vegas Golden Knights,1502,1538,40.6,59.4,2026020876
 2027-01-30,REG,Nashville Predators,Anaheim Ducks,1497,1469,49.8,50.2,2026020877
 2027-01-31,REG,Philadelphia Flyers,Pittsburgh Penguins,1479,1472,46.7,53.3,2026020878
 2027-01-31,REG,New Jersey Devils,Seattle Kraken,1512,1465,52.4,47.6,2026020879
 2027-01-31,REG,Nashville Predators,Utah Mammoth,1497,1501,45.2,54.8,2026020880
 2027-02-01,REG,New York Islanders,Florida Panthers,1490,1512,42.6,57.4,2026020881
-2027-02-01,REG,Vegas Golden Knights,Calgary Flames,1534,1453,57.2,42.8,2026020882
+2027-02-01,REG,Vegas Golden Knights,Calgary Flames,1538,1453,57.8,42.2,2026020882
 2027-02-01,REG,Montréal Canadiens,Vancouver Canucks,1533,1385,66.3,33.7,2026020883
 2027-02-02,REG,Winnipeg Jets,Washington Capitals,1493,1502,44.4,55.6,2026020884
 2027-02-02,REG,Tampa Bay Lightning,Pittsburgh Penguins,1557,1472,57.8,42.2,2026020885
@@ -506,7 +505,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-03,REG,Winnipeg Jets,New York Rangers,1493,1498,44.9,55.1,2026020889
 2027-02-03,REG,Tampa Bay Lightning,Philadelphia Flyers,1557,1479,56.8,43.2,2026020890
 2027-02-03,REG,Utah Mammoth,Calgary Flames,1501,1453,52.5,47.5,2026020891
-2027-02-03,REG,Vegas Golden Knights,Edmonton Oilers,1534,1541,44.7,55.3,2026020892
+2027-02-03,REG,Vegas Golden Knights,Edmonton Oilers,1538,1536,45.9,54.1,2026020892
 2027-02-03,REG,New Jersey Devils,Vancouver Canucks,1512,1385,63.5,36.5,2026020893
 2027-02-03,REG,Montréal Canadiens,Seattle Kraken,1533,1465,55.4,44.6,2026020894
 2027-02-08,REG,Columbus Blue Jackets,Toronto Maple Leafs,1474,1452,48.8,51.2,2026020895
@@ -524,7 +523,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-12,REG,Dallas Stars,Tampa Bay Lightning,1540,1557,43.3,56.7,2026020907
 2027-02-12,REG,Colorado Avalanche,Florida Panthers,1575,1512,54.7,45.3,2026020908
 2027-02-12,REG,New York Islanders,New York Rangers,1490,1498,44.6,55.4,2026020909
-2027-02-12,REG,St. Louis Blues,Edmonton Oilers,1516,1541,42.2,57.8,2026020910
+2027-02-12,REG,St. Louis Blues,Edmonton Oilers,1516,1536,42.8,57.2,2026020910
 2027-02-12,REG,Calgary Flames,Utah Mammoth,1453,1501,39.0,61.0,2026020911
 2027-02-13,REG,Washington Capitals,Montréal Canadiens,1502,1533,41.3,58.7,2026020912
 2027-02-13,REG,Anaheim Ducks,Nashville Predators,1469,1497,41.7,58.3,2026020913
@@ -536,10 +535,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-13,REG,Colorado Avalanche,Tampa Bay Lightning,1575,1557,48.2,51.8,2026020919
 2027-02-13,REG,Minnesota Wild,New York Islanders,1574,1490,57.8,42.2,2026020920
 2027-02-13,REG,Buffalo Sabres,Carolina Hurricanes,1522,1609,33.7,66.3,2026020921
-2027-02-13,REG,Pittsburgh Penguins,Edmonton Oilers,1472,1541,36.2,63.8,2026020922
+2027-02-13,REG,Pittsburgh Penguins,Edmonton Oilers,1472,1536,36.7,63.3,2026020922
 2027-02-13,REG,New Jersey Devils,Philadelphia Flyers,1512,1479,50.4,49.6,2026020923
 2027-02-13,REG,Winnipeg Jets,Vancouver Canucks,1493,1385,60.9,39.1,2026020924
-2027-02-13,REG,Calgary Flames,Vegas Golden Knights,1453,1534,34.6,65.4,2026020925
+2027-02-13,REG,Calgary Flames,Vegas Golden Knights,1453,1538,34.1,65.9,2026020925
 2027-02-13,REG,St. Louis Blues,Seattle Kraken,1516,1465,53.0,47.0,2026020926
 2027-02-14,REG,New York Rangers,Montréal Canadiens,1498,1533,40.8,59.2,2026020927
 2027-02-14,REG,Utah Mammoth,Washington Capitals,1501,1502,45.5,54.5,2026020928
@@ -551,7 +550,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-15,REG,Ottawa Senators,Minnesota Wild,1539,1574,40.7,59.3,2026020934
 2027-02-15,REG,Winnipeg Jets,San Jose Sharks,1493,1430,54.6,45.4,2026020935
 2027-02-15,REG,Philadelphia Flyers,St. Louis Blues,1479,1516,40.5,59.5,2026020936
-2027-02-15,REG,Detroit Red Wings,Vegas Golden Knights,1467,1534,36.5,63.5,2026020937
+2027-02-15,REG,Detroit Red Wings,Vegas Golden Knights,1467,1538,35.9,64.1,2026020937
 2027-02-15,REG,Calgary Flames,Los Angeles Kings,1453,1468,43.6,56.4,2026020938
 2027-02-16,REG,Carolina Hurricanes,Toronto Maple Leafs,1609,1452,67.5,32.5,2026020939
 2027-02-16,REG,Anaheim Ducks,Washington Capitals,1469,1502,41.1,58.9,2026020941
@@ -563,7 +562,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-17,REG,Los Angeles Kings,Winnipeg Jets,1468,1493,42.2,57.8,2026020946
 2027-02-17,REG,Columbus Blue Jackets,Utah Mammoth,1474,1501,41.9,58.1,2026020947
 2027-02-17,REG,Boston Bruins,Calgary Flames,1527,1453,56.3,43.7,2026020948
-2027-02-17,REG,Colorado Avalanche,Edmonton Oilers,1575,1541,50.6,49.4,2026020949
+2027-02-17,REG,Colorado Avalanche,Edmonton Oilers,1575,1536,51.2,48.8,2026020949
 2027-02-17,REG,Ottawa Senators,Seattle Kraken,1539,1465,56.2,43.8,2026020950
 2027-02-18,REG,Carolina Hurricanes,Buffalo Sabres,1609,1522,58.2,41.8,2026020951
 2027-02-18,REG,Montréal Canadiens,Detroit Red Wings,1533,1467,55.0,45.0,2026020952
@@ -574,12 +573,12 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-18,REG,Los Angeles Kings,Minnesota Wild,1468,1574,31.3,68.7,2026020958
 2027-02-18,REG,Philadelphia Flyers,Dallas Stars,1479,1540,37.2,62.8,2026020957
 2027-02-18,REG,Ottawa Senators,Vancouver Canucks,1539,1385,67.0,33.0,2026020959
-2027-02-18,REG,Columbus Blue Jackets,Vegas Golden Knights,1474,1534,37.3,62.7,2026020960
+2027-02-18,REG,Columbus Blue Jackets,Vegas Golden Knights,1474,1538,36.8,63.2,2026020960
 2027-02-19,REG,San Jose Sharks,Washington Capitals,1430,1502,35.8,64.2,2026020961
 2027-02-19,REG,Detroit Red Wings,Carolina Hurricanes,1467,1609,27.1,72.9,2026020962
 2027-02-19,REG,St. Louis Blues,Winnipeg Jets,1516,1493,49.1,50.9,2026020963
 2027-02-19,REG,Pittsburgh Penguins,Calgary Flames,1472,1453,48.4,51.6,2026020964
-2027-02-19,REG,Boston Bruins,Edmonton Oilers,1527,1541,43.8,56.2,2026020965
+2027-02-19,REG,Boston Bruins,Edmonton Oilers,1527,1536,44.4,55.6,2026020965
 2027-02-19,REG,Seattle Kraken,Utah Mammoth,1465,1501,40.7,59.3,2026020966
 2027-02-20,REG,New York Rangers,Philadelphia Flyers,1498,1479,48.4,51.6,2026020967
 2027-02-20,REG,Buffalo Sabres,New Jersey Devils,1522,1512,47.1,52.9,2026020968
@@ -588,7 +587,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-20,REG,Nashville Predators,Columbus Blue Jackets,1497,1474,49.1,50.9,2026020971
 2027-02-20,REG,New York Islanders,Montréal Canadiens,1490,1533,39.7,60.3,2026020972
 2027-02-20,REG,Toronto Maple Leafs,Tampa Bay Lightning,1452,1557,31.5,68.5,2026020973
-2027-02-20,REG,Vegas Golden Knights,Dallas Stars,1534,1540,44.9,55.1,2026020974
+2027-02-20,REG,Vegas Golden Knights,Dallas Stars,1538,1540,45.4,54.6,2026020974
 2027-02-20,REG,Colorado Avalanche,Vancouver Canucks,1575,1385,71.4,28.6,2026020975
 2027-02-20,REG,Seattle Kraken,Los Angeles Kings,1465,1468,45.3,54.7,2026020976
 2027-02-21,REG,New York Rangers,Carolina Hurricanes,1498,1609,30.7,69.3,2026020977
@@ -602,8 +601,8 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-21,REG,Boston Bruins,Vancouver Canucks,1527,1385,65.6,34.4,2026020985
 2027-02-22,REG,Montréal Canadiens,Philadelphia Flyers,1533,1479,53.4,46.6,2026020986
 2027-02-22,REG,New York Islanders,Columbus Blue Jackets,1490,1474,48.0,52.0,2026020987
-2027-02-22,REG,Ottawa Senators,Edmonton Oilers,1539,1541,45.4,54.6,2026020988
-2027-02-22,REG,Vegas Golden Knights,Colorado Avalanche,1534,1575,39.9,60.1,2026020989
+2027-02-22,REG,Ottawa Senators,Edmonton Oilers,1539,1536,46.0,54.0,2026020988
+2027-02-22,REG,Vegas Golden Knights,Colorado Avalanche,1538,1575,40.5,59.5,2026020989
 2027-02-22,REG,Boston Bruins,Seattle Kraken,1527,1465,54.6,45.4,2026020990
 2027-02-23,REG,Detroit Red Wings,Toronto Maple Leafs,1467,1452,47.9,52.1,2026020991
 2027-02-23,REG,San Jose Sharks,Tampa Bay Lightning,1430,1557,28.9,71.1,2026020992
@@ -615,7 +614,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-23,REG,Pittsburgh Penguins,Minnesota Wild,1472,1574,31.8,68.2,2026020998
 2027-02-24,REG,Buffalo Sabres,Philadelphia Flyers,1522,1479,51.8,48.2,2026020999
 2027-02-24,REG,Calgary Flames,Utah Mammoth,1453,1501,39.0,61.0,2026021000
-2027-02-24,REG,Florida Panthers,Vegas Golden Knights,1512,1534,42.6,57.4,2026021001
+2027-02-24,REG,Florida Panthers,Vegas Golden Knights,1512,1538,42.0,58.0,2026021001
 2027-02-24,REG,Seattle Kraken,Anaheim Ducks,1465,1469,45.1,54.9,2026021002
 2027-02-24,REG,Montréal Canadiens,Los Angeles Kings,1533,1468,55.0,45.0,2026021003
 2027-02-25,REG,Detroit Red Wings,Ottawa Senators,1467,1539,35.8,64.2,2026021004
@@ -623,7 +622,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-25,REG,San Jose Sharks,Carolina Hurricanes,1430,1609,23.1,76.9,2026021006
 2027-02-25,REG,Washington Capitals,Boston Bruins,1502,1527,42.1,57.9,2026021007
 2027-02-25,REG,Vancouver Canucks,St. Louis Blues,1385,1516,28.4,71.6,2026021008
-2027-02-25,REG,Edmonton Oilers,Nashville Predators,1541,1497,51.9,48.1,2026021009
+2027-02-25,REG,Edmonton Oilers,Nashville Predators,1536,1497,51.3,48.7,2026021009
 2027-02-25,REG,Tampa Bay Lightning,Dallas Stars,1557,1540,48.2,51.8,2026021010
 2027-02-25,REG,Winnipeg Jets,Colorado Avalanche,1493,1575,34.4,65.6,2026021011
 2027-02-26,REG,Philadelphia Flyers,New York Islanders,1479,1490,44.2,55.8,2026021013
@@ -632,9 +631,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-02-26,REG,Ottawa Senators,Buffalo Sabres,1539,1522,48.1,51.9,2026021012
 2027-02-26,REG,Los Angeles Kings,Chicago Blackhawks,1468,1415,53.4,46.6,2026021016
 2027-02-26,REG,Florida Panthers,Utah Mammoth,1512,1501,47.3,52.7,2026021017
-2027-02-26,REG,Anaheim Ducks,Vegas Golden Knights,1469,1534,36.7,63.3,2026021018
+2027-02-26,REG,Anaheim Ducks,Vegas Golden Knights,1469,1538,36.1,63.9,2026021018
 2027-02-27,REG,Detroit Red Wings,Boston Bruins,1467,1527,37.3,62.7,2026021019
-2027-02-27,REG,Edmonton Oilers,Dallas Stars,1541,1540,45.8,54.2,2026021020
+2027-02-27,REG,Edmonton Oilers,Dallas Stars,1536,1540,45.2,54.8,2026021020
 2027-02-27,REG,Minnesota Wild,St. Louis Blues,1574,1516,54.1,45.9,2026021021
 2027-02-27,REG,Toronto Maple Leafs,Buffalo Sabres,1452,1522,36.1,63.9,2026021022
 2027-02-27,REG,San Jose Sharks,Philadelphia Flyers,1430,1479,38.9,61.1,2026021023
@@ -654,19 +653,19 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-01,REG,Washington Capitals,New York Islanders,1502,1490,47.4,52.6,2026021037
 2027-03-01,REG,Carolina Hurricanes,Columbus Blue Jackets,1609,1474,64.7,35.3,2026021038
 2027-03-01,REG,Seattle Kraken,Winnipeg Jets,1465,1493,41.8,58.2,2026021039
-2027-03-01,REG,Edmonton Oilers,Chicago Blackhawks,1541,1415,63.5,36.5,2026021040
+2027-03-01,REG,Edmonton Oilers,Chicago Blackhawks,1536,1415,62.9,37.1,2026021040
 2027-03-01,REG,Anaheim Ducks,Los Angeles Kings,1469,1468,45.9,54.1,2026021041
 2027-03-01,REG,Montréal Canadiens,San Jose Sharks,1533,1430,60.2,39.8,2026021042
 2027-03-02,REG,Pittsburgh Penguins,Buffalo Sabres,1472,1522,38.7,61.3,2026021043
 2027-03-02,REG,Utah Mammoth,Florida Panthers,1501,1512,44.1,55.9,2026021044
 2027-03-02,REG,Ottawa Senators,New Jersey Devils,1539,1512,49.5,50.5,2026021045
-2027-03-02,REG,Vegas Golden Knights,Philadelphia Flyers,1534,1479,53.6,46.4,2026021046
+2027-03-02,REG,Vegas Golden Knights,Philadelphia Flyers,1538,1479,54.2,45.8,2026021046
 2027-03-02,REG,Colorado Avalanche,Nashville Predators,1575,1497,56.8,43.2,2026021047
 2027-03-03,REG,Seattle Kraken,Toronto Maple Leafs,1465,1452,47.6,52.4,2026021048
 2027-03-03,REG,Boston Bruins,New York Rangers,1527,1498,49.9,50.1,2026021049
 2027-03-03,REG,Carolina Hurricanes,Washington Capitals,1609,1502,61.0,39.0,2026021050
 2027-03-03,REG,Minnesota Wild,Dallas Stars,1574,1540,50.6,49.4,2026021051
-2027-03-03,REG,Edmonton Oilers,Calgary Flames,1541,1453,58.2,41.8,2026021052
+2027-03-03,REG,Edmonton Oilers,Calgary Flames,1536,1453,57.6,42.4,2026021052
 2027-03-03,REG,Chicago Blackhawks,Vancouver Canucks,1415,1385,49.9,50.1,2026021053
 2027-03-03,REG,Tampa Bay Lightning,Los Angeles Kings,1557,1468,58.4,41.6,2026021054
 2027-03-03,REG,Columbus Blue Jackets,San Jose Sharks,1474,1430,51.9,48.1,2026021055
@@ -674,10 +673,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-04,REG,St. Louis Blues,Buffalo Sabres,1516,1522,44.9,55.1,2026021056
 2027-03-04,REG,Seattle Kraken,Montréal Canadiens,1465,1533,36.3,63.7,2026021057
 2027-03-04,REG,Boston Bruins,Ottawa Senators,1527,1539,44.1,55.9,2026021058
-2027-03-04,REG,Vegas Golden Knights,New York Islanders,1534,1490,52.0,48.0,2026021061
+2027-03-04,REG,Vegas Golden Knights,New York Islanders,1538,1490,52.6,47.4,2026021061
 2027-03-04,REG,Utah Mammoth,Nashville Predators,1501,1497,46.2,53.8,2026021062
 2027-03-04,REG,Pittsburgh Penguins,Florida Panthers,1472,1512,40.1,59.9,2026021060
-2027-03-05,REG,Vegas Golden Knights,New Jersey Devils,1534,1512,48.8,51.2,2026021063
+2027-03-05,REG,Vegas Golden Knights,New Jersey Devils,1538,1512,49.4,50.6,2026021063
 2027-03-05,REG,Dallas Stars,Philadelphia Flyers,1540,1479,54.4,45.6,2026021064
 2027-03-05,REG,Toronto Maple Leafs,Carolina Hurricanes,1452,1609,25.4,74.6,2026021065
 2027-03-05,REG,Washington Capitals,Winnipeg Jets,1502,1493,47.0,53.0,2026021066
@@ -692,7 +691,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-06,REG,Dallas Stars,Detroit Red Wings,1540,1467,56.1,43.9,2026021075
 2027-03-06,REG,Toronto Maple Leafs,Florida Panthers,1452,1512,37.4,62.6,2026021076
 2027-03-06,REG,Minnesota Wild,Nashville Predators,1574,1497,56.7,43.3,2026021077
-2027-03-06,REG,Chicago Blackhawks,Edmonton Oilers,1415,1541,28.9,71.1,2026021078
+2027-03-06,REG,Chicago Blackhawks,Edmonton Oilers,1415,1536,29.4,70.6,2026021078
 2027-03-06,REG,Tampa Bay Lightning,San Jose Sharks,1557,1430,63.6,36.4,2026021079
 2027-03-07,REG,Pittsburgh Penguins,New York Islanders,1472,1490,43.2,56.8,2026021080
 2027-03-07,REG,Utah Mammoth,Carolina Hurricanes,1501,1609,31.1,68.9,2026021082
@@ -700,7 +699,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-07,REG,Buffalo Sabres,Ottawa Senators,1522,1539,43.3,56.7,2026021085
 2027-03-07,REG,St. Louis Blues,Philadelphia Flyers,1516,1479,51.0,49.0,2026021081
 2027-03-07,REG,Colorado Avalanche,Los Angeles Kings,1575,1468,60.9,39.1,2026021084
-2027-03-07,REG,Vegas Golden Knights,New York Rangers,1534,1498,50.9,49.1,2026021086
+2027-03-07,REG,Vegas Golden Knights,New York Rangers,1538,1498,51.5,48.5,2026021086
 2027-03-07,REG,Columbus Blue Jackets,Anaheim Ducks,1474,1469,46.4,53.6,2026021087
 2027-03-07,REG,Washington Capitals,Minnesota Wild,1502,1574,35.6,64.4,2026021088
 2027-03-08,REG,Seattle Kraken,Boston Bruins,1465,1527,37.1,62.9,2026021089
@@ -714,10 +713,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-09,REG,Detroit Red Wings,Winnipeg Jets,1467,1493,42.1,57.9,2026021099
 2027-03-09,REG,Nashville Predators,St. Louis Blues,1497,1516,43.1,56.9,2026021097
 2027-03-09,REG,Carolina Hurricanes,Minnesota Wild,1609,1574,50.7,49.3,2026021098
-2027-03-09,REG,Los Angeles Kings,Edmonton Oilers,1468,1541,35.6,64.4,2026021100
+2027-03-09,REG,Los Angeles Kings,Edmonton Oilers,1468,1536,36.2,63.8,2026021100
 2027-03-09,REG,Philadelphia Flyers,Colorado Avalanche,1479,1575,32.7,67.3,2026021101
 2027-03-09,REG,New York Rangers,Utah Mammoth,1498,1501,45.3,54.7,2026021102
-2027-03-09,REG,San Jose Sharks,Vegas Golden Knights,1430,1534,31.7,68.3,2026021103
+2027-03-09,REG,San Jose Sharks,Vegas Golden Knights,1430,1538,31.2,68.8,2026021103
 2027-03-10,REG,Boston Bruins,Montréal Canadiens,1527,1533,44.9,55.1,2026021104
 2027-03-10,REG,Washington Capitals,Chicago Blackhawks,1502,1415,58.2,41.8,2026021105
 2027-03-10,REG,Anaheim Ducks,Dallas Stars,1469,1540,35.9,64.1,2026021106
@@ -727,10 +726,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-11,REG,Toronto Maple Leafs,Winnipeg Jets,1452,1493,40.0,60.0,2026021112
 2027-03-11,REG,Boston Bruins,Pittsburgh Penguins,1527,1472,53.6,46.4,2026021109
 2027-03-11,REG,San Jose Sharks,St. Louis Blues,1430,1516,33.9,66.1,2026021111
-2027-03-11,REG,Nashville Predators,Edmonton Oilers,1497,1541,39.6,60.4,2026021113
+2027-03-11,REG,Nashville Predators,Edmonton Oilers,1497,1536,40.2,59.8,2026021113
 2027-03-11,REG,New York Rangers,Colorado Avalanche,1498,1575,35.1,64.9,2026021114
 2027-03-11,REG,Los Angeles Kings,Seattle Kraken,1468,1465,46.1,53.9,2026021115
-2027-03-11,REG,Philadelphia Flyers,Vegas Golden Knights,1479,1534,38.0,62.0,2026021116
+2027-03-11,REG,Philadelphia Flyers,Vegas Golden Knights,1479,1538,37.5,62.5,2026021116
 2027-03-12,REG,Buffalo Sabres,Detroit Red Wings,1522,1467,53.5,46.5,2026021117
 2027-03-12,REG,New York Islanders,Florida Panthers,1490,1512,42.6,57.4,2026021118
 2027-03-12,REG,Calgary Flames,Carolina Hurricanes,1453,1609,25.5,74.5,2026021119
@@ -746,8 +745,8 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-13,REG,New Jersey Devils,Carolina Hurricanes,1512,1609,32.5,67.5,2026021128
 2027-03-13,REG,San Jose Sharks,Columbus Blue Jackets,1430,1474,39.6,60.4,2026021129
 2027-03-13,REG,Dallas Stars,Los Angeles Kings,1540,1468,56.0,44.0,2026021131
-2027-03-13,REG,New York Rangers,Vegas Golden Knights,1498,1534,40.6,59.4,2026021132
-2027-03-13,REG,Edmonton Oilers,Seattle Kraken,1541,1465,56.5,43.5,2026021133
+2027-03-13,REG,New York Rangers,Vegas Golden Knights,1498,1538,40.0,60.0,2026021132
+2027-03-13,REG,Edmonton Oilers,Seattle Kraken,1536,1465,55.9,44.1,2026021133
 2027-03-14,REG,Detroit Red Wings,Pittsburgh Penguins,1467,1472,45.0,55.0,2026021134
 2027-03-14,REG,Anaheim Ducks,Chicago Blackhawks,1469,1415,53.5,46.5,2026021135
 2027-03-14,REG,Vancouver Canucks,Ottawa Senators,1385,1539,25.8,74.2,2026021136
@@ -757,10 +756,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-15,REG,San Jose Sharks,Buffalo Sabres,1430,1522,33.2,66.8,2026021140
 2027-03-15,REG,Florida Panthers,Toronto Maple Leafs,1512,1452,54.2,45.8,2026021141
 2027-03-15,REG,Dallas Stars,Utah Mammoth,1540,1501,51.3,48.7,2026021142
-2027-03-15,REG,Edmonton Oilers,Colorado Avalanche,1541,1575,40.9,59.1,2026021143
+2027-03-15,REG,Edmonton Oilers,Colorado Avalanche,1536,1575,40.3,59.7,2026021143
 2027-03-15,REG,Nashville Predators,Calgary Flames,1497,1453,52.0,48.0,2026021144
 2027-03-15,REG,St. Louis Blues,Seattle Kraken,1516,1465,53.0,47.0,2026021145
-2027-03-15,REG,Winnipeg Jets,Vegas Golden Knights,1493,1534,39.9,60.1,2026021146
+2027-03-15,REG,Winnipeg Jets,Vegas Golden Knights,1493,1538,39.3,60.7,2026021146
 2027-03-16,REG,Florida Panthers,Montréal Canadiens,1512,1533,42.7,57.3,2026021147
 2027-03-16,REG,Ottawa Senators,New York Rangers,1539,1498,51.6,48.4,2026021148
 2027-03-16,REG,Detroit Red Wings,Philadelphia Flyers,1467,1479,44.0,56.0,2026021149
@@ -773,7 +772,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-17,REG,Minnesota Wild,Colorado Avalanche,1574,1575,45.6,54.4,2026021156
 2027-03-17,REG,Dallas Stars,Calgary Flames,1540,1453,58.1,41.9,2026021157
 2027-03-17,REG,Nashville Predators,Vancouver Canucks,1497,1385,61.6,38.4,2026021158
-2027-03-17,REG,Seattle Kraken,Vegas Golden Knights,1465,1534,36.2,63.8,2026021159
+2027-03-17,REG,Seattle Kraken,Vegas Golden Knights,1465,1538,35.6,64.4,2026021159
 2027-03-18,REG,Tampa Bay Lightning,Montréal Canadiens,1557,1533,49.2,50.8,2026021161
 2027-03-18,REG,Florida Panthers,Ottawa Senators,1512,1539,41.9,58.1,2026021162
 2027-03-18,REG,Columbus Blue Jackets,Detroit Red Wings,1474,1467,46.6,53.4,2026021163
@@ -782,7 +781,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-18,REG,Boston Bruins,Philadelphia Flyers,1527,1479,52.6,47.4,2026021166
 2027-03-18,REG,Washington Capitals,Buffalo Sabres,1502,1522,42.9,57.1,2026021160
 2027-03-18,REG,San Jose Sharks,Winnipeg Jets,1430,1493,37.0,63.0,2026021167
-2027-03-18,REG,St. Louis Blues,Edmonton Oilers,1516,1541,42.2,57.8,2026021168
+2027-03-18,REG,St. Louis Blues,Edmonton Oilers,1516,1536,42.8,57.2,2026021168
 2027-03-18,REG,Utah Mammoth,Anaheim Ducks,1501,1469,50.2,49.8,2026021169
 2027-03-18,REG,Carolina Hurricanes,Los Angeles Kings,1609,1468,65.5,34.5,2026021170
 2027-03-19,REG,Calgary Flames,Minnesota Wild,1453,1574,29.5,70.5,2026021171
@@ -791,14 +790,14 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-20,REG,Montréal Canadiens,Detroit Red Wings,1533,1467,55.0,45.0,2026021175
 2027-03-20,REG,Florida Panthers,Buffalo Sabres,1512,1522,44.3,55.7,2026021174
 2027-03-20,REG,Philadelphia Flyers,New York Islanders,1479,1490,44.2,55.8,2026021176
-2027-03-20,REG,Dallas Stars,Edmonton Oilers,1540,1541,45.6,54.4,2026021177
+2027-03-20,REG,Dallas Stars,Edmonton Oilers,1540,1536,46.2,53.8,2026021177
 2027-03-20,REG,Boston Bruins,Nashville Predators,1527,1497,50.0,50.0,2026021178
 2027-03-20,REG,Tampa Bay Lightning,Ottawa Senators,1557,1539,48.3,51.7,2026021179
 2027-03-20,REG,Toronto Maple Leafs,New Jersey Devils,1452,1512,37.4,62.6,2026021180
 2027-03-20,REG,Columbus Blue Jackets,Winnipeg Jets,1474,1493,43.0,57.0,2026021181
 2027-03-20,REG,Pittsburgh Penguins,New York Rangers,1472,1498,42.1,57.9,2026021182
 2027-03-20,REG,St. Louis Blues,Vancouver Canucks,1516,1385,64.1,35.9,2026021183
-2027-03-20,REG,Vegas Golden Knights,Anaheim Ducks,1534,1469,55.0,45.0,2026021184
+2027-03-20,REG,Vegas Golden Knights,Anaheim Ducks,1538,1469,55.6,44.4,2026021184
 2027-03-20,REG,Carolina Hurricanes,San Jose Sharks,1609,1430,70.2,29.8,2026021185
 2027-03-21,REG,Utah Mammoth,Minnesota Wild,1501,1574,35.5,64.5,2026021186
 2027-03-21,REG,Buffalo Sabres,New York Islanders,1522,1490,50.3,49.7,2026021187
@@ -806,7 +805,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-21,REG,Washington Capitals,New York Rangers,1502,1498,46.3,53.7,2026021189
 2027-03-21,REG,St. Louis Blues,Calgary Flames,1516,1453,54.7,45.3,2026021190
 2027-03-21,REG,Los Angeles Kings,Seattle Kraken,1468,1465,46.1,53.9,2026021191
-2027-03-21,REG,Edmonton Oilers,Vancouver Canucks,1541,1385,67.3,32.7,2026021192
+2027-03-21,REG,Edmonton Oilers,Vancouver Canucks,1536,1385,66.8,33.2,2026021192
 2027-03-22,REG,Columbus Blue Jackets,Pittsburgh Penguins,1474,1472,45.9,54.1,2026021193
 2027-03-22,REG,Toronto Maple Leafs,Montréal Canadiens,1452,1533,34.6,65.4,2026021194
 2027-03-22,REG,San Jose Sharks,Anaheim Ducks,1430,1469,40.2,59.8,2026021195
@@ -818,9 +817,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-23,REG,Carolina Hurricanes,Dallas Stars,1609,1540,55.6,44.4,2026021201
 2027-03-23,REG,Chicago Blackhawks,Minnesota Wild,1415,1574,25.1,74.9,2026021202
 2027-03-23,REG,St. Louis Blues,Winnipeg Jets,1516,1493,49.1,50.9,2026021203
-2027-03-23,REG,Edmonton Oilers,Calgary Flames,1541,1453,58.2,41.8,2026021205
+2027-03-23,REG,Edmonton Oilers,Calgary Flames,1536,1453,57.6,42.4,2026021205
 2027-03-23,REG,Utah Mammoth,Colorado Avalanche,1501,1575,35.5,64.5,2026021204
-2027-03-23,REG,Vegas Golden Knights,Seattle Kraken,1534,1465,55.5,44.5,2026021206
+2027-03-23,REG,Vegas Golden Knights,Seattle Kraken,1538,1465,56.1,43.9,2026021206
 2027-03-23,REG,Los Angeles Kings,Vancouver Canucks,1468,1385,57.5,42.5,2026021207
 2027-03-24,REG,Ottawa Senators,Montréal Canadiens,1539,1533,46.5,53.5,2026021208
 2027-03-24,REG,Washington Capitals,Detroit Red Wings,1502,1467,50.6,49.4,2026021209
@@ -834,15 +833,15 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-25,REG,Chicago Blackhawks,Columbus Blue Jackets,1415,1474,37.4,62.6,2026021217
 2027-03-25,REG,New York Islanders,St. Louis Blues,1490,1516,42.0,58.0,2026021218
 2027-03-25,REG,Colorado Avalanche,Winnipeg Jets,1575,1493,57.5,42.5,2026021219
-2027-03-25,REG,Edmonton Oilers,Minnesota Wild,1541,1574,40.9,59.1,2026021220
+2027-03-25,REG,Edmonton Oilers,Minnesota Wild,1536,1574,40.4,59.6,2026021220
 2027-03-25,REG,Los Angeles Kings,Calgary Flames,1468,1453,47.8,52.2,2026021221
 2027-03-25,REG,Anaheim Ducks,Seattle Kraken,1469,1465,46.2,53.8,2026021222
-2027-03-25,REG,Vegas Golden Knights,Vancouver Canucks,1534,1385,66.4,33.6,2026021223
+2027-03-25,REG,Vegas Golden Knights,Vancouver Canucks,1538,1385,67.0,33.0,2026021223
 2027-03-26,REG,Boston Bruins,Washington Capitals,1527,1502,49.4,50.6,2026021224
 2027-03-26,REG,Nashville Predators,Chicago Blackhawks,1497,1415,57.6,42.4,2026021225
 2027-03-26,REG,San Jose Sharks,Utah Mammoth,1430,1501,36.0,64.0,2026021226
 2027-03-27,REG,Seattle Kraken,Minnesota Wild,1465,1574,31.0,69.0,2026021228
-2027-03-27,REG,Los Angeles Kings,Edmonton Oilers,1468,1541,35.6,64.4,2026021227
+2027-03-27,REG,Los Angeles Kings,Edmonton Oilers,1468,1536,36.2,63.8,2026021227
 2027-03-27,REG,Anaheim Ducks,Vancouver Canucks,1469,1385,57.7,42.3,2026021229
 2027-03-27,REG,Philadelphia Flyers,Florida Panthers,1479,1512,41.1,58.9,2026021230
 2027-03-27,REG,Ottawa Senators,Toronto Maple Leafs,1539,1452,58.0,42.0,2026021231
@@ -853,7 +852,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-27,REG,Winnipeg Jets,Colorado Avalanche,1493,1575,34.4,65.6,2026021236
 2027-03-27,REG,Detroit Red Wings,New York Islanders,1467,1490,42.5,57.5,2026021237
 2027-03-27,REG,Nashville Predators,Dallas Stars,1497,1540,39.7,60.3,2026021238
-2027-03-27,REG,Vegas Golden Knights,Calgary Flames,1534,1453,57.2,42.8,2026021239
+2027-03-27,REG,Vegas Golden Knights,Calgary Flames,1538,1453,57.8,42.2,2026021239
 2027-03-28,REG,Seattle Kraken,Chicago Blackhawks,1465,1415,53.0,47.0,2026021240
 2027-03-28,REG,Detroit Red Wings,Montréal Canadiens,1467,1533,36.6,63.4,2026021242
 2027-03-28,REG,Washington Capitals,Toronto Maple Leafs,1502,1452,52.8,47.2,2026021241
@@ -874,9 +873,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-03-30,REG,Utah Mammoth,Seattle Kraken,1501,1465,50.8,49.2,2026021257
 2027-03-30,REG,Colorado Avalanche,Anaheim Ducks,1575,1469,60.7,39.3,2026021258
 2027-03-31,REG,Minnesota Wild,New Jersey Devils,1574,1512,54.7,45.3,2026021259
-2027-03-31,REG,San Jose Sharks,Edmonton Oilers,1430,1541,30.9,69.1,2026021260
+2027-03-31,REG,San Jose Sharks,Edmonton Oilers,1430,1536,31.4,68.6,2026021260
 2027-03-31,REG,Winnipeg Jets,Los Angeles Kings,1493,1468,49.2,50.8,2026021261
-2027-03-31,REG,Vancouver Canucks,Vegas Golden Knights,1385,1534,26.4,73.6,2026021262
+2027-03-31,REG,Vancouver Canucks,Vegas Golden Knights,1385,1538,25.9,74.1,2026021262
 2027-04-01,REG,New York Rangers,Montréal Canadiens,1498,1533,40.8,59.2,2026021263
 2027-04-01,REG,Columbus Blue Jackets,Tampa Bay Lightning,1474,1557,34.3,65.7,2026021264
 2027-04-01,REG,Toronto Maple Leafs,Florida Panthers,1452,1512,37.4,62.6,2026021265
@@ -890,7 +889,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-02,REG,Ottawa Senators,New York Islanders,1539,1490,52.7,47.3,2026021273
 2027-04-02,REG,Dallas Stars,Minnesota Wild,1540,1574,40.8,59.2,2026021274
 2027-04-02,REG,Los Angeles Kings,Colorado Avalanche,1468,1575,31.3,68.7,2026021275
-2027-04-02,REG,Edmonton Oilers,Vegas Golden Knights,1541,1534,46.7,53.3,2026021276
+2027-04-02,REG,Edmonton Oilers,Vegas Golden Knights,1536,1538,45.5,54.5,2026021276
 2027-04-03,REG,Florida Panthers,New York Rangers,1512,1498,47.7,52.3,2026021277
 2027-04-03,REG,Tampa Bay Lightning,Boston Bruins,1557,1527,50.0,50.0,2026021278
 2027-04-03,REG,Calgary Flames,Nashville Predators,1453,1497,39.5,60.5,2026021279
@@ -900,9 +899,9 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-03,REG,Buffalo Sabres,Toronto Maple Leafs,1522,1452,55.6,44.4,2026021283
 2027-04-03,REG,Winnipeg Jets,Seattle Kraken,1493,1465,49.6,50.4,2026021284
 2027-04-03,REG,Philadelphia Flyers,Pittsburgh Penguins,1479,1472,46.7,53.3,2026021285
-2027-04-03,REG,Vegas Golden Knights,Utah Mammoth,1534,1501,50.5,49.5,2026021286
+2027-04-03,REG,Vegas Golden Knights,Utah Mammoth,1538,1501,51.1,48.9,2026021286
 2027-04-03,REG,San Jose Sharks,Vancouver Canucks,1430,1385,52.2,47.8,2026021287
-2027-04-03,REG,Edmonton Oilers,Anaheim Ducks,1541,1469,55.9,44.1,2026021288
+2027-04-03,REG,Edmonton Oilers,Anaheim Ducks,1536,1469,55.3,44.7,2026021288
 2027-04-03,REG,St. Louis Blues,Los Angeles Kings,1516,1468,52.6,47.4,2026021289
 2027-04-04,REG,Colorado Avalanche,Minnesota Wild,1575,1574,45.8,54.2,2026021290
 2027-04-04,REG,Detroit Red Wings,Ottawa Senators,1467,1539,35.8,64.2,2026021292
@@ -915,7 +914,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-05,REG,Boston Bruins,Toronto Maple Leafs,1527,1452,56.4,43.6,2026021298
 2027-04-05,REG,Seattle Kraken,Dallas Stars,1465,1540,35.4,64.6,2026021299
 2027-04-05,REG,Winnipeg Jets,Utah Mammoth,1493,1501,44.5,55.5,2026021300
-2027-04-05,REG,Calgary Flames,Edmonton Oilers,1453,1541,33.7,66.3,2026021301
+2027-04-05,REG,Calgary Flames,Edmonton Oilers,1453,1536,34.3,65.7,2026021301
 2027-04-06,REG,Pittsburgh Penguins,New York Rangers,1472,1498,42.1,57.9,2026021306
 2027-04-06,REG,Montréal Canadiens,Florida Panthers,1533,1512,48.7,51.3,2026021302
 2027-04-06,REG,Tampa Bay Lightning,New Jersey Devils,1557,1512,52.2,47.8,2026021303
@@ -925,10 +924,10 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-06,REG,Chicago Blackhawks,Minnesota Wild,1415,1574,25.1,74.9,2026021308
 2027-04-06,REG,Colorado Avalanche,Vancouver Canucks,1575,1385,71.4,28.6,2026021309
 2027-04-06,REG,Los Angeles Kings,Anaheim Ducks,1468,1469,45.5,54.5,2026021311
-2027-04-06,REG,St. Louis Blues,Vegas Golden Knights,1516,1534,43.2,56.8,2026021310
+2027-04-06,REG,St. Louis Blues,Vegas Golden Knights,1516,1538,42.6,57.4,2026021310
 2027-04-07,REG,Ottawa Senators,Carolina Hurricanes,1539,1609,35.9,64.1,2026021313
 2027-04-07,REG,Boston Bruins,Buffalo Sabres,1527,1522,46.5,53.5,2026021312
-2027-04-07,REG,Edmonton Oilers,Winnipeg Jets,1541,1493,52.6,47.4,2026021314
+2027-04-07,REG,Edmonton Oilers,Winnipeg Jets,1536,1493,52.0,48.0,2026021314
 2027-04-07,REG,Dallas Stars,Utah Mammoth,1540,1501,51.3,48.7,2026021315
 2027-04-08,REG,Washington Capitals,Ottawa Senators,1502,1539,40.5,59.5,2026021316
 2027-04-08,REG,Montréal Canadiens,Tampa Bay Lightning,1533,1557,42.2,57.8,2026021317
@@ -938,7 +937,7 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-08,REG,Seattle Kraken,St. Louis Blues,1465,1516,38.6,61.4,2026021321
 2027-04-08,REG,Colorado Avalanche,Calgary Flames,1575,1453,62.9,37.1,2026021322
 2027-04-08,REG,Minnesota Wild,San Jose Sharks,1574,1430,65.8,34.2,2026021323
-2027-04-08,REG,Vegas Golden Knights,Los Angeles Kings,1534,1468,55.2,44.8,2026021324
+2027-04-08,REG,Vegas Golden Knights,Los Angeles Kings,1538,1468,55.7,44.3,2026021324
 2027-04-09,REG,Pittsburgh Penguins,Detroit Red Wings,1472,1467,46.4,53.6,2026021325
 2027-04-09,REG,Boston Bruins,Florida Panthers,1527,1512,47.9,52.1,2026021326
 2027-04-09,REG,Vancouver Canucks,Winnipeg Jets,1385,1493,31.2,68.8,2026021327
@@ -957,5 +956,5 @@ Date,Game Type,Away,Home,Away ELO,Home ELO,Away Win %,Home Win %,game_id
 2027-04-10,REG,Utah Mammoth,St. Louis Blues,1501,1516,43.5,56.5,2026021340
 2027-04-10,REG,Boston Bruins,Tampa Bay Lightning,1527,1557,41.5,58.5,2026021341
 2027-04-10,REG,Vancouver Canucks,Calgary Flames,1385,1453,36.3,63.7,2026021342
-2027-04-10,REG,Winnipeg Jets,Edmonton Oilers,1493,1541,38.9,61.1,2026021343
-2027-04-10,REG,Los Angeles Kings,Vegas Golden Knights,1468,1534,36.5,63.5,2026021344
+2027-04-10,REG,Winnipeg Jets,Edmonton Oilers,1493,1536,39.5,60.5,2026021343
+2027-04-10,REG,Los Angeles Kings,Vegas Golden Knights,1468,1538,36.0,64.0,2026021344

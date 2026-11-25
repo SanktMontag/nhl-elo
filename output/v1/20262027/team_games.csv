@@ -767,3 +767,5 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-23,REG,Anaheim Ducks,1472,Seattle Kraken,1462,Away,47.1,2,3,L,-2.8,1469,2026020383,32,39
 2026-11-23,REG,San Jose Sharks,1434,Minnesota Wild,1571,Home,35.1,2,5,L,-3.7,1430,2026020384,29,37
 2026-11-23,REG,Minnesota Wild,1571,San Jose Sharks,1434,Away,64.9,5,2,W,3.7,1574,2026020384,37,29
+2026-11-24,REG,Edmonton Oilers,1541,Vegas Golden Knights,1534,Home,55.3,3,5,L,-4.1,1536,2026020385,25,38
+2026-11-24,REG,Vegas Golden Knights,1534,Edmonton Oilers,1541,Away,44.7,5,3,W,4.1,1538,2026020385,38,25

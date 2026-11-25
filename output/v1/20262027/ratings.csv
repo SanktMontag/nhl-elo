@@ -3,10 +3,10 @@ Rank,franchise,Team,Abbrev,Conference,Division,ELO,GP,W,L,OTL,PTS,GF,GA,PO W,PO 
 2,27,Colorado Avalanche,COL,Western,Central,1575,23,13,7,3,29,90,68,0,0,1567,1577,8
 3,37,Minnesota Wild,MIN,Western,Central,1574,26,18,3,5,41,95,58,0,0,1526,1574,48
 4,31,Tampa Bay Lightning,TBL,Eastern,Atlantic,1557,23,15,6,2,32,84,68,0,0,1543,1564,14
-5,25,Edmonton Oilers,EDM,Western,Pacific,1541,26,17,5,4,38,101,77,0,0,1509,1549,32
-6,15,Dallas Stars,DAL,Western,Central,1540,23,15,6,2,32,65,56,0,0,1535,1543,5
-7,30,Ottawa Senators,OTT,Eastern,Atlantic,1539,25,16,6,3,35,81,71,0,0,1525,1539,13
-8,38,Vegas Golden Knights,VGK,Western,Pacific,1534,25,14,6,5,33,85,75,0,0,1530,1548,4
+5,15,Dallas Stars,DAL,Western,Central,1540,23,15,6,2,32,65,56,0,0,1535,1543,5
+6,30,Ottawa Senators,OTT,Eastern,Atlantic,1539,25,16,6,3,35,81,71,0,0,1525,1539,13
+7,38,Vegas Golden Knights,VGK,Western,Pacific,1538,26,15,6,5,35,90,78,0,0,1530,1548,8
+8,25,Edmonton Oilers,EDM,Western,Pacific,1536,27,17,6,4,38,104,82,0,0,1509,1549,28
 9,1,Montréal Canadiens,MTL,Eastern,Atlantic,1533,25,14,7,4,32,78,73,0,0,1529,1544,4
 10,6,Boston Bruins,BOS,Eastern,Atlantic,1527,23,15,7,1,31,83,61,0,0,1507,1537,21
 11,19,Buffalo Sabres,BUF,Eastern,Atlantic,1522,24,10,10,4,24,73,83,0,0,1541,1539,-20
