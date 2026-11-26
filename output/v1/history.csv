@@ -643,35 +643,35 @@ season,Season,franchise,Franchise,Team,Rank,Start ELO,End ELO,Peak ELO,GP,W,L,OT
 20252026,2025-26,29,San Jose Sharks,San Jose Sharks,30,1392,1426,1438,82,39,35,8,86,0,0
 20252026,2025-26,11,Chicago Blackhawks,Chicago Blackhawks,31,1423,1402,1458,82,29,39,14,72,0,0
 20252026,2025-26,20,Vancouver Canucks,Vancouver Canucks,32,1498,1386,1504,82,25,49,8,58,0,0
-20262027,2026-27,26,Carolina Hurricanes,Carolina Hurricanes,1,1574,1609,1609,24,18,3,3,39,0,0
-20262027,2026-27,27,Colorado Avalanche,Colorado Avalanche,2,1567,1575,1577,23,13,7,3,29,0,0
-20262027,2026-27,37,Minnesota Wild,Minnesota Wild,3,1526,1574,1574,26,18,3,5,41,0,0
-20262027,2026-27,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1543,1557,1564,23,15,6,2,32,0,0
-20262027,2026-27,15,Dallas Stars,Dallas Stars,5,1535,1540,1543,23,15,6,2,32,0,0
-20262027,2026-27,30,Ottawa Senators,Ottawa Senators,6,1525,1539,1539,25,16,6,3,35,0,0
-20262027,2026-27,38,Vegas Golden Knights,Vegas Golden Knights,7,1530,1538,1548,26,15,6,5,35,0,0
-20262027,2026-27,25,Edmonton Oilers,Edmonton Oilers,8,1509,1536,1549,27,17,6,4,38,0,0
-20262027,2026-27,1,Montréal Canadiens,Montréal Canadiens,9,1529,1533,1544,25,14,7,4,32,0,0
-20262027,2026-27,6,Boston Bruins,Boston Bruins,10,1507,1527,1537,23,15,7,1,31,0,0
-20262027,2026-27,19,Buffalo Sabres,Buffalo Sabres,11,1541,1522,1539,24,10,10,4,24,0,0
-20262027,2026-27,18,St. Louis Blues,St. Louis Blues,12,1505,1516,1516,24,13,9,2,28,0,0
-20262027,2026-27,33,Florida Panthers,Florida Panthers,13,1503,1512,1515,24,13,8,3,29,0,0
-20262027,2026-27,23,New Jersey Devils,New Jersey Devils,14,1483,1512,1517,24,16,8,0,32,0,0
-20262027,2026-27,24,Washington Capitals,Washington Capitals,15,1521,1502,1531,21,10,11,0,20,0,0
-20262027,2026-27,40,Utah Mammoth,Utah Mammoth,16,1505,1501,1522,25,12,10,3,27,0,0
-20262027,2026-27,10,New York Rangers,New York Rangers,17,1485,1498,1505,23,13,9,1,27,0,0
-20262027,2026-27,34,Nashville Predators,Nashville Predators,18,1479,1497,1503,23,12,6,5,29,0,0
-20262027,2026-27,35,Winnipeg Jets,Winnipeg Jets,19,1490,1493,1499,25,12,9,4,28,0,0
-20262027,2026-27,22,New York Islanders,New York Islanders,20,1481,1490,1494,23,11,7,5,27,0,0
-20262027,2026-27,16,Philadelphia Flyers,Philadelphia Flyers,21,1497,1479,1489,26,9,11,6,24,0,0
-20262027,2026-27,36,Columbus Blue Jackets,Columbus Blue Jackets,22,1500,1474,1505,22,9,13,0,18,0,0
-20262027,2026-27,17,Pittsburgh Penguins,Pittsburgh Penguins,23,1505,1472,1513,23,7,14,2,16,0,0
-20262027,2026-27,32,Anaheim Ducks,Anaheim Ducks,24,1477,1469,1487,25,11,13,1,23,0,0
+20262027,2026-27,26,Carolina Hurricanes,Carolina Hurricanes,1,1574,1613,1613,25,19,3,3,41,0,0
+20262027,2026-27,27,Colorado Avalanche,Colorado Avalanche,2,1567,1580,1580,24,14,7,3,31,0,0
+20262027,2026-27,37,Minnesota Wild,Minnesota Wild,3,1526,1570,1574,27,18,4,5,41,0,0
+20262027,2026-27,31,Tampa Bay Lightning,Tampa Bay Lightning,4,1543,1553,1564,24,15,7,2,32,0,0
+20262027,2026-27,38,Vegas Golden Knights,Vegas Golden Knights,5,1530,1538,1548,26,15,6,5,35,0,0
+20262027,2026-27,25,Edmonton Oilers,Edmonton Oilers,6,1509,1536,1549,27,17,6,4,38,0,0
+20262027,2026-27,15,Dallas Stars,Dallas Stars,7,1535,1535,1543,24,15,7,2,32,0,0
+20262027,2026-27,30,Ottawa Senators,Ottawa Senators,8,1525,1535,1539,26,16,7,3,35,0,0
+20262027,2026-27,1,Montréal Canadiens,Montréal Canadiens,9,1529,1528,1544,26,14,8,4,32,0,0
+20262027,2026-27,19,Buffalo Sabres,Buffalo Sabres,10,1541,1526,1539,25,11,10,4,26,0,0
+20262027,2026-27,6,Boston Bruins,Boston Bruins,11,1507,1523,1537,24,15,8,1,31,0,0
+20262027,2026-27,33,Florida Panthers,Florida Panthers,12,1503,1516,1516,25,14,8,3,31,0,0
+20262027,2026-27,18,St. Louis Blues,St. Louis Blues,13,1505,1515,1516,25,13,9,3,29,0,0
+20262027,2026-27,23,New Jersey Devils,New Jersey Devils,14,1483,1513,1517,25,17,8,0,34,0,0
+20262027,2026-27,24,Washington Capitals,Washington Capitals,15,1521,1506,1531,22,11,11,0,22,0,0
+20262027,2026-27,40,Utah Mammoth,Utah Mammoth,16,1505,1505,1522,26,13,10,3,29,0,0
+20262027,2026-27,34,Nashville Predators,Nashville Predators,17,1479,1502,1503,24,13,6,5,31,0,0
+20262027,2026-27,35,Winnipeg Jets,Winnipeg Jets,18,1490,1497,1499,26,13,9,4,30,0,0
+20262027,2026-27,10,New York Rangers,New York Rangers,19,1485,1493,1505,24,13,10,1,27,0,0
+20262027,2026-27,22,New York Islanders,New York Islanders,20,1481,1491,1494,24,12,7,5,29,0,0
+20262027,2026-27,32,Anaheim Ducks,Anaheim Ducks,21,1477,1475,1487,26,12,13,1,25,0,0
+20262027,2026-27,16,Philadelphia Flyers,Philadelphia Flyers,22,1497,1474,1489,27,9,12,6,24,0,0
+20262027,2026-27,36,Columbus Blue Jackets,Columbus Blue Jackets,23,1500,1472,1505,23,9,13,1,19,0,0
+20262027,2026-27,12,Detroit Red Wings,Detroit Red Wings,24,1488,1471,1485,24,9,12,3,21,0,0
 20262027,2026-27,14,Los Angeles Kings,Los Angeles Kings,25,1486,1468,1482,22,8,12,2,18,0,0
-20262027,2026-27,12,Detroit Red Wings,Detroit Red Wings,26,1488,1467,1485,23,8,12,3,19,0,0
-20262027,2026-27,39,Seattle Kraken,Seattle Kraken,27,1462,1465,1479,21,11,9,1,23,0,0
-20262027,2026-27,21,Calgary Flames,Calgary Flames,28,1472,1453,1466,25,10,13,2,22,0,0
+20262027,2026-27,17,Pittsburgh Penguins,Pittsburgh Penguins,26,1505,1466,1513,24,7,15,2,16,0,0
+20262027,2026-27,39,Seattle Kraken,Seattle Kraken,27,1462,1461,1479,22,11,10,1,23,0,0
+20262027,2026-27,21,Calgary Flames,Calgary Flames,28,1472,1459,1466,26,11,13,2,24,0,0
 20262027,2026-27,5,Toronto Maple Leafs,Toronto Maple Leafs,29,1470,1452,1486,26,9,14,3,21,0,0
-20262027,2026-27,29,San Jose Sharks,San Jose Sharks,30,1450,1430,1453,26,11,13,2,24,0,0
-20262027,2026-27,11,Chicago Blackhawks,Chicago Blackhawks,31,1434,1415,1431,24,8,14,2,18,0,0
-20262027,2026-27,20,Vancouver Canucks,Vancouver Canucks,32,1424,1385,1428,26,6,19,1,13,0,0
+20262027,2026-27,29,San Jose Sharks,San Jose Sharks,30,1450,1425,1453,27,11,14,2,24,0,0
+20262027,2026-27,11,Chicago Blackhawks,Chicago Blackhawks,31,1434,1419,1431,25,9,14,2,20,0,0
+20262027,2026-27,20,Vancouver Canucks,Vancouver Canucks,32,1424,1381,1428,27,6,20,1,13,0,0

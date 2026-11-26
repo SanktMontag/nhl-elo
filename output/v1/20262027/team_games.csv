@@ -769,3 +769,31 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-23,REG,Minnesota Wild,1571,San Jose Sharks,1434,Away,64.9,5,2,W,3.7,1574,2026020384,37,29
 2026-11-24,REG,Edmonton Oilers,1541,Vegas Golden Knights,1534,Home,55.3,3,5,L,-4.1,1536,2026020385,25,38
 2026-11-24,REG,Vegas Golden Knights,1534,Edmonton Oilers,1541,Away,44.7,5,3,W,4.1,1538,2026020385,38,25
+2026-11-25,REG,Boston Bruins,1527,Winnipeg Jets,1493,Home,59.2,2,4,L,-4.4,1523,2026020386,6,35
+2026-11-25,REG,Winnipeg Jets,1493,Boston Bruins,1527,Away,40.8,4,2,W,4.4,1497,2026020386,35,6
+2026-11-25,REG,Buffalo Sabres,1522,New York Rangers,1498,Home,57.7,5,1,W,4.8,1526,2026020387,19,10
+2026-11-25,REG,New York Rangers,1498,Buffalo Sabres,1522,Away,42.3,1,5,L,-4.8,1493,2026020387,10,19
+2026-11-25,REG,Tampa Bay Lightning,1557,Carolina Hurricanes,1609,Home,46.8,1,3,L,-3.5,1553,2026020388,31,26
+2026-11-25,REG,Carolina Hurricanes,1609,Tampa Bay Lightning,1557,Away,53.2,3,1,W,3.5,1613,2026020388,26,31
+2026-11-25,REG,Florida Panthers,1512,Ottawa Senators,1539,Home,50.5,5,3,W,3.7,1516,2026020389,33,30
+2026-11-25,REG,Ottawa Senators,1539,Florida Panthers,1512,Away,49.5,3,5,L,-3.7,1535,2026020389,30,33
+2026-11-25,REG,New York Islanders,1490,St. Louis Blues,1516,Home,50.5,3,2,SOW,1.5,1491,2026020390,22,18
+2026-11-25,REG,St. Louis Blues,1516,New York Islanders,1490,Away,49.5,2,3,SOL,-1.5,1515,2026020390,18,22
+2026-11-25,REG,Pittsburgh Penguins,1472,Calgary Flames,1453,Home,57.0,3,6,L,-6.0,1466,2026020391,17,21
+2026-11-25,REG,Calgary Flames,1453,Pittsburgh Penguins,1472,Away,43.0,6,3,W,6.0,1459,2026020391,21,17
+2026-11-25,REG,Washington Capitals,1502,Philadelphia Flyers,1479,Home,57.5,7,3,W,4.8,1506,2026020392,24,16
+2026-11-25,REG,Philadelphia Flyers,1479,Washington Capitals,1502,Away,42.5,3,7,L,-4.8,1474,2026020392,16,24
+2026-11-25,REG,Columbus Blue Jackets,1474,New Jersey Devils,1512,Home,48.8,2,3,SOL,-1.4,1472,2026020393,36,23
+2026-11-25,REG,New Jersey Devils,1512,Columbus Blue Jackets,1474,Away,51.2,3,2,SOW,1.4,1513,2026020393,23,36
+2026-11-25,REG,Detroit Red Wings,1467,Vancouver Canucks,1385,Home,65.6,5,1,W,3.9,1471,2026020394,12,20
+2026-11-25,REG,Vancouver Canucks,1385,Detroit Red Wings,1467,Away,34.4,1,5,L,-3.9,1381,2026020394,20,12
+2026-11-25,REG,Dallas Stars,1540,Nashville Predators,1497,Home,60.3,1,3,L,-4.5,1535,2026020395,15,34
+2026-11-25,REG,Nashville Predators,1497,Dallas Stars,1540,Away,39.7,3,1,W,4.5,1502,2026020395,34,15
+2026-11-25,REG,Minnesota Wild,1574,Utah Mammoth,1501,Home,64.5,3,4,L,-3.9,1570,2026020396,37,40
+2026-11-25,REG,Utah Mammoth,1501,Minnesota Wild,1574,Away,35.5,4,3,W,3.9,1505,2026020396,40,37
+2026-11-25,REG,Colorado Avalanche,1575,Montréal Canadiens,1533,Home,60.2,6,0,W,5.1,1580,2026020397,27,1
+2026-11-25,REG,Montréal Canadiens,1533,Colorado Avalanche,1575,Away,39.8,0,6,L,-5.1,1528,2026020397,1,27
+2026-11-25,REG,Seattle Kraken,1465,Chicago Blackhawks,1415,Home,61.4,1,3,L,-4.6,1461,2026020399,39,11
+2026-11-25,REG,Chicago Blackhawks,1415,Seattle Kraken,1465,Away,38.6,3,1,W,4.6,1419,2026020399,11,39
+2026-11-25,REG,Anaheim Ducks,1469,San Jose Sharks,1430,Home,59.8,7,0,W,5.4,1475,2026020398,32,29
+2026-11-25,REG,San Jose Sharks,1430,Anaheim Ducks,1469,Away,40.2,0,7,L,-5.4,1425,2026020398,29,32

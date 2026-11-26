@@ -384,3 +384,17 @@ game_id,Date,Game Type,Away,Home,Away Score,Home Score,Outcome,Neutral,Away ELO 
 2026020383,2026-11-23,REG,Anaheim Ducks,Seattle Kraken,2,3,REG,False,1472,1462,52.9,2.8,1469,1465,32,39
 2026020384,2026-11-23,REG,Minnesota Wild,San Jose Sharks,5,2,REG,False,1571,1434,35.1,-3.7,1574,1430,37,29
 2026020385,2026-11-24,REG,Vegas Golden Knights,Edmonton Oilers,5,3,REG,False,1534,1541,55.3,-4.1,1538,1536,38,25
+2026020386,2026-11-25,REG,Winnipeg Jets,Boston Bruins,4,2,REG,False,1493,1527,59.2,-4.4,1497,1523,35,6
+2026020387,2026-11-25,REG,New York Rangers,Buffalo Sabres,1,5,REG,False,1498,1522,57.7,4.8,1493,1526,10,19
+2026020388,2026-11-25,REG,Carolina Hurricanes,Tampa Bay Lightning,3,1,REG,False,1609,1557,46.8,-3.5,1613,1553,26,31
+2026020389,2026-11-25,REG,Ottawa Senators,Florida Panthers,3,5,REG,False,1539,1512,50.5,3.7,1535,1516,30,33
+2026020390,2026-11-25,REG,St. Louis Blues,New York Islanders,2,3,SO,False,1516,1490,50.5,1.5,1515,1491,18,22
+2026020391,2026-11-25,REG,Calgary Flames,Pittsburgh Penguins,6,3,REG,False,1453,1472,57.0,-6.0,1459,1466,21,17
+2026020392,2026-11-25,REG,Philadelphia Flyers,Washington Capitals,3,7,REG,False,1479,1502,57.5,4.8,1474,1506,16,24
+2026020393,2026-11-25,REG,New Jersey Devils,Columbus Blue Jackets,3,2,SO,False,1512,1474,48.8,-1.4,1513,1472,23,36
+2026020394,2026-11-25,REG,Vancouver Canucks,Detroit Red Wings,1,5,REG,False,1385,1467,65.6,3.9,1381,1471,20,12
+2026020395,2026-11-25,REG,Nashville Predators,Dallas Stars,3,1,REG,False,1497,1540,60.3,-4.5,1502,1535,34,15
+2026020396,2026-11-25,REG,Utah Mammoth,Minnesota Wild,4,3,REG,False,1501,1574,64.5,-3.9,1505,1570,40,37
+2026020397,2026-11-25,REG,Montréal Canadiens,Colorado Avalanche,0,6,REG,False,1533,1575,60.2,5.1,1528,1580,1,27
+2026020399,2026-11-25,REG,Chicago Blackhawks,Seattle Kraken,3,1,REG,False,1415,1465,61.4,-4.6,1419,1461,11,39
+2026020398,2026-11-25,REG,San Jose Sharks,Anaheim Ducks,0,7,REG,False,1430,1469,59.8,5.4,1425,1475,29,32
