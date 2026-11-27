@@ -797,3 +797,11 @@ Date,Game Type,Team,ELO,Opponent,Opp ELO,Side,Win %,GF,GA,Result,+/- ELO,ELO Pos
 2026-11-25,REG,Chicago Blackhawks,1415,Seattle Kraken,1465,Away,38.6,3,1,W,4.6,1419,2026020399,11,39
 2026-11-25,REG,Anaheim Ducks,1469,San Jose Sharks,1430,Home,59.8,7,0,W,5.4,1475,2026020398,32,29
 2026-11-25,REG,San Jose Sharks,1430,Anaheim Ducks,1469,Away,40.2,0,7,L,-5.4,1425,2026020398,29,32
+2026-11-27,REG,Boston Bruins,1523,Toronto Maple Leafs,1452,Home,64.1,1,3,L,-4.8,1518,2026020400,6,5
+2026-11-27,REG,Toronto Maple Leafs,1452,Boston Bruins,1523,Away,35.9,3,1,W,4.8,1457,2026020400,5,6
+2026-11-27,REG,New Jersey Devils,1513,Calgary Flames,1459,Home,61.9,5,3,W,2.9,1516,2026020401,23,21
+2026-11-27,REG,Calgary Flames,1459,New Jersey Devils,1513,Away,38.1,3,5,L,-2.9,1456,2026020401,21,23
+2026-11-27,REG,Nashville Predators,1502,Utah Mammoth,1505,Home,53.9,5,6,SOL,-1.7,1500,2026020402,34,40
+2026-11-27,REG,Utah Mammoth,1505,Nashville Predators,1502,Away,46.1,6,5,SOW,1.7,1506,2026020402,40,34
+2026-11-27,REG,St. Louis Blues,1515,Dallas Stars,1535,Home,51.3,5,3,W,3.6,1518,2026020403,18,15
+2026-11-27,REG,Dallas Stars,1535,St. Louis Blues,1515,Away,48.7,3,5,L,-3.6,1532,2026020403,15,18

@@ -398,3 +398,7 @@ game_id,Date,Game Type,Away,Home,Away Score,Home Score,Outcome,Neutral,Away ELO 
 2026020397,2026-11-25,REG,Montréal Canadiens,Colorado Avalanche,0,6,REG,False,1533,1575,60.2,5.1,1528,1580,1,27
 2026020399,2026-11-25,REG,Chicago Blackhawks,Seattle Kraken,3,1,REG,False,1415,1465,61.4,-4.6,1419,1461,11,39
 2026020398,2026-11-25,REG,San Jose Sharks,Anaheim Ducks,0,7,REG,False,1430,1469,59.8,5.4,1425,1475,29,32
+2026020400,2026-11-27,REG,Toronto Maple Leafs,Boston Bruins,3,1,REG,False,1452,1523,64.1,-4.8,1457,1518,5,6
+2026020401,2026-11-27,REG,Calgary Flames,New Jersey Devils,3,5,REG,False,1459,1513,61.9,2.9,1456,1516,21,23
+2026020402,2026-11-27,REG,Utah Mammoth,Nashville Predators,6,5,SO,False,1505,1502,53.9,-1.7,1506,1500,40,34
+2026020403,2026-11-27,REG,Dallas Stars,St. Louis Blues,3,5,REG,False,1535,1515,51.3,3.6,1532,1518,15,18
