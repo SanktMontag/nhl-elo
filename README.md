@@ -13,6 +13,7 @@ from the NHL's public API, so there are no exports to import and no team names t
 6. [The NHL API](#6-the-nhl-api)
 7. [Command reference](#7-command-reference)
 8. [Project layout](#8-project-layout)
+9. [Expected goals (xG)](#9-expected-goals-xg)
 
 ---
 
@@ -213,6 +214,60 @@ output/<method>/
   run_meta.json           settings, counts and overall score of the last run
 src/nhl_elo/              api.py, fetch.py, engine.py, backtest.py, simulate.py, checkpoints.py,
                           methods/, cli.py
+src/nhl_elo/xg/           pbp.py, shots.py, players.py, rink.py, model.py, build.py, evaluate.py
+data/players.csv          shooter handedness and position (for the off-wing feature)
+output/xg/                game_xg.csv (team xG per game), shot_scores.csv, rink_bias.csv, predictive_*.csv
 app/                      Streamlit site (streamlit_app.py + pages/)
 tests/                    pytest suite
 ```
+
+## 9. Expected goals (xG)
+
+A talent-free shot model: the chance that an average shooter scores against an average goalie from a
+given situation. Shooter and goalie talent go in a separate layer later (that's the player-rating input).
+
+```powershell
+.venv\Scripts\pip install -e .[xg]   # lightgbm, scikit-learn, pyarrow
+nhl xg fetch      # play-by-play for every final game since 2009-10 (first run ~1 hour, then only new games)
+nhl xg build      # shots -> rink adjustment -> rolling models -> output/xg/ (~10 minutes)
+nhl xg evaluate   # how well xG predicts future goals, vs goals, shots and shot attempts
+```
+
+Not part of the nightly Action yet: the play-by-play cache (~270 MB) isn't committed.
+
+**Data.** `gamecenter/{id}/play-by-play`, 22,313 games. Shot coordinates start in 2009-10. Unblocked
+attempts only (blocked shots are recorded where the block happened). Shootouts and penalty shots are left out.
+
+**Model.**
+- One LightGBM model per strength state: EV (5v5, 4v4), PP (incl. extra attacker and 3-on-3 OT), SH, EN.
+- Rolling: each season is predicted by a model trained on the 5 seasons before it, so every value is out of
+  sample. 2009-10 has no earlier data and uses the 5 seasons after it.
+- Features: distance and angle (rink-adjusted), x/|y|, shot type, off-wing, previous event (type, team,
+  seconds, distance, zone), rebound + angle change, rush, off a turnover, score state, period, skaters.
+- **Rink bias**: each rink's road-team shot distances are quantile-matched to road-team shots everywhere else
+  (Schuckers & Curro). MSG records shots ~2.4 ft too close, Minnesota ~2.5 ft too far. The spread has shrunk
+  from ~1.9 ft to ~0.7 ft since tracking arrived in 2023-24 (`rink_bias.csv`).
+- **Flurry adjustment**: shot n in a quick sequence is worth xG × Π(1 − earlier xG), so a flurry is worth at
+  most one goal. Team ratings should use `fxgf`/`fxga`.
+
+**Recording changes the model has to live with.** Rebound-like follow-ups doubled from 2019-20 on and score
+about half as often as they used to; "snap" took over from "wrist" in 2024-25; bat/poke/between-legs appear
+in 2022-23; a missing shot type appears almost only on goals in recent seasons (a leak if used). Fixes: merged
+shot-type groups, recent seasons weighted 0.7^age, and the season as a feature so a new season is treated like
+the latest one. That cut the rebound over-prediction from 1.25-1.5× to 1.0-1.3× and season totals are within
+±4% except 2019-20 (+10%, the first season after the change). An in-season recalibration was tried and
+didn't help (log-loss 0.20872 vs 0.20879), so it isn't used.
+
+**Accuracy** (2010-11 to now, 1.79M shots): log-loss 0.2089, AUC 0.787, total xG 1.01× goals.
+Logistic baseline (distance, angle, type, rebound, rush, state): 0.2173, AUC 0.761.
+
+**Does it tell us more than goals?** Each team's share in the first half of a season vs its goal share in the
+second half (524 team-seasons):
+
+| | GF% | SF% | CF% | FF% | xGF% | flurry xGF% |
+|---|---|---|---|---|---|---|
+| All situations | 0.523 | 0.484 | 0.472 | 0.490 | 0.543 | **0.546** |
+| 5v5 | 0.414 | 0.416 | 0.412 | 0.417 | 0.450 | **0.454** |
+
+Leaving score state out made no difference per shot but was worse here (0.534), so it stays in.
+

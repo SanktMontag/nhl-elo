@@ -161,6 +161,26 @@ def cmd_backtest(a) -> int:
     return 0
 
 
+def cmd_xg(a) -> int:
+    from .xg import build as B
+    from .xg.evaluate import predictive_table
+    from .xg.pbp import fetch_pbp
+
+    if a.action in ("fetch", "all"):
+        res = fetch_pbp(workers=a.workers, progress=lambda i, n: print(f"  {i}/{n}", flush=True))
+        print(f"play-by-play: {res['downloaded']} downloaded, {len(res['failed'])} failed of {res['todo']} new games")
+    if a.action in ("build", "all"):
+        B.build(workers=a.workers)
+    if a.action in ("evaluate", "build", "all"):
+        totals = pd.read_csv(B.XG_OUT / "game_xg.csv")
+        for split in ("halves", "oddeven"):
+            t = predictive_table(totals, split)
+            t.to_csv(B.XG_OUT / f"predictive_{split}.csv", index=False)
+            print(f"\nPredicting goal share in the other half ({split}):")
+            _print(t)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="nhl", description="NHL ELO ratings")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -208,6 +228,11 @@ def build_parser() -> argparse.ArgumentParser:
     b.add_argument("--seasons", action="store_true", help="also print scores by season")
     b.add_argument("--top", type=int, default=15)
     b.set_defaults(func=cmd_backtest)
+
+    x = sub.add_parser("xg", help="expected goals: download play-by-play, build shot models, evaluate")
+    x.add_argument("action", choices=["fetch", "build", "evaluate", "all"])
+    x.add_argument("--workers", type=int, default=3)
+    x.set_defaults(func=cmd_xg)
     return p
 
 
